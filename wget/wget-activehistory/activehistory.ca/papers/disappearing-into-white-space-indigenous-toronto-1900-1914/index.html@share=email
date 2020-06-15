@@ -1,0 +1,706 @@
+<!DOCTYPE html>
+<!--[if IE 7]>
+<html class="ie ie7" lang="en-CA">
+<![endif]-->
+<!--[if IE 8]>
+<html class="ie ie8" lang="en-CA">
+<![endif]-->
+<!--[if !(IE 7) & !(IE 8)]><!-->
+<html lang="en-CA">
+<!--<![endif]-->
+<head>
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width" />
+<link rel="profile" href="http://gmpg.org/xfn/11" />
+<link rel="pingback" href="http://activehistory.ca/xmlrpc.php" />
+<!--[if lt IE 9]>
+<script src="http://activehistory.ca/wp-content/themes/rubbersoul-pro/js/html5.js" type="text/javascript"></script>
+<![endif]-->
+<title>Disappearing into White Space: Indigenous Toronto, 1900-1914 &#8211; Active History</title>
+<link rel='dns-prefetch' href='//secure.gravatar.com' />
+<link rel='dns-prefetch' href='//platform-api.sharethis.com' />
+<link rel='dns-prefetch' href='//fonts.googleapis.com' />
+<link rel='dns-prefetch' href='//s.w.org' />
+		<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/12.0.0-1\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/12.0.0-1\/svg\/","svgExt":".svg","source":{"concatemoji":"http:\/\/activehistory.ca\/wp-includes\/js\/wp-emoji-release.min.js?ver=5.4.2"}};
+			/*! This file is auto-generated */
+			!function(e,a,t){var r,n,o,i,p=a.createElement("canvas"),s=p.getContext&&p.getContext("2d");function c(e,t){var a=String.fromCharCode;s.clearRect(0,0,p.width,p.height),s.fillText(a.apply(this,e),0,0);var r=p.toDataURL();return s.clearRect(0,0,p.width,p.height),s.fillText(a.apply(this,t),0,0),r===p.toDataURL()}function l(e){if(!s||!s.fillText)return!1;switch(s.textBaseline="top",s.font="600 32px Arial",e){case"flag":return!c([127987,65039,8205,9895,65039],[127987,65039,8203,9895,65039])&&(!c([55356,56826,55356,56819],[55356,56826,8203,55356,56819])&&!c([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]));case"emoji":return!c([55357,56424,55356,57342,8205,55358,56605,8205,55357,56424,55356,57340],[55357,56424,55356,57342,8203,55358,56605,8203,55357,56424,55356,57340])}return!1}function d(e){var t=a.createElement("script");t.src=e,t.defer=t.type="text/javascript",a.getElementsByTagName("head")[0].appendChild(t)}for(i=Array("flag","emoji"),t.supports={everything:!0,everythingExceptFlag:!0},o=0;o<i.length;o++)t.supports[i[o]]=l(i[o]),t.supports.everything=t.supports.everything&&t.supports[i[o]],"flag"!==i[o]&&(t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&t.supports[i[o]]);t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&!t.supports.flag,t.DOMReady=!1,t.readyCallback=function(){t.DOMReady=!0},t.supports.everything||(n=function(){t.readyCallback()},a.addEventListener?(a.addEventListener("DOMContentLoaded",n,!1),e.addEventListener("load",n,!1)):(e.attachEvent("onload",n),a.attachEvent("onreadystatechange",function(){"complete"===a.readyState&&t.readyCallback()})),(r=t.source||{}).concatemoji?d(r.concatemoji):r.wpemoji&&r.twemoji&&(d(r.twemoji),d(r.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+		<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+	<link rel='stylesheet' id='wp-block-library-css'  href='http://activehistory.ca/wp-includes/css/dist/block-library/style.min.css?ver=5.4.2' type='text/css' media='all' />
+<style id='wp-block-library-inline-css' type='text/css'>
+.has-text-align-justify{text-align:justify;}
+</style>
+<link rel='stylesheet' id='dashicons-css'  href='http://activehistory.ca/wp-includes/css/dashicons.min.css?ver=5.4.2' type='text/css' media='all' />
+<link rel='stylesheet' id='rubbersoul-pro-fonts-css'  href='https://fonts.googleapis.com/css?family=Noto+Sans:400italic,700italic,400,700&#038;subset=latin,latin-ext' type='text/css' media='all' />
+<link rel='stylesheet' id='rubbersoul-pro-style-css'  href='http://activehistory.ca/wp-content/themes/rubbersoul-pro/style.css?ver=2.6.4' type='text/css' media='all' />
+<link rel='stylesheet' id='custom-style-css'  href='http://activehistory.ca/wp-content/themes/rubbersoul-pro/custom-style.css?ver=5.4.2' type='text/css' media='all' />
+<link rel='stylesheet' id='rsoul-pro-widgets-style-css'  href='http://activehistory.ca/wp-content/themes/rubbersoul-pro/css/rsoul-widgets-style.css?ver=2.6.4' type='text/css' media='all' />
+<link rel='stylesheet' id='font-awesome-css'  href='http://activehistory.ca/wp-content/themes/rubbersoul-pro/css/font-awesome-4.7.0/css/font-awesome.min.css?ver=5.4.2' type='text/css' media='all' />
+<link rel='stylesheet' id='rsoul-pro-slider-recent-posts-style-css'  href='http://activehistory.ca/wp-content/themes/rubbersoul-pro/css/slider-recent-posts-fp.css?ver=2.6.4' type='text/css' media='all' />
+<!--[if lt IE 9]>
+<link rel='stylesheet' id='rubbersoul-pro-ie-css'  href='http://activehistory.ca/wp-content/themes/rubbersoul-pro/css/ie.css?ver=20121010' type='text/css' media='all' />
+<![endif]-->
+<link rel='stylesheet' id='social-logos-css'  href='http://activehistory.ca/wp-content/plugins/jetpack/_inc/social-logos/social-logos.min.css?ver=8.6.1' type='text/css' media='all' />
+<link rel='stylesheet' id='jetpack_css-css'  href='http://activehistory.ca/wp-content/plugins/jetpack/css/jetpack.css?ver=8.6.1' type='text/css' media='all' />
+<script type='text/javascript' src='http://activehistory.ca/wp-includes/js/jquery/jquery.js?ver=1.12.4-wp'></script>
+<script type='text/javascript' src='http://activehistory.ca/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.4.1'></script>
+<script type='text/javascript' src='//platform-api.sharethis.com/js/sharethis.js#product=ga'></script>
+<link rel='https://api.w.org/' href='http://activehistory.ca/wp-json/' />
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://activehistory.ca/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://activehistory.ca/wp-includes/wlwmanifest.xml" /> 
+<meta name="generator" content="WordPress 5.4.2" />
+<link rel="canonical" href="http://activehistory.ca/papers/disappearing-into-white-space-indigenous-toronto-1900-1914/" />
+<link rel='shortlink' href='https://wp.me/P2QQbJ-4kz' />
+<link rel="alternate" type="application/json+oembed" href="http://activehistory.ca/wp-json/oembed/1.0/embed?url=http%3A%2F%2Factivehistory.ca%2Fpapers%2Fdisappearing-into-white-space-indigenous-toronto-1900-1914%2F" />
+<link rel="alternate" type="text/xml+oembed" href="http://activehistory.ca/wp-json/oembed/1.0/embed?url=http%3A%2F%2Factivehistory.ca%2Fpapers%2Fdisappearing-into-white-space-indigenous-toronto-1900-1914%2F&#038;format=xml" />
+<script type="text/javascript"><!--
+function powerpress_pinw(pinw_url){window.open(pinw_url, 'PowerPressPlayer','toolbar=0,status=0,resizable=1,width=460,height=320');	return false;}
+//-->
+</script>
+
+<link rel='dns-prefetch' href='//jetpack.wordpress.com'/>
+<link rel='dns-prefetch' href='//s0.wp.com'/>
+<link rel='dns-prefetch' href='//s1.wp.com'/>
+<link rel='dns-prefetch' href='//s2.wp.com'/>
+<link rel='dns-prefetch' href='//public-api.wordpress.com'/>
+<link rel='dns-prefetch' href='//0.gravatar.com'/>
+<link rel='dns-prefetch' href='//1.gravatar.com'/>
+<link rel='dns-prefetch' href='//2.gravatar.com'/>
+<link rel='dns-prefetch' href='//widgets.wp.com'/>
+<link rel='dns-prefetch' href='//v0.wordpress.com'/>
+	<style type='text/css'>
+		a {color: #0f7b3f;}
+	a:hover {color: #0f7b3f;}
+	.social-icon-wrapper a:hover {color: #0f7b3f;}
+	.prefix-widget-title {color: #0f7b3f;}
+	.term-icon {color: #0f7b3f;}
+	.sub-title a:hover {color:#0f7b3f;}
+	.entry-content a:visited,.comment-content a:visited {color:#0f7b3f;}
+	input[type="submit"] {background-color:#0f7b3f !important;}
+	input[type="reset"] {background-color:#0f7b3f !important;}
+	.bypostauthor cite span {background-color:#0f7b3f;}
+	.wrapper-cabecera {background-color:#0f7b3f;}
+	.wrapper-search-top-bar {background-color:#0f7b3f;}
+	.main-navigation {background-color:#0f7b3f;}
+	.entry-header .entry-title a:hover {color:#0f7b3f ;}
+	.archive-header {border-left-color:#0f7b3f;}
+	.main-navigation a:hover,
+	.main-navigation a:focus {
+		color: #0f7b3f;
+	}
+	.widget-area .widget a:hover {
+		color: #0f7b3f !important;
+	}
+	footer[role="contentinfo"] a:hover {
+		color: #0f7b3f;
+	}
+	.entry-meta a:hover {
+	color: #0f7b3f;
+	}
+	.format-status .entry-header header a:hover {
+		color: #0f7b3f;
+	}
+	.comments-area article header a:hover {
+		color: #0f7b3f;
+	}
+	a.comment-reply-link:hover,
+	a.comment-edit-link:hover {
+		color: #0f7b3f;
+	}
+	.template-front-page .widget-area .widget li a:hover {
+		color: #0f7b3f;
+	}
+	
+	.currenttext, .paginacion a:hover {background-color:#0f7b3f;}
+	.aside{border-left-color:#0f7b3f !important;}
+	blockquote{border-left-color:#0f7b3f;}
+	ul.tabs li.t-activa a {border-top-color: #0f7b3f;} 
+	.slider-current-btn a {background-color:#0f7b3f !important;}
+	h2.comments-title {border-left-color:#0f7b3f;}
+	
+		
+		
+			.titulo-descripcion {
+	 		text-transform:none;
+		}
+		
+		
+		
+			.wrapper-cabecera {height:70px; height:5rem;}
+		
+		
+			.header-logo {background-color:transparent;}
+		
+		
+		
+			
+		body.custom-font-enabled {font-family: "Noto Sans", Arial, Verdana;}
+	
+			@media screen and (min-width: 600px) {
+			#primary {float:left;}
+			#secondary {float:right;}
+			.site-content {
+				border-left: none;
+				padding-left:0;
+				padding-right: 24px;
+				padding-right:1.714285714285714rem;
+			}
+		}
+		
+		
+	@media screen and (max-width: 599px) {
+		.menu-toggle, .menu-toggle:hover {
+			background:#0f7b3f !important;
+			color:#ffffff !important;
+			width:100%;
+		}
+	}
+	
+	/* bbPress */
+		</style>
+	
+	<!-- Google Analytics -->
+    
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-8653817-1', 'auto');
+  ga('send', 'pageview');
+
+</script>
+    <!-- Google Analytics -->
+    <style type="text/css" id="custom-background-css">
+body.custom-background { background-color: #f4f4f4; }
+</style>
+	
+<!-- Jetpack Open Graph Tags -->
+<meta property="og:type" content="article" />
+<meta property="og:title" content="Disappearing into White Space: Indigenous Toronto, 1900-1914" />
+<meta property="og:url" content="http://activehistory.ca/papers/disappearing-into-white-space-indigenous-toronto-1900-1914/" />
+<meta property="og:description" content="By Jasmine Chorley Methods The Lives of Indigenous Torontonians Conclusion Endnotes There is an empty space in the written history of Canada. In monographs, textbooks, and articles alike, narrative…" />
+<meta property="article:published_time" content="2015-08-11T10:00:22+00:00" />
+<meta property="article:modified_time" content="2015-08-12T17:30:25+00:00" />
+<meta property="og:site_name" content="Active History" />
+<meta property="og:image" content="http://activehistory.ca/wp-content/uploads/2015/07/Chorley-1.jpg" />
+<meta property="og:image:width" content="628" />
+<meta property="og:image:height" content="232" />
+<meta name="twitter:site" content="@ActiveHist" />
+<meta name="twitter:text:title" content="Disappearing into White Space: Indigenous Toronto, 1900-1914" />
+<meta name="twitter:image" content="http://activehistory.ca/wp-content/uploads/2015/07/Chorley-2.jpg?w=640" />
+<meta name="twitter:card" content="summary_large_image" />
+
+<!-- End Jetpack Open Graph Tags -->
+<link rel="icon" href="http://activehistory.ca/wp-content/uploads/2019/02/cropped-ActiveHist2019_icon_whiteBCKG-6-32x32.jpg" sizes="32x32" />
+<link rel="icon" href="http://activehistory.ca/wp-content/uploads/2019/02/cropped-ActiveHist2019_icon_whiteBCKG-6-192x192.jpg" sizes="192x192" />
+<link rel="apple-touch-icon" href="http://activehistory.ca/wp-content/uploads/2019/02/cropped-ActiveHist2019_icon_whiteBCKG-6-180x180.jpg" />
+<meta name="msapplication-TileImage" content="http://activehistory.ca/wp-content/uploads/2019/02/cropped-ActiveHist2019_icon_whiteBCKG-6-270x270.jpg" />
+</head>
+
+<body class="page-template-default page page-id-16651 page-child parent-pageid-23 custom-background custom-font-enabled">
+	
+		
+	<header id="masthead" class="site-header" role="banner">
+	<div class="wrapper-cabecera">
+	
+		<div class="blogname-y-menu">
+			<div class="boton-menu-movil"><i class="fa fa-align-justify fa-2x"></i></div>
+			
+							<div class="header-logo">
+					<a href="http://activehistory.ca/"><img src="http://activehistory.ca/wp-content/uploads/2019/04/cropped-ActiveHist2019_icon_whiteBCKG-1.jpg" class="header-image" width="400" height="400" alt="Active History" /></a>
+				</div>
+						
+						<div class="titulo-descripcion">
+			
+									<p class="site-title"><a href="http://activehistory.ca/" title="Active History" rel="home">Active History</a></p>
+								
+				<p class="site-description">History Matters</p>
+				
+			</div>
+						
+			<div class="toggle-search"><i class="fa fa-search"></i></div>
+			
+			<div class="wrapper-site-navigation">
+				<nav id="site-navigation" class="main-navigation" role="navigation">
+					
+					<div class="menu-the-main-container"><ul id="menu-the-main" class="nav-menu"><li id="menu-item-7899" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-home menu-item-7899"><a href="http://activehistory.ca/">Home</a></li>
+<li id="menu-item-7902" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-7902"><a href="http://activehistory.ca/about/">About</a></li>
+<li id="menu-item-7900" class="menu-item menu-item-type-post_type menu-item-object-page current-page-ancestor menu-item-7900"><a href="http://activehistory.ca/papers/">Features</a></li>
+<li id="menu-item-25840" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-25840"><a href="http://activehistory.ca/publications/">Publications</a></li>
+<li id="menu-item-7915" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-7915"><a href="http://activehistory.ca/podcasts/">Podcasts</a></li>
+<li id="menu-item-20816" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-20816"><a href="http://activehistory.ca/donate/">Support Us</a></li>
+</ul></div>				</nav><!-- #site-navigation -->
+                
+				<div class="wrapper-search-top-bar">
+                	<div class="search-top-bar">
+							<div>
+		<form method="get" id="searchform-toggle" action="http://activehistory.ca/">
+			<label for="s" class="assistive-text">Search</label>
+			<input type="search" class="txt-search" placeholder="Search..." name="s" id="s" />
+			<input type="submit" name="submit" id="btn-search" value="Search" />
+		</form>
+    </div>                    </div>
+                </div>
+                
+			</div><!-- .wrapper-site-navigation -->
+			
+		</div><!-- .blogname-y-menu -->
+        
+	<div style="position:relative; clear:both;">
+		
+<div id="menu-movil">
+	<div class="search-form-movil">
+		<form method="get" id="searchform-movil" action="http://activehistory.ca/">
+			<label for="s" class="assistive-text">Search</label>
+			<input type="search" class="txt-search-movil" placeholder="Search..." name="s" id="s" />
+			<input type="submit" name="submit" id="btn-search-movil" value="Search" />
+		</form>
+    </div><!-- search-form-movil -->
+	<div class="menu-movil-enlaces">
+		<div class="menu-the-main-container"><ul id="menu-the-main-1" class="nav-menu"><li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-home menu-item-7899"><a href="http://activehistory.ca/">Home</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-7902"><a href="http://activehistory.ca/about/">About</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page current-page-ancestor menu-item-7900"><a href="http://activehistory.ca/papers/">Features</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-25840"><a href="http://activehistory.ca/publications/">Publications</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-7915"><a href="http://activehistory.ca/podcasts/">Podcasts</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-20816"><a href="http://activehistory.ca/donate/">Support Us</a></li>
+</ul></div>	</div>
+	
+	<div class="social-icon-wrapper-movil">
+							<a href="https://twitter.com/activehist" title="Twitter" target="_blank"><i class="fa fa-twitter"></i></a> 
+						
+							<a href="https://www.facebook.com/ActiveHist/" title="Facebook" target="_blank"><i class="fa fa-facebook"></i></a>
+						
+						
+						
+					 		<a href="https://www.youtube.com/user/activehistoryca" title="YouTube" target="_blank"><i class="fa fa-youtube"></i></a>
+						
+						
+						
+							<a class="rss" href="http://feeds.feedburner.com/activehistoryca" title="RSS" target="_blank"><i class="fa fa-rss"></i></a>			
+					</div><!-- .social-icon-wrapper -->	
+</div><!-- #menu-movil -->    </div>
+    
+	</div><!-- wrapper-cabecera -->
+	
+	<div class="wrapper-area-widget-superior area-widget-padding-top">
+		</div>
+	
+	</header><!-- #masthead -->
+	
+<div id="page" class="hfeed site">
+	
+	<div id="main" class="wrapper">
+	<div id="primary" class="site-content">
+		<div id="content" role="main">
+
+							
+	<article id="post-16651" class="post-16651 page type-page status-publish hentry">
+
+		<header class="entry-header">
+													<h1 class="entry-title">Disappearing into White Space: Indigenous Toronto, 1900-1914</h1>
+					</header>
+
+		<div class="entry-content">
+			<p><em>By Jasmine Chorley</em></p>
+<p><a href="#20"><strong>Methods</strong></a><br />
+<a href="#21"><strong>The Lives of Indigenous Torontonians</strong></a><br />
+<a href="#22"><strong>Conclusion</strong></a><br />
+<a href="#23"><strong>Endnotes</strong></a></p>
+<p>There is an empty space in the written history of Canada. In monographs, textbooks, and articles alike, narratives of Indigenous peoples fade out following the Indian Act (1876) and the Numbered Treaties (1871-1921). Coll Thrush expressed this as a phenomenon where Indigenous peoples “exit stage left after treaty or battle.” [1] With the exception of residential schools and the decades of the World Wars, Indigenous peoples do not re-enter the Canadian historical narrative until the 1960s civil rights era.</p>
+<p>This empty space is especially stark in histories of urban spaces, despite their rich Indigenous histories. With a few recent exceptions, greater historical memories of urban spaces across Canada remain largely confined by colonial ideologies.</p>
+<p>European settlers in the growing towns of 18th and 19th century British North America believed their use of space to be superior. They thought that European-style cities would inevitably replace Indigenous land use. The “conceptual and physical removal of Indigenous people from urban spaces that accompanied colonial urbanization,” Peters and Andersen argue, “reinforced perceptions about the incompatibility of urban and Indigenous identities.” [2] This is reflected in Canadian historiography by the outright omission of Indigenous lives from histories of cities, assuming that ‘real Indians’ and urban life are irreconcilable.</p>
+<p>This paper challenges this colonial silence by probing the history of Indigenous life in Toronto between 1900 and 1914. Though seemingly absent from the city, as a large industrial centre surrounded by several reserves, it would be surprising if individuals did not migrate to Toronto in search of work. The Gradual Enfranchisement Act (1869), for example, began a process of removing Indian status from Indigenous women who married non-Native men &#8211; effectively ejecting women and families from reserve communities. It is likely that some of these non-status families would have settled in the city.</p>
+<p>Furthermore, a century after the study period, Toronto has one of the largest Indigenous populations in the country. The 2006 Census identified 31,910 Aboriginal residents of the GTA. Importantly, though, <a href="http://www.councilfire.ca/Acrobat/tarp-final-report2011.pdf" target="_blank">Aboriginal service providers contest this figure.</a> They estimate that as many as 70,000 Aboriginal individuals live in Toronto, taking into account homeless individuals and others not identified by the Census. Compared to their settler neighbours, <a href="http://www.uaps.ca/wp-content/uploads/2010/02/UAPS-Toronto-report.pdf" target="_blank">Indigenous individuals are much more likely to face unemployment and poverty</a>, <a href="http://www.statcan.gc.ca/pub/85-002-x/2009003/article/10903-eng.htm" target="_blank">incarceration</a>, <a href="http://www.nccah-ccnsa.ca/docs/fact%20sheets/child%20and%20youth/NCCAH_fs_childhealth_EN.pdf" target="_blank">involvement with child welfare services</a>,and <a href="http://www.onwa.ca/upload/documents/missing-and-murdered-fact-sheet.pdf" target="_blank">gender-based violence</a>. By tracing the earlier history of Indigenous Torontonians, this paper demonstrates the class- and gender-based challenges that have persisted over the past century of urban colonization.</p>
+<p>Despite an economic pull to the city, and a potential legal push from reserves, Toronto was not a welcoming space for Indigenous individuals and families. According to<a href="https://tspace.library.utoronto.ca/bitstream/1807/26356/1/Freeman_Victoria_J_201011_PhD_thesis.pdf" target="_blank"> Victoria Freeman</a>, the area had not been an Indigenous space in demographics or in popular imagination since the late 18th century. By 1901, the <a href="http://www1.toronto.ca/wps/portal/contentonly?vgnextoid=cab42118b7412410VgnVCM10000071d60f89RCRD" target="_blank">population of Toronto was 208,000</a> and most of its residents were European settlers. The erasure of Toronto’s Indigenous history and on-going relations (with the Mississauga of New Credit most notably) is largely attributable to colonial insecurity; the city sought approval from the metropole of the Empire (London), and thus needed self-consciously to distance itself from a not-so-distant Indigenous reality. [3]</p>
+<p>In the study period, Indigenous people would have seldom interacted with settler Torontonians outside of highly colonial environments, such as industrial exhibitions, museums, school textbooks, and other such mediums that displayed Indigenous cultures inanimately through artefacts. Writing about industrial exhibitions, Keith Walden argues that most objects would have been of ancient rather than contemporary origin and considered relics of a dying civilization. [4] Native women, <a href="https://www.academia.edu/4468018/_The_pains_bestowed_and_the_labour_required_to_make_baskets_I_thought_it_cruel_ever_to_dispute_the_price_._American_Society_for_Ethnohistory_Springfield_MO_Nov._7-12_2012" target="_blank">Melissa Otis’s work</a> shows, often attended exhibitions as vendors, and while they engaged in commerce with settler customers, customers often saw the products as souvenirs of a doomed people.</p>
+<p>In addition to popular settler ideas about Indigeneity that faced the city as a whole, there were several factors that directly inhibited urban life for Indigenous individuals. The Indian Act segregated status Indians from permanently living off-reserve and stripped Indians of status for a variety of reasons that would enfranchise and force them to live off-reserve. Forced enfranchisement and community expulsion could therefore be traumatic experiences, and voluntary enfranchisement was quite unpopular; only 102 persons elected to enfranchise in Canada between 1857 and 1918. [5] Much more significant were the women who lost Indian status through marriages, either to non-status or non-Indigenous men after 1869. [6] As Bonita Lawrence explains, “Loss of status is a central reason why significant numbers of Native people are permanently urban.” [7] Leaving one’s community and family, whether by force or by choice, would have been a major deterrent to urban life in the studied period.</p>
+<p>Those who migrated to Toronto in the early 20th century were likely to face discrimination and bigotry. In an online search for the terms “Indian” and “Toronto” on the Globe and Mail database, eight successive articles published between 1900 to 1910 appeared with violent headlines: “The Indian Shooting,” “American and Indian Famine,” “An Indian Shot,” “Brave Indian Drowned,” “Indian Killed by Train,” “An Indian Horse-Thief,” “Indian School Destroyed,” “Missing Indian in New York State.” Stories of Indigenous people involving violence, poverty, crime, and tragedy were the kinds of stories consumed by literate Toronto during this period.</p>
+<p>Other stories appearing in newspapers during this period concerned two contemporary Indigenous public figures: Tom Longboat and Oronhyatekha. While successful in their fields, these men were not left unscathed by the general racism of their time. In a report on the 1907 death of Oronhyatekha, a Mohawk physician and celebrated Torontonian at the time, his wife was described as “a full- blooded squaw.” [8] A 1908 article about Olympian long distance-runner Tom Longboat was explicitly racist in a social Darwinist way. The title was “Longboat, the Indian, an Athletic Accident, and Cannot Last Long,” and the author described how Longboat’s athletic achievements must have been flukes since he was “as inferior in physical qualities as in mental.”[9]</p>
+<p>By choice or by force, some, perhaps many, Indigenous people came to Toronto. But, they left very few traces of themselves for historians. For several reasons, this was a highly mobile population. Many people may have migrated to the city for unskilled work, and peak times in many trades were contingent upon the seasons. Furthermore, too much time spent away from the reserve could warrant forcible enfranchisement. [10] Migrant workers may have come to the city for a few weeks or months, and then returned to their communities, so if they were not in town when a Census or a Tax Assessment was compiled, their names are likely absent from written records.</p>
+<p>Enfranchisement meant that those who appeared in records such as the Census may not be identifiable. If an individual was of partly European descent, they may not have been identified as ‘Indian.’ Historians studying race and identity among “mixed” people have observed a generational “devaluation of Indianness,”[11] whereby traumatic experiences in the residential school system or discrimination from the wider community prompts individuals to forget or diminish their own Indigenous heritage and identity, and to communicate these strategies to their children. It is quite possible that Torontonians in the early 20th century shared similar experiences, and would therefore try to “pass” as white when possible, but there has been no research done to support this specific claim. Despite some measure of ability to self-identify, Census-takers ultimately determined whether someone would be recorded as an Indian. They would do so either by the Indian Act’s legal definition determined by status, or the Census bureau’s biological definition. [12]</p>
+<p><a id="20"></a><strong>Methods</strong></p>
+<p>As discussed above, many aboriginal Torontonians in the study period were likely invisible in their wider urban communities. Unlike immigrant ethnic groups that called Toronto home, there is no evidence to suggest the proliferation of a pan-Native neighbourhood, ethnic food shops, or other community gathering places that typically offer helpful clues to historians of racialized minorities. Friendship centres would not become widespread until the after World War Two. Furthermore, enfranchisement laws and pressure from a racist, colonial environment add another layer of fog to the picture of Indigenous lives in Toronto during this period.</p>
+<p>The <a href="http://www.bac-lac.gc.ca/eng/census/1901/Pages/1901.aspx] and 1911 [http://www.bac-lac.gc.ca/eng/census/1911/Pages/1911.aspx" target="_blank">Censuses of 1901</a> and <a href="http://www.bac-lac.gc.ca/eng/census/1911/Pages/1911.aspx" target="_blank">1911</a> have been the primary research tools in this project. Now digitized, online and searchable at the Library and Archives Canada website, it allows for a comprehensive collection of any and all individuals recorded as ‘Indian’ in the census. Individuals recorded in the census prove the existence of a small Indigenous population in the City of Toronto in the census years 1901 and 1911. The records reveal details about the lives of ordinary people who have so far gone unnoticed by historians because they were few in number and of no apparent national historical significance.</p>
+<p>Following <a href="http://www.jstor.org/stable/2674921?seq=1#page_scan_tab_contents" target="_blank">Jill Lepore</a>, microbiographical information from routinely generated records offer insight into broader socio-political issues, despite the sample being too small to conduct statistical analysis. The census illuminates and exemplifies state legal interference in Indigenous lives, and how it interpreted those lives through collected data. The census is at once product and producer in this process of invisibility.</p>
+<p>The 1901 census exemplifies colonial obsession with taxonomy and race; it experimented with a skin colour column. Individuals would be assigned a “B,” “R,” “W,” or “Y,” standing for Black, Red, White, or Yellow. In cases where 1901 census-takers could not make immediate colour distinctions, they were instructed as follows: “Only pure whites will be classed as white; the children begotten of marriages between whites and any one of the other races will be classed as red, black, or yellow, as the case may be, irrespective of the degree of colour.” [13] Therefore, a “mixed” person without status could still be categorized as “Red.” The exogamous marriages apparent in this study will illustrate the Census Bureau’s policy.</p>
+<p>Unlike the 1901 census, 1911 had only an “Ethnic or Tribal Origin” column from which ethnicity can be determined. While the 1901 “Colour” column and surrounding methods reek of white supremacy, it is helpful to the researcher looking for Indigenous individuals. Performing an online search of “Indian” in the 1901 and 1911 census requires scrutiny of each summoned Census page’s hand-written “Ethnic or Tribal Origin” entry. It seems that during digitization, the transcribers occasionally mistook the hand-written words “Irish” or “West Indian” entries for “Indian.” Therefore, an online search yields many false positive matches, and so each return requires inspection. In some results, the entry in the “Ethnic or Tribal origin” column is too illegible to discern and therefore cannot be included in the sample. However, since the 1901 census had a “Colour” column, an “R” can corroborate illegible entries of the word “Indian,” because only Indigenous individuals were referred to as “Red.”</p>
+<p><a id="#21"></a><strong>The Lives of Indigenous Torontonians</strong></p>
+<p>In the 1901 census, there were fifteen Indigenous individuals living in Toronto. In the 1911 census, only five are discernable. This miniscule dataset of 20 people illustrates the barriers to urban life in Toronto for Indigenous peoples. Only 15 of 208,000 Torontonians identified on the 1901 Census were Indigenous. In contrast, the city of Brantford, adjacent to the Six Nations of the Grand River, recorded 12 Indigenous individuals in the 1901 census, making up a larger percentage of Brantford’s population (16,619).</p>
+<p>Despite their small numbers, the differences between the two census years are worth noting. Figure 1 demonstrates that most of the 1911 individuals lived without family. They all lived with settler-Canadians and most were tenants. One man lived with his British wife. Indigenous individuals in the 1901 Census however, either lived with family members or were institutionalized; only one man lived as a boarder.</p>
+<p>The families that appear in the 1901 census are doubly notable because they are all products of at least one exogamous marriage. The Carsons, the Allans, and the Dorseys had a settler household head married to an Indigenous woman. Subject to the Indian Act’s patrilineal status system, these women would have lost status, if they had had it to begin with, and would have been unable to live on reserve lands. These women may have settled in Toronto because of this loss of status, but they also may have been already living in the city. Two women in the 1911 census for example, were both single and working in the city. A.M. Garret was an 18 year-old originally from the United States, who worked as a secretary, while Matilda Warkey, a 23 year old Ojibway woman worked as a domestic servant. It is possible that Marguerite Carson, Sarah Allan, and Mary Dorsey too lived as single women in Toronto before marrying, but the census alone cannot provide such detail.</p>
+<p><img data-attachment-id="16652" data-permalink="http://activehistory.ca/papers/disappearing-into-white-space-indigenous-toronto-1900-1914/chorley-1/" data-orig-file="http://activehistory.ca/wp-content/uploads/2015/07/Chorley-1.jpg" data-orig-size="628,232" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;0&quot;}" data-image-title="Chorley 1" data-image-description="" data-medium-file="http://activehistory.ca/wp-content/uploads/2015/07/Chorley-1-300x111.jpg" data-large-file="http://activehistory.ca/wp-content/uploads/2015/07/Chorley-1.jpg" class="aligncenter wp-image-16652 size-full" src="http://activehistory.ca/wp-content/uploads/2015/07/Chorley-1.jpg" alt="Chorley 1" width="628" height="232" srcset="http://activehistory.ca/wp-content/uploads/2015/07/Chorley-1.jpg 628w, http://activehistory.ca/wp-content/uploads/2015/07/Chorley-1-300x111.jpg 300w, http://activehistory.ca/wp-content/uploads/2015/07/Chorley-1-596x220.jpg 596w" sizes="(max-width: 628px) 100vw, 628px" /></p>
+<p>Marguerite Carson was 22 years old in 1901. The enumerator identified her “Racial or Tribal Origin” as Mohawk, her “Colour” as Red, and she was married to Frank Carson. He was described as Roman Catholic, White, and English. The census lists that Frank’s mother-in-law, Marguerite’s mother, also lived with them. Her name was recorded as Mary Bell, and her age as 42 years old at the time of the census. Mary’s “Place of Origin” is recorded as Ireland, and her “Year of Immigration” as 1870. Since Marguerite is recorded as having been born in Ontario in 1879, it can be deduced that Marguerite was Irish-Mohawk. Whether or not Marguerite was born with status from her father, her marriage to an Englishman would have been cause for its revocation. Marguerite’s “Place of Origin” entry reads “Ont. u,” signifying an urban place in Ontario. Perhaps Marguerite was from Toronto, or maybe, as a Mohawk woman she was from Grand River. Unfortunately, <a href="http://www.bac-lac.gc.ca/eng/census/1901/Pages/about-census.aspx" target="_blank">Library and Archives Canada’s website</a> does not qualify how the Census Bureau determined “urban” versus “rural” spaces.</p>
+<p>Sarah Allan was identified as Red, Indian, 41 years old, Presbyterian, and married to George Allan, a 38 year-old Scottish Quebecker. Like Marguerite, Sarah was also from urban Ontario. Sarah and George are recorded as living with five children, who were likely products of a previous marriage to a white woman, since they are all identified as White and Scottish. A marriage date would help to corroborate this since the youngest child was recorded as only 10 months old, and could have been Sarah’s child depending on when they were married. These children are not included in the dataset.</p>
+<p>Mary Dorsey was described in the census as 30 years old, “Indian H.B,” Black, and from the United States. “H.B” could stand for “half black,” “half breed,” or even “Hudson’s Bay,” but the census does not elaborate further than the initials. Her husband Benjamin Dorsey and their three children are listed as Black and African from Ontario. Since Mary appears to be of both African and Indigenous heritage, her children have been included in the data set. Like Marguerite Carson, the census does not reveal to us how Mary Dorsey identified. Like Sarah and Marguerite, Mary would not have had status due to her marriage to a non-Indian man. Perhaps they paid regular visits to the reserve, or otherwise kept in contact with their families, but perhaps not. With an Irish mother, Marguerite Carson may have identified more with her Irish background – through discriminatory pressure or by lived cultural experience.</p>
+<p>As was common for married women at this time, Marguerite Carson, Mary Dorsey, and Sarah Allen were not employed. Although it is certain that they all would have performed non-wage labour within the home and may have done informal laundress or seamstress work from their homes, their husbands were the primary wage earners. As heads of household, Frank Carson, Benjamin Dorsey, and George Allan’s occupation and class position would hold for the entire household. Carson was a tinker, someone who generally makes minor mechanical repairs. Dorsey is listed in the census as a painter, and appears in the 1902 City Directory as a porter; he therefore held a variety of positions, perhaps concurrently. Allan was a brass polisher, and his eldest son Albert worked as a coconut shredder. These men all performed working-class, unskilled labour.</p>
+<p><img data-attachment-id="16653" data-permalink="http://activehistory.ca/papers/disappearing-into-white-space-indigenous-toronto-1900-1914/chorley-2/" data-orig-file="http://activehistory.ca/wp-content/uploads/2015/07/Chorley-2.jpg" data-orig-size="509,647" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;0&quot;}" data-image-title="Chorley 2" data-image-description="" data-medium-file="http://activehistory.ca/wp-content/uploads/2015/07/Chorley-2-236x300.jpg" data-large-file="http://activehistory.ca/wp-content/uploads/2015/07/Chorley-2.jpg" class="aligncenter size-full wp-image-16653" src="http://activehistory.ca/wp-content/uploads/2015/07/Chorley-2.jpg" alt="Chorley 2" width="509" height="647" srcset="http://activehistory.ca/wp-content/uploads/2015/07/Chorley-2.jpg 509w, http://activehistory.ca/wp-content/uploads/2015/07/Chorley-2-236x300.jpg 236w, http://activehistory.ca/wp-content/uploads/2015/07/Chorley-2-173x220.jpg 173w" sizes="(max-width: 509px) 100vw, 509px" /></p>
+<p>Of the remaining individuals in the 1901 data set, eight were institutionalized. Three brothers from the Northwest Territories, Laurence, James, and Andrew Beck, were living at the Toronto Boy’s Home in 1901. They were 13, 10, and 8 years old. Because the Home also acted as a temporary shelter for children of poor families, it is unclear how they ended up in the Toronto Boy’s Home. <a href="“#14”">[14]</a> On the Census, the Religion column for the boys at the Home was left blank except for an asterisk noting that since the religion of the parents was not known, all the boys attended a different Protestant church service each Sunday.</p>
+<p>Four men were inmates in the Toronto Central Prison: Martin Lemuis, aged 21, Ulysses Mays, aged 30, Peter Cusick aged 27, and William Jacob aged 29. The three-storey prison was located on Strachan Avenue south of King Street, and it is quite likely that the men were in contact with one another as, <a href="http://www1.toronto.ca/city_of_toronto/city_planning/urban_design/files/pdf/centralwaterfrontarchaeology.pdf" target="_blank">according to Ron Williamson</a>, the prison was built to accommodate only 336 prisoners at a time. The prison was designed for industrial labour and the men worked on rail cars for the Canada Car Company. Hard labour and military-like discipline underpinned the correctional ethos of the period. Furthering the prison’s military image were guards with military or police training who were armed with rifles or handguns. By the 1880s, the prison was renowned for its brutality, even by contemporary standards. Despite the free labour, the prison was plagued by financial problems and it closed in 1915. It is likely that Lemuis, Mays, Cusick, and Jacob had less-than-pleasant experiences while incarcerated.</p>
+<p>According to the 1901 Census, these men were mostly in their 20s, two of them were married, and all were Protestant. All four of them are recorded as literate, and only Lemuis’ mother language was recorded as “Indian.” The census lists his birthplace as “Canada,” which does not help in hypothesizing about his nation or his reserve. They are all listed as labourers, which was indeed what they did within the prison, but they also had other occupations as well.</p>
+<p>Ulysses Mays, for one, was a cook. He was in the Canadian Army, and his occupation, along with a great deal of further information is available in his <a href="http://www.bac-lac.gc.ca/eng/discover/military-heritage/first-world-war/first-world-war-1914-1918-cef/Pages/item.aspx?IdNumber=194136" target="_blank">attestation papers</a>. He was born on April 6th 1871 and was 43 years old when he first enlisted in the Canadian Overseas Expeditionary Force in 1914. Mays moved to Canada from Bellefontaine, Ohio in order to enlist. At the time, he stood at 5 feet, 10.5 inches tall and his chest was 42 inches at full expansion; he was a fairly large man for his height. He also had perfect vision and hearing. During the war, he served in the 1st Battalion for two years and one month, travelling to England, France, and Belgium. Once returned, he lived in Sarnia, Ontario and was married to Mary Mays (née Johnson) who was seven years his senior. He had two tattoos on his left forearm: one depicted a wooden cross and the words “In loving memory to my dear Mother,” the other was of his own name and address. Why his name and address were tattooed on his arm is not apparent. He had one known child, Verna Mays, and Ulysses died in 1962.</p>
+<p>Rounding out these sources is <a href="http://www.canadiangreatwarproject.com/transcripts/transcriptDisplay.asp?Type=L&amp;transNo=808" target="_blank">a short letter</a> from Ulysses to Mary and Verna written in May 1915. As it was written from Europe during the First World War, Mays describes both the atrocities around him, but also his passion for cooking: “We lost so many of our boys, but they died heroes. We charged the Germans in a regular hail of shot and shell. It did not seem as though anyone could possibly live under the fire, but a few of us are left to tell the tale, but for how long we don’t know. I am cooking again and feeling fine, the weather here is ideal.”</p>
+<p>The details afforded by attestations papers are not given for men such as Isaac Williams. Williams was the one individual recorded as an inmate in the Grace Hospital, located at 200 Huron Street on the North West corner of College Street. The census enumerator described him as Red, Indian, 28 years old, and Anglican. Williams could not read or write, but could speak English and his mother tongue was “Indian.” His reason for stay in the hospital is unknown.</p>
+<p>In contrast to the working-class individuals and families discussed above, is the only listed boarder in 1901: <a href="http://www.biographi.ca/en/bio/oronhyatekha_13E.html" target="_blank">Oronhytekha</a>, the Mohawk-speaking physician from the Six Nations of the Grand River. He married Ellen Hill, the great-granddaughter of Joseph Brant, but she lived mainly in their home in Deseronto and died in 1901. Conversely, Oronhyatkha spent virtually all of his time in Toronto. At the time of the 1901 census, he was renting a room in the house of the Barkers, a well-to-do Anglo-Irish family. He was 59 years old, making him the oldest Indigenous person included in the census. Although baptized in the Anglican Church as Peter Martin, he went by his Mohawk name and identified Mohawk as his mother tongue. He was 6 feet tall, weighed 230 pounds, and he suffered from diabetes leading to his death in March of 1907. He lived and worked in Cabbagetown, and south of Carlton Street there is now a <a href="http://pammcconnell.ca/laneway-names-celebrate-cabbagetowns-heritage/" target="_blank">Doctor O Lane</a> named so in his honour.</p>
+<p>Aside from his work as a physician, he founded the Canadian branch of the Independent Order of Foresters (IOF), and served as Supreme Chief Ranger of the fraternal organization from 1879 to 1906. In 1902, The Globe and Mail published a lengthy article describing a “Valuable Museum of Indian and Historical Curios” gifted by Oronhyatekha to the IOF. He had a reputation for flamboyance, and, according to the <a href="http://www.biographi.ca/en/bio/oronhyatekha_13E.html" target="_blank">Dictionary of Canadian Biography</a>, he collected such items as, “Amerindian relics, [artefacts] from India, skulls, stuffed birds and rodents, an Egyptian mummy, and a gilded replica of Edward VII’s coronation chair, which he used in his office for a time.”</p>
+<p>Oronhyatekha was thoroughly upper class. He held white-collar occupations in medicine and business, and he was a public figure, appearing regularly in Toronto newspapers for his activities with the Independent Order of Foresters. His was a not a common experience for Indigenous Torontonians at the turn of the twentieth century.</p>
+<p><a id="22"></a><strong>Conclusion</strong></p>
+<p>The twenty Indigenous men, women, and children that appear in the censuses of 1901 and 1911 were a diverse group. Six were under the age of 18, seven were female, and it is certain that five were the children of exogamous marriages. Four were from the United States, three young boys were from the Northwest Territories, and three spoke an Indigenous language as their mother tongue. Four men were imprisoned in the Central Prison simultaneously, one of whom also served in World War One.</p>
+<p>They held a variety of occupations. Six children were officially unemployed, but much like the women, they certainly performed non-wage labour in their households. Oronhyatekha was a physician and businessman, Ulysses Mays was a cook, and Martin Lemuis, Peter Cusick, and William Jacob performed unskilled labour. Appearing the 1911 Census, two people worked clerical jobs and three worked unskilled or skilled jobs.</p>
+<p>Of the names acquired from the census, searches in other routinely generated records, more often than not, led to dead ends. While frustrating, this phenomenon itself is a historical artefact. The intrusion of the Canadian state into Indigenous lives, as well as the colonial nature of the census, allow the individuals described above to remain just out of the historian’s reach. They disappear into white space.</p>
+<p>As a group they demonstrate the existence of a small Indigenous population in pre-war Toronto. Toronto was the second largest urban centre in the country with a population of 208,000 in 1901. [15] Indigenous people were present in the early 20th century when Toronto represented progress and modernity. They raised families in the city, ran businesses, worked in factories, and experienced its criminal justice system. Indigenous people participated in Toronto’s growth. Their stories are interwoven into wider narratives of labour, class, and women’s rights, but those challenges were compounded by invasive legislation and colonial ideology that specifically targeted Indigenous people.</p>
+<p>Similar circumstances exist today. While there is a much larger Indigenous population than in 1900-1914, in size and in proportion to the total city population, Indigenous people remain marginalized in the city. According to the Environics Institute’s 2010 Urban Aboriginal Peoples Study: Toronto Report, Aboriginal Torontonians are generally younger, have higher unemployment rates, lower annual incomes, and a greater likelihood of single-parent households. [16] Likewise, according to Statistics Canada’s 2004 General Social Survey, Aboriginal women experience much higher rates of violence than non-Aboriginal women; the homicide rate of Aboriginal women and girls, for example, is almost seven times greater than the homicide rate of non-Aboriginal women and girls. [17]</p>
+<p>For many men, women, and children, institutionalization was and remains a reality. Gender-based discrimination and violence remains a prominent reality as well. Women were targeted for involuntary enfranchisement by the Indian Act in 1901, and despite <a href="https://www.aadnc-aandc.gc.ca/eng/1100100032508/1100100032509" target="_blank">Bill C-3</a>, whereby eligible grandchildren of women who lost status as a result of marrying non-Indian men can become entitled to status, <a href="http://www.lynngehl.com/my-charter-challenge-sex-discrimination-in-the-indian-act.html" target="_blank">blood quantum remains the foundation of how the Canadian State determines Indian status</a>.</p>
+<p>The exception to the working class majority of the 1900-1914 data set was Dr. Oronhyatekha. Similarly, Indigenous figures in politics, and popular culture exist in 2015, and like Oronhyatekha, they demonstrate a degree of upward mobility without reflecting the reality of working class urban Indigenous people. Although living a century apart, the lives of Indigenous Torontonians of 1901 and 1911 raise striking parallels to Indigenous Torontonians in 2015. Ongoing colonial violence has remained a fixture of urban Indigenous life in Toronto.</p>
+<p><a id="23"></a><strong>ENDNOTES</strong></p>
+<p><a id="“1”"></a>[1] Coll Thrush, Native Seattle: History from the Crossing-Over Place. University of Washington Press, 2007, p 12.</p>
+<p><a id="2"></a>[2] Evelyn Peters and Chris Andersen (Eds), Indigenous in the City: Contemporary Identities and Cultural Innovation. UBC Press, 2013, p 5.</p>
+<p><a id="3"></a>[3] ‘Toronto has no history!’: Indigeneity, Settler Colonialism and Historical Memory in Canada’s Largest City. (Diss.) University of Toronto. 2010. p 2-6. https://tspace.library.utoronto.ca/bitstream/1807/26356/1/Freeman_Victoria_J_201011_PhD_thesis.pdf</p>
+<p><a id="“4”"></a>[4] Keith Walden, Becoming modern in Toronto: the Industrial Exhibition and the shaping of a late Victorian culture. University of Toronto Press, 1997, p 170.</p>
+<p><a id="“5”"></a>[5] Bonita Lawrence, “Real” Indians and Others: Mixed-Blood Urban Native Peoples and Indigenous Nationhood. University of Nebraska Press, 2004, p 31.</p>
+<p><a id="“6”"></a>[6] Michelle A. Hamilton, ““Anyone not on the list might as well be dead”: Aboriginal Peoples and the Censuses of Canada, 1851-1916,” Journal of the Canadian Historical Association, (Vol. 18, No. 1) 2007, p 69.</p>
+<p><a id="“7”"></a>[7] (Emphasis Lawrence’s own.) Lawrence, “Real” Indians and Others: Mixed-Blood Urban Native Peoples and Indigenous Nationhood, p 112.</p>
+<p><a id="“8”"></a>[8] “Dr. Oronhyatekha Dead,” The Washington Post, March 4 1907, p 1. This article was reprinted in The Globe following publication in The Washington Post.</p>
+<p><a id="“9”"></a>[9] John P. Brady, “Longboat, the Indian, and Athletic Accident, and Cannot Last Long,” The Washington Post, March 8 1908, 54. This article was reprinted in The Globe following publication in The Washington Post.</p>
+<p><a id="“10”"></a>[10] Lawrence, “Real” Indians and Others: Mixed-Blood Urban Native Peoples and Indigenous Nationhood, 31.</p>
+<p><a id="“11”"></a>[11] Lawrence, “Real” Indians and Others: Mixed-Blood Urban Native Peoples and Indigenous Nationhood, 110.</p>
+<p><a id="“12”"></a>[12] Hamilton, ““Anyone not on the list might as well be dead”: Aboriginal Peoples and the Censuses of Canada, 1851-1916,” 70, 73.</p>
+<p><a id="“13”"></a>[13] Quoted in Constance Backhouse, Colour-coded: A Legal History of Racism in Canada, 1900-1950, University of Toronto Press, 1999, p 3.</p>
+<p><a id="“14”"></a>[14] Sara Posen, “Examining Policy from the ‘Bottom Up’: The Relationship between Parents, Children, and Managers at the Toronto Boys’ Home, 1859-1920,” in Lori Chambers and Edgar- Andre Montigny (Eds), Family Matters: Papers in Post-Confederation Canadian Family History. Canadian Scholars’ Press, 1998, x.</p>
+<p><a id="“15”"></a>[15] “The First Half of the 20th Century, 1901-51,” The History of Toronto: An 11,000-Year Journey. City of Toronto, 2014.</p>
+<p><a id="“16”"></a>[16] Urban Aboriginal Peoples Study: Toronto Report. Environics Institute, 2010, 17.</p>
+<p><a id="“17”"></a>[17] ‘Fact Sheet: Missing and Murdered Aboriginal Women.’ Ontario Native Women’s Association. 2014.</p>
+<div class="sharedaddy sd-sharing-enabled"><div class="robots-nocontent sd-block sd-social sd-social-official sd-sharing"><div class="sd-content"><ul><li class="share-facebook"><div class="fb-share-button" data-href="http://activehistory.ca/papers/disappearing-into-white-space-indigenous-toronto-1900-1914/" data-layout="button_count"></div></li><li class="share-twitter"><a href="https://twitter.com/share" class="twitter-share-button" data-url="http://activehistory.ca/papers/disappearing-into-white-space-indigenous-toronto-1900-1914/" data-text="Disappearing into White Space: Indigenous Toronto, 1900-1914" data-via="ActiveHist" >Tweet</a></li><li class="share-email"><a rel="nofollow noopener noreferrer" data-shared="" class="share-email sd-button" href="http://activehistory.ca/papers/disappearing-into-white-space-indigenous-toronto-1900-1914/?share=email" target="_blank" title="Click to email this to a friend"><span>Email</span></a></li><li class="share-end"></li></ul></div></div></div>					</div><!-- .entry-content -->
+
+		<footer class="entry-meta">
+					</footer><!-- .entry-meta -->
+
+	</article><!-- #post -->				
+<div id="comments" class="comments-area">
+
+				<div class="zg-wrapper-widget-area">
+			<div id="text-445942440" class="widget widget_text">			<div class="textwidget"><p><a href="http://creativecommons.org/licenses/by-nd/4.0/" rel="license"><img style="border-width: 0;" src="https://i.creativecommons.org/l/by-nd/4.0/80x15.png" alt="Creative Commons Licence" /></a><br />
+This work is licensed under a <a href="http://creativecommons.org/licenses/by-nd/4.0/" rel="license">Creative Commons Attribution-NoDerivatives 4.0 International License</a>. Blog posts published before October  28, 2018 are licensed with a Creative Commons Attribution-NonCommercial-ShareAlike 2.5 Canada License.</p>
+</div>
+		</div>		</div>
+    	
+			<h2 class="comments-title">
+			3 thoughts on &ldquo;<span>Disappearing into White Space: Indigenous Toronto, 1900-1914</span>&rdquo;		</h2>
+
+		<ol class="commentlist">
+				<li class="pingback even thread-even depth-1" id="comment-72071">
+		<p>Pingback: <a href='http://activehistory.ca/2015/08/disappearing-into-white-space-indigenous-toronto-1900-1914/' rel='external nofollow ugc' class='url'>Disappearing into White Space: Indigenous Toronto, 1900-1914 | ActiveHistory.ca</a> </p>
+	</li><!-- #comment-## -->
+	<li class="pingback odd alt thread-odd thread-alt depth-1" id="comment-72356">
+		<p>Pingback: <a href='https://jasminechorley.wordpress.com/2015/08/15/disappearing-into-white-space-indigenous-toronto-1900-1914/' rel='external nofollow ugc' class='url'>Disappearing into White Space: Indigenous Toronto, 1900-1914 | Jasmine Chorley</a> </p>
+	</li><!-- #comment-## -->
+	<li class="comment even thread-even depth-1" id="li-comment-77551">
+		<article id="comment-77551" class="comment">
+			<header class="comment-meta comment-author vcard">
+				<img alt='' src='http://0.gravatar.com/avatar/0e0824ad1be699d0285b53cdede96b7c?s=44&#038;d=mm&#038;r=g' srcset='http://0.gravatar.com/avatar/0e0824ad1be699d0285b53cdede96b7c?s=88&#038;d=mm&#038;r=g 2x' class='avatar avatar-44 photo' height='44' width='44' /><cite><b class="fn">Carly</b> </cite><a href="http://activehistory.ca/papers/disappearing-into-white-space-indigenous-toronto-1900-1914/#comment-77551"><time datetime="2016-02-17T12:27:50-05:00">February 17, 2016 at 12:27 pm</time></a>			</header><!-- .comment-meta -->
+
+			
+			<section class="comment-content comment">
+				<p>This is a very detailed well-researched article.  However, I ran a search on the 1911 Census for Indian in district of York and 160 results appeared.  I&#8217;m not sure what qualified for you as &#8220;Indian&#8221; but I see more than the 5 individuals you mention.  Maybe your query was different.</p>
+							</section><!-- .comment-content -->
+
+			<div class="reply">
+							</div><!-- .reply -->
+		</article><!-- #comment-## -->
+	</li><!-- #comment-## -->
+		</ol><!-- .commentlist -->
+
+		
+		
+		
+		
+	<div class="wrapper-form-comments">
+	
+		<div id="respond" class="comment-respond">
+							<h3 id="reply-title" class="comment-reply-title">Please note: ActiveHistory.ca encourages comment and constructive discussion of our articles. We reserve the right to delete comments submitted under aliases, or that contain spam, harassment, or attacks on an individual.					<small><a rel="nofollow" id="cancel-comment-reply-link" href="/papers/disappearing-into-white-space-indigenous-toronto-1900-1914/?shared=email&amp;msg=fail#respond" style="display:none;">Cancel reply</a></small>
+				</h3>
+						<form id="commentform" class="comment-form">
+				<iframe title="Comment Form" src="https://jetpack.wordpress.com/jetpack-comment/?blogid=42146343&#038;postid=16651&#038;comment_registration=0&#038;require_name_email=1&#038;stc_enabled=1&#038;stb_enabled=1&#038;show_avatars=1&#038;avatar_default=mystery&#038;greeting=Please+note%3A+ActiveHistory.ca+encourages+comment+and+constructive+discussion+of+our+articles.+We+reserve+the+right+to+delete+comments+submitted+under+aliases%2C+or+that+contain+spam%2C+harassment%2C+or+attacks+on+an+individual.&#038;greeting_reply=Leave+a+Reply+to+%25s&#038;color_scheme=light&#038;lang=en_CA&#038;jetpack_version=8.6.1&#038;show_cookie_consent=10&#038;has_cookie_consent=0&#038;token_key=%3Bnormal%3B&#038;sig=eb1bf23bc6e154f148ed573fddb7844b0c036bfd#parent=http%3A%2F%2Factivehistory.ca%2Fpapers%2Fdisappearing-into-white-space-indigenous-toronto-1900-1914%2F%3Fshared%3Demail%26msg%3Dfail" style="width:100%; height: 430px; border:0;" name="jetpack_remote_comment" class="jetpack_remote_comment" id="jetpack_remote_comment" sandbox="allow-same-origin allow-top-navigation allow-scripts allow-forms allow-popups"></iframe>
+									<!--[if !IE]><!-->
+					<script>
+						document.addEventListener('DOMContentLoaded', function () {
+							var commentForms = document.getElementsByClassName('jetpack_remote_comment');
+							for (var i = 0; i < commentForms.length; i++) {
+								commentForms[i].allowTransparency = false;
+								commentForms[i].scrolling = 'no';
+							}
+						});
+					</script>
+					<!--<![endif]-->
+							</form>
+		</div>
+
+		
+		<input type="hidden" name="comment_parent" id="comment_parent" value="" />
+
+			</div>
+
+</div><!-- #comments .comments-area -->			
+		</div><!-- #content -->
+	</div><!-- #primary -->
+
+
+			<div id="secondary" class="widget-area" role="complementary">
+			<aside id="search-2" class="widget widget_search">	<div class="wrapper-search-form">
+		<form method="get" id="searchform" action="http://activehistory.ca/">
+			<label for="s" class="assistive-text">Search</label>
+			<input type="search" class="txt-search" placeholder="Search..." name="s" id="s" />
+			<input type="submit" name="submit" id="btn-search-n" value="Search" />
+		</form>
+    </div></aside><aside id="text-445942422" class="widget widget_text"><h3 class="widget-title"><span class="prefix-widget-title"><i class="fa fa-th-large"></i></span> What is Active History?</h3>			<div class="textwidget"><p>ActiveHistory.ca is a website that connects the work of historians with the wider public and the importance of the past to current events.</p>
+<p>Please direct queries to Daniel Ross, Public Outreach Coordinator, via <a href="info@activehistory.ca">info@activehistory.ca</a>.</p>
+<p>For author guidelines, <a href="https://wp.me/P2QQbJ-32">click here</a>.</p>
+<p>Visitez notre partenaire francophone, <a href="http://histoireengagee.ca/"> HistoireEngagée.ca</a></p>
+</div>
+		</aside><aside id="text-445942433" class="widget widget_text"><h3 class="widget-title"><span class="prefix-widget-title"><i class="fa fa-th-large"></i></span> Ongoing Projects</h3>			<div class="textwidget"><ul>
+<li><b><a href="http://activehistory.ca/papers/beyond-the-lecture-series-list/">Beyond the Lecture</a></b></li>
+<li><b><a href="http://activehistory.ca/papers/canadas-first-world-war-a-centennial-series-on-activehistory-ca/">Canada's First World War</a></b></li>
+<li><b><a href="http://activehistory.ca/papers/from-juno-to-victory/">From Juno to Victory</a></b></li>
+<li><b><a href="http://activehistory.ca/podcasts/">History Slam Podcast</a></b></li>
+<li><b><a href="http://activehistory.ca/publications/">Open-Access Ebooks</a></b></li>
+<li><b><a href="http://activehistory.ca/remember-i-resist-i-redraw/">Remember/Resist/Redraw</a></b></li>
+</ul>
+
+</div>
+		</aside><aside id="twitter_timeline-3" class="widget widget_twitter_timeline"><h3 class="widget-title"><span class="prefix-widget-title"><i class="fa fa-th-large"></i></span> Twitter</h3><a class="twitter-timeline" data-theme="light" data-border-color="#e8e8e8" data-tweet-limit="3" data-lang="EN" data-partner="jetpack" data-chrome="noheader" href="https://twitter.com/ActiveHist" href="https://twitter.com/ActiveHist">My Tweets</a></aside><aside id="blog_subscription-3" class="widget widget_blog_subscription jetpack_subscription_widget"><h3 class="widget-title"><span class="prefix-widget-title"><i class="fa fa-th-large"></i></span> Subscribe via email</h3>
+            <form action="#" method="post" accept-charset="utf-8" id="subscribe-blog-blog_subscription-3">
+				                    <p id="subscribe-email">
+                        <label id="jetpack-subscribe-label"
+                               class="screen-reader-text"
+                               for="subscribe-field-blog_subscription-3">
+							Email Address                        </label>
+                        <input type="email" name="email" required="required"
+                        			                                                value=""
+                            id="subscribe-field-blog_subscription-3"
+                            placeholder="Email Address"
+                        />
+                    </p>
+
+                    <p id="subscribe-submit">
+                        <input type="hidden" name="action" value="subscribe"/>
+                        <input type="hidden" name="source" value="http://activehistory.ca/papers/disappearing-into-white-space-indigenous-toronto-1900-1914/?shared=email&#038;msg=fail"/>
+                        <input type="hidden" name="sub-type" value="widget"/>
+                        <input type="hidden" name="redirect_fragment" value="blog_subscription-3"/>
+						                        <button type="submit"
+	                        		                    	                        name="jetpack_subscriptions_widget"
+	                    >
+	                        Subscribe                        </button>
+                    </p>
+				            </form>
+		
+</aside>		</div><!-- #secondary -->
+		</div><!-- #main .wrapper -->
+	</div><!-- #page -->
+		<footer>
+	<div style="background-color:#444444;">
+		<div class="wrapper-widget-area-footer">
+			<div class="widget-area-footer">
+				<div id="text-445942435" class="widget widget_text">			<div class="textwidget">ActiveHistory.ca is supported financially and administratively by the <a href="http://artsandscience.usask.ca/history/">History Department at the University of Saskatchewan</a> and <a href="http://www.huronuc.on.ca/Home">Huron University College</a>. <a href="https://calicologic.com/">Calico Logic</a> provides technical support.</div>
+		</div>			</div>
+			
+			<div class="widget-area-footer">
+				<div id="text-445942437" class="widget widget_text">			<div class="textwidget"><img src="http://activehistory.ca/wp-content/uploads/2017/02/usask_ArtsScience_History_black_reverse.png"/></div>
+		</div>			</div>
+			
+			<div class="widget-area-footer">
+				<div id="text-445942439" class="widget widget_text">			<div class="textwidget"><img src="http://activehistory.ca/wp-content/uploads/2017/02/huronuc_horiz_rgb_black_reverse_720.png"/></div>
+		</div>			</div>
+		</div>
+	</div>
+	</footer>
+		<hr class="hr-oscura" />
+	<footer id="colophon" role="contentinfo">
+	<div class="social-icon-wrapper">
+							<a href="https://twitter.com/activehist" title="Twitter" target="_blank"><i class="fa fa-twitter"></i></a> 
+						
+							<a href="https://www.facebook.com/ActiveHist/" title="Facebook" target="_blank"><i class="fa fa-facebook"></i></a>
+						
+						
+						
+					 		<a href="https://www.youtube.com/user/activehistoryca" title="YouTube" target="_blank"><i class="fa fa-youtube"></i></a>
+						
+						
+						
+							<a class="rss" href="http://feeds.feedburner.com/activehistoryca" title="Feed RSS" target="_blank"><i class="fa fa-rss"></i></a>			
+					</div><!-- .social-icon-wrapper -->
+		<hr class="hr-oscura" />
+		<div class="site-info">
+			<div class="credits-left"></div>
+			<div class="credits-center"><a rel="license" href="http://creativecommons.org/licenses/by-nd/4.0/"><img alt="Creative Commons Licence" style="border-width:0" src="https://i.creativecommons.org/l/by-nd/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nd/4.0/">Creative Commons Attribution-NoDerivatives 4.0 International License</a>.
+Blog posts published before October 28, 2018 are licensed with a Creative Commons Attribution-NonCommercial-ShareAlike 2.5 Canada License.</div>
+			<div class="credits-right"></div>
+		</div><!-- .site-info -->
+		
+			</footer><!-- #colophon -->
+
+			<div class="ir-arriba"><i class="fa fa-chevron-up"></i></div>
+		<div style="display:none">
+	<div class="grofile-hash-map-0e0824ad1be699d0285b53cdede96b7c">
+	</div>
+	</div>
+<script>
+    jQuery(document).ready(function () {
+		jQuery.post('http://activehistory.ca?ga_action=googleanalytics_get_script', {action: 'googleanalytics_get_script'}, function(response) {
+			var s = document.createElement("script");
+			s.type = "text/javascript";
+			s.innerHTML = response;
+			jQuery("head").append(s);
+		});
+    });
+</script><div id="fb-root"></div>
+			<script>(function(d, s, id) { var js, fjs = d.getElementsByTagName(s)[0]; if (d.getElementById(id)) return; js = d.createElement(s); js.id = id; js.src = 'https://connect.facebook.net/en_CA/sdk.js#xfbml=1&appId=249643311490&version=v2.3'; fjs.parentNode.insertBefore(js, fjs); }(document, 'script', 'facebook-jssdk'));</script>
+			<script>
+			jQuery( document.body ).on( 'post-load', function() {
+				if ( 'undefined' !== typeof FB ) {
+					FB.XFBML.parse();
+				}
+			} );
+			</script>
+						<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+'://platform.twitter.com/widgets.js';fjs.parentNode.insertBefore(js,fjs);}}(document, 'script', 'twitter-wjs');</script>
+				<div id="sharing_email" style="display: none;">
+		<form action="/papers/disappearing-into-white-space-indigenous-toronto-1900-1914/?shared=email&#038;msg=fail" method="post">
+			<label for="target_email">Send to Email Address</label>
+			<input type="email" name="target_email" id="target_email" value="" />
+
+			
+				<label for="source_name">Your Name</label>
+				<input type="text" name="source_name" id="source_name" value="" />
+
+				<label for="source_email">Your Email Address</label>
+				<input type="email" name="source_email" id="source_email" value="" />
+
+						<input type="text" id="jetpack-source_f_name" name="source_f_name" class="input" value="" size="25" autocomplete="off" title="This field is for validation and should not be changed" />
+			
+			<img style="float: right; display: none" class="loading" src="http://activehistory.ca/wp-content/plugins/jetpack/modules/sharedaddy/images/loading.gif" alt="loading" width="16" height="16" />
+			<input type="submit" value="Send Email" class="sharing_send" />
+			<a rel="nofollow" href="#cancel" class="sharing_cancel" role="button">Cancel</a>
+
+			<div class="errors errors-1" style="display: none;">
+				Post was not sent - check your email addresses!			</div>
+
+			<div class="errors errors-2" style="display: none;">
+				Email check failed, please try again			</div>
+
+			<div class="errors errors-3" style="display: none;">
+				Sorry, your blog cannot share posts by email.			</div>
+		</form>
+	</div>
+<script type='text/javascript' src='https://secure.gravatar.com/js/gprofiles.js?ver=202025'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var WPGroHo = {"my_hash":""};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://activehistory.ca/wp-content/plugins/jetpack/modules/wpgroho.js?ver=5.4.2'></script>
+<script type='text/javascript' src='http://activehistory.ca/wp-content/themes/rubbersoul-pro/js/navigation.js?ver=20140711'></script>
+<script type='text/javascript' src='http://activehistory.ca/wp-content/themes/rubbersoul-pro/js/slider-recent-posts-fp.js?ver=2.6.4'></script>
+<script type='text/javascript' src='http://activehistory.ca/wp-content/themes/rubbersoul-pro/js/rsoul-pro-toggle-search.js?ver=2.6.4'></script>
+<script type='text/javascript' src='http://activehistory.ca/wp-content/plugins/jetpack/_inc/build/twitter-timeline.min.js?ver=4.0.0'></script>
+<script type='text/javascript' src='http://activehistory.ca/wp-includes/js/wp-embed.min.js?ver=5.4.2'></script>
+<script type='text/javascript' src='http://activehistory.ca/wp-content/plugins/jetpack/_inc/build/spin.min.js?ver=1.3'></script>
+<script type='text/javascript' src='http://activehistory.ca/wp-content/plugins/jetpack/_inc/build/jquery.spin.min.js?ver=1.3'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var jetpackCarouselStrings = {"widths":[370,700,1000,1200,1400,2000],"is_logged_in":"","lang":"en","ajaxurl":"http:\/\/activehistory.ca\/wp-admin\/admin-ajax.php","nonce":"5e88d0d860","display_exif":"1","display_comments":"1","display_geo":"1","single_image_gallery":"1","single_image_gallery_media_file":"","background_color":"black","comment":"Comment","post_comment":"Post Comment","write_comment":"Write a Comment...","loading_comments":"Loading Comments...","download_original":"View full size <span class=\"photo-size\">{0}<span class=\"photo-size-times\">\u00d7<\/span>{1}<\/span>","no_comment_text":"Please be sure to submit some text with your comment.","no_comment_email":"Please provide an email address to comment.","no_comment_author":"Please provide your name to comment.","comment_post_error":"Sorry, but there was an error posting your comment. Please try again later.","comment_approved":"Your comment was approved.","comment_unapproved":"Your comment is in moderation.","camera":"Camera","aperture":"Aperture","shutter_speed":"Shutter Speed","focal_length":"Focal Length","copyright":"Copyright","comment_registration":"0","require_name_email":"1","login_url":"http:\/\/activehistory.ca\/wp-login.php?redirect_to=http%3A%2F%2Factivehistory.ca%2Fpapers%2Fdisappearing-into-white-space-indigenous-toronto-1900-1914%2F","blog_id":"1","meta_data":["camera","aperture","shutter_speed","focal_length","copyright"],"local_comments_commenting_as":"<fieldset><label for=\"email\">Email (Required)<\/label> <input type=\"text\" name=\"email\" class=\"jp-carousel-comment-form-field jp-carousel-comment-form-text-field\" id=\"jp-carousel-comment-form-email-field\" \/><\/fieldset><fieldset><label for=\"author\">Name (Required)<\/label> <input type=\"text\" name=\"author\" class=\"jp-carousel-comment-form-field jp-carousel-comment-form-text-field\" id=\"jp-carousel-comment-form-author-field\" \/><\/fieldset><fieldset><label for=\"url\">Website<\/label> <input type=\"text\" name=\"url\" class=\"jp-carousel-comment-form-field jp-carousel-comment-form-text-field\" id=\"jp-carousel-comment-form-url-field\" \/><\/fieldset>"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://activehistory.ca/wp-content/plugins/jetpack/_inc/build/carousel/jetpack-carousel.min.js?ver=20190102'></script>
+<script async="async" type='text/javascript' src='http://activehistory.ca/wp-content/plugins/akismet/_inc/form.js?ver=4.1.6'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var sharing_js_options = {"lang":"en","counts":"1","is_stats_active":"1"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://activehistory.ca/wp-content/plugins/jetpack/_inc/build/sharedaddy/sharing.min.js?ver=8.6.1'></script>
+<script type='text/javascript'>
+var windowOpen;
+			jQuery( document.body ).on( 'click', 'a.share-facebook', function() {
+				// If there's another sharing window open, close it.
+				if ( 'undefined' !== typeof windowOpen ) {
+					windowOpen.close();
+				}
+				windowOpen = window.open( jQuery( this ).attr( 'href' ), 'wpcomfacebook', 'menubar=1,resizable=1,width=600,height=400' );
+				return false;
+			});
+</script>
+
+		<!--[if IE]>
+		<script type="text/javascript">
+			if ( 0 === window.location.hash.indexOf( '#comment-' ) ) {
+				// window.location.reload() doesn't respect the Hash in IE
+				window.location.hash = window.location.hash;
+			}
+		</script>
+		<![endif]-->
+		<script type="text/javascript">
+			(function () {
+				var comm_par_el = document.getElementById( 'comment_parent' ),
+					comm_par = ( comm_par_el && comm_par_el.value ) ? comm_par_el.value : '',
+					frame = document.getElementById( 'jetpack_remote_comment' ),
+					tellFrameNewParent;
+
+				tellFrameNewParent = function () {
+					if ( comm_par ) {
+						frame.src = "https://jetpack.wordpress.com/jetpack-comment/?blogid=42146343&postid=16651&comment_registration=0&require_name_email=1&stc_enabled=1&stb_enabled=1&show_avatars=1&avatar_default=mystery&greeting=Please+note%3A+ActiveHistory.ca+encourages+comment+and+constructive+discussion+of+our+articles.+We+reserve+the+right+to+delete+comments+submitted+under+aliases%2C+or+that+contain+spam%2C+harassment%2C+or+attacks+on+an+individual.&greeting_reply=Leave+a+Reply+to+%25s&color_scheme=light&lang=en_CA&jetpack_version=8.6.1&show_cookie_consent=10&has_cookie_consent=0&token_key=%3Bnormal%3B&sig=eb1bf23bc6e154f148ed573fddb7844b0c036bfd#parent=http%3A%2F%2Factivehistory.ca%2Fpapers%2Fdisappearing-into-white-space-indigenous-toronto-1900-1914%2F%3Fshared%3Demail%26msg%3Dfail" + '&replytocom=' + parseInt( comm_par, 10 ).toString();
+					} else {
+						frame.src = "https://jetpack.wordpress.com/jetpack-comment/?blogid=42146343&postid=16651&comment_registration=0&require_name_email=1&stc_enabled=1&stb_enabled=1&show_avatars=1&avatar_default=mystery&greeting=Please+note%3A+ActiveHistory.ca+encourages+comment+and+constructive+discussion+of+our+articles.+We+reserve+the+right+to+delete+comments+submitted+under+aliases%2C+or+that+contain+spam%2C+harassment%2C+or+attacks+on+an+individual.&greeting_reply=Leave+a+Reply+to+%25s&color_scheme=light&lang=en_CA&jetpack_version=8.6.1&show_cookie_consent=10&has_cookie_consent=0&token_key=%3Bnormal%3B&sig=eb1bf23bc6e154f148ed573fddb7844b0c036bfd#parent=http%3A%2F%2Factivehistory.ca%2Fpapers%2Fdisappearing-into-white-space-indigenous-toronto-1900-1914%2F%3Fshared%3Demail%26msg%3Dfail";
+					}
+				};
+
+				
+				// Do the post message bit after the dom has loaded.
+				document.addEventListener( 'DOMContentLoaded', function () {
+					var iframe_url = "https:\/\/jetpack.wordpress.com";
+					if ( window.postMessage ) {
+						if ( document.addEventListener ) {
+							window.addEventListener( 'message', function ( event ) {
+								var origin = event.origin.replace( /^http:\/\//i, 'https://' );
+								if ( iframe_url.replace( /^http:\/\//i, 'https://' ) !== origin ) {
+									return;
+								}
+								jQuery( frame ).height( event.data );
+							});
+						} else if ( document.attachEvent ) {
+							window.attachEvent( 'message', function ( event ) {
+								var origin = event.origin.replace( /^http:\/\//i, 'https://' );
+								if ( iframe_url.replace( /^http:\/\//i, 'https://' ) !== origin ) {
+									return;
+								}
+								jQuery( frame ).height( event.data );
+							});
+						}
+					}
+				})
+
+			})();
+		</script>
+
+		<script type='text/javascript' src='https://stats.wp.com/e-202025.js' async='async' defer='defer'></script>
+<script type='text/javascript'>
+	_stq = window._stq || [];
+	_stq.push([ 'view', {v:'ext',j:'1:8.6.1',blog:'42146343',post:'16651',tz:'-4',srv:'activehistory.ca'} ]);
+	_stq.push([ 'clickTrackerInit', '42146343', '16651' ]);
+</script>
+			
+</body>
+</html>

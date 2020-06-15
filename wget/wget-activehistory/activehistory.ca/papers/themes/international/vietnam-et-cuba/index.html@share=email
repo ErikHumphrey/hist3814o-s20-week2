@@ -1,0 +1,656 @@
+<!DOCTYPE html>
+<!--[if IE 7]>
+<html class="ie ie7" lang="en-CA">
+<![endif]-->
+<!--[if IE 8]>
+<html class="ie ie8" lang="en-CA">
+<![endif]-->
+<!--[if !(IE 7) & !(IE 8)]><!-->
+<html lang="en-CA">
+<!--<![endif]-->
+<head>
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width" />
+<link rel="profile" href="http://gmpg.org/xfn/11" />
+<link rel="pingback" href="http://activehistory.ca/xmlrpc.php" />
+<!--[if lt IE 9]>
+<script src="http://activehistory.ca/wp-content/themes/rubbersoul-pro/js/html5.js" type="text/javascript"></script>
+<![endif]-->
+<title>Pourquoi le Vietnam s&#8217;en tire et Cuba s&#8217;enfonce &#8211; Active History</title>
+<link rel='dns-prefetch' href='//secure.gravatar.com' />
+<link rel='dns-prefetch' href='//platform-api.sharethis.com' />
+<link rel='dns-prefetch' href='//fonts.googleapis.com' />
+<link rel='dns-prefetch' href='//s.w.org' />
+		<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/12.0.0-1\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/12.0.0-1\/svg\/","svgExt":".svg","source":{"concatemoji":"http:\/\/activehistory.ca\/wp-includes\/js\/wp-emoji-release.min.js?ver=5.4.2"}};
+			/*! This file is auto-generated */
+			!function(e,a,t){var r,n,o,i,p=a.createElement("canvas"),s=p.getContext&&p.getContext("2d");function c(e,t){var a=String.fromCharCode;s.clearRect(0,0,p.width,p.height),s.fillText(a.apply(this,e),0,0);var r=p.toDataURL();return s.clearRect(0,0,p.width,p.height),s.fillText(a.apply(this,t),0,0),r===p.toDataURL()}function l(e){if(!s||!s.fillText)return!1;switch(s.textBaseline="top",s.font="600 32px Arial",e){case"flag":return!c([127987,65039,8205,9895,65039],[127987,65039,8203,9895,65039])&&(!c([55356,56826,55356,56819],[55356,56826,8203,55356,56819])&&!c([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]));case"emoji":return!c([55357,56424,55356,57342,8205,55358,56605,8205,55357,56424,55356,57340],[55357,56424,55356,57342,8203,55358,56605,8203,55357,56424,55356,57340])}return!1}function d(e){var t=a.createElement("script");t.src=e,t.defer=t.type="text/javascript",a.getElementsByTagName("head")[0].appendChild(t)}for(i=Array("flag","emoji"),t.supports={everything:!0,everythingExceptFlag:!0},o=0;o<i.length;o++)t.supports[i[o]]=l(i[o]),t.supports.everything=t.supports.everything&&t.supports[i[o]],"flag"!==i[o]&&(t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&t.supports[i[o]]);t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&!t.supports.flag,t.DOMReady=!1,t.readyCallback=function(){t.DOMReady=!0},t.supports.everything||(n=function(){t.readyCallback()},a.addEventListener?(a.addEventListener("DOMContentLoaded",n,!1),e.addEventListener("load",n,!1)):(e.attachEvent("onload",n),a.attachEvent("onreadystatechange",function(){"complete"===a.readyState&&t.readyCallback()})),(r=t.source||{}).concatemoji?d(r.concatemoji):r.wpemoji&&r.twemoji&&(d(r.twemoji),d(r.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+		<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+	<link rel='stylesheet' id='wp-block-library-css'  href='http://activehistory.ca/wp-includes/css/dist/block-library/style.min.css?ver=5.4.2' type='text/css' media='all' />
+<style id='wp-block-library-inline-css' type='text/css'>
+.has-text-align-justify{text-align:justify;}
+</style>
+<link rel='stylesheet' id='dashicons-css'  href='http://activehistory.ca/wp-includes/css/dashicons.min.css?ver=5.4.2' type='text/css' media='all' />
+<link rel='stylesheet' id='rubbersoul-pro-fonts-css'  href='https://fonts.googleapis.com/css?family=Noto+Sans:400italic,700italic,400,700&#038;subset=latin,latin-ext' type='text/css' media='all' />
+<link rel='stylesheet' id='rubbersoul-pro-style-css'  href='http://activehistory.ca/wp-content/themes/rubbersoul-pro/style.css?ver=2.6.4' type='text/css' media='all' />
+<link rel='stylesheet' id='custom-style-css'  href='http://activehistory.ca/wp-content/themes/rubbersoul-pro/custom-style.css?ver=5.4.2' type='text/css' media='all' />
+<link rel='stylesheet' id='rsoul-pro-widgets-style-css'  href='http://activehistory.ca/wp-content/themes/rubbersoul-pro/css/rsoul-widgets-style.css?ver=2.6.4' type='text/css' media='all' />
+<link rel='stylesheet' id='font-awesome-css'  href='http://activehistory.ca/wp-content/themes/rubbersoul-pro/css/font-awesome-4.7.0/css/font-awesome.min.css?ver=5.4.2' type='text/css' media='all' />
+<link rel='stylesheet' id='rsoul-pro-slider-recent-posts-style-css'  href='http://activehistory.ca/wp-content/themes/rubbersoul-pro/css/slider-recent-posts-fp.css?ver=2.6.4' type='text/css' media='all' />
+<!--[if lt IE 9]>
+<link rel='stylesheet' id='rubbersoul-pro-ie-css'  href='http://activehistory.ca/wp-content/themes/rubbersoul-pro/css/ie.css?ver=20121010' type='text/css' media='all' />
+<![endif]-->
+<link rel='stylesheet' id='social-logos-css'  href='http://activehistory.ca/wp-content/plugins/jetpack/_inc/social-logos/social-logos.min.css?ver=8.6.1' type='text/css' media='all' />
+<link rel='stylesheet' id='jetpack_css-css'  href='http://activehistory.ca/wp-content/plugins/jetpack/css/jetpack.css?ver=8.6.1' type='text/css' media='all' />
+<script type='text/javascript' src='http://activehistory.ca/wp-includes/js/jquery/jquery.js?ver=1.12.4-wp'></script>
+<script type='text/javascript' src='http://activehistory.ca/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.4.1'></script>
+<script type='text/javascript' src='//platform-api.sharethis.com/js/sharethis.js#product=ga'></script>
+<link rel='https://api.w.org/' href='http://activehistory.ca/wp-json/' />
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://activehistory.ca/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://activehistory.ca/wp-includes/wlwmanifest.xml" /> 
+<meta name="generator" content="WordPress 5.4.2" />
+<link rel="canonical" href="http://activehistory.ca/papers/themes/international/vietnam-et-cuba/" />
+<link rel='shortlink' href='https://wp.me/P2QQbJ-5b' />
+<link rel="alternate" type="application/json+oembed" href="http://activehistory.ca/wp-json/oembed/1.0/embed?url=http%3A%2F%2Factivehistory.ca%2Fpapers%2Fthemes%2Finternational%2Fvietnam-et-cuba%2F" />
+<link rel="alternate" type="text/xml+oembed" href="http://activehistory.ca/wp-json/oembed/1.0/embed?url=http%3A%2F%2Factivehistory.ca%2Fpapers%2Fthemes%2Finternational%2Fvietnam-et-cuba%2F&#038;format=xml" />
+<script type="text/javascript"><!--
+function powerpress_pinw(pinw_url){window.open(pinw_url, 'PowerPressPlayer','toolbar=0,status=0,resizable=1,width=460,height=320');	return false;}
+//-->
+</script>
+
+<link rel='dns-prefetch' href='//jetpack.wordpress.com'/>
+<link rel='dns-prefetch' href='//s0.wp.com'/>
+<link rel='dns-prefetch' href='//s1.wp.com'/>
+<link rel='dns-prefetch' href='//s2.wp.com'/>
+<link rel='dns-prefetch' href='//public-api.wordpress.com'/>
+<link rel='dns-prefetch' href='//0.gravatar.com'/>
+<link rel='dns-prefetch' href='//1.gravatar.com'/>
+<link rel='dns-prefetch' href='//2.gravatar.com'/>
+<link rel='dns-prefetch' href='//widgets.wp.com'/>
+<link rel='dns-prefetch' href='//v0.wordpress.com'/>
+	<style type='text/css'>
+		a {color: #0f7b3f;}
+	a:hover {color: #0f7b3f;}
+	.social-icon-wrapper a:hover {color: #0f7b3f;}
+	.prefix-widget-title {color: #0f7b3f;}
+	.term-icon {color: #0f7b3f;}
+	.sub-title a:hover {color:#0f7b3f;}
+	.entry-content a:visited,.comment-content a:visited {color:#0f7b3f;}
+	input[type="submit"] {background-color:#0f7b3f !important;}
+	input[type="reset"] {background-color:#0f7b3f !important;}
+	.bypostauthor cite span {background-color:#0f7b3f;}
+	.wrapper-cabecera {background-color:#0f7b3f;}
+	.wrapper-search-top-bar {background-color:#0f7b3f;}
+	.main-navigation {background-color:#0f7b3f;}
+	.entry-header .entry-title a:hover {color:#0f7b3f ;}
+	.archive-header {border-left-color:#0f7b3f;}
+	.main-navigation a:hover,
+	.main-navigation a:focus {
+		color: #0f7b3f;
+	}
+	.widget-area .widget a:hover {
+		color: #0f7b3f !important;
+	}
+	footer[role="contentinfo"] a:hover {
+		color: #0f7b3f;
+	}
+	.entry-meta a:hover {
+	color: #0f7b3f;
+	}
+	.format-status .entry-header header a:hover {
+		color: #0f7b3f;
+	}
+	.comments-area article header a:hover {
+		color: #0f7b3f;
+	}
+	a.comment-reply-link:hover,
+	a.comment-edit-link:hover {
+		color: #0f7b3f;
+	}
+	.template-front-page .widget-area .widget li a:hover {
+		color: #0f7b3f;
+	}
+	
+	.currenttext, .paginacion a:hover {background-color:#0f7b3f;}
+	.aside{border-left-color:#0f7b3f !important;}
+	blockquote{border-left-color:#0f7b3f;}
+	ul.tabs li.t-activa a {border-top-color: #0f7b3f;} 
+	.slider-current-btn a {background-color:#0f7b3f !important;}
+	h2.comments-title {border-left-color:#0f7b3f;}
+	
+		
+		
+			.titulo-descripcion {
+	 		text-transform:none;
+		}
+		
+		
+		
+			.wrapper-cabecera {height:70px; height:5rem;}
+		
+		
+			.header-logo {background-color:transparent;}
+		
+		
+		
+			
+		body.custom-font-enabled {font-family: "Noto Sans", Arial, Verdana;}
+	
+			@media screen and (min-width: 600px) {
+			#primary {float:left;}
+			#secondary {float:right;}
+			.site-content {
+				border-left: none;
+				padding-left:0;
+				padding-right: 24px;
+				padding-right:1.714285714285714rem;
+			}
+		}
+		
+		
+	@media screen and (max-width: 599px) {
+		.menu-toggle, .menu-toggle:hover {
+			background:#0f7b3f !important;
+			color:#ffffff !important;
+			width:100%;
+		}
+	}
+	
+	/* bbPress */
+		</style>
+	
+	<!-- Google Analytics -->
+    
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-8653817-1', 'auto');
+  ga('send', 'pageview');
+
+</script>
+    <!-- Google Analytics -->
+    <style type="text/css" id="custom-background-css">
+body.custom-background { background-color: #f4f4f4; }
+</style>
+	
+<!-- Jetpack Open Graph Tags -->
+<meta property="og:type" content="article" />
+<meta property="og:title" content="Pourquoi le Vietnam s&#8217;en tire et Cuba s&#8217;enfonce" />
+<meta property="og:url" content="http://activehistory.ca/papers/themes/international/vietnam-et-cuba/" />
+<meta property="og:description" content="October 14, 2009 par Yves Montenay Papier présenté au « Week-End de la Liberté » organisé par le Cercle Frédéric Bastiat les 3-5 juillet 2009 sur le thème : Liberté économique, prospérité et plein …" />
+<meta property="article:published_time" content="2009-10-14T13:13:22+00:00" />
+<meta property="article:modified_time" content="2009-11-05T19:29:08+00:00" />
+<meta property="og:site_name" content="Active History" />
+<meta property="og:image" content="http://activehistory.ca/wp-content/uploads/2019/02/cropped-ActiveHist2019_icon_whiteBCKG-6.jpg" />
+<meta property="og:image:width" content="512" />
+<meta property="og:image:height" content="512" />
+<meta name="twitter:site" content="@ActiveHist" />
+<meta name="twitter:text:title" content="Pourquoi le Vietnam s&#8217;en tire et Cuba s&#8217;enfonce" />
+<meta name="twitter:image" content="http://activehistory.ca/wp-content/uploads/2019/02/cropped-ActiveHist2019_icon_whiteBCKG-6-270x270.jpg" />
+<meta name="twitter:card" content="summary" />
+
+<!-- End Jetpack Open Graph Tags -->
+<link rel="icon" href="http://activehistory.ca/wp-content/uploads/2019/02/cropped-ActiveHist2019_icon_whiteBCKG-6-32x32.jpg" sizes="32x32" />
+<link rel="icon" href="http://activehistory.ca/wp-content/uploads/2019/02/cropped-ActiveHist2019_icon_whiteBCKG-6-192x192.jpg" sizes="192x192" />
+<link rel="apple-touch-icon" href="http://activehistory.ca/wp-content/uploads/2019/02/cropped-ActiveHist2019_icon_whiteBCKG-6-180x180.jpg" />
+<meta name="msapplication-TileImage" content="http://activehistory.ca/wp-content/uploads/2019/02/cropped-ActiveHist2019_icon_whiteBCKG-6-270x270.jpg" />
+</head>
+
+<body class="page-template-default page page-id-321 page-child parent-pageid-99 custom-background custom-font-enabled">
+	
+		
+	<header id="masthead" class="site-header" role="banner">
+	<div class="wrapper-cabecera">
+	
+		<div class="blogname-y-menu">
+			<div class="boton-menu-movil"><i class="fa fa-align-justify fa-2x"></i></div>
+			
+							<div class="header-logo">
+					<a href="http://activehistory.ca/"><img src="http://activehistory.ca/wp-content/uploads/2019/04/cropped-ActiveHist2019_icon_whiteBCKG-1.jpg" class="header-image" width="400" height="400" alt="Active History" /></a>
+				</div>
+						
+						<div class="titulo-descripcion">
+			
+									<p class="site-title"><a href="http://activehistory.ca/" title="Active History" rel="home">Active History</a></p>
+								
+				<p class="site-description">History Matters</p>
+				
+			</div>
+						
+			<div class="toggle-search"><i class="fa fa-search"></i></div>
+			
+			<div class="wrapper-site-navigation">
+				<nav id="site-navigation" class="main-navigation" role="navigation">
+					
+					<div class="menu-the-main-container"><ul id="menu-the-main" class="nav-menu"><li id="menu-item-7899" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-home menu-item-7899"><a href="http://activehistory.ca/">Home</a></li>
+<li id="menu-item-7902" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-7902"><a href="http://activehistory.ca/about/">About</a></li>
+<li id="menu-item-7900" class="menu-item menu-item-type-post_type menu-item-object-page current-page-ancestor menu-item-7900"><a href="http://activehistory.ca/papers/">Features</a></li>
+<li id="menu-item-25840" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-25840"><a href="http://activehistory.ca/publications/">Publications</a></li>
+<li id="menu-item-7915" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-7915"><a href="http://activehistory.ca/podcasts/">Podcasts</a></li>
+<li id="menu-item-20816" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-20816"><a href="http://activehistory.ca/donate/">Support Us</a></li>
+</ul></div>				</nav><!-- #site-navigation -->
+                
+				<div class="wrapper-search-top-bar">
+                	<div class="search-top-bar">
+							<div>
+		<form method="get" id="searchform-toggle" action="http://activehistory.ca/">
+			<label for="s" class="assistive-text">Search</label>
+			<input type="search" class="txt-search" placeholder="Search..." name="s" id="s" />
+			<input type="submit" name="submit" id="btn-search" value="Search" />
+		</form>
+    </div>                    </div>
+                </div>
+                
+			</div><!-- .wrapper-site-navigation -->
+			
+		</div><!-- .blogname-y-menu -->
+        
+	<div style="position:relative; clear:both;">
+		
+<div id="menu-movil">
+	<div class="search-form-movil">
+		<form method="get" id="searchform-movil" action="http://activehistory.ca/">
+			<label for="s" class="assistive-text">Search</label>
+			<input type="search" class="txt-search-movil" placeholder="Search..." name="s" id="s" />
+			<input type="submit" name="submit" id="btn-search-movil" value="Search" />
+		</form>
+    </div><!-- search-form-movil -->
+	<div class="menu-movil-enlaces">
+		<div class="menu-the-main-container"><ul id="menu-the-main-1" class="nav-menu"><li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-home menu-item-7899"><a href="http://activehistory.ca/">Home</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-7902"><a href="http://activehistory.ca/about/">About</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page current-page-ancestor menu-item-7900"><a href="http://activehistory.ca/papers/">Features</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-25840"><a href="http://activehistory.ca/publications/">Publications</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-7915"><a href="http://activehistory.ca/podcasts/">Podcasts</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-20816"><a href="http://activehistory.ca/donate/">Support Us</a></li>
+</ul></div>	</div>
+	
+	<div class="social-icon-wrapper-movil">
+							<a href="https://twitter.com/activehist" title="Twitter" target="_blank"><i class="fa fa-twitter"></i></a> 
+						
+							<a href="https://www.facebook.com/ActiveHist/" title="Facebook" target="_blank"><i class="fa fa-facebook"></i></a>
+						
+						
+						
+					 		<a href="https://www.youtube.com/user/activehistoryca" title="YouTube" target="_blank"><i class="fa fa-youtube"></i></a>
+						
+						
+						
+							<a class="rss" href="http://feeds.feedburner.com/activehistoryca" title="RSS" target="_blank"><i class="fa fa-rss"></i></a>			
+					</div><!-- .social-icon-wrapper -->	
+</div><!-- #menu-movil -->    </div>
+    
+	</div><!-- wrapper-cabecera -->
+	
+	<div class="wrapper-area-widget-superior area-widget-padding-top">
+		</div>
+	
+	</header><!-- #masthead -->
+	
+<div id="page" class="hfeed site">
+	
+	<div id="main" class="wrapper">
+	<div id="primary" class="site-content">
+		<div id="content" role="main">
+
+							
+	<article id="post-321" class="post-321 page type-page status-publish hentry">
+
+		<header class="entry-header">
+													<h1 class="entry-title">Pourquoi le Vietnam s&#8217;en tire et Cuba s&#8217;enfonce</h1>
+					</header>
+
+		<div class="entry-content">
+			<p style="text-align: left;">October 14, 2009</p>
+<p style="text-align: left;">par <a href="http://web.mac.com/labor3/YvesMontenay/Yves_Montenay.html">Yves Montenay</a></p>
+<p style="text-align: left;">Papier présenté au « Week-End de la Liberté »<br />
+organisé par le Cercle Frédéric Bastiat les 3-5 juillet 2009 sur le thème :<br />
+Liberté économique, prospérité et plein emploi.</p>
+<p align="center">
+<p><strong>Abstract</strong></p>
+<p>Comparing Vietnam and Cuba provides a good lesson in practical economics.  Before both countries adopted similar Soviet political and economic policies, Cuba was much richer than Vietnam. Since 1989, Vietnam took a different approach than the Central and Eastern European ‘big bang’ by slowly ‘liberalizing’ the economic life of each citizen.  This “step by step” policy provides fertile ground to analyse the impact of the key decisions made during this transition. The result of the last 15 years of progression toward more economic liberty is that Vietnam is now far ahead of a paralysed Cuba.</p>
+<p><strong>Article</strong></p>
+<p>Le Vietnam et Cuba ont suivi le même chemin avant de diverger, ce qui a rendu particulièrement nette l’influence de la liberté économique sur le développement, tant directement que par comparaison. Je ne parle pas du plein emploi car dans le Vietnam communiste de naguère comme dans le Cuba d’aujourd’hui tout le monde a théoriquement un travail assigné par le plan. Même si ce n’est pas celui qu’il souhaite, ni à l’endroit qu’il souhaite et encore moins au salaire qu’il souhaite. Je ne parle pas non plus de libéralisme, par ce que ce dernier comprend la liberté politique. Je me borne à la constatation de l’autorisation de faire telle action économique qui était interdite auparavant.</p>
+<p>Nous parlerons surtout du Vietnam, dont les réformes successives sont autant d’expériences instructives, alors que Cuba s’enferrait dans le <em>statu quo. </em>Ceux qui voudraient en savoir plus sur cette dictature stalinienne doivent lire l’ouvrage très complet de Pierre Rigoulot.</p>
+<h3>Les situations initiales</h3>
+<p>Le Vietnam d’aujourd’hui regroupe d’anciennes colonies et protectorats français. A cette époque l’économie était largement fondée sur les cultures vivrières consommées localement, à l’exception de quelques plantations, par exemple d’hévéas pour Michelin. Un début d’industrie (les Brasseries de l’Indochine) ne suffisait pas à absorber la croissance de la population agricole et les rations par tête étaient faibles dans le delta du fleuve Rouge au nord. Signalons que cette situation séculaire découle de l’origine historique du Vietnam et non de la colonisation française, sauf indirectement en fin de période par les progrès sanitaires qu’elle a apporté, et donc la croissance démographique ainsi générée. La situation était bien meilleure dans le delta du Mékong au sud, la colonisation vietnamienne au détriment du Cambodge était plus récente et la densité rurale moins forte. La France avait apporté un début de scolarisation.</p>
+<p>Dans l’ensemble la pauvreté n’était pas absolue puisque c’était la seule colonie française autosuffisante, c’est-à-dire où les investissements lancés par les Français (les routes avec leur fameux « ponts Eiffel ») pouvaient êtres payés par des prélèvements locaux et non par des subsides de la métropole.</p>
+<p>Cuba était dans une situation totalement différente : c’était un pays d’Amérique Latine « comme les autres », avec certes de fortes inégalités sociales, mais des classes moyennes suffisamment nombreuses pour que le nombre de voitures et la consommation de viande soient au 2è et 3è rang en Amérique Latine, et cela à une époque où l&#8217;Argentine et l&#8217;Uruguay étaient &#8220;au Nord&#8221;.<strong> </strong>Certains indicateurs de richesse ou de confort (les kms d’autoroute ou le nombre de téléviseurs par habitant) étaient meilleurs que dans la France de 1959. A cette date, Cuba aide l’Espagne. Aujourd’hui, c’est l’Espagne qui par toutes sortes de canaux, aide Cuba. Pour charger Batista, on rappelle que 23,6 % des adultes étaient analphabètes (voir <em>El Païs</em>, cité par <em>Courrier International</em> n° 949, p.24, et les nombreuses données dans le même sens dans <em>Coucher de soleil sur La Havane</em>). Ce chiffre doit être comparé non pas à la « scolarisation totale » vantée par Castro mais à la situation des autres pays du Sud à la même date ainsi qu&#8217;à leur situation actuelle. Toujours pour charger Batista, on rajoute que &#8220;8% des propriétaires possédaient 70% des terres&#8221;. Là aussi des comparaisons internationales seraient intéressantes, ainsi que le rappel de la solution classique : le développement spontané de l’industrie et des services a par exemple mené à une France de grandes exploitations, ce qui semble préférable au regroupement des terres par la spoliation et les exécutions. Enfin, les Castristes ont fait de Batista un dictateur « repoussoir », alors qu’il était beaucoup moins répressif que d’autres caudillos … et que son successeur. Rappellons qu’en 1940 Batista est élu avec les voix communistes. Après son coup d’Etat de 1952, on peut parler de « dictabianda », de « dictature molle », avec presse variée et partis politiques autorisés – sauf le PC (même source).</p>
+<p>Bref les Cubains étaient alors bien plus « développés » que les Vietnamiens.</p>
+<h3>Les prises de pouvoir</h3>
+<p>Dans ces deux pays, « la Révolution » a été présentée comme étant aussi une lutte de « fronts multipartis » pour l’indépendance, dirigés respectivement contre la France et les Etats-Unis, ce qui a permis d’avoir des appuis intellectuels et militaires. Il faut rappeler que l’on était en période de guerre froide et que l’anti-colonialisme proclamé masquait l’impérialisme soviétique. De toute façon, l’URSS était alors « le bon camp » pour de larges secteurs de l’opinion.</p>
+<p>A Cuba, le mouvement castriste, le M 26 fut « un front » rejoint tardivement par le PC (alors dénommé PSP, parti socialiste populaire), très réticent à déclencher la lutte armée. Castro avait besoin du PC pour faire partie du camp socialiste et bénéficier du parapluie nucléaire soviétique. Castro avant 1961 se dit démocrate, favorable aux élections libres, etc. Après 1961, il dira qu’il a toujours été communiste.</p>
+<p>Au Vietnam, la prise de pouvoir en 1954 au Nord a été précédée d’une guerre longue et meurtrière à l’issue de laquelle d’importantes minorités, notamment bourgeoises et/ou catholique, sont parties pour la France ou le Sud du Vietnam, ce qui a encore appauvri le nord. Par contre la conquête du Sud en 1975 après le départ des Américains en 1973 a été très rapide. Les couches supérieures et/ou catholiques n’ont pas eu le temps de fuir et la région a été peu détruite. Ce  Sud Vietnam s’était nettement développé entre temps (sans plonger dans les chiffres, il suffit de constater l’importance de l’importation des livres en français et en anglais). Ce développement s’explique d’une part par le maintien jusqu’au dernier moment des entreprises et des écoles françaises, par l’apparition d’écoles « américaines », et par l’action d’une classe d’entrepreneurs vietnamiens et chinois.</p>
+<h3>La mise en place des systèmes communistes</h3>
+<p>Au Vietnam, le « front » (FNL : Front National de Libération) apparut très vite comme un simple écran du parti communiste. À Cuba, Fidel Castro, qui s’était proclamé non communiste alors que son frère Raoul l’était, prit rapidement des mesures économiques typiques, jusqu’à l’officialisation du parti communiste comme parti unique cubain (1965).</p>
+<p>Dans les deux cas, le contrôle de la population a été immédiatement « énergique », avec de nombreuses exécutions à Cuba et l’exode corrélatif de la bourgeoisie, tandis qu’au Vietnam après 1954 la « réforme agraire » a entraîné un soulèvement de la population dont la répression aurait fait beaucoup plus de 100 000 morts. La prise de pouvoir au Sud en 1975 a envoyé dans des camps de rééducations les fonctionnaires et les militaires, l’employé de base y restant un an ou deux et les cadres supérieurs plus de dix ans. Les entrepreneurs nationalisés, dont une grande partie était issue de la minorité chinoise, prirent la mer ( les « boat people » ) souvent en laissant leur or en contrepartie de la non-surveillance des plages. Le gouvernement se débarrassait ainsi d’une minorité potentiellement dangereuse, tout en se procurant des devises qui auraient été sinon enterrées ou emportées. Rappelons que le Vietnam était allié à l’URSS et donc opposé à la Chine, qui, elle, était aux côtés des Khmers Rouges au Cambodge. Ces derniers furent battus par les Vietnamiens en 1979, ce qui déclencha l’offensive chinoise au nord du Vietnam. Cette offensive échoua et le Vietnam eut la prudence de rester discret sur cette victoire.</p>
+<p>Les prises de pouvoir se sont donc soldées par une nationalisation de l’économie et la disparition des couches qualifiées de la population. Le tout dans une ambiance générale de contrôle de l’information et de disparition des libertés politiques et intellectuelles.</p>
+<h3>Des structures figées</h3>
+<p>Ces mesures eurent les mêmes conséquences que dans les autres pays communistes avec notamment un effondrement de l’agriculture. Dans tous ces pays le paysan devant porter sa récolte à la coopérative a tendance à ne produire que pour lui et sa famille. Au Vietnam, après 1975, l’effondrement du Sud s’ajouta à l’appauvrissement du Nord. La sous-alimentation était telle que les familles dépendaient des envois des émigrés, principalement de Miami pour les Cubains et de France ou d’Amérique pour les Vietnamiens. Je me souviens de publicités de l’UNICEF demandant d’aider les enfants vietnamiens touchés par la disette.</p>
+<p>L’industrie a été également nationalisée, mais n’occupait pas une place importante au départ et ne s’est pas beaucoup développée. Fidel Castro a concentré les efforts du pays « zafra », la récolte de la canne à sucre qui devint très vite le thermomètre économique du pays. Il alla jusqu’à interrompre les autres activités pour en envoyer le personnel à la « zafra ». Cela toujours machette à la main, alors que se développait ailleurs dans le monde, et notamment en Australie, une exploitation mécanique. Le prix international du sucre ne laissait donc pas de marge pour les salaires cubains. Heureusement, Castro obtint de l’URSS un prix préférentiel « politique » qui permit de survivre jusqu’en 1989. Et comme dans toute économie socialisée, les services étaient considérés comme parasitaires et réduits au minimum, alors qu’ils représentent 70 à 80 % dans les pays modernes.</p>
+<p>On retrouve « la glaciation » politique et économique des Soviétiques, avec comme circonstance aggravante que<strong> </strong>des « satellites » comme le Vietnam et Cuba ne bénéficiaient qu’indirectement, donc peu et avec du retard, du pillage des innovations des pays  « extérieurs » par l’URSS. Pillage qui, de plus, portait plus sur les « industries de base », très liées au militaire, que sur les besoins humbles et pratique de la population. « Ils mangent donc de l’acier ? » disait le populaire lorsque l’on célébrait les résultats du plan. De plus, les satellites devaient payer « l’aide fraternelle » de l’URSS. Pour le Vietnam, cette aide comprenait notamment les armes que l’URSS lui avait fourni pour combattre les Américains, puis les Cambodgiens, puis les Chinois. Ce remboursement de l’aide se fit en chair à canon pour Cuba en Angola et par l’envoi de dizaines (ou de centaines ?) de milliers de travailleurs Vietnamiens dans le monde communiste, où les Occidentaux furent étonnés de les trouver après la chute du mur.</p>
+<h3>Réformes au Vietnam, glaciation à Cuba</h3>
+<p>Les années 1989-1991 voient la disparition de l’empire soviétique puis de l’URSS. Catastrophique pour Cuba, ce sera l’amorce d’une libéralisation pour le Vietnam, dégagé de ses obligations et des nombreux « conseillers » peu appréciés par la population et aux directives économiques douteuses (j’ai discuté avec eux en 1989). Les réformes, débattues en vase clos depuis longtemps du fait du naufrage général, devenaient possibles. Le Vietnam se lança, mais Cuba se borna à autoriser quelques investissements étrangers dans l’hôtellerie.</p>
+<p>La première réforme vietnamienne fut d’autoriser la vente de la production agricole sur le marché par le paysan. Le résultat fut immédiat : quelques mois après, on ne savait plus où mettre le riz. J’ai vu utiliser le moindre bout d’asphalte (notamment les routes sud-coréennes du delta du Mékong) utilisé pour y déposer des montagnes de riz. On passa quasi instantanément de la disette à la nourriture normale des villes et à l’exportation. De plus  ce marché libre entraîna des réactions en chaîne : le citadin devait faire « quelque chose » pour payer le riz. D’où la réapparition des services de bases aux paysans : coiffeurs, tailleurs, artisans en biens de consommation très simples. Puis vinrent les services à ces services avec par exemple l’explosion des restaurants.</p>
+<p>Mais tout cela était limité par l’interdiction du salariat privé. D’où une nouvelle liberté l’autorisation de faire travailler « la famille » dans ces micros entreprises. Tout le monde eut de nombreux « cousins » et l’entreprise type passa de 2-3 à 8-10 personnes. Saïgon se transforma : lors de mon voyage précédent, on risquait l’accident à la brune (qui arrive tôt) car les trottoirs mal éclairés étaient éventrés jusqu’aux égouts, tandis que les vitrines étaient d’un morne total. En quelques mois les commerçants transformèrent des kilomètres de rues qui se retrouvèrent avec des vitrines soignées et éclairées, des terrasses et autres aménagements.</p>
+<p>Un autre voyage me mena au Cambodge, dans Phnom Penh encore dévastée plus de dix ans après la victoire vietnamienne sur les Khmers Rouges. Le pays était alors passé du communisme maoïste génocidaire au communisme soviétique figé, progrès alors très appréciable. L’hôtel était sommairement remis en service par un Chinois, qui se savait occupant précaire. L’unique lecture était «<em> Les nouvelles de Moscou</em> » en français ; la télévision passait de la propagande soviétique (en russe) sur la deuxième guerre mondiale avec le valeureux commissaire politique démasquant l’ignoble espionne nazie ; les gamins cambodgiens n’avaient jamais vu de blondes et étaient hypnotisés.</p>
+<p>Je vis plus tard le Chinois se précipiter à la mairie et revenir avec un titre de propriété de l’hôtel : le cadastre ayant été détruit par les Khmers Rouges, la propriété était redistribuée aux occupants, moyennant environs 15 € (de mémoire). Le tout nouveau propriétaire appela son clan et tout ce petit monde commença à repeindre la façade.</p>
+<p>Au Vietnam, les véhicules privés furent de nouveau autorisés. On vit sortir de la paille les dauphines et les 203, vite  remplacées par des Toyota. La circulation des biens s’accéléra, multipliant les PME, tandis que les « cousins » s’équipaient de bicyclettes, puis de scooters. L’offre est la demande de travail privé se matérialisant, le salariat fut autorisé. Nouveau bond en avant.</p>
+<p>Les investisseurs étrangers se présentèrent. Au début ils ne pouvaient pas acheter de terrains ou constructions, ni embaucher directement leurs employés étant payé par l’Etat qui encaissait les devises et payait les salaires en monnaie locale fondante (comme encore aujourd’hui à Cuba). Un nouveau stade de développement fut néanmoins franchi, puis un autre avec le salariat direct. La propriété des terrains et constructions resta plus longtemps « délicate » et n’est toujours pas sûre aujourd’hui.<strong> </strong></p>
+<p>En 1995 avaient été libéralisés le commerce et les prix ; les taux de change, en glissement permanent, devenaient plus réalistes, l’ouverture aux investissements étrangers et l’élimination des restrictions au secteur privé étaient bien avancées. Le Premier  ministre déclarait que les réformes avaient « libéré la créativité, le dynamisme et la capacité des Vietnamiens ».  Il ajoutait cependant que l’on en était à une « étape transitoire de réforme, (car) de nombreux problèmes très aigus doivent être résolus ». Il manquait encore un code civil, un code commercial, un cadre juridique pour la concurrence, la protection des consommateurs et les entreprises d&#8217;État, les coopératives et les marchés publics. Les banques et les finances publiques ne fonctionnaient pas encore au sens occidental du terme.</p>
+<p>Cette évolution et cette perspective de remise en cause de l’arbitraire économique ont généré des tensions politiques, notamment en 1995 et 96. Les conservateurs regrettèrent l’affaiblissement du rôle du Parti dans la vie économique. Ils retardèrent les privatisations et empêchèrent toute réforme politique. Le parti unique, la «dictature du prolétariat» et le «centralisme démocratique» restèrent en place.</p>
+<p>Les taux de croissance dépassèrent ceux prévus par le plan  et atteignirent des niveaux « à la chinoise » avec une simple hésitation pendant la crise asiatique de 1997</p>
+<p>Le commerce extérieur bascula du bloc soviétique vers l’ensemble du monde. Les relations avec le FMI et la Banque Asiatique de Développement furent normalisées. Le Vietnam a rejoint l’ASEAN (Association des Nations de l&#8217;Asie du Sud-Est) vers 1996 et a conclu un accord commercial bilatéral avec les États-Unis en 2000. En 2005, les réserves en devises dépassèrent la dette extérieure.</p>
+<p>En 2006 apparut une nouvelle équipe gouvernementale à l’occasion du départ à la retraite de la quasi-totalité de l’ancienne. Pour la première fois depuis 1975, deux des trois fonctions les plus importantes du régime sont occupées par des « Sudistes » réputés plus pragmatiques.</p>
+<p>En 2007, le Vietnam adhéra à l’Organisation Mondiale du Commerce. Après la déclaration de principe pour y entrer, il fallut passer à la protection effective de la propriété intellectuelle. C’est en préparation avec l’appui technique de la Suisse. De même, toujours avec l’appui suisse, on prépare le cadre juridique de la concurrence et plus généralement celui nécessaire aux affaires.</p>
+<p>Le pays vit du tourisme, de l’exportation d’une part de sa production agricole et, de plus en plus, des productions « à la chinoise ». Je veux dire par là que des entreprises « occidentales » (au sens large : dépendant directement ou non des Etats-Unis, de l’Europe, du Japon, de Hong Kong, de Singapour, …) y installent leurs usines, du fait de la qualité de la main d’œuvre et de son bas coût, mais aussi pour ne pas dépendre exclusivement de la Chine dans ce domaine. Corrélativement, Saïgon a retrouvé ses embouteillages de 1975.</p>
+<h3>Conclusion</h3>
+<p>Les économistes ont donc eu la chance d’assister à une expérience de laboratoire au Vietnam où l’on ajouta une liberté après l’autre, pour en voir le résultat tout de suite. Cela contrairement à d’autres pays ex-soviétiques où tout changea du jour au lendemain. Il ne s’agit pas ici de dire laquelle des deux méthodes est la meilleure, mais de bénéficier de l’observation que permet le gradualisme.</p>
+<p>Ce gradualisme vietnamien s’est appuyé sur l’expérience parallèle de la Chine. Dans ces deux pays, il avait, bien entendu, pour but de sauver le système politique au moment où l’on voyait ce dernier s’écrouler dans les pays soviétiques d’Europe.</p>
+<p>Finalement, l’indice de liberté économique du Vietnam est à 51 aujourd’hui, venant de 40 en 1995, début de la série statistique. Il se compare à 63 en France, 81 aux Etats-Unis et 90 à Hong Kong, le champion mondial. Avant 1989 il devait être de voisin de celui de Cuba, qui était à 28 en 1995 comme aujourd’hui, et comme vraisemblablement depuis des décennies. Nous avons vu les étapes de ce passage de 28 à 51 et ce qui reste à faire (tous ces chiffres viennent du <em>2009 index of economic freedom</em>, The Heritage Foudation &amp; The Wall Street Journal).</p>
+<p>Il est frappant de voir que tout cela a été généré par des décisions juridiques simples, et que ce sont les citoyens qui ont fait spontanément « le reste », notamment ceux d’un Sud communisé depuis 14 ans seulement et dont une part des habitants avaient gardé des compétences « capitalistes »</p>
+<p>Quant au score cubain en liberté économique, il est le pire après la Corée du Nord et le Zimbabwe. Le gouvernement a privilégié la politique extérieure (dont « l’exportation de la révolution ») sur les besoins intérieurs : alimentation, logement transport, sans laisser aux citoyens la possibilité de s’en charger eux-m. Les statistiques officielles (PNB global et par tête) ne sont pas fiables. Le pays a vécu aux crochets de l’URSS, et vit maintenant de la charité vénézuelienne pour le pétrole et de celle des exilés et des touristes pour le reste. Le Vietnam est sorti de cette situation, l’appui des exilés étant aujourd’hui limité à leurs vieux parents, en la quasi-absence de retraite et d’assurance maladie (et ce pays se dit socialiste !).</p>
+<p><strong>Sources d’informations</strong></p>
+<p>Rigoulot, Pierre, <em>Coucher de soleil sur La Havane.</em><em> La Cuba de Castro 1959-2007</em>, Flammarion, 2007.</p>
+<p><em>Courrier International</em> (<a href="http://www.courrierinternational.com/">http://www.courrierinternational.com/</a>)</p>
+<p><em>2009 index of economic freedom </em>(<a href="http://www.heritage.org/Index/">http://www.heritage.org/Index/</a>)</p>
+<p>Quême : Action for democracy in Viet Nam (<a href="http://www.queme.net/">http://www.queme.net/</a>)</p>
+<div class="sharedaddy sd-sharing-enabled"><div class="robots-nocontent sd-block sd-social sd-social-official sd-sharing"><div class="sd-content"><ul><li class="share-facebook"><div class="fb-share-button" data-href="http://activehistory.ca/papers/themes/international/vietnam-et-cuba/" data-layout="button_count"></div></li><li class="share-twitter"><a href="https://twitter.com/share" class="twitter-share-button" data-url="http://activehistory.ca/papers/themes/international/vietnam-et-cuba/" data-text="Pourquoi le Vietnam s&#039;en tire et Cuba s&#039;enfonce" data-via="ActiveHist" >Tweet</a></li><li class="share-email"><a rel="nofollow noopener noreferrer" data-shared="" class="share-email sd-button" href="http://activehistory.ca/papers/themes/international/vietnam-et-cuba/?share=email" target="_blank" title="Click to email this to a friend"><span>Email</span></a></li><li class="share-end"></li></ul></div></div></div>					</div><!-- .entry-content -->
+
+		<footer class="entry-meta">
+					</footer><!-- .entry-meta -->
+
+	</article><!-- #post -->				
+<div id="comments" class="comments-area">
+
+				<div class="zg-wrapper-widget-area">
+			<div id="text-445942440" class="widget widget_text">			<div class="textwidget"><p><a href="http://creativecommons.org/licenses/by-nd/4.0/" rel="license"><img style="border-width: 0;" src="https://i.creativecommons.org/l/by-nd/4.0/80x15.png" alt="Creative Commons Licence" /></a><br />
+This work is licensed under a <a href="http://creativecommons.org/licenses/by-nd/4.0/" rel="license">Creative Commons Attribution-NoDerivatives 4.0 International License</a>. Blog posts published before October  28, 2018 are licensed with a Creative Commons Attribution-NonCommercial-ShareAlike 2.5 Canada License.</p>
+</div>
+		</div>		</div>
+    	
+			<h2 class="comments-title">
+			One thought on &ldquo;<span>Pourquoi le Vietnam s&#8217;en tire et Cuba s&#8217;enfonce</span>&rdquo;		</h2>
+
+		<ol class="commentlist">
+				<li class="pingback even thread-even depth-1" id="comment-50395">
+		<p>Pingback: <a href='http://yvesmontenay.fr/2009/07/04/pourquoi-le-vietnam-sen-tire-et-cuba-senfonce/' rel='external nofollow ugc' class='url'>Pourquoi le Vietnam s&rsquo;en tire et Cuba s&rsquo;enfonce | Yves Montenay</a> </p>
+	</li><!-- #comment-## -->
+		</ol><!-- .commentlist -->
+
+		
+		
+		
+		
+	<div class="wrapper-form-comments">
+	
+		<div id="respond" class="comment-respond">
+							<h3 id="reply-title" class="comment-reply-title">Please note: ActiveHistory.ca encourages comment and constructive discussion of our articles. We reserve the right to delete comments submitted under aliases, or that contain spam, harassment, or attacks on an individual.					<small><a rel="nofollow" id="cancel-comment-reply-link" href="/papers/themes/international/vietnam-et-cuba/?shared=email&amp;msg=fail#respond" style="display:none;">Cancel reply</a></small>
+				</h3>
+						<form id="commentform" class="comment-form">
+				<iframe title="Comment Form" src="https://jetpack.wordpress.com/jetpack-comment/?blogid=42146343&#038;postid=321&#038;comment_registration=0&#038;require_name_email=1&#038;stc_enabled=1&#038;stb_enabled=1&#038;show_avatars=1&#038;avatar_default=mystery&#038;greeting=Please+note%3A+ActiveHistory.ca+encourages+comment+and+constructive+discussion+of+our+articles.+We+reserve+the+right+to+delete+comments+submitted+under+aliases%2C+or+that+contain+spam%2C+harassment%2C+or+attacks+on+an+individual.&#038;greeting_reply=Leave+a+Reply+to+%25s&#038;color_scheme=light&#038;lang=en_CA&#038;jetpack_version=8.6.1&#038;show_cookie_consent=10&#038;has_cookie_consent=0&#038;token_key=%3Bnormal%3B&#038;sig=c7a1df39d513d843bbee3431de542187b1bbcfdb#parent=http%3A%2F%2Factivehistory.ca%2Fpapers%2Fthemes%2Finternational%2Fvietnam-et-cuba%2F%3Fshared%3Demail%26msg%3Dfail" style="width:100%; height: 430px; border:0;" name="jetpack_remote_comment" class="jetpack_remote_comment" id="jetpack_remote_comment" sandbox="allow-same-origin allow-top-navigation allow-scripts allow-forms allow-popups"></iframe>
+									<!--[if !IE]><!-->
+					<script>
+						document.addEventListener('DOMContentLoaded', function () {
+							var commentForms = document.getElementsByClassName('jetpack_remote_comment');
+							for (var i = 0; i < commentForms.length; i++) {
+								commentForms[i].allowTransparency = false;
+								commentForms[i].scrolling = 'no';
+							}
+						});
+					</script>
+					<!--<![endif]-->
+							</form>
+		</div>
+
+		
+		<input type="hidden" name="comment_parent" id="comment_parent" value="" />
+
+			</div>
+
+</div><!-- #comments .comments-area -->			
+		</div><!-- #content -->
+	</div><!-- #primary -->
+
+
+			<div id="secondary" class="widget-area" role="complementary">
+			<aside id="search-2" class="widget widget_search">	<div class="wrapper-search-form">
+		<form method="get" id="searchform" action="http://activehistory.ca/">
+			<label for="s" class="assistive-text">Search</label>
+			<input type="search" class="txt-search" placeholder="Search..." name="s" id="s" />
+			<input type="submit" name="submit" id="btn-search-n" value="Search" />
+		</form>
+    </div></aside><aside id="text-445942422" class="widget widget_text"><h3 class="widget-title"><span class="prefix-widget-title"><i class="fa fa-th-large"></i></span> What is Active History?</h3>			<div class="textwidget"><p>ActiveHistory.ca is a website that connects the work of historians with the wider public and the importance of the past to current events.</p>
+<p>Please direct queries to Daniel Ross, Public Outreach Coordinator, via <a href="info@activehistory.ca">info@activehistory.ca</a>.</p>
+<p>For author guidelines, <a href="https://wp.me/P2QQbJ-32">click here</a>.</p>
+<p>Visitez notre partenaire francophone, <a href="http://histoireengagee.ca/"> HistoireEngagée.ca</a></p>
+</div>
+		</aside><aside id="text-445942433" class="widget widget_text"><h3 class="widget-title"><span class="prefix-widget-title"><i class="fa fa-th-large"></i></span> Ongoing Projects</h3>			<div class="textwidget"><ul>
+<li><b><a href="http://activehistory.ca/papers/beyond-the-lecture-series-list/">Beyond the Lecture</a></b></li>
+<li><b><a href="http://activehistory.ca/papers/canadas-first-world-war-a-centennial-series-on-activehistory-ca/">Canada's First World War</a></b></li>
+<li><b><a href="http://activehistory.ca/papers/from-juno-to-victory/">From Juno to Victory</a></b></li>
+<li><b><a href="http://activehistory.ca/podcasts/">History Slam Podcast</a></b></li>
+<li><b><a href="http://activehistory.ca/publications/">Open-Access Ebooks</a></b></li>
+<li><b><a href="http://activehistory.ca/remember-i-resist-i-redraw/">Remember/Resist/Redraw</a></b></li>
+</ul>
+
+</div>
+		</aside><aside id="twitter_timeline-3" class="widget widget_twitter_timeline"><h3 class="widget-title"><span class="prefix-widget-title"><i class="fa fa-th-large"></i></span> Twitter</h3><a class="twitter-timeline" data-theme="light" data-border-color="#e8e8e8" data-tweet-limit="3" data-lang="EN" data-partner="jetpack" data-chrome="noheader" href="https://twitter.com/ActiveHist" href="https://twitter.com/ActiveHist">My Tweets</a></aside><aside id="blog_subscription-3" class="widget widget_blog_subscription jetpack_subscription_widget"><h3 class="widget-title"><span class="prefix-widget-title"><i class="fa fa-th-large"></i></span> Subscribe via email</h3>
+            <form action="#" method="post" accept-charset="utf-8" id="subscribe-blog-blog_subscription-3">
+				                    <p id="subscribe-email">
+                        <label id="jetpack-subscribe-label"
+                               class="screen-reader-text"
+                               for="subscribe-field-blog_subscription-3">
+							Email Address                        </label>
+                        <input type="email" name="email" required="required"
+                        			                                                value=""
+                            id="subscribe-field-blog_subscription-3"
+                            placeholder="Email Address"
+                        />
+                    </p>
+
+                    <p id="subscribe-submit">
+                        <input type="hidden" name="action" value="subscribe"/>
+                        <input type="hidden" name="source" value="http://activehistory.ca/papers/themes/international/vietnam-et-cuba/?shared=email&#038;msg=fail"/>
+                        <input type="hidden" name="sub-type" value="widget"/>
+                        <input type="hidden" name="redirect_fragment" value="blog_subscription-3"/>
+						                        <button type="submit"
+	                        		                    	                        name="jetpack_subscriptions_widget"
+	                    >
+	                        Subscribe                        </button>
+                    </p>
+				            </form>
+		
+</aside>		</div><!-- #secondary -->
+		</div><!-- #main .wrapper -->
+	</div><!-- #page -->
+		<footer>
+	<div style="background-color:#444444;">
+		<div class="wrapper-widget-area-footer">
+			<div class="widget-area-footer">
+				<div id="text-445942435" class="widget widget_text">			<div class="textwidget">ActiveHistory.ca is supported financially and administratively by the <a href="http://artsandscience.usask.ca/history/">History Department at the University of Saskatchewan</a> and <a href="http://www.huronuc.on.ca/Home">Huron University College</a>. <a href="https://calicologic.com/">Calico Logic</a> provides technical support.</div>
+		</div>			</div>
+			
+			<div class="widget-area-footer">
+				<div id="text-445942437" class="widget widget_text">			<div class="textwidget"><img src="http://activehistory.ca/wp-content/uploads/2017/02/usask_ArtsScience_History_black_reverse.png"/></div>
+		</div>			</div>
+			
+			<div class="widget-area-footer">
+				<div id="text-445942439" class="widget widget_text">			<div class="textwidget"><img src="http://activehistory.ca/wp-content/uploads/2017/02/huronuc_horiz_rgb_black_reverse_720.png"/></div>
+		</div>			</div>
+		</div>
+	</div>
+	</footer>
+		<hr class="hr-oscura" />
+	<footer id="colophon" role="contentinfo">
+	<div class="social-icon-wrapper">
+							<a href="https://twitter.com/activehist" title="Twitter" target="_blank"><i class="fa fa-twitter"></i></a> 
+						
+							<a href="https://www.facebook.com/ActiveHist/" title="Facebook" target="_blank"><i class="fa fa-facebook"></i></a>
+						
+						
+						
+					 		<a href="https://www.youtube.com/user/activehistoryca" title="YouTube" target="_blank"><i class="fa fa-youtube"></i></a>
+						
+						
+						
+							<a class="rss" href="http://feeds.feedburner.com/activehistoryca" title="Feed RSS" target="_blank"><i class="fa fa-rss"></i></a>			
+					</div><!-- .social-icon-wrapper -->
+		<hr class="hr-oscura" />
+		<div class="site-info">
+			<div class="credits-left"></div>
+			<div class="credits-center"><a rel="license" href="http://creativecommons.org/licenses/by-nd/4.0/"><img alt="Creative Commons Licence" style="border-width:0" src="https://i.creativecommons.org/l/by-nd/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nd/4.0/">Creative Commons Attribution-NoDerivatives 4.0 International License</a>.
+Blog posts published before October 28, 2018 are licensed with a Creative Commons Attribution-NonCommercial-ShareAlike 2.5 Canada License.</div>
+			<div class="credits-right"></div>
+		</div><!-- .site-info -->
+		
+			</footer><!-- #colophon -->
+
+			<div class="ir-arriba"><i class="fa fa-chevron-up"></i></div>
+	<script>
+    jQuery(document).ready(function () {
+		jQuery.post('http://activehistory.ca?ga_action=googleanalytics_get_script', {action: 'googleanalytics_get_script'}, function(response) {
+			var s = document.createElement("script");
+			s.type = "text/javascript";
+			s.innerHTML = response;
+			jQuery("head").append(s);
+		});
+    });
+</script><div id="fb-root"></div>
+			<script>(function(d, s, id) { var js, fjs = d.getElementsByTagName(s)[0]; if (d.getElementById(id)) return; js = d.createElement(s); js.id = id; js.src = 'https://connect.facebook.net/en_CA/sdk.js#xfbml=1&appId=249643311490&version=v2.3'; fjs.parentNode.insertBefore(js, fjs); }(document, 'script', 'facebook-jssdk'));</script>
+			<script>
+			jQuery( document.body ).on( 'post-load', function() {
+				if ( 'undefined' !== typeof FB ) {
+					FB.XFBML.parse();
+				}
+			} );
+			</script>
+						<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+'://platform.twitter.com/widgets.js';fjs.parentNode.insertBefore(js,fjs);}}(document, 'script', 'twitter-wjs');</script>
+				<div id="sharing_email" style="display: none;">
+		<form action="/papers/themes/international/vietnam-et-cuba/?shared=email&#038;msg=fail" method="post">
+			<label for="target_email">Send to Email Address</label>
+			<input type="email" name="target_email" id="target_email" value="" />
+
+			
+				<label for="source_name">Your Name</label>
+				<input type="text" name="source_name" id="source_name" value="" />
+
+				<label for="source_email">Your Email Address</label>
+				<input type="email" name="source_email" id="source_email" value="" />
+
+						<input type="text" id="jetpack-source_f_name" name="source_f_name" class="input" value="" size="25" autocomplete="off" title="This field is for validation and should not be changed" />
+			
+			<img style="float: right; display: none" class="loading" src="http://activehistory.ca/wp-content/plugins/jetpack/modules/sharedaddy/images/loading.gif" alt="loading" width="16" height="16" />
+			<input type="submit" value="Send Email" class="sharing_send" />
+			<a rel="nofollow" href="#cancel" class="sharing_cancel" role="button">Cancel</a>
+
+			<div class="errors errors-1" style="display: none;">
+				Post was not sent - check your email addresses!			</div>
+
+			<div class="errors errors-2" style="display: none;">
+				Email check failed, please try again			</div>
+
+			<div class="errors errors-3" style="display: none;">
+				Sorry, your blog cannot share posts by email.			</div>
+		</form>
+	</div>
+<script type='text/javascript' src='http://activehistory.ca/wp-content/themes/rubbersoul-pro/js/navigation.js?ver=20140711'></script>
+<script type='text/javascript' src='http://activehistory.ca/wp-content/themes/rubbersoul-pro/js/slider-recent-posts-fp.js?ver=2.6.4'></script>
+<script type='text/javascript' src='http://activehistory.ca/wp-content/themes/rubbersoul-pro/js/rsoul-pro-toggle-search.js?ver=2.6.4'></script>
+<script type='text/javascript' src='http://activehistory.ca/wp-content/plugins/jetpack/_inc/build/twitter-timeline.min.js?ver=4.0.0'></script>
+<script type='text/javascript' src='http://activehistory.ca/wp-includes/js/wp-embed.min.js?ver=5.4.2'></script>
+<script async="async" type='text/javascript' src='http://activehistory.ca/wp-content/plugins/akismet/_inc/form.js?ver=4.1.6'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var sharing_js_options = {"lang":"en","counts":"1","is_stats_active":"1"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://activehistory.ca/wp-content/plugins/jetpack/_inc/build/sharedaddy/sharing.min.js?ver=8.6.1'></script>
+<script type='text/javascript'>
+var windowOpen;
+			jQuery( document.body ).on( 'click', 'a.share-facebook', function() {
+				// If there's another sharing window open, close it.
+				if ( 'undefined' !== typeof windowOpen ) {
+					windowOpen.close();
+				}
+				windowOpen = window.open( jQuery( this ).attr( 'href' ), 'wpcomfacebook', 'menubar=1,resizable=1,width=600,height=400' );
+				return false;
+			});
+</script>
+
+		<!--[if IE]>
+		<script type="text/javascript">
+			if ( 0 === window.location.hash.indexOf( '#comment-' ) ) {
+				// window.location.reload() doesn't respect the Hash in IE
+				window.location.hash = window.location.hash;
+			}
+		</script>
+		<![endif]-->
+		<script type="text/javascript">
+			(function () {
+				var comm_par_el = document.getElementById( 'comment_parent' ),
+					comm_par = ( comm_par_el && comm_par_el.value ) ? comm_par_el.value : '',
+					frame = document.getElementById( 'jetpack_remote_comment' ),
+					tellFrameNewParent;
+
+				tellFrameNewParent = function () {
+					if ( comm_par ) {
+						frame.src = "https://jetpack.wordpress.com/jetpack-comment/?blogid=42146343&postid=321&comment_registration=0&require_name_email=1&stc_enabled=1&stb_enabled=1&show_avatars=1&avatar_default=mystery&greeting=Please+note%3A+ActiveHistory.ca+encourages+comment+and+constructive+discussion+of+our+articles.+We+reserve+the+right+to+delete+comments+submitted+under+aliases%2C+or+that+contain+spam%2C+harassment%2C+or+attacks+on+an+individual.&greeting_reply=Leave+a+Reply+to+%25s&color_scheme=light&lang=en_CA&jetpack_version=8.6.1&show_cookie_consent=10&has_cookie_consent=0&token_key=%3Bnormal%3B&sig=c7a1df39d513d843bbee3431de542187b1bbcfdb#parent=http%3A%2F%2Factivehistory.ca%2Fpapers%2Fthemes%2Finternational%2Fvietnam-et-cuba%2F%3Fshared%3Demail%26msg%3Dfail" + '&replytocom=' + parseInt( comm_par, 10 ).toString();
+					} else {
+						frame.src = "https://jetpack.wordpress.com/jetpack-comment/?blogid=42146343&postid=321&comment_registration=0&require_name_email=1&stc_enabled=1&stb_enabled=1&show_avatars=1&avatar_default=mystery&greeting=Please+note%3A+ActiveHistory.ca+encourages+comment+and+constructive+discussion+of+our+articles.+We+reserve+the+right+to+delete+comments+submitted+under+aliases%2C+or+that+contain+spam%2C+harassment%2C+or+attacks+on+an+individual.&greeting_reply=Leave+a+Reply+to+%25s&color_scheme=light&lang=en_CA&jetpack_version=8.6.1&show_cookie_consent=10&has_cookie_consent=0&token_key=%3Bnormal%3B&sig=c7a1df39d513d843bbee3431de542187b1bbcfdb#parent=http%3A%2F%2Factivehistory.ca%2Fpapers%2Fthemes%2Finternational%2Fvietnam-et-cuba%2F%3Fshared%3Demail%26msg%3Dfail";
+					}
+				};
+
+				
+				// Do the post message bit after the dom has loaded.
+				document.addEventListener( 'DOMContentLoaded', function () {
+					var iframe_url = "https:\/\/jetpack.wordpress.com";
+					if ( window.postMessage ) {
+						if ( document.addEventListener ) {
+							window.addEventListener( 'message', function ( event ) {
+								var origin = event.origin.replace( /^http:\/\//i, 'https://' );
+								if ( iframe_url.replace( /^http:\/\//i, 'https://' ) !== origin ) {
+									return;
+								}
+								jQuery( frame ).height( event.data );
+							});
+						} else if ( document.attachEvent ) {
+							window.attachEvent( 'message', function ( event ) {
+								var origin = event.origin.replace( /^http:\/\//i, 'https://' );
+								if ( iframe_url.replace( /^http:\/\//i, 'https://' ) !== origin ) {
+									return;
+								}
+								jQuery( frame ).height( event.data );
+							});
+						}
+					}
+				})
+
+			})();
+		</script>
+
+		<script type='text/javascript' src='https://stats.wp.com/e-202025.js' async='async' defer='defer'></script>
+<script type='text/javascript'>
+	_stq = window._stq || [];
+	_stq.push([ 'view', {v:'ext',j:'1:8.6.1',blog:'42146343',post:'321',tz:'-4',srv:'activehistory.ca'} ]);
+	_stq.push([ 'clickTrackerInit', '42146343', '321' ]);
+</script>
+			
+</body>
+</html>

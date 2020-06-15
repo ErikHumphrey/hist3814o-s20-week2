@@ -1,0 +1,630 @@
+<!DOCTYPE html>
+<!--[if IE 7]>
+<html class="ie ie7" lang="en-CA">
+<![endif]-->
+<!--[if IE 8]>
+<html class="ie ie8" lang="en-CA">
+<![endif]-->
+<!--[if !(IE 7) & !(IE 8)]><!-->
+<html lang="en-CA">
+<!--<![endif]-->
+<head>
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width" />
+<link rel="profile" href="http://gmpg.org/xfn/11" />
+<link rel="pingback" href="http://activehistory.ca/xmlrpc.php" />
+<!--[if lt IE 9]>
+<script src="http://activehistory.ca/wp-content/themes/rubbersoul-pro/js/html5.js" type="text/javascript"></script>
+<![endif]-->
+<title>Undetermined by Borders: The Commonality of Counting &#8211; Active History</title>
+<link rel='dns-prefetch' href='//secure.gravatar.com' />
+<link rel='dns-prefetch' href='//platform-api.sharethis.com' />
+<link rel='dns-prefetch' href='//fonts.googleapis.com' />
+<link rel='dns-prefetch' href='//s.w.org' />
+		<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/12.0.0-1\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/12.0.0-1\/svg\/","svgExt":".svg","source":{"concatemoji":"http:\/\/activehistory.ca\/wp-includes\/js\/wp-emoji-release.min.js?ver=5.4.2"}};
+			/*! This file is auto-generated */
+			!function(e,a,t){var r,n,o,i,p=a.createElement("canvas"),s=p.getContext&&p.getContext("2d");function c(e,t){var a=String.fromCharCode;s.clearRect(0,0,p.width,p.height),s.fillText(a.apply(this,e),0,0);var r=p.toDataURL();return s.clearRect(0,0,p.width,p.height),s.fillText(a.apply(this,t),0,0),r===p.toDataURL()}function l(e){if(!s||!s.fillText)return!1;switch(s.textBaseline="top",s.font="600 32px Arial",e){case"flag":return!c([127987,65039,8205,9895,65039],[127987,65039,8203,9895,65039])&&(!c([55356,56826,55356,56819],[55356,56826,8203,55356,56819])&&!c([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]));case"emoji":return!c([55357,56424,55356,57342,8205,55358,56605,8205,55357,56424,55356,57340],[55357,56424,55356,57342,8203,55358,56605,8203,55357,56424,55356,57340])}return!1}function d(e){var t=a.createElement("script");t.src=e,t.defer=t.type="text/javascript",a.getElementsByTagName("head")[0].appendChild(t)}for(i=Array("flag","emoji"),t.supports={everything:!0,everythingExceptFlag:!0},o=0;o<i.length;o++)t.supports[i[o]]=l(i[o]),t.supports.everything=t.supports.everything&&t.supports[i[o]],"flag"!==i[o]&&(t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&t.supports[i[o]]);t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&!t.supports.flag,t.DOMReady=!1,t.readyCallback=function(){t.DOMReady=!0},t.supports.everything||(n=function(){t.readyCallback()},a.addEventListener?(a.addEventListener("DOMContentLoaded",n,!1),e.addEventListener("load",n,!1)):(e.attachEvent("onload",n),a.attachEvent("onreadystatechange",function(){"complete"===a.readyState&&t.readyCallback()})),(r=t.source||{}).concatemoji?d(r.concatemoji):r.wpemoji&&r.twemoji&&(d(r.twemoji),d(r.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+		<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+	<link rel='stylesheet' id='wp-block-library-css'  href='http://activehistory.ca/wp-includes/css/dist/block-library/style.min.css?ver=5.4.2' type='text/css' media='all' />
+<style id='wp-block-library-inline-css' type='text/css'>
+.has-text-align-justify{text-align:justify;}
+</style>
+<link rel='stylesheet' id='dashicons-css'  href='http://activehistory.ca/wp-includes/css/dashicons.min.css?ver=5.4.2' type='text/css' media='all' />
+<link rel='stylesheet' id='rubbersoul-pro-fonts-css'  href='https://fonts.googleapis.com/css?family=Noto+Sans:400italic,700italic,400,700&#038;subset=latin,latin-ext' type='text/css' media='all' />
+<link rel='stylesheet' id='rubbersoul-pro-style-css'  href='http://activehistory.ca/wp-content/themes/rubbersoul-pro/style.css?ver=2.6.4' type='text/css' media='all' />
+<link rel='stylesheet' id='custom-style-css'  href='http://activehistory.ca/wp-content/themes/rubbersoul-pro/custom-style.css?ver=5.4.2' type='text/css' media='all' />
+<link rel='stylesheet' id='rsoul-pro-widgets-style-css'  href='http://activehistory.ca/wp-content/themes/rubbersoul-pro/css/rsoul-widgets-style.css?ver=2.6.4' type='text/css' media='all' />
+<link rel='stylesheet' id='font-awesome-css'  href='http://activehistory.ca/wp-content/themes/rubbersoul-pro/css/font-awesome-4.7.0/css/font-awesome.min.css?ver=5.4.2' type='text/css' media='all' />
+<link rel='stylesheet' id='rsoul-pro-slider-recent-posts-style-css'  href='http://activehistory.ca/wp-content/themes/rubbersoul-pro/css/slider-recent-posts-fp.css?ver=2.6.4' type='text/css' media='all' />
+<!--[if lt IE 9]>
+<link rel='stylesheet' id='rubbersoul-pro-ie-css'  href='http://activehistory.ca/wp-content/themes/rubbersoul-pro/css/ie.css?ver=20121010' type='text/css' media='all' />
+<![endif]-->
+<link rel='stylesheet' id='social-logos-css'  href='http://activehistory.ca/wp-content/plugins/jetpack/_inc/social-logos/social-logos.min.css?ver=8.6.1' type='text/css' media='all' />
+<link rel='stylesheet' id='jetpack_css-css'  href='http://activehistory.ca/wp-content/plugins/jetpack/css/jetpack.css?ver=8.6.1' type='text/css' media='all' />
+<script type='text/javascript' src='http://activehistory.ca/wp-includes/js/jquery/jquery.js?ver=1.12.4-wp'></script>
+<script type='text/javascript' src='http://activehistory.ca/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.4.1'></script>
+<script type='text/javascript' src='//platform-api.sharethis.com/js/sharethis.js#product=ga'></script>
+<link rel='https://api.w.org/' href='http://activehistory.ca/wp-json/' />
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://activehistory.ca/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://activehistory.ca/wp-includes/wlwmanifest.xml" /> 
+<meta name="generator" content="WordPress 5.4.2" />
+<link rel="canonical" href="http://activehistory.ca/papers/pbaskerville/" />
+<link rel='shortlink' href='https://wp.me/P2QQbJ-1g0' />
+<link rel="alternate" type="application/json+oembed" href="http://activehistory.ca/wp-json/oembed/1.0/embed?url=http%3A%2F%2Factivehistory.ca%2Fpapers%2Fpbaskerville%2F" />
+<link rel="alternate" type="text/xml+oembed" href="http://activehistory.ca/wp-json/oembed/1.0/embed?url=http%3A%2F%2Factivehistory.ca%2Fpapers%2Fpbaskerville%2F&#038;format=xml" />
+<script type="text/javascript"><!--
+function powerpress_pinw(pinw_url){window.open(pinw_url, 'PowerPressPlayer','toolbar=0,status=0,resizable=1,width=460,height=320');	return false;}
+//-->
+</script>
+
+<link rel='dns-prefetch' href='//jetpack.wordpress.com'/>
+<link rel='dns-prefetch' href='//s0.wp.com'/>
+<link rel='dns-prefetch' href='//s1.wp.com'/>
+<link rel='dns-prefetch' href='//s2.wp.com'/>
+<link rel='dns-prefetch' href='//public-api.wordpress.com'/>
+<link rel='dns-prefetch' href='//0.gravatar.com'/>
+<link rel='dns-prefetch' href='//1.gravatar.com'/>
+<link rel='dns-prefetch' href='//2.gravatar.com'/>
+<link rel='dns-prefetch' href='//widgets.wp.com'/>
+<link rel='dns-prefetch' href='//v0.wordpress.com'/>
+	<style type='text/css'>
+		a {color: #0f7b3f;}
+	a:hover {color: #0f7b3f;}
+	.social-icon-wrapper a:hover {color: #0f7b3f;}
+	.prefix-widget-title {color: #0f7b3f;}
+	.term-icon {color: #0f7b3f;}
+	.sub-title a:hover {color:#0f7b3f;}
+	.entry-content a:visited,.comment-content a:visited {color:#0f7b3f;}
+	input[type="submit"] {background-color:#0f7b3f !important;}
+	input[type="reset"] {background-color:#0f7b3f !important;}
+	.bypostauthor cite span {background-color:#0f7b3f;}
+	.wrapper-cabecera {background-color:#0f7b3f;}
+	.wrapper-search-top-bar {background-color:#0f7b3f;}
+	.main-navigation {background-color:#0f7b3f;}
+	.entry-header .entry-title a:hover {color:#0f7b3f ;}
+	.archive-header {border-left-color:#0f7b3f;}
+	.main-navigation a:hover,
+	.main-navigation a:focus {
+		color: #0f7b3f;
+	}
+	.widget-area .widget a:hover {
+		color: #0f7b3f !important;
+	}
+	footer[role="contentinfo"] a:hover {
+		color: #0f7b3f;
+	}
+	.entry-meta a:hover {
+	color: #0f7b3f;
+	}
+	.format-status .entry-header header a:hover {
+		color: #0f7b3f;
+	}
+	.comments-area article header a:hover {
+		color: #0f7b3f;
+	}
+	a.comment-reply-link:hover,
+	a.comment-edit-link:hover {
+		color: #0f7b3f;
+	}
+	.template-front-page .widget-area .widget li a:hover {
+		color: #0f7b3f;
+	}
+	
+	.currenttext, .paginacion a:hover {background-color:#0f7b3f;}
+	.aside{border-left-color:#0f7b3f !important;}
+	blockquote{border-left-color:#0f7b3f;}
+	ul.tabs li.t-activa a {border-top-color: #0f7b3f;} 
+	.slider-current-btn a {background-color:#0f7b3f !important;}
+	h2.comments-title {border-left-color:#0f7b3f;}
+	
+		
+		
+			.titulo-descripcion {
+	 		text-transform:none;
+		}
+		
+		
+		
+			.wrapper-cabecera {height:70px; height:5rem;}
+		
+		
+			.header-logo {background-color:transparent;}
+		
+		
+		
+			
+		body.custom-font-enabled {font-family: "Noto Sans", Arial, Verdana;}
+	
+			@media screen and (min-width: 600px) {
+			#primary {float:left;}
+			#secondary {float:right;}
+			.site-content {
+				border-left: none;
+				padding-left:0;
+				padding-right: 24px;
+				padding-right:1.714285714285714rem;
+			}
+		}
+		
+		
+	@media screen and (max-width: 599px) {
+		.menu-toggle, .menu-toggle:hover {
+			background:#0f7b3f !important;
+			color:#ffffff !important;
+			width:100%;
+		}
+	}
+	
+	/* bbPress */
+		</style>
+	
+	<!-- Google Analytics -->
+    
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-8653817-1', 'auto');
+  ga('send', 'pageview');
+
+</script>
+    <!-- Google Analytics -->
+    <style type="text/css" id="custom-background-css">
+body.custom-background { background-color: #f4f4f4; }
+</style>
+	
+<!-- Jetpack Open Graph Tags -->
+<meta property="og:type" content="article" />
+<meta property="og:title" content="Undetermined by Borders: The Commonality of Counting" />
+<meta property="og:url" content="http://activehistory.ca/papers/pbaskerville/" />
+<meta property="og:description" content="Peter Baskerville, University of Alberta Society operates in a world of data abundance rather than data scarcity. Such abundance is leading to new understandings of innovation and production proces…" />
+<meta property="article:published_time" content="2011-04-26T10:29:46+00:00" />
+<meta property="article:modified_time" content="2011-04-26T12:42:57+00:00" />
+<meta property="og:site_name" content="Active History" />
+<meta property="og:image" content="http://activehistory.ca/wp-content/uploads/2019/02/cropped-ActiveHist2019_icon_whiteBCKG-6.jpg" />
+<meta property="og:image:width" content="512" />
+<meta property="og:image:height" content="512" />
+<meta name="twitter:site" content="@ActiveHist" />
+<meta name="twitter:text:title" content="Undetermined by Borders: The Commonality of Counting" />
+<meta name="twitter:image" content="http://activehistory.ca/wp-content/uploads/2019/02/cropped-ActiveHist2019_icon_whiteBCKG-6-270x270.jpg" />
+<meta name="twitter:card" content="summary" />
+
+<!-- End Jetpack Open Graph Tags -->
+<link rel="icon" href="http://activehistory.ca/wp-content/uploads/2019/02/cropped-ActiveHist2019_icon_whiteBCKG-6-32x32.jpg" sizes="32x32" />
+<link rel="icon" href="http://activehistory.ca/wp-content/uploads/2019/02/cropped-ActiveHist2019_icon_whiteBCKG-6-192x192.jpg" sizes="192x192" />
+<link rel="apple-touch-icon" href="http://activehistory.ca/wp-content/uploads/2019/02/cropped-ActiveHist2019_icon_whiteBCKG-6-180x180.jpg" />
+<meta name="msapplication-TileImage" content="http://activehistory.ca/wp-content/uploads/2019/02/cropped-ActiveHist2019_icon_whiteBCKG-6-270x270.jpg" />
+</head>
+
+<body class="page-template-default page page-id-4836 page-child parent-pageid-23 custom-background custom-font-enabled">
+	
+		
+	<header id="masthead" class="site-header" role="banner">
+	<div class="wrapper-cabecera">
+	
+		<div class="blogname-y-menu">
+			<div class="boton-menu-movil"><i class="fa fa-align-justify fa-2x"></i></div>
+			
+							<div class="header-logo">
+					<a href="http://activehistory.ca/"><img src="http://activehistory.ca/wp-content/uploads/2019/04/cropped-ActiveHist2019_icon_whiteBCKG-1.jpg" class="header-image" width="400" height="400" alt="Active History" /></a>
+				</div>
+						
+						<div class="titulo-descripcion">
+			
+									<p class="site-title"><a href="http://activehistory.ca/" title="Active History" rel="home">Active History</a></p>
+								
+				<p class="site-description">History Matters</p>
+				
+			</div>
+						
+			<div class="toggle-search"><i class="fa fa-search"></i></div>
+			
+			<div class="wrapper-site-navigation">
+				<nav id="site-navigation" class="main-navigation" role="navigation">
+					
+					<div class="menu-the-main-container"><ul id="menu-the-main" class="nav-menu"><li id="menu-item-7899" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-home menu-item-7899"><a href="http://activehistory.ca/">Home</a></li>
+<li id="menu-item-7902" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-7902"><a href="http://activehistory.ca/about/">About</a></li>
+<li id="menu-item-7900" class="menu-item menu-item-type-post_type menu-item-object-page current-page-ancestor menu-item-7900"><a href="http://activehistory.ca/papers/">Features</a></li>
+<li id="menu-item-25840" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-25840"><a href="http://activehistory.ca/publications/">Publications</a></li>
+<li id="menu-item-7915" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-7915"><a href="http://activehistory.ca/podcasts/">Podcasts</a></li>
+<li id="menu-item-20816" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-20816"><a href="http://activehistory.ca/donate/">Support Us</a></li>
+</ul></div>				</nav><!-- #site-navigation -->
+                
+				<div class="wrapper-search-top-bar">
+                	<div class="search-top-bar">
+							<div>
+		<form method="get" id="searchform-toggle" action="http://activehistory.ca/">
+			<label for="s" class="assistive-text">Search</label>
+			<input type="search" class="txt-search" placeholder="Search..." name="s" id="s" />
+			<input type="submit" name="submit" id="btn-search" value="Search" />
+		</form>
+    </div>                    </div>
+                </div>
+                
+			</div><!-- .wrapper-site-navigation -->
+			
+		</div><!-- .blogname-y-menu -->
+        
+	<div style="position:relative; clear:both;">
+		
+<div id="menu-movil">
+	<div class="search-form-movil">
+		<form method="get" id="searchform-movil" action="http://activehistory.ca/">
+			<label for="s" class="assistive-text">Search</label>
+			<input type="search" class="txt-search-movil" placeholder="Search..." name="s" id="s" />
+			<input type="submit" name="submit" id="btn-search-movil" value="Search" />
+		</form>
+    </div><!-- search-form-movil -->
+	<div class="menu-movil-enlaces">
+		<div class="menu-the-main-container"><ul id="menu-the-main-1" class="nav-menu"><li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-home menu-item-7899"><a href="http://activehistory.ca/">Home</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-7902"><a href="http://activehistory.ca/about/">About</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page current-page-ancestor menu-item-7900"><a href="http://activehistory.ca/papers/">Features</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-25840"><a href="http://activehistory.ca/publications/">Publications</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-7915"><a href="http://activehistory.ca/podcasts/">Podcasts</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-20816"><a href="http://activehistory.ca/donate/">Support Us</a></li>
+</ul></div>	</div>
+	
+	<div class="social-icon-wrapper-movil">
+							<a href="https://twitter.com/activehist" title="Twitter" target="_blank"><i class="fa fa-twitter"></i></a> 
+						
+							<a href="https://www.facebook.com/ActiveHist/" title="Facebook" target="_blank"><i class="fa fa-facebook"></i></a>
+						
+						
+						
+					 		<a href="https://www.youtube.com/user/activehistoryca" title="YouTube" target="_blank"><i class="fa fa-youtube"></i></a>
+						
+						
+						
+							<a class="rss" href="http://feeds.feedburner.com/activehistoryca" title="RSS" target="_blank"><i class="fa fa-rss"></i></a>			
+					</div><!-- .social-icon-wrapper -->	
+</div><!-- #menu-movil -->    </div>
+    
+	</div><!-- wrapper-cabecera -->
+	
+	<div class="wrapper-area-widget-superior area-widget-padding-top">
+		</div>
+	
+	</header><!-- #masthead -->
+	
+<div id="page" class="hfeed site">
+	
+	<div id="main" class="wrapper">
+	<div id="primary" class="site-content">
+		<div id="content" role="main">
+
+							
+	<article id="post-4836" class="post-4836 page type-page status-publish hentry">
+
+		<header class="entry-header">
+													<h1 class="entry-title">Undetermined by Borders: The Commonality of Counting</h1>
+					</header>
+
+		<div class="entry-content">
+			<p><body></p>
+<p class="p1">Peter Baskerville, University of Alberta</p>
+<p class="p2"></p>
+<p class="p2"></p>
+<p class="p3">Society operates in a world of data abundance rather than data scarcity. Such abundance is leading to new understandings of innovation and production processes. Increasingly innovation is generated by open collaborative interaction. Increasingly, too, mastering data abundance demands computational efficiency. Collaboration and computation challenge long held norms for the &#8216;doing&#8217; of history. A paradigm that privileges the lone scholar reading and analysing textual manuscripts needs rethinking.</p>
+<p class="p3">All Historians count, some more explicitly than others. Today, with the help of computers, it is much easier to count explicitly than at any other time in History. Some worry that much is lost in such a perspective. I argue counting should never be done in a vacuum and counting properly will ‘defragment’ the historical profession. Counting explicitly can lead to a way of reconceiving what we thought we had seen clearly before. I argue for the return of micro-data.</p>
+<p class="p3">The phrase micro-data <span class="Apple-converted-space">  </span>(for examples of historical micro data sets see <a href="http://www.rhd.uit.no/nhdc/micro.html">http://www.rhd.uit.no/nhdc/micro.html</a>) should elicit shivers of anticipation up and down Humanists’ spines: it evokes visions of the small, tiny, individual experience and highlights specific rather than general, potentially aberrant rather than common behaviours. Yet recently many humanists have shunned micro-data and privileged narratives that explore region, nation, and the grand synthesis. Over these issues history battles of a decade or more ago divided. I have no intention of returning to those, somewhat, tired debates. New issues, exciting ones, confront Historians today. </p>
+<p class="p3">My brief for the return of micro-data rests on the contention that its mission must be thought anew. The use of micro-data allows us to put together a different vision of place, country, region, nation and to situate diversity within general explanatory frames. What is at issue is not a subversive desire to throw regional/national units of analysis on some dust heap: rather it is—among others—a desire to write rich analytic treatments that can help inform our knowledge of the past and improve the context within which we operate in the present and the future.</p>
+<p class="p3">To achieve these results one requires copious and easily accessible micro-data of a non-trivial kind. That is precisely where we are today and will be increasingly tomorrow: swamped by easily accessible micro-data that cries out for informed use. Google has the rights to an unthinkably large portion of what has been printed in the past and present undetermined by borders. The internet provides researchers with billions of pages of data. What is a researcher to do: start at the beginning and read through to the end?&#8211;no chance. One has to be systematic in one&#8217;s approach. Light touches on context will not suffice. Examples are not useful unless they are unusual or characteristic and establishing either means counting and comparison.<a id="fnlink1"></a><a href="#fn1"><sup>[1]</sup></a> One needs to privilege representivity&#8211;but how?</p>
+<p class="p3">Many historians have tread lightly around a set of tools that can be used to take advantage of this plethora of rich data. Some adherents of the New Cultural History have argued that there is a fundamental incompatibility between historical words and historical numbers. Yet both represent some version of reality in the past. Both need to be understood first in terms of their provenance. Neither offer complete answers to any set of questions. Moreover quantification in history is not a school or a sub discipline. It is a tool: and one that can today, thanks to such statistical packages as SPSS, be well enough mastered even by those who see themselves as mathematically challenged.</p>
+<p class="p4">To take advantage of the multiplying gigabytes of micro-data, one will require a tool box up to the challenge.<a id="fnlink2"></a><a href="#fn2"><sup>[2]</sup></a> A multi-pronged response is emerging and is called Humanities Computing. Tools for large-scale data analysis allow researchers to discover relationships and perform computations on data sets that are so large that they can be processed only by using advancements recently developed and rendered cost efficient.<a id="fnlink3"></a><a href="#fn3"><sup>[3]</sup></a> Text mining using XML and TEI result in databases and databases lead to analysis of patterns which means quantitative statements or methods.<a id="fnlink4"></a><a href="#fn4"><sup>[4]</sup></a></p>
+<p>A recent workshop held at the University of Alberta brought together five teams of Humanists who explored the relevance of High Powered Computing for their projects.<a id="fnlink5"></a><a href="#fn5"><sup>[5]</sup></a> Four groups privileged textual, image or sound analysis and one privileged numbers. Some discussion focused on the compatibility of numbers and text; in the end, however, all were classifying, categorizing and comparing relationships between various aggregations of micro-data. We need new terminology to describe what Humanists/Historians analyze:<a id="fnlink6"></a><a href="#fn6"><sup>[6]</sup></a> <i>images</i> and <i>sound</i> do not capture the totality of information available; <i>text</i> is burdened with conceptual/attitudinal issues that limit an appreciation for what the future is bringing. Numbers seem to evoke a deep seated skepticism. A more all inclusive term might be Humanist/Historical <i>data sources</i>. It is a phrase increasingly in use: witness the first<span class="Apple-converted-space">  </span><a href="http://www.diggingintodata.org/Home/AwardRecipients2009/tabid/175/Default.aspx">Digging into Data </a>competition sponsored by four major granting agencies (including SSHRC) across three nations in 2009. The agencies were overwhelmed by the number of applications. In many ways it is a harbinger of the future: Humanities research will be focused on large data bases. Humanities research will utilize quantitative methods in order to make sense of that data. Humanities research will be increasingly international and interdisciplinary in collaboration and focus. (see the <a href="http://www.diggingintodata.org/Home/tabid/149/Default.aspx">Digging into Data website</a> for the announcement of a second funding round.Yet even Digging into Data differentiated between text and data analysis, as if text were not a form of data, or even more as if text could be analyzed separately from &#8216;data&#8217;, a term one can only assume was meant to refer to numbers. Two of the successful teams focused on speech; one on music; one on visual images; three on written sources; only one mentioned numeric sources and that was after privileging textual and geographic materials.<a id="fnlink7"></a><a href="#fn7"><sup>[7]</sup></a> The analysis of these data sources ought not to be done in isolation one from another. At root, classification, categorization and exploration of relationships is common to all.</p>
+<p class="p4">Great accomplishments have been achieved in making micro-data sources accessible. In the Canadian context the most dramatic advance is the Canadian Century Research Infrastructure Project (CCRI).<a id="fnlink8"></a><a href="#fn8"><sup>[8]</sup></a> It has provided public use samples of the nominal level Canadian censuses for 1911 through 1951. On an international level this is increasingly commonplace.<a id="fnlink9"></a><a href="#fn9"><sup>[9]</sup></a> As we have outlined in an earlier Forum article, by privileging spatial, literary and quantitative data, the CCRI goes farther than any database in the direction of inclusivity.<span class="Apple-converted-space"> </span></p>
+<p class="p4">In the context of <i>defragging</i> history this approach needs to be underlined. The CCRI points to an integrated approach for historical studies. It does not imply that the quantitative trumps the qualitative or the reverse. When quantitative data seem at odds with contemporary commentaries, such commentaries are hardly displaced. But they are viewed from a different perspective and provoke new questions about their meaning and social importance.<a id="fnlink10"></a><a href="#fn10"><sup>[10]</sup></a> The end in view is a comprehensive approach to a holistic understanding of the past and its meanings for the present.<a id="fnlink11"></a><a href="#fn11"><sup>[11]</sup></a><span class="Apple-converted-space"> </span></p>
+<p class="p5"></p>
+<hr>
+<p class="p4"><a id="fn1"></a><a href="#fnlink1">[1]</a> David L. Hoover, “Quantitative Analysis and Literary Studies,” in Susan Schreibman and Ray Siemens, eds., <i>A Companion to Digital Literary Studies</i>, (Oxford: Blackwell, 2008), Chapter 28, <a href="http://www.digitalhumanities.org/companionDLS/"><span class="s1">http://www.digitalhumanities.org/companionDLS/</span></a></p>
+<p class="p4"><span class="s1"><a href="http://www.digitalhumanities.org/companionDLS/"><a id="fn2"></a></a><a href="#fnlink2"><span class="s2">[2]</span></a><a href="http://www.digitalhumanities.org/companionDLS/"><span class="s2"> </span></a></span>For a compendium of potential tools see <a href="http://portal.tapor.ca/portal/portal">http://portal.tapor.ca/portal/portal</a>. For an historian&#8217;s use of data mining see Chris Drummond, Stan Matwin and Chad Gaffield, &#8220;Inferring and Revising Theories with Confidence: Analyzing Bilingualism in the 1901 Canadian Census,&#8221; <i>Applied Artificial Intelligence</i> 20, no.1 (2006), 1-33.</p>
+<p class="p4"><a id="fn3"></a><a href="#fnlink3">[3]</a> John Bonnett, Geoffrey Rockwell and Kyle Kuchmey, &#8220;High Performance Computing in the Arts and Humanities&#8221;, <a href="https://www.sharcnet.ca/my/research/hhpc">https://www.sharcnet.ca/my/research/hhpc</a>. Melissa M. Terras, &#8220;The Potential and Problems in using High Performance Computing in the Arts and Humanities: the Researching e-Science Analysis of Census Holdings (REACH) Project&#8221;, <i>DHQ: Digital Humanities Quarterly</i>, 3, no. 4 (2009).</p>
+<p class="p4"><a id="fn4"></a><a href="#fnlink4">[4]</a> Stephen Ramsay, &#8220;Databases,&#8221; in Susan Schreibman, Ray Siemens and John Unsworth, eds., <i>A Companion to Digital Humanities</i>, (Oxford: Blackwell, 2004), chapter 15, <a href="http://digitalhumanities.org/companion/"><span class="s1">http://digitalhumanities.org/companion/</span></a>; Donald A. Spaeth, “Representing Text as Data: the Analysis of Historical Sources in XML,” <i>Historical Methods</i>, 37, no. 2 (2004): 73-85.</p>
+<p class="p4"><a id="fn5"></a><a href="#fnlink5">[5]</a> <a href="http://ra.tapor.ualberta.ca/mindthegap/">http://ra.tapor.ualberta.ca/mindthegap/</a>.</p>
+<p class="p4"><a id="fn6"></a><a href="#fnlink6">[6]</a> Rhetorical relativism points to the influence that rhetorical devices from simple words, to images to narrative frames exert on the expression of ideas and meanings. Some of the literature on these issues is cited by Lyle Dick in this collection.</p>
+<p class="p4"><a id="fn7"></a><a href="#fnlink7">[7]</a> <a href="http://www.marketwire.com/press-release/SSHRC-Leading-International-Research-Agencies-Announce-Winners-Prestigious-New-Digging-1085655.htm">http://www.marketwire.com/press-release/SSHRC-Leading-International-Research-Agencies-Announce-Winners-Prestigious-New-Digging-1085655.htm</a>.</p>
+<p class="p4"><a id="fn8"></a><a href="#fnlink8">[8]</a> <i>Historical Methods</i> 40, 2007 and Eric Sager and Peter Baskerville, &#8220;Canadian Historical Research and Pedagogy: A View from the Perspective of the Canadian Century Research Infrastructure,&#8221; forthcoming, Canadian Historical Review, 2010. The 1911 database is available at the following web site:<span class="Apple-converted-space">  </span><a href="http://nesstar2.library.ualberta.ca/webview/">http://nesstar2.library.ualberta.ca/webview/</a>. Other Canadian initiatives in this area include: For 1852 and 1881 <a href="http://www.prdh.umontreal.ca/census/en/uguide/OLD/1881projects.html">http://www.prdh.umontreal.ca/census/en/uguide/OLD/1881projects.html</a>. For 1871, <a href="http://www.isr.yorku.ca/">http://www.isr.yorku.ca/</a>. For 1891 and a version of 1871 http://www.uoguelph.ca/~kinwood/. For 1901 <a href="http://web.uvic.ca/hrd/cfp/data/index.html">http://web.uvic.ca/hrd/cfp/data/index.html</a>. For information on data linkage across time and space <a href="http://www.recordlink.org/">http://www.recordlink.org/</a></p>
+<p class="p4"><a id="fn9"></a><a href="#fnlink9">[9]</a> Patricia Kelly Hall, Robert McCaa and Gunnar Thorvaldsen, eds., <i>Handbook of International Historical Microdata for Population Research</i>, (Minnesota Population Centre, 2000). See also <span class="Apple-converted-space">  </span><a href="http://www.ipums.org/">http://www.ipums.org/</a> and <a href="http://www.nappdata.org/napp/intro.shtml">http://www.nappdata.org/napp/intro.shtml</a></p>
+<p class="p4"><a id="fn10"></a><a href="#fnlink10">[10]</a> A.W. Carus and Sheilagh Ogilvie, &#8220;Turning Qualitative into Quantitative Evidence: A well-used method made explicit,&#8221; <i>Economic History Review</i>, 62, 4 (2009), 893-925.</p>
+<p class="p4"><a id="fn11"></a><a href="#fnlink11">[11]</a> The issues of management and sharing of data sources also require rethinking. See the editorial &#8220;Data&#8217;s Shameful Neglect,&#8221; in<span class="Apple-converted-space">  </span><i>Nature</i>, 461, no. 7261, (Sept, 2009) for a perspective from science and ‘Canadian Digital Information Strategy,’ Library and Archives Canada,<span class="Apple-converted-space">  </span><a href="http://www.collectionscanada.gc.ca/cdis/index-e.html"><span class="s1">http://www.collectionscanada.gc.ca/cdis/index-e.html</span></a></p>
+<p></body></p>
+<div class="sharedaddy sd-sharing-enabled"><div class="robots-nocontent sd-block sd-social sd-social-official sd-sharing"><div class="sd-content"><ul><li class="share-facebook"><div class="fb-share-button" data-href="http://activehistory.ca/papers/pbaskerville/" data-layout="button_count"></div></li><li class="share-twitter"><a href="https://twitter.com/share" class="twitter-share-button" data-url="http://activehistory.ca/papers/pbaskerville/" data-text="Undetermined by Borders: The Commonality of Counting" data-via="ActiveHist" >Tweet</a></li><li class="share-email"><a rel="nofollow noopener noreferrer" data-shared="" class="share-email sd-button" href="http://activehistory.ca/papers/pbaskerville/?share=email" target="_blank" title="Click to email this to a friend"><span>Email</span></a></li><li class="share-end"></li></ul></div></div></div>					</div><!-- .entry-content -->
+
+		<footer class="entry-meta">
+					</footer><!-- .entry-meta -->
+
+	</article><!-- #post -->				
+<div id="comments" class="comments-area">
+
+				<div class="zg-wrapper-widget-area">
+			<div id="text-445942440" class="widget widget_text">			<div class="textwidget"><p><a href="http://creativecommons.org/licenses/by-nd/4.0/" rel="license"><img style="border-width: 0;" src="https://i.creativecommons.org/l/by-nd/4.0/80x15.png" alt="Creative Commons Licence" /></a><br />
+This work is licensed under a <a href="http://creativecommons.org/licenses/by-nd/4.0/" rel="license">Creative Commons Attribution-NoDerivatives 4.0 International License</a>. Blog posts published before October  28, 2018 are licensed with a Creative Commons Attribution-NonCommercial-ShareAlike 2.5 Canada License.</p>
+</div>
+		</div>		</div>
+    	
+			<h2 class="comments-title">
+			One thought on &ldquo;<span>Undetermined by Borders: The Commonality of Counting</span>&rdquo;		</h2>
+
+		<ol class="commentlist">
+				<li class="pingback even thread-even depth-1" id="comment-11513">
+		<p>Pingback: <a href='http://activehistory.ca/2011/04/new-papers-so-what-is-the-story-exploring-fragmentation-and-synthesis-in-current-canadian-historiography/' rel='external nofollow ugc' class='url'>New Papers: So What Is the Story? Exploring Fragmentation and Synthesis in Current Canadian Historiography | ActiveHistory.ca</a> </p>
+	</li><!-- #comment-## -->
+		</ol><!-- .commentlist -->
+
+		
+		
+		
+		
+	<div class="wrapper-form-comments">
+	
+		<div id="respond" class="comment-respond">
+							<h3 id="reply-title" class="comment-reply-title">Please note: ActiveHistory.ca encourages comment and constructive discussion of our articles. We reserve the right to delete comments submitted under aliases, or that contain spam, harassment, or attacks on an individual.					<small><a rel="nofollow" id="cancel-comment-reply-link" href="/papers/pbaskerville/?shared=email&amp;msg=fail#respond" style="display:none;">Cancel reply</a></small>
+				</h3>
+						<form id="commentform" class="comment-form">
+				<iframe title="Comment Form" src="https://jetpack.wordpress.com/jetpack-comment/?blogid=42146343&#038;postid=4836&#038;comment_registration=0&#038;require_name_email=1&#038;stc_enabled=1&#038;stb_enabled=1&#038;show_avatars=1&#038;avatar_default=mystery&#038;greeting=Please+note%3A+ActiveHistory.ca+encourages+comment+and+constructive+discussion+of+our+articles.+We+reserve+the+right+to+delete+comments+submitted+under+aliases%2C+or+that+contain+spam%2C+harassment%2C+or+attacks+on+an+individual.&#038;greeting_reply=Leave+a+Reply+to+%25s&#038;color_scheme=light&#038;lang=en_CA&#038;jetpack_version=8.6.1&#038;show_cookie_consent=10&#038;has_cookie_consent=0&#038;token_key=%3Bnormal%3B&#038;sig=e1525c403f4d64553cfc0753febf70d1d592269c#parent=http%3A%2F%2Factivehistory.ca%2Fpapers%2Fpbaskerville%2F%3Fshared%3Demail%26msg%3Dfail" style="width:100%; height: 430px; border:0;" name="jetpack_remote_comment" class="jetpack_remote_comment" id="jetpack_remote_comment" sandbox="allow-same-origin allow-top-navigation allow-scripts allow-forms allow-popups"></iframe>
+									<!--[if !IE]><!-->
+					<script>
+						document.addEventListener('DOMContentLoaded', function () {
+							var commentForms = document.getElementsByClassName('jetpack_remote_comment');
+							for (var i = 0; i < commentForms.length; i++) {
+								commentForms[i].allowTransparency = false;
+								commentForms[i].scrolling = 'no';
+							}
+						});
+					</script>
+					<!--<![endif]-->
+							</form>
+		</div>
+
+		
+		<input type="hidden" name="comment_parent" id="comment_parent" value="" />
+
+			</div>
+
+</div><!-- #comments .comments-area -->			
+		</div><!-- #content -->
+	</div><!-- #primary -->
+
+
+			<div id="secondary" class="widget-area" role="complementary">
+			<aside id="search-2" class="widget widget_search">	<div class="wrapper-search-form">
+		<form method="get" id="searchform" action="http://activehistory.ca/">
+			<label for="s" class="assistive-text">Search</label>
+			<input type="search" class="txt-search" placeholder="Search..." name="s" id="s" />
+			<input type="submit" name="submit" id="btn-search-n" value="Search" />
+		</form>
+    </div></aside><aside id="text-445942422" class="widget widget_text"><h3 class="widget-title"><span class="prefix-widget-title"><i class="fa fa-th-large"></i></span> What is Active History?</h3>			<div class="textwidget"><p>ActiveHistory.ca is a website that connects the work of historians with the wider public and the importance of the past to current events.</p>
+<p>Please direct queries to Daniel Ross, Public Outreach Coordinator, via <a href="info@activehistory.ca">info@activehistory.ca</a>.</p>
+<p>For author guidelines, <a href="https://wp.me/P2QQbJ-32">click here</a>.</p>
+<p>Visitez notre partenaire francophone, <a href="http://histoireengagee.ca/"> HistoireEngagée.ca</a></p>
+</div>
+		</aside><aside id="text-445942433" class="widget widget_text"><h3 class="widget-title"><span class="prefix-widget-title"><i class="fa fa-th-large"></i></span> Ongoing Projects</h3>			<div class="textwidget"><ul>
+<li><b><a href="http://activehistory.ca/papers/beyond-the-lecture-series-list/">Beyond the Lecture</a></b></li>
+<li><b><a href="http://activehistory.ca/papers/canadas-first-world-war-a-centennial-series-on-activehistory-ca/">Canada's First World War</a></b></li>
+<li><b><a href="http://activehistory.ca/papers/from-juno-to-victory/">From Juno to Victory</a></b></li>
+<li><b><a href="http://activehistory.ca/podcasts/">History Slam Podcast</a></b></li>
+<li><b><a href="http://activehistory.ca/publications/">Open-Access Ebooks</a></b></li>
+<li><b><a href="http://activehistory.ca/remember-i-resist-i-redraw/">Remember/Resist/Redraw</a></b></li>
+</ul>
+
+</div>
+		</aside><aside id="twitter_timeline-3" class="widget widget_twitter_timeline"><h3 class="widget-title"><span class="prefix-widget-title"><i class="fa fa-th-large"></i></span> Twitter</h3><a class="twitter-timeline" data-theme="light" data-border-color="#e8e8e8" data-tweet-limit="3" data-lang="EN" data-partner="jetpack" data-chrome="noheader" href="https://twitter.com/ActiveHist" href="https://twitter.com/ActiveHist">My Tweets</a></aside><aside id="blog_subscription-3" class="widget widget_blog_subscription jetpack_subscription_widget"><h3 class="widget-title"><span class="prefix-widget-title"><i class="fa fa-th-large"></i></span> Subscribe via email</h3>
+            <form action="#" method="post" accept-charset="utf-8" id="subscribe-blog-blog_subscription-3">
+				                    <p id="subscribe-email">
+                        <label id="jetpack-subscribe-label"
+                               class="screen-reader-text"
+                               for="subscribe-field-blog_subscription-3">
+							Email Address                        </label>
+                        <input type="email" name="email" required="required"
+                        			                                                value=""
+                            id="subscribe-field-blog_subscription-3"
+                            placeholder="Email Address"
+                        />
+                    </p>
+
+                    <p id="subscribe-submit">
+                        <input type="hidden" name="action" value="subscribe"/>
+                        <input type="hidden" name="source" value="http://activehistory.ca/papers/pbaskerville/?shared=email&#038;msg=fail"/>
+                        <input type="hidden" name="sub-type" value="widget"/>
+                        <input type="hidden" name="redirect_fragment" value="blog_subscription-3"/>
+						                        <button type="submit"
+	                        		                    	                        name="jetpack_subscriptions_widget"
+	                    >
+	                        Subscribe                        </button>
+                    </p>
+				            </form>
+		
+</aside>		</div><!-- #secondary -->
+		</div><!-- #main .wrapper -->
+	</div><!-- #page -->
+		<footer>
+	<div style="background-color:#444444;">
+		<div class="wrapper-widget-area-footer">
+			<div class="widget-area-footer">
+				<div id="text-445942435" class="widget widget_text">			<div class="textwidget">ActiveHistory.ca is supported financially and administratively by the <a href="http://artsandscience.usask.ca/history/">History Department at the University of Saskatchewan</a> and <a href="http://www.huronuc.on.ca/Home">Huron University College</a>. <a href="https://calicologic.com/">Calico Logic</a> provides technical support.</div>
+		</div>			</div>
+			
+			<div class="widget-area-footer">
+				<div id="text-445942437" class="widget widget_text">			<div class="textwidget"><img src="http://activehistory.ca/wp-content/uploads/2017/02/usask_ArtsScience_History_black_reverse.png"/></div>
+		</div>			</div>
+			
+			<div class="widget-area-footer">
+				<div id="text-445942439" class="widget widget_text">			<div class="textwidget"><img src="http://activehistory.ca/wp-content/uploads/2017/02/huronuc_horiz_rgb_black_reverse_720.png"/></div>
+		</div>			</div>
+		</div>
+	</div>
+	</footer>
+		<hr class="hr-oscura" />
+	<footer id="colophon" role="contentinfo">
+	<div class="social-icon-wrapper">
+							<a href="https://twitter.com/activehist" title="Twitter" target="_blank"><i class="fa fa-twitter"></i></a> 
+						
+							<a href="https://www.facebook.com/ActiveHist/" title="Facebook" target="_blank"><i class="fa fa-facebook"></i></a>
+						
+						
+						
+					 		<a href="https://www.youtube.com/user/activehistoryca" title="YouTube" target="_blank"><i class="fa fa-youtube"></i></a>
+						
+						
+						
+							<a class="rss" href="http://feeds.feedburner.com/activehistoryca" title="Feed RSS" target="_blank"><i class="fa fa-rss"></i></a>			
+					</div><!-- .social-icon-wrapper -->
+		<hr class="hr-oscura" />
+		<div class="site-info">
+			<div class="credits-left"></div>
+			<div class="credits-center"><a rel="license" href="http://creativecommons.org/licenses/by-nd/4.0/"><img alt="Creative Commons Licence" style="border-width:0" src="https://i.creativecommons.org/l/by-nd/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nd/4.0/">Creative Commons Attribution-NoDerivatives 4.0 International License</a>.
+Blog posts published before October 28, 2018 are licensed with a Creative Commons Attribution-NonCommercial-ShareAlike 2.5 Canada License.</div>
+			<div class="credits-right"></div>
+		</div><!-- .site-info -->
+		
+			</footer><!-- #colophon -->
+
+			<div class="ir-arriba"><i class="fa fa-chevron-up"></i></div>
+	<script>
+    jQuery(document).ready(function () {
+		jQuery.post('http://activehistory.ca?ga_action=googleanalytics_get_script', {action: 'googleanalytics_get_script'}, function(response) {
+			var s = document.createElement("script");
+			s.type = "text/javascript";
+			s.innerHTML = response;
+			jQuery("head").append(s);
+		});
+    });
+</script><div id="fb-root"></div>
+			<script>(function(d, s, id) { var js, fjs = d.getElementsByTagName(s)[0]; if (d.getElementById(id)) return; js = d.createElement(s); js.id = id; js.src = 'https://connect.facebook.net/en_CA/sdk.js#xfbml=1&appId=249643311490&version=v2.3'; fjs.parentNode.insertBefore(js, fjs); }(document, 'script', 'facebook-jssdk'));</script>
+			<script>
+			jQuery( document.body ).on( 'post-load', function() {
+				if ( 'undefined' !== typeof FB ) {
+					FB.XFBML.parse();
+				}
+			} );
+			</script>
+						<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+'://platform.twitter.com/widgets.js';fjs.parentNode.insertBefore(js,fjs);}}(document, 'script', 'twitter-wjs');</script>
+				<div id="sharing_email" style="display: none;">
+		<form action="/papers/pbaskerville/?shared=email&#038;msg=fail" method="post">
+			<label for="target_email">Send to Email Address</label>
+			<input type="email" name="target_email" id="target_email" value="" />
+
+			
+				<label for="source_name">Your Name</label>
+				<input type="text" name="source_name" id="source_name" value="" />
+
+				<label for="source_email">Your Email Address</label>
+				<input type="email" name="source_email" id="source_email" value="" />
+
+						<input type="text" id="jetpack-source_f_name" name="source_f_name" class="input" value="" size="25" autocomplete="off" title="This field is for validation and should not be changed" />
+			
+			<img style="float: right; display: none" class="loading" src="http://activehistory.ca/wp-content/plugins/jetpack/modules/sharedaddy/images/loading.gif" alt="loading" width="16" height="16" />
+			<input type="submit" value="Send Email" class="sharing_send" />
+			<a rel="nofollow" href="#cancel" class="sharing_cancel" role="button">Cancel</a>
+
+			<div class="errors errors-1" style="display: none;">
+				Post was not sent - check your email addresses!			</div>
+
+			<div class="errors errors-2" style="display: none;">
+				Email check failed, please try again			</div>
+
+			<div class="errors errors-3" style="display: none;">
+				Sorry, your blog cannot share posts by email.			</div>
+		</form>
+	</div>
+<script type='text/javascript' src='http://activehistory.ca/wp-content/themes/rubbersoul-pro/js/navigation.js?ver=20140711'></script>
+<script type='text/javascript' src='http://activehistory.ca/wp-content/themes/rubbersoul-pro/js/slider-recent-posts-fp.js?ver=2.6.4'></script>
+<script type='text/javascript' src='http://activehistory.ca/wp-content/themes/rubbersoul-pro/js/rsoul-pro-toggle-search.js?ver=2.6.4'></script>
+<script type='text/javascript' src='http://activehistory.ca/wp-content/plugins/jetpack/_inc/build/twitter-timeline.min.js?ver=4.0.0'></script>
+<script type='text/javascript' src='http://activehistory.ca/wp-includes/js/wp-embed.min.js?ver=5.4.2'></script>
+<script async="async" type='text/javascript' src='http://activehistory.ca/wp-content/plugins/akismet/_inc/form.js?ver=4.1.6'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var sharing_js_options = {"lang":"en","counts":"1","is_stats_active":"1"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://activehistory.ca/wp-content/plugins/jetpack/_inc/build/sharedaddy/sharing.min.js?ver=8.6.1'></script>
+<script type='text/javascript'>
+var windowOpen;
+			jQuery( document.body ).on( 'click', 'a.share-facebook', function() {
+				// If there's another sharing window open, close it.
+				if ( 'undefined' !== typeof windowOpen ) {
+					windowOpen.close();
+				}
+				windowOpen = window.open( jQuery( this ).attr( 'href' ), 'wpcomfacebook', 'menubar=1,resizable=1,width=600,height=400' );
+				return false;
+			});
+</script>
+
+		<!--[if IE]>
+		<script type="text/javascript">
+			if ( 0 === window.location.hash.indexOf( '#comment-' ) ) {
+				// window.location.reload() doesn't respect the Hash in IE
+				window.location.hash = window.location.hash;
+			}
+		</script>
+		<![endif]-->
+		<script type="text/javascript">
+			(function () {
+				var comm_par_el = document.getElementById( 'comment_parent' ),
+					comm_par = ( comm_par_el && comm_par_el.value ) ? comm_par_el.value : '',
+					frame = document.getElementById( 'jetpack_remote_comment' ),
+					tellFrameNewParent;
+
+				tellFrameNewParent = function () {
+					if ( comm_par ) {
+						frame.src = "https://jetpack.wordpress.com/jetpack-comment/?blogid=42146343&postid=4836&comment_registration=0&require_name_email=1&stc_enabled=1&stb_enabled=1&show_avatars=1&avatar_default=mystery&greeting=Please+note%3A+ActiveHistory.ca+encourages+comment+and+constructive+discussion+of+our+articles.+We+reserve+the+right+to+delete+comments+submitted+under+aliases%2C+or+that+contain+spam%2C+harassment%2C+or+attacks+on+an+individual.&greeting_reply=Leave+a+Reply+to+%25s&color_scheme=light&lang=en_CA&jetpack_version=8.6.1&show_cookie_consent=10&has_cookie_consent=0&token_key=%3Bnormal%3B&sig=e1525c403f4d64553cfc0753febf70d1d592269c#parent=http%3A%2F%2Factivehistory.ca%2Fpapers%2Fpbaskerville%2F%3Fshared%3Demail%26msg%3Dfail" + '&replytocom=' + parseInt( comm_par, 10 ).toString();
+					} else {
+						frame.src = "https://jetpack.wordpress.com/jetpack-comment/?blogid=42146343&postid=4836&comment_registration=0&require_name_email=1&stc_enabled=1&stb_enabled=1&show_avatars=1&avatar_default=mystery&greeting=Please+note%3A+ActiveHistory.ca+encourages+comment+and+constructive+discussion+of+our+articles.+We+reserve+the+right+to+delete+comments+submitted+under+aliases%2C+or+that+contain+spam%2C+harassment%2C+or+attacks+on+an+individual.&greeting_reply=Leave+a+Reply+to+%25s&color_scheme=light&lang=en_CA&jetpack_version=8.6.1&show_cookie_consent=10&has_cookie_consent=0&token_key=%3Bnormal%3B&sig=e1525c403f4d64553cfc0753febf70d1d592269c#parent=http%3A%2F%2Factivehistory.ca%2Fpapers%2Fpbaskerville%2F%3Fshared%3Demail%26msg%3Dfail";
+					}
+				};
+
+				
+				// Do the post message bit after the dom has loaded.
+				document.addEventListener( 'DOMContentLoaded', function () {
+					var iframe_url = "https:\/\/jetpack.wordpress.com";
+					if ( window.postMessage ) {
+						if ( document.addEventListener ) {
+							window.addEventListener( 'message', function ( event ) {
+								var origin = event.origin.replace( /^http:\/\//i, 'https://' );
+								if ( iframe_url.replace( /^http:\/\//i, 'https://' ) !== origin ) {
+									return;
+								}
+								jQuery( frame ).height( event.data );
+							});
+						} else if ( document.attachEvent ) {
+							window.attachEvent( 'message', function ( event ) {
+								var origin = event.origin.replace( /^http:\/\//i, 'https://' );
+								if ( iframe_url.replace( /^http:\/\//i, 'https://' ) !== origin ) {
+									return;
+								}
+								jQuery( frame ).height( event.data );
+							});
+						}
+					}
+				})
+
+			})();
+		</script>
+
+		<script type='text/javascript' src='https://stats.wp.com/e-202025.js' async='async' defer='defer'></script>
+<script type='text/javascript'>
+	_stq = window._stq || [];
+	_stq.push([ 'view', {v:'ext',j:'1:8.6.1',blog:'42146343',post:'4836',tz:'-4',srv:'activehistory.ca'} ]);
+	_stq.push([ 'clickTrackerInit', '42146343', '4836' ]);
+</script>
+			
+</body>
+</html>

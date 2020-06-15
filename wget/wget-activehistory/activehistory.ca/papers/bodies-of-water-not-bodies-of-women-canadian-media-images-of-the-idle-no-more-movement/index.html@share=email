@@ -1,0 +1,746 @@
+<!DOCTYPE html>
+<!--[if IE 7]>
+<html class="ie ie7" lang="en-CA">
+<![endif]-->
+<!--[if IE 8]>
+<html class="ie ie8" lang="en-CA">
+<![endif]-->
+<!--[if !(IE 7) & !(IE 8)]><!-->
+<html lang="en-CA">
+<!--<![endif]-->
+<head>
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width" />
+<link rel="profile" href="http://gmpg.org/xfn/11" />
+<link rel="pingback" href="http://activehistory.ca/xmlrpc.php" />
+<!--[if lt IE 9]>
+<script src="http://activehistory.ca/wp-content/themes/rubbersoul-pro/js/html5.js" type="text/javascript"></script>
+<![endif]-->
+<title>Bodies of Water, Not Bodies of Women: Canadian Media Images of the Idle No More Movement &#8211; Active History</title>
+<link rel='dns-prefetch' href='//secure.gravatar.com' />
+<link rel='dns-prefetch' href='//platform-api.sharethis.com' />
+<link rel='dns-prefetch' href='//fonts.googleapis.com' />
+<link rel='dns-prefetch' href='//s.w.org' />
+		<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/12.0.0-1\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/12.0.0-1\/svg\/","svgExt":".svg","source":{"concatemoji":"http:\/\/activehistory.ca\/wp-includes\/js\/wp-emoji-release.min.js?ver=5.4.2"}};
+			/*! This file is auto-generated */
+			!function(e,a,t){var r,n,o,i,p=a.createElement("canvas"),s=p.getContext&&p.getContext("2d");function c(e,t){var a=String.fromCharCode;s.clearRect(0,0,p.width,p.height),s.fillText(a.apply(this,e),0,0);var r=p.toDataURL();return s.clearRect(0,0,p.width,p.height),s.fillText(a.apply(this,t),0,0),r===p.toDataURL()}function l(e){if(!s||!s.fillText)return!1;switch(s.textBaseline="top",s.font="600 32px Arial",e){case"flag":return!c([127987,65039,8205,9895,65039],[127987,65039,8203,9895,65039])&&(!c([55356,56826,55356,56819],[55356,56826,8203,55356,56819])&&!c([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]));case"emoji":return!c([55357,56424,55356,57342,8205,55358,56605,8205,55357,56424,55356,57340],[55357,56424,55356,57342,8203,55358,56605,8203,55357,56424,55356,57340])}return!1}function d(e){var t=a.createElement("script");t.src=e,t.defer=t.type="text/javascript",a.getElementsByTagName("head")[0].appendChild(t)}for(i=Array("flag","emoji"),t.supports={everything:!0,everythingExceptFlag:!0},o=0;o<i.length;o++)t.supports[i[o]]=l(i[o]),t.supports.everything=t.supports.everything&&t.supports[i[o]],"flag"!==i[o]&&(t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&t.supports[i[o]]);t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&!t.supports.flag,t.DOMReady=!1,t.readyCallback=function(){t.DOMReady=!0},t.supports.everything||(n=function(){t.readyCallback()},a.addEventListener?(a.addEventListener("DOMContentLoaded",n,!1),e.addEventListener("load",n,!1)):(e.attachEvent("onload",n),a.attachEvent("onreadystatechange",function(){"complete"===a.readyState&&t.readyCallback()})),(r=t.source||{}).concatemoji?d(r.concatemoji):r.wpemoji&&r.twemoji&&(d(r.twemoji),d(r.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+		<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+	<link rel='stylesheet' id='wp-block-library-css'  href='http://activehistory.ca/wp-includes/css/dist/block-library/style.min.css?ver=5.4.2' type='text/css' media='all' />
+<style id='wp-block-library-inline-css' type='text/css'>
+.has-text-align-justify{text-align:justify;}
+</style>
+<link rel='stylesheet' id='dashicons-css'  href='http://activehistory.ca/wp-includes/css/dashicons.min.css?ver=5.4.2' type='text/css' media='all' />
+<link rel='stylesheet' id='rubbersoul-pro-fonts-css'  href='https://fonts.googleapis.com/css?family=Noto+Sans:400italic,700italic,400,700&#038;subset=latin,latin-ext' type='text/css' media='all' />
+<link rel='stylesheet' id='rubbersoul-pro-style-css'  href='http://activehistory.ca/wp-content/themes/rubbersoul-pro/style.css?ver=2.6.4' type='text/css' media='all' />
+<link rel='stylesheet' id='custom-style-css'  href='http://activehistory.ca/wp-content/themes/rubbersoul-pro/custom-style.css?ver=5.4.2' type='text/css' media='all' />
+<link rel='stylesheet' id='rsoul-pro-widgets-style-css'  href='http://activehistory.ca/wp-content/themes/rubbersoul-pro/css/rsoul-widgets-style.css?ver=2.6.4' type='text/css' media='all' />
+<link rel='stylesheet' id='font-awesome-css'  href='http://activehistory.ca/wp-content/themes/rubbersoul-pro/css/font-awesome-4.7.0/css/font-awesome.min.css?ver=5.4.2' type='text/css' media='all' />
+<link rel='stylesheet' id='rsoul-pro-slider-recent-posts-style-css'  href='http://activehistory.ca/wp-content/themes/rubbersoul-pro/css/slider-recent-posts-fp.css?ver=2.6.4' type='text/css' media='all' />
+<!--[if lt IE 9]>
+<link rel='stylesheet' id='rubbersoul-pro-ie-css'  href='http://activehistory.ca/wp-content/themes/rubbersoul-pro/css/ie.css?ver=20121010' type='text/css' media='all' />
+<![endif]-->
+<link rel='stylesheet' id='social-logos-css'  href='http://activehistory.ca/wp-content/plugins/jetpack/_inc/social-logos/social-logos.min.css?ver=8.6.1' type='text/css' media='all' />
+<link rel='stylesheet' id='jetpack_css-css'  href='http://activehistory.ca/wp-content/plugins/jetpack/css/jetpack.css?ver=8.6.1' type='text/css' media='all' />
+<script type='text/javascript' src='http://activehistory.ca/wp-includes/js/jquery/jquery.js?ver=1.12.4-wp'></script>
+<script type='text/javascript' src='http://activehistory.ca/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.4.1'></script>
+<script type='text/javascript' src='//platform-api.sharethis.com/js/sharethis.js#product=ga'></script>
+<link rel='https://api.w.org/' href='http://activehistory.ca/wp-json/' />
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://activehistory.ca/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://activehistory.ca/wp-includes/wlwmanifest.xml" /> 
+<meta name="generator" content="WordPress 5.4.2" />
+<link rel="canonical" href="http://activehistory.ca/papers/bodies-of-water-not-bodies-of-women-canadian-media-images-of-the-idle-no-more-movement/" />
+<link rel='shortlink' href='https://wp.me/P2QQbJ-4dI' />
+<link rel="alternate" type="application/json+oembed" href="http://activehistory.ca/wp-json/oembed/1.0/embed?url=http%3A%2F%2Factivehistory.ca%2Fpapers%2Fbodies-of-water-not-bodies-of-women-canadian-media-images-of-the-idle-no-more-movement%2F" />
+<link rel="alternate" type="text/xml+oembed" href="http://activehistory.ca/wp-json/oembed/1.0/embed?url=http%3A%2F%2Factivehistory.ca%2Fpapers%2Fbodies-of-water-not-bodies-of-women-canadian-media-images-of-the-idle-no-more-movement%2F&#038;format=xml" />
+<script type="text/javascript"><!--
+function powerpress_pinw(pinw_url){window.open(pinw_url, 'PowerPressPlayer','toolbar=0,status=0,resizable=1,width=460,height=320');	return false;}
+//-->
+</script>
+
+<link rel='dns-prefetch' href='//jetpack.wordpress.com'/>
+<link rel='dns-prefetch' href='//s0.wp.com'/>
+<link rel='dns-prefetch' href='//s1.wp.com'/>
+<link rel='dns-prefetch' href='//s2.wp.com'/>
+<link rel='dns-prefetch' href='//public-api.wordpress.com'/>
+<link rel='dns-prefetch' href='//0.gravatar.com'/>
+<link rel='dns-prefetch' href='//1.gravatar.com'/>
+<link rel='dns-prefetch' href='//2.gravatar.com'/>
+<link rel='dns-prefetch' href='//widgets.wp.com'/>
+<link rel='dns-prefetch' href='//v0.wordpress.com'/>
+	<style type='text/css'>
+		a {color: #0f7b3f;}
+	a:hover {color: #0f7b3f;}
+	.social-icon-wrapper a:hover {color: #0f7b3f;}
+	.prefix-widget-title {color: #0f7b3f;}
+	.term-icon {color: #0f7b3f;}
+	.sub-title a:hover {color:#0f7b3f;}
+	.entry-content a:visited,.comment-content a:visited {color:#0f7b3f;}
+	input[type="submit"] {background-color:#0f7b3f !important;}
+	input[type="reset"] {background-color:#0f7b3f !important;}
+	.bypostauthor cite span {background-color:#0f7b3f;}
+	.wrapper-cabecera {background-color:#0f7b3f;}
+	.wrapper-search-top-bar {background-color:#0f7b3f;}
+	.main-navigation {background-color:#0f7b3f;}
+	.entry-header .entry-title a:hover {color:#0f7b3f ;}
+	.archive-header {border-left-color:#0f7b3f;}
+	.main-navigation a:hover,
+	.main-navigation a:focus {
+		color: #0f7b3f;
+	}
+	.widget-area .widget a:hover {
+		color: #0f7b3f !important;
+	}
+	footer[role="contentinfo"] a:hover {
+		color: #0f7b3f;
+	}
+	.entry-meta a:hover {
+	color: #0f7b3f;
+	}
+	.format-status .entry-header header a:hover {
+		color: #0f7b3f;
+	}
+	.comments-area article header a:hover {
+		color: #0f7b3f;
+	}
+	a.comment-reply-link:hover,
+	a.comment-edit-link:hover {
+		color: #0f7b3f;
+	}
+	.template-front-page .widget-area .widget li a:hover {
+		color: #0f7b3f;
+	}
+	
+	.currenttext, .paginacion a:hover {background-color:#0f7b3f;}
+	.aside{border-left-color:#0f7b3f !important;}
+	blockquote{border-left-color:#0f7b3f;}
+	ul.tabs li.t-activa a {border-top-color: #0f7b3f;} 
+	.slider-current-btn a {background-color:#0f7b3f !important;}
+	h2.comments-title {border-left-color:#0f7b3f;}
+	
+		
+		
+			.titulo-descripcion {
+	 		text-transform:none;
+		}
+		
+		
+		
+			.wrapper-cabecera {height:70px; height:5rem;}
+		
+		
+			.header-logo {background-color:transparent;}
+		
+		
+		
+			
+		body.custom-font-enabled {font-family: "Noto Sans", Arial, Verdana;}
+	
+			@media screen and (min-width: 600px) {
+			#primary {float:left;}
+			#secondary {float:right;}
+			.site-content {
+				border-left: none;
+				padding-left:0;
+				padding-right: 24px;
+				padding-right:1.714285714285714rem;
+			}
+		}
+		
+		
+	@media screen and (max-width: 599px) {
+		.menu-toggle, .menu-toggle:hover {
+			background:#0f7b3f !important;
+			color:#ffffff !important;
+			width:100%;
+		}
+	}
+	
+	/* bbPress */
+		</style>
+	
+	<!-- Google Analytics -->
+    
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-8653817-1', 'auto');
+  ga('send', 'pageview');
+
+</script>
+    <!-- Google Analytics -->
+    <style type="text/css" id="custom-background-css">
+body.custom-background { background-color: #f4f4f4; }
+</style>
+	
+<!-- Jetpack Open Graph Tags -->
+<meta property="og:type" content="article" />
+<meta property="og:title" content="Bodies of Water, Not Bodies of Women: Canadian Media Images of the Idle No More Movement" />
+<meta property="og:url" content="http://activehistory.ca/papers/bodies-of-water-not-bodies-of-women-canadian-media-images-of-the-idle-no-more-movement/" />
+<meta property="og:description" content="By Myra Rutherdale, Erin Dolmage, and Carolyn Podruchny Water is political. It nourishes us, connects us, and separates us. Water is especially political in Canada: almost nine percent of Canada is…" />
+<meta property="article:published_time" content="2015-05-22T10:00:19+00:00" />
+<meta property="article:modified_time" content="2015-05-21T02:43:15+00:00" />
+<meta property="og:site_name" content="Active History" />
+<meta property="og:image" content="http://activehistory.ca/wp-content/uploads/2019/02/cropped-ActiveHist2019_icon_whiteBCKG-6.jpg" />
+<meta property="og:image:width" content="512" />
+<meta property="og:image:height" content="512" />
+<meta name="twitter:site" content="@ActiveHist" />
+<meta name="twitter:text:title" content="Bodies of Water, Not Bodies of Women: Canadian Media Images of the Idle No More Movement" />
+<meta name="twitter:image" content="http://activehistory.ca/wp-content/uploads/2019/02/cropped-ActiveHist2019_icon_whiteBCKG-6-270x270.jpg" />
+<meta name="twitter:card" content="summary" />
+
+<!-- End Jetpack Open Graph Tags -->
+<link rel="icon" href="http://activehistory.ca/wp-content/uploads/2019/02/cropped-ActiveHist2019_icon_whiteBCKG-6-32x32.jpg" sizes="32x32" />
+<link rel="icon" href="http://activehistory.ca/wp-content/uploads/2019/02/cropped-ActiveHist2019_icon_whiteBCKG-6-192x192.jpg" sizes="192x192" />
+<link rel="apple-touch-icon" href="http://activehistory.ca/wp-content/uploads/2019/02/cropped-ActiveHist2019_icon_whiteBCKG-6-180x180.jpg" />
+<meta name="msapplication-TileImage" content="http://activehistory.ca/wp-content/uploads/2019/02/cropped-ActiveHist2019_icon_whiteBCKG-6-270x270.jpg" />
+</head>
+
+<body class="page-template-default page page-id-16226 page-child parent-pageid-23 custom-background custom-font-enabled">
+	
+		
+	<header id="masthead" class="site-header" role="banner">
+	<div class="wrapper-cabecera">
+	
+		<div class="blogname-y-menu">
+			<div class="boton-menu-movil"><i class="fa fa-align-justify fa-2x"></i></div>
+			
+							<div class="header-logo">
+					<a href="http://activehistory.ca/"><img src="http://activehistory.ca/wp-content/uploads/2019/04/cropped-ActiveHist2019_icon_whiteBCKG-1.jpg" class="header-image" width="400" height="400" alt="Active History" /></a>
+				</div>
+						
+						<div class="titulo-descripcion">
+			
+									<p class="site-title"><a href="http://activehistory.ca/" title="Active History" rel="home">Active History</a></p>
+								
+				<p class="site-description">History Matters</p>
+				
+			</div>
+						
+			<div class="toggle-search"><i class="fa fa-search"></i></div>
+			
+			<div class="wrapper-site-navigation">
+				<nav id="site-navigation" class="main-navigation" role="navigation">
+					
+					<div class="menu-the-main-container"><ul id="menu-the-main" class="nav-menu"><li id="menu-item-7899" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-home menu-item-7899"><a href="http://activehistory.ca/">Home</a></li>
+<li id="menu-item-7902" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-7902"><a href="http://activehistory.ca/about/">About</a></li>
+<li id="menu-item-7900" class="menu-item menu-item-type-post_type menu-item-object-page current-page-ancestor menu-item-7900"><a href="http://activehistory.ca/papers/">Features</a></li>
+<li id="menu-item-25840" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-25840"><a href="http://activehistory.ca/publications/">Publications</a></li>
+<li id="menu-item-7915" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-7915"><a href="http://activehistory.ca/podcasts/">Podcasts</a></li>
+<li id="menu-item-20816" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-20816"><a href="http://activehistory.ca/donate/">Support Us</a></li>
+</ul></div>				</nav><!-- #site-navigation -->
+                
+				<div class="wrapper-search-top-bar">
+                	<div class="search-top-bar">
+							<div>
+		<form method="get" id="searchform-toggle" action="http://activehistory.ca/">
+			<label for="s" class="assistive-text">Search</label>
+			<input type="search" class="txt-search" placeholder="Search..." name="s" id="s" />
+			<input type="submit" name="submit" id="btn-search" value="Search" />
+		</form>
+    </div>                    </div>
+                </div>
+                
+			</div><!-- .wrapper-site-navigation -->
+			
+		</div><!-- .blogname-y-menu -->
+        
+	<div style="position:relative; clear:both;">
+		
+<div id="menu-movil">
+	<div class="search-form-movil">
+		<form method="get" id="searchform-movil" action="http://activehistory.ca/">
+			<label for="s" class="assistive-text">Search</label>
+			<input type="search" class="txt-search-movil" placeholder="Search..." name="s" id="s" />
+			<input type="submit" name="submit" id="btn-search-movil" value="Search" />
+		</form>
+    </div><!-- search-form-movil -->
+	<div class="menu-movil-enlaces">
+		<div class="menu-the-main-container"><ul id="menu-the-main-1" class="nav-menu"><li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-home menu-item-7899"><a href="http://activehistory.ca/">Home</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-7902"><a href="http://activehistory.ca/about/">About</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page current-page-ancestor menu-item-7900"><a href="http://activehistory.ca/papers/">Features</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-25840"><a href="http://activehistory.ca/publications/">Publications</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-7915"><a href="http://activehistory.ca/podcasts/">Podcasts</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-20816"><a href="http://activehistory.ca/donate/">Support Us</a></li>
+</ul></div>	</div>
+	
+	<div class="social-icon-wrapper-movil">
+							<a href="https://twitter.com/activehist" title="Twitter" target="_blank"><i class="fa fa-twitter"></i></a> 
+						
+							<a href="https://www.facebook.com/ActiveHist/" title="Facebook" target="_blank"><i class="fa fa-facebook"></i></a>
+						
+						
+						
+					 		<a href="https://www.youtube.com/user/activehistoryca" title="YouTube" target="_blank"><i class="fa fa-youtube"></i></a>
+						
+						
+						
+							<a class="rss" href="http://feeds.feedburner.com/activehistoryca" title="RSS" target="_blank"><i class="fa fa-rss"></i></a>			
+					</div><!-- .social-icon-wrapper -->	
+</div><!-- #menu-movil -->    </div>
+    
+	</div><!-- wrapper-cabecera -->
+	
+	<div class="wrapper-area-widget-superior area-widget-padding-top">
+		</div>
+	
+	</header><!-- #masthead -->
+	
+<div id="page" class="hfeed site">
+	
+	<div id="main" class="wrapper">
+	<div id="primary" class="site-content">
+		<div id="content" role="main">
+
+							
+	<article id="post-16226" class="post-16226 page type-page status-publish hentry">
+
+		<header class="entry-header">
+													<h1 class="entry-title">Bodies of Water, Not Bodies of Women: Canadian Media Images of the Idle No More Movement</h1>
+					</header>
+
+		<div class="entry-content">
+			<p><em>By Myra Rutherdale, Erin Dolmage, and Carolyn Podruchny</em></p>
+<p>Water is political. It nourishes us, connects us, and separates us. Water is especially political in Canada: almost nine percent of Canada is covered by fresh water, annually Canada’s rivers discharge seven percent of the world’s renewable water supply, and Canada holds 25 percent of the world’s wetlands.<a href="#1">[1]</a> But we forget the power of water sometimes when stories about water become stirred into other stories, especially about Indigenous women’s bodies. The mingling of stories about water and about Indigenous women seems obvious. Indigenous women in Canada have long had special connections to water. In the Haudenosaunee tradition, Sky Woman built the world as we know it out of a primordial sea on the back of a turtle. Four women (three of them Indigenous and the fourth an ally) founded the <a href="http://www.idlenomore.ca/">Idle No More Movement</a> to protect Canada’s waters, as well as Indigenous rights, from Stephen Harper’s government. The mainstream English Canadian media, however, began to conflate the Idle No More movement with Indigenous women’s bodies, focusing on objectification, discrimination, and violence. The desiccated imagery in newspaper reports of scorched Indigenous women’s bodies left us wondering what happened to the water that the Idle No More Movement set out to protect?</p>
+<p>Let us begin our story with the context of the formation of the Idle No More Movement. On October 18, 2012, the federal government, led by Conservative Prime Minister Stephen Harper, tabled <a href="http://www.parl.gc.ca/HousePublications/Publication.aspx?DocId=5942521">Bill C-45, the Jobs and Growth Act</a> (also called the Omnibus Budget Bill), which became law on December 14, 2012. It amended the 1882 Navigable Waters Protection Act,<a href="#2">[2]</a> removing thousands of lakes and streams from federal protection, to make it easier for economic development projects to be approved. Now advocates for pipelines and powerlines can damage unlisted navigable waterways they cross without legal or economic consequence. The omnibus bill also changed voting and approval procedures in the Indian Act, which govern how Indigenous lands can be used, in service of development. The changes in this omnibus bill were part of a long-term, on-going effort by the Canadian federal government to chip away at treaty rights and the protection of the Canadian environment. This pattern of dispossession became more pronounced under Stephen Harper’s government. Bill C-45 was the final crack in the dam that let loose a flood of protest.</p>
+<p>Weeks after Bill C-45 was tabled, Nina Wilson, Jessica Gordon, Sylvia McAdam, and Sheelah McLean (non-Aboriginal ally), came together at Station 20 West, a community centre in Saskatoon, Saskatchewan to discuss the bill’s implications.<a href="#3">[3]</a> They organized a series of teach-ins, rallies, and protests, including a National Day of Action on December 10, 2012. “Idle No More” came out of these women’s meetings.<a href="#4">[4]</a> The news about Idle No More and its gatherings spread rapidly through social media. By January 24, 2013, roughly 113,000 had tweeted about the movement, with 76 percent positive and 60 percent from women.<a href="#5">[5]</a> Tens of thousands of people spread the news of Idle No More protests on Facebook, posting pictures of round dances. By January 5, 2013, close to 50,000 had joined Idle No More’s Facebook page.<a href="#6">[6]</a></p>
+<p>Meanwhile, a reserve called Attawapiskat on the James Bay Coast in northern Ontario was in trouble. Many on the reserve lived in tents, trailers, and temporary shelters because there were not enough houses for the population, and the moldy houses could not safely protect people from the cold. A 2009 flood destroyed many of the reserve’s buildings. For years, residents did not have consistent access to clean drinking water. Exacerbated by the flood, people now had to boil tap water or rely on expensive bottled water for consumption. Reserve leadership declared a state of emergency on October 28, 2011 (the third time in three years), which made international news, <a href="http://www.theglobeandmail.com/news/politics/un-official-blasts-dire-conditions-in-attawapiskat/article4085452/">embarrassing the Harper government</a> for its neglect of Indigenous peoples. Sadly, the infrastructure crisis at Attiwapiskat represented the norm for Canadian reserves. The chief, Theresa Spence, went on a hunger strike from December 11, 2012 to January 24, 2013, occupying Victoria Island in the Ottawa River, facing the Canadian Parliament, to focus attention on the ongoing crisis in Attiwapiskat.</p>
+<p>The timing of Chief Spence’s hunger strike and the emergence of the Idle No More movement were not accidental. Frustration with the Harper government’s mistreatment of Indigenous peoples and lands had reached an all-time high. People expressed their frustrations through road and railway blockades particularly along busy corridors in southwestern Ontario.<a href="#7">[7]</a> International border crossings became sites of protest and closure. Idle No More organized <a href="https://www.youtube.com/watch%3Fv=IEtBObjOwJ8">flash mobs</a> over the Christmas shopping season in various malls across the country and these demonstrations often took the form of round dances. In all these spaces of discontent, Aboriginal and non-Aboriginal allies united to assert their vision of a just and equitable Canada.<a href="#8">[8]</a> Beyond Canada, solidarity protests emerged in many American states, European cities, and beyond to Auckland, New Zealand and Cairo, Egypt, places where Indigenous peoples were casting off colonial yokes and claiming power.<a href="#9">[9]</a> The various elements of Indigenous rights groups thus merged to support one another’s causes and reinforce their challenges to colonial governments.</p>
+<p>In Canada, the largest gathering was held on January 11, 2013 outside the Canadian Parliament. Over 3,000 Aboriginal people and their supporters gathered to voice their concerns and their support of the movement and to some extent their support for Theresa Spence. Chief Spence had called for a meeting with Prime Minister Stephen Harper and with Governor General David Johnston (as the Queen’s representative). The Governor General refused to attend. The Prime Minister met with chiefs from across Canada (except for Ontario and Manitoba chiefs who boycotted the meeting) and then Chief of the Assembly of First Nations, Shawn Atleo.<a href="#10">[10]</a> Next, the Governor General met with about 100 chiefs, including Theresa Spence. She had boycotted the meeting with the Prime Minister, because she had stipulated that she wanted to see the Prime Minister with Ontario’s Premier Dalton McGuinty (who was on the verge of resigning) and the Governor General.<a href="#11">[11]</a> The meeting itself seemed to produce few results, despite promises of ongoing negotiations to improve conditions and relations. The Idle No More movement continued but the press, particularly after January 24, when Spence ended her hunger strike, went back to business as usual with respect to Aboriginal people.</p>
+<p>In January 2013 political scientist and member of the Yellowknives Dene First Nation, Glen Coulthard, presented one of the earliest attempts to explain the significance of Idle No More in an article for the journal Decolonization: Indigeneity Education &amp; Society (reposted on <a href="http://activehistory.ca/2013/01/idlenomore-in-historical-context/" target="_blank">ActiveHistory.ca</a> and summarized in the on-line magazine Rabble). Pointing to Aboriginal activism dating back 20 to 30 years, specifically Elijah Harper’s filibuster in 1990, the Kanasetake/Oka conflict (also in 1990), and several blockades that took place during the 1980s in Labrador, Quebec, Ontario, Alberta, and in British Columbia, Coulthard argued that “All of this activity was an indication that Indigenous people and communities were no longer willing to wait for Canada (or even their own leaders) to negotiate a just relationship with them in good faith.”<a href="#12">[12]</a> Historian of western Canada, Adele Perry, in an <a href="http://activehistory.ca/2013/02/idlenomore-historians-as-allies/">article</a> on ActiveHistory.ca, also sought to place Idle No More in an historical context. For her the movement came out of an Aboriginal feminist tradition:</p>
+<blockquote><p>we have the people, many of them women, who established Indian and Metis friendship centres across Canada in the 1950s and 60s. In this tradition are the variety of Indigenous women’s organizations, including the Native Women’s Association of Canada and individuals like Sandra Lovelace, who between 1983 and 1986 challenged the Indian Act’s codification of male authority and patrilineal descent, ultimately securing constitutional and legislative amendments that substantially changed the Indian Act’s criteria for who was and who was not an “Indian” under the law.<a href="#13">[13]</a></p></blockquote>
+<p>These two attempts to better understand the tradition of Aboriginal protest in Canada represent perspectives from insiders and outsider allies. Unfortunately Canadian media ignored any kind of contextual framework during the period that Idle No More was most active, from December 2012 to early February 2013. Mainstream English newspapers and TV news programs instead sought to provide “crisis” coverage that highlighted disruption, conflict, and Indigenous women’s bodies. From the outset, the mainstream English Canadian media decided that to talk about the Idle No More movement meant that there had to be some connection to what Theresa Spence was doing, even though Spence’s protest was over the highly publicized neglect of the Attawapiskat Nation by the federal government and their breach of treaty responsibilities, rather than Bill C-45. This conflation was evident in almost every <em>Globe and Mail</em> and CBC article that appeared from early December 2012 until the end of January 2013. Chief Theresa Spence became the face, if not the unacknowledged leader, of the Idle No More movement, even though she never actually proclaimed herself a member of the movement, nor did the movement ever really embrace her. <em>Globe and Mail</em> articles had headlines like “<a href="http://www.theglobeandmail.com/news/national/as-protests-swell-attawapiskat-chief-stands-firm-on-hunger-strike/article6734968/">As Protests Swell, Attawapiskat Chief Stands Firm On Hunger Strike</a>,” or “<a href="http://www.theglobeandmail.com/globe-debate/as-chief-spence-starves-canadians-awaken-from-idleness-and-remember-their-roots/article6700592/">As Chief Spence Starves, Canadians Awaken From Idleness And Remember Their Roots</a>”, or “<a href="http://www.theglobeandmail.com/news/politics/end-of-spences-protest-leaves-idlenomore-at-a-crossroads/article7830673/">End Of Spence’s Protest Leaves Idle No More At A Crossroads</a>.”<a href="#14">[14]</a> Even if article headlines did not include Spence’s name, it was rare over the two months of coverage that an article excluded Spence. The CBC even published an article called “Idle No More co-founder uneasy with media portrayal of chief” in which they quote Sylvia McAdams saying that the founders have very little contact with Chief Spence, and that the focus on one face undermines the grassroots nature of the Idle No More Movement.<a href="#15">[15]</a> And yet, Theresa Spence became the face of Idle No More. She was a wonderful foil for the movement. With the focus on whether or not she was starving to death, the media could avoid discussion about the movement’s goals, especially protecting Canadian water and Indigenous rights. Ironically, Chief’s Spence’s occupation of an island and consumption of fish broth failed to cue reporters to the underlying concerns about water. They could not see past her body.</p>
+<p>During the two months of her hunger strike, Chief Spence came under attack for two reasons: first, the media and some members of the public began to question if she was actually on a “true” and “authentic” hunger strike. Newspapers and television gleefully reported that Spence was consuming fish broth to discredit the hunger strike. On January 7, 2013 the federal government released an audit of Attawapiskat, which revealed that the federal government had spent $104 million on the reserve between 2005 and 2011, but that 400 bank transactions related to this funding lacked proper documentation. Of course the federal government claimed the timing of the release was a coincidence. Concerns about the authenticity of the hunger strike and Chief Spence’s financial ethics brought Spence’s authority as a leader into question. The media could now question the Idle No More movement itself, since they had set Spence up as its leader.</p>
+<p>The most insidious element in media portrayal was the challenge to the genuineness of Chief Spence’s hunger strike, which focused all attention on her body. On January 4, 2013 the National Post published in one of its regular columns “Barbara Kay on Theresa Spence: You call that a ‘hunger strike’?” which disparaged Chief Spence’s efforts:</p>
+<blockquote><p>There are hunger strikes and there are hunger strikes. To me, a hunger strike is when you drink water and you don’t actually — you know — eat. The whole point of the strike is to horrify people when they see you wasting away and slowly dying before their anguish-stricken eyes. But Attawapiskat Chief Theresa Spence seems to have a different understanding of what a hunger strike is. She is living on water and “fish broth.” Although liquid, fish broth is food. More specifically, it’s protein and fat. And, as any devotee of those trendy low-carb regimes will know, that’s all you need to live on … indefinitely. And although it is a bit awkward to point out, the photos I have seen of Chief Spence do not show her looking quite so gaunt and sickly, the shadow of her former self that three weeks on water alone would have produced.</p></blockquote>
+<p>Kay goes on to claim that her own experiences dieting give her expertise in assessing Chief Spence’s appearance (because in Kay’s view, all human bodies should behave in the same manner), concluding that “What Chief Spence seems to be on is more like a detox ‘diet’ than a fast.”<a href="#16">[16]</a> She then claimed that no doctor had delivered proof that Spence was actually in danger from her fast. Kay encouraged her readers to ignore Chief Spence’s protest, denigrating the protest as a woman going on a diet and “doing her body a favour.” In an article on <em>The Daily Beast</em> entitled “The Hunger Strike Diet: You Don&#8217;t Lose Weight AND You Accomplish Your Goal!” David Frum posted side-by-side photos of Chief Spence dated December 6, 2012 and January 12, 2013 that made Spence appear to become heavier during the course of her hunger strike, captioned “Hunger Strike: You’re Doing it Wrong!” Ironically the photos show only her face, which leads one to wonder how long he must have hunted for photos to suit his story. And the later photo has a different focal length and is actually a close up so of course her face looks larger! Frum then goes on to blame all of Attawapiskat’s problems on its band council and especially on Chief Spence, whose weight becomes a symbol of the Chief’s failure to care for her community. Frum claims that the hunger strike silenced any issues with Spence’s leadership, alluding to alleged missing funds and the Attawapiskat Nation’s irresponsible spending of taxpayer’s money.<a href="#17">[17]</a></p>
+<p>Conservative Senator Patrick Brazeau,<a href="#18">[18]</a> a member of Algonquin Nation from the Kitigan Zibi Reserve near Maniwaki, Quebec, also attacked Chief Spence’s weight as a way to undermine her protest. At a Conservative fundraiser of about 80 people, the <em>Toronto Star</em> reported that Brazeau referred to Spence’s “so-called hunger strike”:</p>
+<blockquote><p>“I was sick two weeks ago,’ Brazeau said. “I had the flu and I lost five pounds. I look at Miss Spence, when she started her hunger strike, and now?” Brazeau added as a voice in the hall called out, “She’s fatter,” which drew laughter from much of the audience.<a href="#19">[19]</a></p></blockquote>
+<p>In the same article the Star reported that a second Conservative politician, Ottawa-Orleans MP Royal Galipeau, told the crowd that he had gone to see Chief Spence on Boxing Day. Although Chief Spence was fifteen days into her hunger strike, Galipeau ignored her health and instead targeted her grooming: “ ‘I stood in the circle around Chief Spence,’ Galipeau said. ‘I noticed that manicure of hers. I tell you Anne can’t afford it,’ he said, referring to his wife.”<a href="#20">[20]</a> By disparaging Spence’s grooming, even though a manicure would be unremarkable for any female mayor or CEO, Galipeau implied that Spence is unworthy of appearing professional and her manicure is irresponsible and vain. Strangely he then attacks what he considers the unprofessional appearance of the followers around Chief Spence’s tent, calling them “1960s and 1970s flower people” and reminiscent of the Occupy Movement protesters.<a href="#21">[21]</a></p>
+<p>The shameful denigration of Aboriginal women by attacking their bodies has deep roots in Aboriginal history. Historian Mary Ellen Kelm shows that colonizers felt that changing the inherently flawed and diseased Aboriginal body was necessary for Aboriginal people succeeding in the civilized world.<a href="#22">[22]</a> The observation of imposed starvation echoes acts of government colonialism on Aboriginal bodies, including the forced nutritional experiments imposed by the Department of Indian Affairs in the 1950s revealed by a recent article by historian Ian Mosby.<a href="#23">[23]</a> By portraying Spence’s body as responding wrongly to her hunger strike (as if there is a single way a body should respond to a decrease in food consumption), gaining rather than losing weight, the media and politicians characterized Aboriginal women’s bodies as inherently flawed. Adding the comments on Spence’s manicure extended the racialized chauvinism of this portrayal, communicating that Chief Spence’s bodily adornments were inappropriate for her station, that is, an Aboriginal woman.</p>
+<p>Anishinaabe writer Leanne Simpson unpacks the choice of fish broth as a potent symbol of colonial starvation. On the <a href="http://dividednomore.ca/2013/01/16/fish-broth-fasting/">blog</a> Divided No More.ca and re-published by the Huffington Post, Simpson notes that the fish broth was a symbol of colonial abuse:</p>
+<blockquote><p>My Ancestors survived many long winters on fish broth because there was manitou giigoon nothing else to eat – not because the environment was harsh, but because the land loss and colonial policy were so fierce that they were forced into an imposed poverty that often left fish broth as the only sustenance.<a href="#24">[24]</a></p></blockquote>
+<p>Simpson challenged media portrayals with her assertion that fish broth was not “a cheat,” but rather it was another imposition forced on Cree and Anishinaabe peoples by the colonial government. Spence ate fish broth because “metaphorically, colonialism has kept Indigenous Peoples on a fish broth diet for generations upon generations.”<a href="#25">[25]</a></p>
+<p>Coulthard argues that the form of the Idle No More protests involves the political strength of Aboriginal bodies:</p>
+<blockquote><p>the second condition that differentiates #IdleNoMore from the decade of Indigenous activism that lead to RCAP [the <a href="http://www.collectionscanada.gc.ca/webarchives/20071115053257/http://www.ainc-inac.gc.ca/ch/rcap/sg/sgmm_e.html">Royal Commission on Aboriginal Peoples</a>] is the absence (so far) of widespread economic disruption unleashed by Indigenous direct action. If history has shown us anything, it is this: if you want those in power to respond swiftly to Indigenous peoples&#8217; political struggles, start by placing Indigenous bodies (with a few logs and tires thrown in for good measure) between settlers and their money, which in colonial contexts is generated by the ongoing theft and exploitation of our land and resource base. If this is true, then the long term efficacy of the #IdleNoMore movement would appear to hinge on its protest actions being distributed more evenly between the shopping malls and front lawns of legislatures on the one hand, and the logging roads, thoroughfares, and railways that are central to the accumulation of colonial capital on the other. For better and for worse, it was our peoples&#8217; challenge to these two pillars of colonial sovereignty that led to the recommendations of RCAP: the Canadian state&#8217;s claim to hold a legitimate monopoly on use of violence and the conditions required for the ongoing accumulation of capital.<a href="#26">[26]</a></p></blockquote>
+<p>For Coulthard, the direct actions of using Aboriginal bodies for protest and occupation makes the movement powerful. Indeed it was the appearance of identifiably Aboriginal people in spaces like Toronto’s Eaton Centre that alerted bystanders and the media to the immediate, physical, not just online, presence of Idle No More in Canada’s political landscape.</p>
+<p>Like most other social justice movements, the mainstream media portrayed Idle No More as a movement destined to fail. At the beginning of December 2012, terms like “flashpoint” and “call to action” were common and there was some general enthusiasm, but as December turned to January, and the meeting date with the Prime Minister drew closer, media articles like one by Jeffrey Simpson turned negative. Simpson’s article entitled “<a href="http://www.theglobeandmail.com/globe-debate/too-many-first-nations-people-live-in-a-dream-palace/article6929035/">Too Many First Nations People Live in a Dream Palace</a>” lambasted Aboriginal people for clinging to a mythological past:</p>
+<blockquote><p>Today’s reality however is so far removed in actual day-to-day terms from the memories inside the dream palace as to be almost unbearable…. Much of the rhetoric surrounding Chief Spence is of the usual dreamy, flamboyant variety, a mixture of anti-capitalism and anti-colonialism, blended with the mythology (blasted by the reality of what one actually sees on too many reserves) about environmental protection and the aboriginals’ sacred link to their lands.  To this is then added a desire to protect “traditional” ways.<a href="#27">[27]</a></p></blockquote>
+<p>Simpson’s sarcasm and dismissiveness was not out of place with the headlines that week, which included such dire warnings as “<a href="http://www.theglobeandmail.com/news/politics/harpers-meeting-with-chiefs-on-verge-of-collapse/article7104569/">Harper’s meeting with chiefs on verge of collapse</a>”<a href="#28">[28]</a> and “<a href="http://www.theglobeandmail.com/globe-debate/editorials/lack-of-transparency-is-harming-chief-spences-cause/article7096675/">Lack of Transparency is Harming Chief Spence’s Cause</a>” and “<a href="http://www.theglobeandmail.com/news/politics/harper-chiefs-to-meet-amid-chaos-protests/article7166154/">Harper, Chiefs to meet amid chaos, protests</a>.”<a href="#29">[29]</a> By January 16, 2013 many newspapers reported on an Ipsos Reid poll with headlines like “<a href="http://www.theglobeandmail.com/news/national/canadians-attitudes-hardening-on-aboriginal-issues-new-poll/article7408516/">Canadians’ attitudes hardening on Aboriginal issues</a>.”<a href="#30">[30]</a> Ipsos Reid surveyed 1023 Canadians, and the usual inconsistencies showed up. For example, 60 percent of the respondents felt that “most of the native people’s problems are brought on by themselves” but at the same time 63 percent of those polled felt the federal government must take action to help raise Aboriginal peoples’ quality of life. The same number of people supported a resolution of land claims. The pollsters also asked how the key actors in the stand-off were doing in terms of popularity. Then AFN Chief Shawn Atlio garnered the highest support at 51 percent, with Prime Minister Harper below at 46 percent. The Idle No more movement itself had the support of 38 percent of those polled, and Theresa Spence had only 29 percent support.<a href="#31">[31]</a> Mainstream media predicted that the Idle No More Movement would fade away, as did the Occupy Movement. For example, Gordon Gibson, writing in the <em>Globe and Mail</em> on January 13, 2013, predicted that</p>
+<blockquote><p>Idle No More will have a similar transience. Do we remember Occupy Wall Street? Yes, vaguely, but that is all. Did it make a difference? Sadly, no, even if it was blessed at the time even by Bank of Canada Governor Mark Carney, who agreed the concerns were legitimate…. But the movement shares the weaknesses of Occupy: no coherent leadership, no defined program, no institutional continuity. It is nothing more than the most recent demonstration of the power of social media, fated to dwindle away as did its predecessor.<a href="#32">[32]</a></p></blockquote>
+<p>Despite making Chief Theresa Spence the face of the movement, media criticized Idle No More for having no “obvious” leader. Periodic disagreement over tactics and strategies among supporters came under media fire. Media called the loosely-based factions and dissenting voices a disorganized slough. One journalist asked a British Columbian former chief: “Without perceived leaders and a clear-cut agenda, people movements often fade away. How can Idle No More avoid that fate?”<a href="#33">[33]</a></p>
+<p>The mainstream media failed to recognize that Idle No More’s agenda was to protect Canada’s waters and Indigenous rights by reversing Bill C45, and other legislation dispossessing Aboriginal people of their lands, homes, and sacred spaces.<a href="#34">[34]</a> The media was much more interested in the “starving woman,” and details about her diet, her community’s perceived poor bookkeeping habits, and the end of her hunger strike. The media chose an image that they hoped would sustain interest, and they refused to delve into the history or the real intentions of Idle No More.</p>
+<p>A second bodily focus emerged from media portrayals of the advocacy of Idle No More, and, unlike Chief Spence’s hunger strike, the focus is part of Idle No More’s stated goals. The sixth <a href="http://www.idlenomore.ca/calls_for_change">Idle No More Call for Change</a> reads:</p>
+<blockquote><p>Actively resist violence against women and hold a national inquiry into missing and murdered Indigenous women and girls, and involve Indigenous women in the design, decision-making, process and implementation of this inquiry, as a step toward initiating a comprehensive and coordinated national action plan.<a href="#35">[35]</a></p></blockquote>
+<p>The focus on the more than 1,000 missing or murdered Aboriginal women and its Twitter hashtag #MMIW has gained traction in Canadian media and social network sites. Ongoing cases such as the missing women on the northern British Columbian “Highway of Tears” and the mishandling of the disappearances of women from Vancouver’s lower east side who were victims of serial killer Robert Picton created an awareness of the disproportionate numbers of murdered and missing Aboriginal women. The Idle No More movement and several high profile disappearances of Aboriginal women heightened awareness. The February 2014 death of Inuk student Loretta Saunders, who was at the time of her death studying the phenomenon of murdered and missing women, and the more recent case of fifteen-year-old Tina Fontaine, whose body was dumped in the Red River in August 2014, as well as the heart-breaking art exhibit “<a href="http://walkingwithoursisters.ca/">Walking With Our Sisters</a>” (an installation of more than 1000 moccasin vamps assembled and curated by Metis artist Christi Belcourt<a href="#36">[36]</a>) are increasing the pressure on the federal government to initiate an inquiry on murdered and missing Aboriginal women.</p>
+<p>The RCMP-commission report <a href="http://www.rcmp-grc.gc.ca/pubs/mmaw-faapd-eng.pdf">Missing and Murdered Aboriginal Women: A National Operational Overview</a>, released in 2014, presents the stark figures. Between 1980 and 2012, RCMP records show 1,181 murdered or missing Aboriginal women (which is surely a low estimate as many of these crimes are unreported). Of these Aboriginal women, 1,017 were homicide victims between 1980 and 2012. At the time of the report, 164 Aboriginal women are considered missing and 225 cases of women who are murdered or missing remain unsolved.<a href="#37">[37]</a> The report notes that in all cases Aboriginal women are over-represented in the categories of missing and murdered women.<a href="#38">[38]</a></p>
+<p>Media coverage of missing and murdered Aboriginal women has been substantial. The <em>Globe and Mail</em> published 387 articles that include the terms “inquiry” and “Aboriginal women”<a href="#39">[39]</a> that includes pieces like “A national inquiry would empower First Nation women” by Joseph Quesnel and Steve Lafleur, which criticizes the Harper government’s refusal to treat missing or murdered Aboriginal women as anything other than a law enforcement issue. In response to the question of why his government would not hold in inquiry, Prime Minister Harper replied, “We should not view this as a sociological phenomenon. We should view it as crime.”<a href="#40">[40]</a> Of course we know that it is not so simple. Aboriginal women have a long and disturbing history with the Canadian justice system. Historian Jean Barman recounts her experience watching the trial of 1996 Hubert O’Connor and remembering an older case in the Okanagan of a police officer who was accused of attempting to “ ‘ravish … an Indian squaw’ … the verdict hinged on whether ‘you believe the simple evidence of the three Indian women.’ ” Unsurprisingly, the verdict was returned as not guilty.<a href="#41">[41]</a></p>
+<p>But the Canadian media has drenched their portrayal of these cases in stereotypes and morality judgments about Aboriginal women’s bodies. For example, in their article “Missing and Murdered Women: Reproducing Marginality in New Discourse,” Yasmin Jiwani and Mary Lynn Young analyze 128 articles from <em>The Vancouver Sun</em> published between 2001 and 2006 and find that media continues to marginalize Aboriginal women even after their deaths by focusing their portrayals on sex-trade workers and stereotyping Indigenous women as degenerate.<a href="#42">[42]</a></p>
+<p>An inquiry into missing and murdered Indigenous women is urgently needed, despite media portrayals of their worth. But we also want to point out that the mainstream of English Canadian media has diverted coverage of Indigenous women’s activism to their bodies alone, diluting their actions, and especially how Indigenous women have worked to save Canadian waters. Chief Spence’s “dieting” body and the violated bodies of the missing and murdered women have drowned out any other story. We have not been able to hear Idle No More’s manifesto calling for Canada to honour its treaties, its land, its air, and its waters, and to stop poisoning Indigenous sovereignty and environmental sustainability.<a href="#43">[43]</a> It is time for the mainstream media to end this drought.</p>
+<p>Indigenous women have worked to save Canada’s waters long before Idle No More was created. One of the most poignant examples arose in April 2003, when two Anishinawbe Grandmothers, members of the Fish Clan, initiated the first annual walk around the Great Lakes to raise awareness for Indigenous women’s rights and the endangering of clean water.<a href="#44">[44]</a> The grandmothers carried a copper kettle filled with water and an eagle staff, to represent life and the Creator. Since then, every spring, Indigenous women have been restoring the connection between women and water in the <a href="http://www.motherearthwaterwalk.com/">Mother Earth Water Walk</a>. One of the founding Grandmothers, Josephine Mandamin, explains, “We are all water. We are born of water. We are all water people. We are all water carriers. We carry water within us…. We have a duty to care for the water.”<a href="#45">[45]</a></p>
+<p><em>This article is a commemoration of the late Myra Rutherdale, Associate Professor of History at York University, who presented a version of this essay at a Canadian Studies conference in Jerusalem in the spring of 2013. Her graduate student Erin Dolmage and colleague Carolyn Podruchny extended and completed the essay to honour Myra’s dedication to scholarship and social justice. Erin and Carolyn thank Robert Rutherdale and members of the History of Indigenous Peoples (HIP) Network at York for their helpful feedback.</em></p>
+<hr />
+<p>&nbsp;</p>
+<p><a id="1"></a>[1] Environment Canada, “Water – In Canada” <a href="https://www.ec.gc.ca/eau-water/default.asp?lang=en&amp;n=5EA1D86E-1">https://www.ec.gc.ca/eau-water/default.asp?lang=en&amp;n=5EA1D86E-1</a> (accessed 8 May 2015).</p>
+<p><a id="2"></a>[2] Now called the Navigation Protection Act.</p>
+<p><a id="3"></a>[3] “9 Questions about Idle No More” CBC News, January 5, 2013, <a href="http://www.cbc.ca/news/canada/9-questions-about-idle-no-more-1.1301843">http://www.cbc.ca/news/canada/9-questions-about-idle-no-more-1.1301843</a> (accessed September 19, 2014); Febna Caven, “Being Idle No More: The Women Behind the Movement” Cultural Survival Quarterly 37-1 (March 2013), <a href="https://www.culturalsurvival.org/publications/cultural-survival-quarterly/being-idle-no-more-women-behind-movement">https://www.culturalsurvival.org/publications/cultural-survival-quarterly/being-idle-no-more-women-behind-movement</a> (accessed September 19, 2014). Also see The Kino-nda-niimi Collective, ed, <em>The Winter We Danced: Voices From the Past, the Future, and the Idle No More Movement</em> (ARP 2014).</p>
+<p><a id="4"></a>[4] Sarah van Gelder, “Why Canada’s Indigenous Uprising Is About All of Us,” Yes!, February 7, 2013.</p>
+<p><a id="5"></a>[5] Joe Friesen, “End of Spence’s Protest Leaves Idle No More at a Crossroads,” The Globe and Mail, January 24, 2013, Politics edition, http://www.theglobeandmail.com/news/politics/end-of-spences-protest-leaves-idlenomore-at-a-crossroads/article7830673/.</p>
+<p><a id="6"></a>[6] “9 Questions about Idle No More” CBC News, January 5, 2013, <a href="http://www.cbc.ca/news/canada/9-questions-about-idle-no-more-1.1301843">http://www.cbc.ca/news/canada/9-questions-about-idle-no-more-1.1301843</a> (accessed September 19, 2014).</p>
+<p><a id="7"></a>[7] CTV.ca staff (December 30, 2012). <a href="http://www.ctvnews.ca/canada/trains-moving-again-after-idle-no-more-blockade-shuts-rail-line-1.1096057">&#8220;Trains moving again after Idle No More blockade shuts rail line&#8221;</a>.CTV.ca. CTV; January 5, 2013 12:06 PM ET. <a href="http://www.cbc.ca/news/canada/story/2013/01/05/idle-no-more-saturday.html">&#8220;Idle No More targets Canadian travel routes – Canada – CBC News&#8221;</a>;  <a href="http://indiancountrytodaymedianetwork.com/article/elated-mohawks-close-international-bridge-idle-no-more-solidarity-146802">&#8220;Elated Mohawks Close International Bridge in Idle No More Solidarity&#8221;</a>.</p>
+<p><a id="8"></a>[8] See for examples <a href="http://en.wikipedia.org/wiki/CBC_News">News, CBC</a> (December 17, 2012). <a href="http://www.cbc.ca/news/canada/saskatchewan/story/2012/12/17/sk-flash-mob-round-dance-cornwall-1212.html">&#8220;&#8216;Idle No More&#8217; campaign arrives at downtown Regina mall&#8221;</a>;  <a href="http://en.wikipedia.org/wiki/CBC_News">News, CBC</a> (December 18, 2012). <a href="http://www.cbc.ca/news/canada/edmonton/story/2012/12/18/edmonton-idle-no-more-west-edmonton-mall.html">&#8220;Hundreds take part in &#8216;Idle No More&#8217; protest at West Edmonton Mall&#8221;</a>;  <a href="http://en.wikipedia.org/wiki/CBC_News">News, CBC</a> (December 20, 2012). <a href="http://www.cbc.ca/news/canada/saskatchewan/story/2012/12/20/sk-flash-mob-midtown-plaza-idle-no-more-121220.html">&#8220;Idle No More does Round Dance at Saskatoon mall&#8221;</a>; and Groves, Tim (December 27, 2012). <a href="http://www.mediacoop.ca/story/idle-no-more-map-events-spreading-across-canada-an/15320">&#8220;Idle No More map: Events Spreading across Canada and the World&#8221;</a>. The Media Co-op. Dominion News Cooperative.</p>
+<p><a id="9"></a>[9] Idle No More, “#J11 Global Day of Action: Events,” Idle No More, January 11, 2013, http://www.j11action.com/#events.</p>
+<p><a id="10"></a>[10] Heather Scoffield, “First Nations, Harper Meeting: Commitment To Treaty Talks Will Bring Fundamental Change, Atleo Says,” The Huffington Post, January 11, 2013, sec. Politics, http://www.huffingtonpost.ca/2013/01/11/first-nations-meeting-harper_n_2456020.html.</p>
+<p><a id="11"></a>[11] Mike Blanchfield and Terry Pedwell, “Theresa Spence Attends Ceremonial Meeting with Governor-General,” The National Post, sec. Canadian Politics, accessed August 19, 2014, http://news.nationalpost.com/2013/01/11/theresa-spence-to-attend-ceremonial-meeting-with-governor-general/.</p>
+<p><a id="12"></a>[12] Glen Coulthard, “Idle No More in Context: A History of Resistance,” Rabble.ca, January 7, 2013, sec. Politics, http://rabble.ca/news/2013/01/idle-no-more-context-history-resistance.</p>
+<p><a id="13"></a>[13] Adele Perry, “#IdleNoMore, Histories, and Historians,” Active History.ca: History Matters, February 26, 2013, http://activehistory.ca/2013/02/idlenomore-historians-as-allies/.</p>
+<p><a id="14"></a>[14] Gloria Galloway, “As Protests Swell, Attawapiskat Chief Stands Firm on Hunger Strike,” The Globe and Mail, December 26, 2012, sec. National News, http://www.theglobeandmail.com/news/national/as-protests-swell-attawapiskat-chief-stands-firm-on-hunger-strike/article6734968/.;Naomi Klein, “As Chief Spence Starves, Canadians Awaken from Idleness and Remember Their Roots,” The Globe and Mail, December 24, 2012, sec. Globe Debate, http://www.theglobeandmail.com/globe-debate/as-chief-spence-starves-canadians-awaken-from-idleness-and-remember-their-roots/article6700592/.;</p>
+<p><a id="15"></a>[15] “Idle No More co-founder uneasy with media portrayals of chief” CBC News, <a href="http://www.cbc.ca/news/canada/saskatchewan/idle-no-more-co-founder-uneasy-with-media-portrayal-of-chief-1.1305850">http://www.cbc.ca/news/canada/saskatchewan/idle-no-more-co-founder-uneasy-with-media-portrayal-of-chief-1.1305850</a> (accessed May 9, 2015).</p>
+<p><a id="16"></a>[16] Barbara Kay, “Barbara Kay on Theresa Spence: You call that a ‘hunger strike’?” National Post January 4, 2013, http://fullcomment.nationalpost.com/2013/01/04/barbara-kay-on-theresa-spence-you-call-that-a-hunger-strike/</p>
+<p><a id="17"></a>[17] David Frum, “The Hunger Strike Diet: You Don’t Lose Weight AND You Accomplish Your Goal!,” The Daily Beast, January 24, 2013, http://www.thedailybeast.com/articles/2013/01/24/the-hunger-strike-diet-you-don-t-lose-weight-and-you-accomplish-your-goal.html.</p>
+<p><a id="18"></a>[18] Patrick Brazeau, due to accusations of improper spending and a separate incident of domestic assault is suspended from the Canadian Senate; these remarks however predate his suspension from the Senate.</p>
+<p><a id="19"></a>[19] Tonda MacCharles and Nevil Hunt, “Conservative MP and Senator Belittle Chief Theresa Spence, Idle No More Movement,” The Toronto Star, January 30, 2013, sec. Canada, http://www.thestar.com/news/canada/2013/01/30/conservative_mp_and_senator_belittle_chief_theresa_spence_idle_no_more_movement.html.</p>
+<p><a id="20"></a>[20] Ibid.</p>
+<p><a id="21"></a>[21] Ibid.</p>
+<p><a id="22"></a>[22] Mary Ellen Kelm, Colonising Bodies: Aboriginal Health and Healing in British Columbia 1900-50 (Vancouver, BC: UBC Press, 1998), xvi.</p>
+<p><a id="23"></a>[23] Ian Mosby, “Administering Colonial Science: Nutrition Research and Human Biomedical Experimentation in Aboriginal Communities and Residential Schools, 1942–1952,” Histoire sociale/Social History 46, no. 91 (May 2013): 146–72.</p>
+<p><a id="24"></a>[24] Leanne Simpson, “Fish Broth and Fasting,” Divided No More, January 16, 2013, dividednomore.ca/2013/01/16/fish-broth-fasting.</p>
+<p><a id="25"></a>[25] Ibid.</p>
+<p><a id="26"></a>[26] Coulthard, “Idle No More in Context: A History of Resistance.”</p>
+<p><a id="27"></a>[27] Jeffrey Simpson, “Too Many First Nations People Live in a Dream Palace,” The Globe and Mail, January 5, 2013, sec. Globe Debate, http://www.theglobeandmail.com/globe-debate/too-many-first-nations-people-live-in-a-dream-palace/article6929035/.</p>
+<p><a id="28"></a>[28] Gloria Galloway, “Harper’s Meeting with Chiefs on Verge of Collapse,” The Globe and Mail, January 9, 2013, sec. Politics, http://www.theglobeandmail.com/news/politics/harpers-meeting-with-chiefs-on-verge-of-collapse/article7104569/.</p>
+<p><a id="29"></a>[29] Globe and Mail Editorial Board, “Lack of Transparency Is Harming Chief Spence’s Cause,” The Globe and Mail, January 9, 2013, sec. Editorials, http://www.theglobeandmail.com/globe-debate/editorials/lack-of-transparency-is-harming-chief-spences-cause/article7096675/.;Gloria Galloway, “Harper, Chiefs to Meet amid Chaos, Protests,” The Globe and Mail, January 10, 2013, sec. Politics, http://www.theglobeandmail.com/news/politics/harper-chiefs-to-meet-amid-chaos-protests/article7166154/.</p>
+<p><a id="30"></a>[30] Jill Mahoney, “Canadians’ Attitudes Hardening on Aboriginal Issues: New Poll,” The Globe and Mail, January 16, 2013, sec. National, http://www.theglobeandmail.com/news/national/canadians-attitudes-hardening-on-aboriginal-issues-new-poll/article7408516/.</p>
+<p><a id="31"></a>[31] Ipsos Reid, “Fast Fallout: Chief Spence and Idle No More Movement Galvanizes Canadians Around Money Management and Accountability,” Ipsos.com, January 14, 2013, http://www.ipsos-na.com/news-polls/pressrelease.aspx?id=5961.</p>
+<p><a id="32"></a>[32] Gordon Gibson, “To Solve Native Issues, Focus More on the Indians and Less on the Chiefs,” The Globe and Mail, January 13, 2014, sec. Globe Debate, http://www.theglobeandmail.com/globe-debate/to-solve-native-issues-focus-more-on-the-indians-and-less-on-the-chiefs/article7296268/.</p>
+<p><a id="33"></a>[33] Rod Mickleburgh, “Q&amp;A Judith Sayers: Judith Sayers on Idle No More: ‘A Real Need to Join the People,’” The Globe and Mail, January 20, 2013, sec. British Columbia, http://www.theglobeandmail.com/news/british-columbia/judith-sayers-on-idle-no-more-a-real-need-to-join-the-people/article7565664/.</p>
+<p><a id="34"></a>[34] Idle No More, “Idle No More: Calls For Change,” IdleNoMore, accessed August 20, 2014, http://www.idlenomore.ca/calls_for_change.</p>
+<p><a id="35"></a>[35] Idle No More, “Idle No More: Calls For Change.”</p>
+<p><a id="36"></a>[36] See http://www.christibelcourt.com/WalkingWithOurSistersABOUT.html</p>
+<p><a id="37"></a>[37] RCMP, Missing and Murdered Aboriginal Women: A National Operational Overview (Ottawa: Her Majesty The Queen In Right Of Canada as represented by the Royal Canadian Mounted Police, 2014), 7, http://www.rcmp-grc.gc.ca/pubs/mmaw-faapd-eng.pdf.</p>
+<p><a id="38"></a>[38] Ibid., 9.</p>
+<p><a id="39"></a>[39] Globe and Mail, “Globe and Mail Search ‘Inquiry’ and Aboriginal Women&#8221;,” Search Results, The Globe and Mail, (May 10, 2015), http://www.theglobeandmail.com/search/?q=Inquiry+Aboriginal+women.</p>
+<p><a id="40"></a>[40] “Harper rebuffs renewed calls for murdered, missing women inquiry” CBC news, August 22, 2014, <a href="http://www.cbc.ca/news/canada/manitoba/harper-rebuffs-renewed-calls-for-murdered-missing-women-inquiry-1.2742845">http://www.cbc.ca/news/canada/manitoba/harper-rebuffs-renewed-calls-for-murdered-missing-women-inquiry-1.2742845</a> (accessed May 10, 2015).</p>
+<p><a id="41"></a>[41] Jean Barman, “Taming Aboriginal Sexuality: Gender, Power, and Race in British Columbia, 1850-1900” <em>BC Studies</em> 115/6 (Autumn/ Winter 1997/98: 237-266), 245.</p>
+<p><a id="42"></a>[42] Yamin Jiwani and Mary Lynn Young, “Missing and Murdered Women” Reproducing Marginality in New Discourse” <em>Canadian Journal of Communication</em> 31 (2006), 895-917.</p>
+<p><a id="43"></a>[43] “The Manifesto,” Idle No More, <a href="http://www.idlenomore.ca/manifesto">http://www.idlenomore.ca/manifesto</a> (accessed May 10, 2015).</p>
+<p><a id="44"></a>[44] Mother Earth Water Walk, <a href="http://www.motherearthwaterwalk.com/">http://www.motherearthwaterwalk.com/</a> (accessed May 10, 2015).</p>
+<p><a id="45"></a>[45] Miriam King, “Mother Earth Water Walk around local lakes sending a message” <em>The Barrie Examiner</em>, June 27, 2014, <a href="http://www.thebarrieexaminer.com/2014/06/27/mother-earth-water-walk-around-around-local-lakes-sending-a-message">http://www.thebarrieexaminer.com/2014/06/27/mother-earth-water-walk-around-around-local-lakes-sending-a-message</a> (accessed May 10, 2015).</p>
+<div class="sharedaddy sd-sharing-enabled"><div class="robots-nocontent sd-block sd-social sd-social-official sd-sharing"><div class="sd-content"><ul><li class="share-facebook"><div class="fb-share-button" data-href="http://activehistory.ca/papers/bodies-of-water-not-bodies-of-women-canadian-media-images-of-the-idle-no-more-movement/" data-layout="button_count"></div></li><li class="share-twitter"><a href="https://twitter.com/share" class="twitter-share-button" data-url="http://activehistory.ca/papers/bodies-of-water-not-bodies-of-women-canadian-media-images-of-the-idle-no-more-movement/" data-text="Bodies of Water, Not Bodies of Women: Canadian Media Images of the Idle No More Movement" data-via="ActiveHist" >Tweet</a></li><li class="share-email"><a rel="nofollow noopener noreferrer" data-shared="" class="share-email sd-button" href="http://activehistory.ca/papers/bodies-of-water-not-bodies-of-women-canadian-media-images-of-the-idle-no-more-movement/?share=email" target="_blank" title="Click to email this to a friend"><span>Email</span></a></li><li class="share-end"></li></ul></div></div></div>					</div><!-- .entry-content -->
+
+		<footer class="entry-meta">
+					</footer><!-- .entry-meta -->
+
+	</article><!-- #post -->				
+<div id="comments" class="comments-area">
+
+				<div class="zg-wrapper-widget-area">
+			<div id="text-445942440" class="widget widget_text">			<div class="textwidget"><p><a href="http://creativecommons.org/licenses/by-nd/4.0/" rel="license"><img style="border-width: 0;" src="https://i.creativecommons.org/l/by-nd/4.0/80x15.png" alt="Creative Commons Licence" /></a><br />
+This work is licensed under a <a href="http://creativecommons.org/licenses/by-nd/4.0/" rel="license">Creative Commons Attribution-NoDerivatives 4.0 International License</a>. Blog posts published before October  28, 2018 are licensed with a Creative Commons Attribution-NonCommercial-ShareAlike 2.5 Canada License.</p>
+</div>
+		</div>		</div>
+    	
+			<h2 class="comments-title">
+			4 thoughts on &ldquo;<span>Bodies of Water, Not Bodies of Women: Canadian Media Images of the Idle No More Movement</span>&rdquo;		</h2>
+
+		<ol class="commentlist">
+				<li class="comment even thread-even depth-1" id="li-comment-69220">
+		<article id="comment-69220" class="comment">
+			<header class="comment-meta comment-author vcard">
+				<img alt='' src='http://1.gravatar.com/avatar/1d7205164256e59f76cb97dc38236b1f?s=44&#038;d=mm&#038;r=g' srcset='http://1.gravatar.com/avatar/1d7205164256e59f76cb97dc38236b1f?s=88&#038;d=mm&#038;r=g 2x' class='avatar avatar-44 photo' height='44' width='44' /><cite><b class="fn">Bonnie Huskins</b> </cite><a href="http://activehistory.ca/papers/bodies-of-water-not-bodies-of-women-canadian-media-images-of-the-idle-no-more-movement/#comment-69220"><time datetime="2015-05-22T08:59:15-04:00">May 22, 2015 at 8:59 am</time></a>			</header><!-- .comment-meta -->
+
+			
+			<section class="comment-content comment">
+				<p>Thank you to all who helped to finish Myra&#8217;s paper. She was a special colleague and a superb scholar.<br />
+Miss you Myra, from your fellow Saint Johner, Bonnie Huskins</p>
+							</section><!-- .comment-content -->
+
+			<div class="reply">
+							</div><!-- .reply -->
+		</article><!-- #comment-## -->
+	</li><!-- #comment-## -->
+	<li class="comment odd alt thread-odd thread-alt depth-1" id="li-comment-69252">
+		<article id="comment-69252" class="comment">
+			<header class="comment-meta comment-author vcard">
+				<img alt='' src='http://2.gravatar.com/avatar/eaa9a9cae59a4c11a233f1bc5bcbf148?s=44&#038;d=mm&#038;r=g' srcset='http://2.gravatar.com/avatar/eaa9a9cae59a4c11a233f1bc5bcbf148?s=88&#038;d=mm&#038;r=g 2x' class='avatar avatar-44 photo' height='44' width='44' /><cite><b class="fn"><a href='http://www.prdh.umontreal.ca' rel='external nofollow ugc' class='url'>Lisa Dillon</a></b> </cite><a href="http://activehistory.ca/papers/bodies-of-water-not-bodies-of-women-canadian-media-images-of-the-idle-no-more-movement/#comment-69252"><time datetime="2015-05-23T21:43:15-04:00">May 23, 2015 at 9:43 pm</time></a>			</header><!-- .comment-meta -->
+
+			
+			<section class="comment-content comment">
+				<p>A wonderful analysis and synthesis.  I learned a lot reading this piece.  Lisa Dillon</p>
+							</section><!-- .comment-content -->
+
+			<div class="reply">
+							</div><!-- .reply -->
+		</article><!-- #comment-## -->
+	</li><!-- #comment-## -->
+	<li class="comment even thread-even depth-1" id="li-comment-69421">
+		<article id="comment-69421" class="comment">
+			<header class="comment-meta comment-author vcard">
+				<img alt='' src='http://2.gravatar.com/avatar/2ea1bbe4480f1de9b7e0a1414b488ae1?s=44&#038;d=mm&#038;r=g' srcset='http://2.gravatar.com/avatar/2ea1bbe4480f1de9b7e0a1414b488ae1?s=88&#038;d=mm&#038;r=g 2x' class='avatar avatar-44 photo' height='44' width='44' /><cite><b class="fn"><a href='http://linkedin' rel='external nofollow ugc' class='url'>robertawagner</a></b> </cite><a href="http://activehistory.ca/papers/bodies-of-water-not-bodies-of-women-canadian-media-images-of-the-idle-no-more-movement/#comment-69421"><time datetime="2015-05-30T20:24:02-04:00">May 30, 2015 at 8:24 pm</time></a>			</header><!-- .comment-meta -->
+
+			
+			<section class="comment-content comment">
+				<p>extremely informative</p>
+							</section><!-- .comment-content -->
+
+			<div class="reply">
+							</div><!-- .reply -->
+		</article><!-- #comment-## -->
+	</li><!-- #comment-## -->
+	<li class="pingback odd alt thread-odd thread-alt depth-1" id="comment-79585">
+		<p>Pingback: <a href='http://niche-canada.org/2017/07/05/reconnaitre-la-culture-et-le-langage-autochtone-inscrits-dans-le-territoire/' rel='external nofollow ugc' class='url'>Reconnaître la culture et le langage autochtone inscrits dans le territoire | NiCHE</a> </p>
+	</li><!-- #comment-## -->
+		</ol><!-- .commentlist -->
+
+		
+		
+		
+		
+	<div class="wrapper-form-comments">
+	
+		<div id="respond" class="comment-respond">
+							<h3 id="reply-title" class="comment-reply-title">Please note: ActiveHistory.ca encourages comment and constructive discussion of our articles. We reserve the right to delete comments submitted under aliases, or that contain spam, harassment, or attacks on an individual.					<small><a rel="nofollow" id="cancel-comment-reply-link" href="/papers/bodies-of-water-not-bodies-of-women-canadian-media-images-of-the-idle-no-more-movement/?shared=email&amp;msg=fail#respond" style="display:none;">Cancel reply</a></small>
+				</h3>
+						<form id="commentform" class="comment-form">
+				<iframe title="Comment Form" src="https://jetpack.wordpress.com/jetpack-comment/?blogid=42146343&#038;postid=16226&#038;comment_registration=0&#038;require_name_email=1&#038;stc_enabled=1&#038;stb_enabled=1&#038;show_avatars=1&#038;avatar_default=mystery&#038;greeting=Please+note%3A+ActiveHistory.ca+encourages+comment+and+constructive+discussion+of+our+articles.+We+reserve+the+right+to+delete+comments+submitted+under+aliases%2C+or+that+contain+spam%2C+harassment%2C+or+attacks+on+an+individual.&#038;greeting_reply=Leave+a+Reply+to+%25s&#038;color_scheme=light&#038;lang=en_CA&#038;jetpack_version=8.6.1&#038;show_cookie_consent=10&#038;has_cookie_consent=0&#038;token_key=%3Bnormal%3B&#038;sig=f46c0f8528b65c795807b40320db1b20c48c89d1#parent=http%3A%2F%2Factivehistory.ca%2Fpapers%2Fbodies-of-water-not-bodies-of-women-canadian-media-images-of-the-idle-no-more-movement%2F%3Fshared%3Demail%26msg%3Dfail" style="width:100%; height: 430px; border:0;" name="jetpack_remote_comment" class="jetpack_remote_comment" id="jetpack_remote_comment" sandbox="allow-same-origin allow-top-navigation allow-scripts allow-forms allow-popups"></iframe>
+									<!--[if !IE]><!-->
+					<script>
+						document.addEventListener('DOMContentLoaded', function () {
+							var commentForms = document.getElementsByClassName('jetpack_remote_comment');
+							for (var i = 0; i < commentForms.length; i++) {
+								commentForms[i].allowTransparency = false;
+								commentForms[i].scrolling = 'no';
+							}
+						});
+					</script>
+					<!--<![endif]-->
+							</form>
+		</div>
+
+		
+		<input type="hidden" name="comment_parent" id="comment_parent" value="" />
+
+			</div>
+
+</div><!-- #comments .comments-area -->			
+		</div><!-- #content -->
+	</div><!-- #primary -->
+
+
+			<div id="secondary" class="widget-area" role="complementary">
+			<aside id="search-2" class="widget widget_search">	<div class="wrapper-search-form">
+		<form method="get" id="searchform" action="http://activehistory.ca/">
+			<label for="s" class="assistive-text">Search</label>
+			<input type="search" class="txt-search" placeholder="Search..." name="s" id="s" />
+			<input type="submit" name="submit" id="btn-search-n" value="Search" />
+		</form>
+    </div></aside><aside id="text-445942422" class="widget widget_text"><h3 class="widget-title"><span class="prefix-widget-title"><i class="fa fa-th-large"></i></span> What is Active History?</h3>			<div class="textwidget"><p>ActiveHistory.ca is a website that connects the work of historians with the wider public and the importance of the past to current events.</p>
+<p>Please direct queries to Daniel Ross, Public Outreach Coordinator, via <a href="info@activehistory.ca">info@activehistory.ca</a>.</p>
+<p>For author guidelines, <a href="https://wp.me/P2QQbJ-32">click here</a>.</p>
+<p>Visitez notre partenaire francophone, <a href="http://histoireengagee.ca/"> HistoireEngagée.ca</a></p>
+</div>
+		</aside><aside id="text-445942433" class="widget widget_text"><h3 class="widget-title"><span class="prefix-widget-title"><i class="fa fa-th-large"></i></span> Ongoing Projects</h3>			<div class="textwidget"><ul>
+<li><b><a href="http://activehistory.ca/papers/beyond-the-lecture-series-list/">Beyond the Lecture</a></b></li>
+<li><b><a href="http://activehistory.ca/papers/canadas-first-world-war-a-centennial-series-on-activehistory-ca/">Canada's First World War</a></b></li>
+<li><b><a href="http://activehistory.ca/papers/from-juno-to-victory/">From Juno to Victory</a></b></li>
+<li><b><a href="http://activehistory.ca/podcasts/">History Slam Podcast</a></b></li>
+<li><b><a href="http://activehistory.ca/publications/">Open-Access Ebooks</a></b></li>
+<li><b><a href="http://activehistory.ca/remember-i-resist-i-redraw/">Remember/Resist/Redraw</a></b></li>
+</ul>
+
+</div>
+		</aside><aside id="twitter_timeline-3" class="widget widget_twitter_timeline"><h3 class="widget-title"><span class="prefix-widget-title"><i class="fa fa-th-large"></i></span> Twitter</h3><a class="twitter-timeline" data-theme="light" data-border-color="#e8e8e8" data-tweet-limit="3" data-lang="EN" data-partner="jetpack" data-chrome="noheader" href="https://twitter.com/ActiveHist" href="https://twitter.com/ActiveHist">My Tweets</a></aside><aside id="blog_subscription-3" class="widget widget_blog_subscription jetpack_subscription_widget"><h3 class="widget-title"><span class="prefix-widget-title"><i class="fa fa-th-large"></i></span> Subscribe via email</h3>
+            <form action="#" method="post" accept-charset="utf-8" id="subscribe-blog-blog_subscription-3">
+				                    <p id="subscribe-email">
+                        <label id="jetpack-subscribe-label"
+                               class="screen-reader-text"
+                               for="subscribe-field-blog_subscription-3">
+							Email Address                        </label>
+                        <input type="email" name="email" required="required"
+                        			                                                value=""
+                            id="subscribe-field-blog_subscription-3"
+                            placeholder="Email Address"
+                        />
+                    </p>
+
+                    <p id="subscribe-submit">
+                        <input type="hidden" name="action" value="subscribe"/>
+                        <input type="hidden" name="source" value="http://activehistory.ca/papers/bodies-of-water-not-bodies-of-women-canadian-media-images-of-the-idle-no-more-movement/?shared=email&#038;msg=fail"/>
+                        <input type="hidden" name="sub-type" value="widget"/>
+                        <input type="hidden" name="redirect_fragment" value="blog_subscription-3"/>
+						                        <button type="submit"
+	                        		                    	                        name="jetpack_subscriptions_widget"
+	                    >
+	                        Subscribe                        </button>
+                    </p>
+				            </form>
+		
+</aside>		</div><!-- #secondary -->
+		</div><!-- #main .wrapper -->
+	</div><!-- #page -->
+		<footer>
+	<div style="background-color:#444444;">
+		<div class="wrapper-widget-area-footer">
+			<div class="widget-area-footer">
+				<div id="text-445942435" class="widget widget_text">			<div class="textwidget">ActiveHistory.ca is supported financially and administratively by the <a href="http://artsandscience.usask.ca/history/">History Department at the University of Saskatchewan</a> and <a href="http://www.huronuc.on.ca/Home">Huron University College</a>. <a href="https://calicologic.com/">Calico Logic</a> provides technical support.</div>
+		</div>			</div>
+			
+			<div class="widget-area-footer">
+				<div id="text-445942437" class="widget widget_text">			<div class="textwidget"><img src="http://activehistory.ca/wp-content/uploads/2017/02/usask_ArtsScience_History_black_reverse.png"/></div>
+		</div>			</div>
+			
+			<div class="widget-area-footer">
+				<div id="text-445942439" class="widget widget_text">			<div class="textwidget"><img src="http://activehistory.ca/wp-content/uploads/2017/02/huronuc_horiz_rgb_black_reverse_720.png"/></div>
+		</div>			</div>
+		</div>
+	</div>
+	</footer>
+		<hr class="hr-oscura" />
+	<footer id="colophon" role="contentinfo">
+	<div class="social-icon-wrapper">
+							<a href="https://twitter.com/activehist" title="Twitter" target="_blank"><i class="fa fa-twitter"></i></a> 
+						
+							<a href="https://www.facebook.com/ActiveHist/" title="Facebook" target="_blank"><i class="fa fa-facebook"></i></a>
+						
+						
+						
+					 		<a href="https://www.youtube.com/user/activehistoryca" title="YouTube" target="_blank"><i class="fa fa-youtube"></i></a>
+						
+						
+						
+							<a class="rss" href="http://feeds.feedburner.com/activehistoryca" title="Feed RSS" target="_blank"><i class="fa fa-rss"></i></a>			
+					</div><!-- .social-icon-wrapper -->
+		<hr class="hr-oscura" />
+		<div class="site-info">
+			<div class="credits-left"></div>
+			<div class="credits-center"><a rel="license" href="http://creativecommons.org/licenses/by-nd/4.0/"><img alt="Creative Commons Licence" style="border-width:0" src="https://i.creativecommons.org/l/by-nd/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nd/4.0/">Creative Commons Attribution-NoDerivatives 4.0 International License</a>.
+Blog posts published before October 28, 2018 are licensed with a Creative Commons Attribution-NonCommercial-ShareAlike 2.5 Canada License.</div>
+			<div class="credits-right"></div>
+		</div><!-- .site-info -->
+		
+			</footer><!-- #colophon -->
+
+			<div class="ir-arriba"><i class="fa fa-chevron-up"></i></div>
+		<div style="display:none">
+	<div class="grofile-hash-map-1d7205164256e59f76cb97dc38236b1f">
+	</div>
+	<div class="grofile-hash-map-eaa9a9cae59a4c11a233f1bc5bcbf148">
+	</div>
+	<div class="grofile-hash-map-2ea1bbe4480f1de9b7e0a1414b488ae1">
+	</div>
+	</div>
+<script>
+    jQuery(document).ready(function () {
+		jQuery.post('http://activehistory.ca?ga_action=googleanalytics_get_script', {action: 'googleanalytics_get_script'}, function(response) {
+			var s = document.createElement("script");
+			s.type = "text/javascript";
+			s.innerHTML = response;
+			jQuery("head").append(s);
+		});
+    });
+</script><div id="fb-root"></div>
+			<script>(function(d, s, id) { var js, fjs = d.getElementsByTagName(s)[0]; if (d.getElementById(id)) return; js = d.createElement(s); js.id = id; js.src = 'https://connect.facebook.net/en_CA/sdk.js#xfbml=1&appId=249643311490&version=v2.3'; fjs.parentNode.insertBefore(js, fjs); }(document, 'script', 'facebook-jssdk'));</script>
+			<script>
+			jQuery( document.body ).on( 'post-load', function() {
+				if ( 'undefined' !== typeof FB ) {
+					FB.XFBML.parse();
+				}
+			} );
+			</script>
+						<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+'://platform.twitter.com/widgets.js';fjs.parentNode.insertBefore(js,fjs);}}(document, 'script', 'twitter-wjs');</script>
+				<div id="sharing_email" style="display: none;">
+		<form action="/papers/bodies-of-water-not-bodies-of-women-canadian-media-images-of-the-idle-no-more-movement/?shared=email&#038;msg=fail" method="post">
+			<label for="target_email">Send to Email Address</label>
+			<input type="email" name="target_email" id="target_email" value="" />
+
+			
+				<label for="source_name">Your Name</label>
+				<input type="text" name="source_name" id="source_name" value="" />
+
+				<label for="source_email">Your Email Address</label>
+				<input type="email" name="source_email" id="source_email" value="" />
+
+						<input type="text" id="jetpack-source_f_name" name="source_f_name" class="input" value="" size="25" autocomplete="off" title="This field is for validation and should not be changed" />
+			
+			<img style="float: right; display: none" class="loading" src="http://activehistory.ca/wp-content/plugins/jetpack/modules/sharedaddy/images/loading.gif" alt="loading" width="16" height="16" />
+			<input type="submit" value="Send Email" class="sharing_send" />
+			<a rel="nofollow" href="#cancel" class="sharing_cancel" role="button">Cancel</a>
+
+			<div class="errors errors-1" style="display: none;">
+				Post was not sent - check your email addresses!			</div>
+
+			<div class="errors errors-2" style="display: none;">
+				Email check failed, please try again			</div>
+
+			<div class="errors errors-3" style="display: none;">
+				Sorry, your blog cannot share posts by email.			</div>
+		</form>
+	</div>
+<script type='text/javascript' src='https://secure.gravatar.com/js/gprofiles.js?ver=202025'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var WPGroHo = {"my_hash":""};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://activehistory.ca/wp-content/plugins/jetpack/modules/wpgroho.js?ver=5.4.2'></script>
+<script type='text/javascript' src='http://activehistory.ca/wp-content/themes/rubbersoul-pro/js/navigation.js?ver=20140711'></script>
+<script type='text/javascript' src='http://activehistory.ca/wp-content/themes/rubbersoul-pro/js/slider-recent-posts-fp.js?ver=2.6.4'></script>
+<script type='text/javascript' src='http://activehistory.ca/wp-content/themes/rubbersoul-pro/js/rsoul-pro-toggle-search.js?ver=2.6.4'></script>
+<script type='text/javascript' src='http://activehistory.ca/wp-content/plugins/jetpack/_inc/build/twitter-timeline.min.js?ver=4.0.0'></script>
+<script type='text/javascript' src='http://activehistory.ca/wp-includes/js/wp-embed.min.js?ver=5.4.2'></script>
+<script async="async" type='text/javascript' src='http://activehistory.ca/wp-content/plugins/akismet/_inc/form.js?ver=4.1.6'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var sharing_js_options = {"lang":"en","counts":"1","is_stats_active":"1"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://activehistory.ca/wp-content/plugins/jetpack/_inc/build/sharedaddy/sharing.min.js?ver=8.6.1'></script>
+<script type='text/javascript'>
+var windowOpen;
+			jQuery( document.body ).on( 'click', 'a.share-facebook', function() {
+				// If there's another sharing window open, close it.
+				if ( 'undefined' !== typeof windowOpen ) {
+					windowOpen.close();
+				}
+				windowOpen = window.open( jQuery( this ).attr( 'href' ), 'wpcomfacebook', 'menubar=1,resizable=1,width=600,height=400' );
+				return false;
+			});
+</script>
+
+		<!--[if IE]>
+		<script type="text/javascript">
+			if ( 0 === window.location.hash.indexOf( '#comment-' ) ) {
+				// window.location.reload() doesn't respect the Hash in IE
+				window.location.hash = window.location.hash;
+			}
+		</script>
+		<![endif]-->
+		<script type="text/javascript">
+			(function () {
+				var comm_par_el = document.getElementById( 'comment_parent' ),
+					comm_par = ( comm_par_el && comm_par_el.value ) ? comm_par_el.value : '',
+					frame = document.getElementById( 'jetpack_remote_comment' ),
+					tellFrameNewParent;
+
+				tellFrameNewParent = function () {
+					if ( comm_par ) {
+						frame.src = "https://jetpack.wordpress.com/jetpack-comment/?blogid=42146343&postid=16226&comment_registration=0&require_name_email=1&stc_enabled=1&stb_enabled=1&show_avatars=1&avatar_default=mystery&greeting=Please+note%3A+ActiveHistory.ca+encourages+comment+and+constructive+discussion+of+our+articles.+We+reserve+the+right+to+delete+comments+submitted+under+aliases%2C+or+that+contain+spam%2C+harassment%2C+or+attacks+on+an+individual.&greeting_reply=Leave+a+Reply+to+%25s&color_scheme=light&lang=en_CA&jetpack_version=8.6.1&show_cookie_consent=10&has_cookie_consent=0&token_key=%3Bnormal%3B&sig=f46c0f8528b65c795807b40320db1b20c48c89d1#parent=http%3A%2F%2Factivehistory.ca%2Fpapers%2Fbodies-of-water-not-bodies-of-women-canadian-media-images-of-the-idle-no-more-movement%2F%3Fshared%3Demail%26msg%3Dfail" + '&replytocom=' + parseInt( comm_par, 10 ).toString();
+					} else {
+						frame.src = "https://jetpack.wordpress.com/jetpack-comment/?blogid=42146343&postid=16226&comment_registration=0&require_name_email=1&stc_enabled=1&stb_enabled=1&show_avatars=1&avatar_default=mystery&greeting=Please+note%3A+ActiveHistory.ca+encourages+comment+and+constructive+discussion+of+our+articles.+We+reserve+the+right+to+delete+comments+submitted+under+aliases%2C+or+that+contain+spam%2C+harassment%2C+or+attacks+on+an+individual.&greeting_reply=Leave+a+Reply+to+%25s&color_scheme=light&lang=en_CA&jetpack_version=8.6.1&show_cookie_consent=10&has_cookie_consent=0&token_key=%3Bnormal%3B&sig=f46c0f8528b65c795807b40320db1b20c48c89d1#parent=http%3A%2F%2Factivehistory.ca%2Fpapers%2Fbodies-of-water-not-bodies-of-women-canadian-media-images-of-the-idle-no-more-movement%2F%3Fshared%3Demail%26msg%3Dfail";
+					}
+				};
+
+				
+				// Do the post message bit after the dom has loaded.
+				document.addEventListener( 'DOMContentLoaded', function () {
+					var iframe_url = "https:\/\/jetpack.wordpress.com";
+					if ( window.postMessage ) {
+						if ( document.addEventListener ) {
+							window.addEventListener( 'message', function ( event ) {
+								var origin = event.origin.replace( /^http:\/\//i, 'https://' );
+								if ( iframe_url.replace( /^http:\/\//i, 'https://' ) !== origin ) {
+									return;
+								}
+								jQuery( frame ).height( event.data );
+							});
+						} else if ( document.attachEvent ) {
+							window.attachEvent( 'message', function ( event ) {
+								var origin = event.origin.replace( /^http:\/\//i, 'https://' );
+								if ( iframe_url.replace( /^http:\/\//i, 'https://' ) !== origin ) {
+									return;
+								}
+								jQuery( frame ).height( event.data );
+							});
+						}
+					}
+				})
+
+			})();
+		</script>
+
+		<script type='text/javascript' src='https://stats.wp.com/e-202025.js' async='async' defer='defer'></script>
+<script type='text/javascript'>
+	_stq = window._stq || [];
+	_stq.push([ 'view', {v:'ext',j:'1:8.6.1',blog:'42146343',post:'16226',tz:'-4',srv:'activehistory.ca'} ]);
+	_stq.push([ 'clickTrackerInit', '42146343', '16226' ]);
+</script>
+			
+</body>
+</html>

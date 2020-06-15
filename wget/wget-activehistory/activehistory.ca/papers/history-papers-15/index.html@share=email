@@ -1,0 +1,737 @@
+<!DOCTYPE html>
+<!--[if IE 7]>
+<html class="ie ie7" lang="en-CA">
+<![endif]-->
+<!--[if IE 8]>
+<html class="ie ie8" lang="en-CA">
+<![endif]-->
+<!--[if !(IE 7) & !(IE 8)]><!-->
+<html lang="en-CA">
+<!--<![endif]-->
+<head>
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width" />
+<link rel="profile" href="http://gmpg.org/xfn/11" />
+<link rel="pingback" href="http://activehistory.ca/xmlrpc.php" />
+<!--[if lt IE 9]>
+<script src="http://activehistory.ca/wp-content/themes/rubbersoul-pro/js/html5.js" type="text/javascript"></script>
+<![endif]-->
+<title>Rebranding Canada with Comics: Canada 1812: Forged in Fire and the Continuing Co-optation of Tecumseh &#8211; Active History</title>
+<link rel='dns-prefetch' href='//secure.gravatar.com' />
+<link rel='dns-prefetch' href='//platform-api.sharethis.com' />
+<link rel='dns-prefetch' href='//fonts.googleapis.com' />
+<link rel='dns-prefetch' href='//s.w.org' />
+		<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/12.0.0-1\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/12.0.0-1\/svg\/","svgExt":".svg","source":{"concatemoji":"http:\/\/activehistory.ca\/wp-includes\/js\/wp-emoji-release.min.js?ver=5.4.2"}};
+			/*! This file is auto-generated */
+			!function(e,a,t){var r,n,o,i,p=a.createElement("canvas"),s=p.getContext&&p.getContext("2d");function c(e,t){var a=String.fromCharCode;s.clearRect(0,0,p.width,p.height),s.fillText(a.apply(this,e),0,0);var r=p.toDataURL();return s.clearRect(0,0,p.width,p.height),s.fillText(a.apply(this,t),0,0),r===p.toDataURL()}function l(e){if(!s||!s.fillText)return!1;switch(s.textBaseline="top",s.font="600 32px Arial",e){case"flag":return!c([127987,65039,8205,9895,65039],[127987,65039,8203,9895,65039])&&(!c([55356,56826,55356,56819],[55356,56826,8203,55356,56819])&&!c([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]));case"emoji":return!c([55357,56424,55356,57342,8205,55358,56605,8205,55357,56424,55356,57340],[55357,56424,55356,57342,8203,55358,56605,8203,55357,56424,55356,57340])}return!1}function d(e){var t=a.createElement("script");t.src=e,t.defer=t.type="text/javascript",a.getElementsByTagName("head")[0].appendChild(t)}for(i=Array("flag","emoji"),t.supports={everything:!0,everythingExceptFlag:!0},o=0;o<i.length;o++)t.supports[i[o]]=l(i[o]),t.supports.everything=t.supports.everything&&t.supports[i[o]],"flag"!==i[o]&&(t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&t.supports[i[o]]);t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&!t.supports.flag,t.DOMReady=!1,t.readyCallback=function(){t.DOMReady=!0},t.supports.everything||(n=function(){t.readyCallback()},a.addEventListener?(a.addEventListener("DOMContentLoaded",n,!1),e.addEventListener("load",n,!1)):(e.attachEvent("onload",n),a.attachEvent("onreadystatechange",function(){"complete"===a.readyState&&t.readyCallback()})),(r=t.source||{}).concatemoji?d(r.concatemoji):r.wpemoji&&r.twemoji&&(d(r.twemoji),d(r.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+		<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+	<link rel='stylesheet' id='wp-block-library-css'  href='http://activehistory.ca/wp-includes/css/dist/block-library/style.min.css?ver=5.4.2' type='text/css' media='all' />
+<style id='wp-block-library-inline-css' type='text/css'>
+.has-text-align-justify{text-align:justify;}
+</style>
+<link rel='stylesheet' id='dashicons-css'  href='http://activehistory.ca/wp-includes/css/dashicons.min.css?ver=5.4.2' type='text/css' media='all' />
+<link rel='stylesheet' id='rubbersoul-pro-fonts-css'  href='https://fonts.googleapis.com/css?family=Noto+Sans:400italic,700italic,400,700&#038;subset=latin,latin-ext' type='text/css' media='all' />
+<link rel='stylesheet' id='rubbersoul-pro-style-css'  href='http://activehistory.ca/wp-content/themes/rubbersoul-pro/style.css?ver=2.6.4' type='text/css' media='all' />
+<link rel='stylesheet' id='custom-style-css'  href='http://activehistory.ca/wp-content/themes/rubbersoul-pro/custom-style.css?ver=5.4.2' type='text/css' media='all' />
+<link rel='stylesheet' id='rsoul-pro-widgets-style-css'  href='http://activehistory.ca/wp-content/themes/rubbersoul-pro/css/rsoul-widgets-style.css?ver=2.6.4' type='text/css' media='all' />
+<link rel='stylesheet' id='font-awesome-css'  href='http://activehistory.ca/wp-content/themes/rubbersoul-pro/css/font-awesome-4.7.0/css/font-awesome.min.css?ver=5.4.2' type='text/css' media='all' />
+<link rel='stylesheet' id='rsoul-pro-slider-recent-posts-style-css'  href='http://activehistory.ca/wp-content/themes/rubbersoul-pro/css/slider-recent-posts-fp.css?ver=2.6.4' type='text/css' media='all' />
+<!--[if lt IE 9]>
+<link rel='stylesheet' id='rubbersoul-pro-ie-css'  href='http://activehistory.ca/wp-content/themes/rubbersoul-pro/css/ie.css?ver=20121010' type='text/css' media='all' />
+<![endif]-->
+<link rel='stylesheet' id='social-logos-css'  href='http://activehistory.ca/wp-content/plugins/jetpack/_inc/social-logos/social-logos.min.css?ver=8.6.1' type='text/css' media='all' />
+<link rel='stylesheet' id='jetpack_css-css'  href='http://activehistory.ca/wp-content/plugins/jetpack/css/jetpack.css?ver=8.6.1' type='text/css' media='all' />
+<script type='text/javascript' src='http://activehistory.ca/wp-includes/js/jquery/jquery.js?ver=1.12.4-wp'></script>
+<script type='text/javascript' src='http://activehistory.ca/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.4.1'></script>
+<script type='text/javascript' src='//platform-api.sharethis.com/js/sharethis.js#product=ga'></script>
+<link rel='https://api.w.org/' href='http://activehistory.ca/wp-json/' />
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://activehistory.ca/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://activehistory.ca/wp-includes/wlwmanifest.xml" /> 
+<meta name="generator" content="WordPress 5.4.2" />
+<link rel="canonical" href="http://activehistory.ca/papers/history-papers-15/" />
+<link rel='shortlink' href='https://wp.me/P2QQbJ-3pQ' />
+<link rel="alternate" type="application/json+oembed" href="http://activehistory.ca/wp-json/oembed/1.0/embed?url=http%3A%2F%2Factivehistory.ca%2Fpapers%2Fhistory-papers-15%2F" />
+<link rel="alternate" type="text/xml+oembed" href="http://activehistory.ca/wp-json/oembed/1.0/embed?url=http%3A%2F%2Factivehistory.ca%2Fpapers%2Fhistory-papers-15%2F&#038;format=xml" />
+<script type="text/javascript"><!--
+function powerpress_pinw(pinw_url){window.open(pinw_url, 'PowerPressPlayer','toolbar=0,status=0,resizable=1,width=460,height=320');	return false;}
+//-->
+</script>
+
+<link rel='dns-prefetch' href='//jetpack.wordpress.com'/>
+<link rel='dns-prefetch' href='//s0.wp.com'/>
+<link rel='dns-prefetch' href='//s1.wp.com'/>
+<link rel='dns-prefetch' href='//s2.wp.com'/>
+<link rel='dns-prefetch' href='//public-api.wordpress.com'/>
+<link rel='dns-prefetch' href='//0.gravatar.com'/>
+<link rel='dns-prefetch' href='//1.gravatar.com'/>
+<link rel='dns-prefetch' href='//2.gravatar.com'/>
+<link rel='dns-prefetch' href='//widgets.wp.com'/>
+<link rel='dns-prefetch' href='//v0.wordpress.com'/>
+	<style type='text/css'>
+		a {color: #0f7b3f;}
+	a:hover {color: #0f7b3f;}
+	.social-icon-wrapper a:hover {color: #0f7b3f;}
+	.prefix-widget-title {color: #0f7b3f;}
+	.term-icon {color: #0f7b3f;}
+	.sub-title a:hover {color:#0f7b3f;}
+	.entry-content a:visited,.comment-content a:visited {color:#0f7b3f;}
+	input[type="submit"] {background-color:#0f7b3f !important;}
+	input[type="reset"] {background-color:#0f7b3f !important;}
+	.bypostauthor cite span {background-color:#0f7b3f;}
+	.wrapper-cabecera {background-color:#0f7b3f;}
+	.wrapper-search-top-bar {background-color:#0f7b3f;}
+	.main-navigation {background-color:#0f7b3f;}
+	.entry-header .entry-title a:hover {color:#0f7b3f ;}
+	.archive-header {border-left-color:#0f7b3f;}
+	.main-navigation a:hover,
+	.main-navigation a:focus {
+		color: #0f7b3f;
+	}
+	.widget-area .widget a:hover {
+		color: #0f7b3f !important;
+	}
+	footer[role="contentinfo"] a:hover {
+		color: #0f7b3f;
+	}
+	.entry-meta a:hover {
+	color: #0f7b3f;
+	}
+	.format-status .entry-header header a:hover {
+		color: #0f7b3f;
+	}
+	.comments-area article header a:hover {
+		color: #0f7b3f;
+	}
+	a.comment-reply-link:hover,
+	a.comment-edit-link:hover {
+		color: #0f7b3f;
+	}
+	.template-front-page .widget-area .widget li a:hover {
+		color: #0f7b3f;
+	}
+	
+	.currenttext, .paginacion a:hover {background-color:#0f7b3f;}
+	.aside{border-left-color:#0f7b3f !important;}
+	blockquote{border-left-color:#0f7b3f;}
+	ul.tabs li.t-activa a {border-top-color: #0f7b3f;} 
+	.slider-current-btn a {background-color:#0f7b3f !important;}
+	h2.comments-title {border-left-color:#0f7b3f;}
+	
+		
+		
+			.titulo-descripcion {
+	 		text-transform:none;
+		}
+		
+		
+		
+			.wrapper-cabecera {height:70px; height:5rem;}
+		
+		
+			.header-logo {background-color:transparent;}
+		
+		
+		
+			
+		body.custom-font-enabled {font-family: "Noto Sans", Arial, Verdana;}
+	
+			@media screen and (min-width: 600px) {
+			#primary {float:left;}
+			#secondary {float:right;}
+			.site-content {
+				border-left: none;
+				padding-left:0;
+				padding-right: 24px;
+				padding-right:1.714285714285714rem;
+			}
+		}
+		
+		
+	@media screen and (max-width: 599px) {
+		.menu-toggle, .menu-toggle:hover {
+			background:#0f7b3f !important;
+			color:#ffffff !important;
+			width:100%;
+		}
+	}
+	
+	/* bbPress */
+		</style>
+	
+	<!-- Google Analytics -->
+    
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-8653817-1', 'auto');
+  ga('send', 'pageview');
+
+</script>
+    <!-- Google Analytics -->
+    <style type="text/css" id="custom-background-css">
+body.custom-background { background-color: #f4f4f4; }
+</style>
+	
+<!-- Jetpack Open Graph Tags -->
+<meta property="og:type" content="article" />
+<meta property="og:title" content="Rebranding Canada with Comics: Canada 1812: Forged in Fire and the Continuing Co-optation of Tecumseh" />
+<meta property="og:url" content="http://activehistory.ca/papers/history-papers-15/" />
+<meta property="og:description" content="By Sean Carleton PhD Candidate Frost Centre for Canadian Studies &amp; Indigenous Studies Trent University Introduction The Continuing Co-optation of Tecumseh “My name is Tecumseh”: Race and Repres…" />
+<meta property="article:published_time" content="2014-04-08T10:00:01+00:00" />
+<meta property="article:modified_time" content="2014-04-15T23:03:16+00:00" />
+<meta property="og:site_name" content="Active History" />
+<meta property="og:image" content="http://activehistory.ca/wp-content/uploads/2014/04/Figure-4-201x300.jpg" />
+<meta property="og:image:width" content="201" />
+<meta property="og:image:height" content="300" />
+<meta property="og:image:alt" content="Figure 4. Tecumseh Stops a Scalping, pg 85. With permission." />
+<meta name="twitter:site" content="@ActiveHist" />
+<meta name="twitter:text:title" content="Rebranding Canada with Comics: Canada 1812: Forged in Fire and the Continuing Co-optation of Tecumseh" />
+<meta name="twitter:image" content="http://activehistory.ca/wp-content/uploads/2014/04/Figure-1-205x300.jpg?w=144" />
+<meta name="twitter:card" content="summary" />
+
+<!-- End Jetpack Open Graph Tags -->
+<link rel="icon" href="http://activehistory.ca/wp-content/uploads/2019/02/cropped-ActiveHist2019_icon_whiteBCKG-6-32x32.jpg" sizes="32x32" />
+<link rel="icon" href="http://activehistory.ca/wp-content/uploads/2019/02/cropped-ActiveHist2019_icon_whiteBCKG-6-192x192.jpg" sizes="192x192" />
+<link rel="apple-touch-icon" href="http://activehistory.ca/wp-content/uploads/2019/02/cropped-ActiveHist2019_icon_whiteBCKG-6-180x180.jpg" />
+<meta name="msapplication-TileImage" content="http://activehistory.ca/wp-content/uploads/2019/02/cropped-ActiveHist2019_icon_whiteBCKG-6-270x270.jpg" />
+</head>
+
+<body class="page-template-default page page-id-13134 page-child parent-pageid-23 custom-background custom-font-enabled">
+	
+		
+	<header id="masthead" class="site-header" role="banner">
+	<div class="wrapper-cabecera">
+	
+		<div class="blogname-y-menu">
+			<div class="boton-menu-movil"><i class="fa fa-align-justify fa-2x"></i></div>
+			
+							<div class="header-logo">
+					<a href="http://activehistory.ca/"><img src="http://activehistory.ca/wp-content/uploads/2019/04/cropped-ActiveHist2019_icon_whiteBCKG-1.jpg" class="header-image" width="400" height="400" alt="Active History" /></a>
+				</div>
+						
+						<div class="titulo-descripcion">
+			
+									<p class="site-title"><a href="http://activehistory.ca/" title="Active History" rel="home">Active History</a></p>
+								
+				<p class="site-description">History Matters</p>
+				
+			</div>
+						
+			<div class="toggle-search"><i class="fa fa-search"></i></div>
+			
+			<div class="wrapper-site-navigation">
+				<nav id="site-navigation" class="main-navigation" role="navigation">
+					
+					<div class="menu-the-main-container"><ul id="menu-the-main" class="nav-menu"><li id="menu-item-7899" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-home menu-item-7899"><a href="http://activehistory.ca/">Home</a></li>
+<li id="menu-item-7902" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-7902"><a href="http://activehistory.ca/about/">About</a></li>
+<li id="menu-item-7900" class="menu-item menu-item-type-post_type menu-item-object-page current-page-ancestor menu-item-7900"><a href="http://activehistory.ca/papers/">Features</a></li>
+<li id="menu-item-25840" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-25840"><a href="http://activehistory.ca/publications/">Publications</a></li>
+<li id="menu-item-7915" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-7915"><a href="http://activehistory.ca/podcasts/">Podcasts</a></li>
+<li id="menu-item-20816" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-20816"><a href="http://activehistory.ca/donate/">Support Us</a></li>
+</ul></div>				</nav><!-- #site-navigation -->
+                
+				<div class="wrapper-search-top-bar">
+                	<div class="search-top-bar">
+							<div>
+		<form method="get" id="searchform-toggle" action="http://activehistory.ca/">
+			<label for="s" class="assistive-text">Search</label>
+			<input type="search" class="txt-search" placeholder="Search..." name="s" id="s" />
+			<input type="submit" name="submit" id="btn-search" value="Search" />
+		</form>
+    </div>                    </div>
+                </div>
+                
+			</div><!-- .wrapper-site-navigation -->
+			
+		</div><!-- .blogname-y-menu -->
+        
+	<div style="position:relative; clear:both;">
+		
+<div id="menu-movil">
+	<div class="search-form-movil">
+		<form method="get" id="searchform-movil" action="http://activehistory.ca/">
+			<label for="s" class="assistive-text">Search</label>
+			<input type="search" class="txt-search-movil" placeholder="Search..." name="s" id="s" />
+			<input type="submit" name="submit" id="btn-search-movil" value="Search" />
+		</form>
+    </div><!-- search-form-movil -->
+	<div class="menu-movil-enlaces">
+		<div class="menu-the-main-container"><ul id="menu-the-main-1" class="nav-menu"><li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-home menu-item-7899"><a href="http://activehistory.ca/">Home</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-7902"><a href="http://activehistory.ca/about/">About</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page current-page-ancestor menu-item-7900"><a href="http://activehistory.ca/papers/">Features</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-25840"><a href="http://activehistory.ca/publications/">Publications</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-7915"><a href="http://activehistory.ca/podcasts/">Podcasts</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-20816"><a href="http://activehistory.ca/donate/">Support Us</a></li>
+</ul></div>	</div>
+	
+	<div class="social-icon-wrapper-movil">
+							<a href="https://twitter.com/activehist" title="Twitter" target="_blank"><i class="fa fa-twitter"></i></a> 
+						
+							<a href="https://www.facebook.com/ActiveHist/" title="Facebook" target="_blank"><i class="fa fa-facebook"></i></a>
+						
+						
+						
+					 		<a href="https://www.youtube.com/user/activehistoryca" title="YouTube" target="_blank"><i class="fa fa-youtube"></i></a>
+						
+						
+						
+							<a class="rss" href="http://feeds.feedburner.com/activehistoryca" title="RSS" target="_blank"><i class="fa fa-rss"></i></a>			
+					</div><!-- .social-icon-wrapper -->	
+</div><!-- #menu-movil -->    </div>
+    
+	</div><!-- wrapper-cabecera -->
+	
+	<div class="wrapper-area-widget-superior area-widget-padding-top">
+		</div>
+	
+	</header><!-- #masthead -->
+	
+<div id="page" class="hfeed site">
+	
+	<div id="main" class="wrapper">
+	<div id="primary" class="site-content">
+		<div id="content" role="main">
+
+							
+	<article id="post-13134" class="post-13134 page type-page status-publish hentry">
+
+		<header class="entry-header">
+													<h1 class="entry-title">Rebranding Canada with Comics: Canada 1812: Forged in Fire and the Continuing Co-optation of Tecumseh</h1>
+					</header>
+
+		<div class="entry-content">
+			<p>By Sean Carleton<br />
+PhD Candidate<br />
+Frost Centre for Canadian Studies &amp; Indigenous Studies<br />
+Trent University</p>
+<p><a href="#25"><strong><em>Introduction</em></strong></a><br />
+<a href="#26"><strong><em> The Continuing Co-optation of Tecumseh</em></strong> </a><br />
+<a href="#27"><strong><em> “My name is Tecumseh”: Race and Representation in Canada 1812</em></strong></a><br />
+<a href="#28"><strong><em> Conclusions: Comics, Colonialism, and Canadian History</em></strong></a></p>
+<p><a name="25"></a><em><strong>Introduction</strong></em><br />
+In the current age of austerity, the Harper Government allocated over $28 million to commemorate the 200<sup>th</sup> anniversary of the War of 1812. For many historians this proved to be an unpopular decision. It even drew the ire of the much-maligned Jack Granatstein, who pointed out, “This is also a government that’s slashing the national archives dramatically and killing the national library by cuts. On the one hand they’re good for history and on the other hand they’re bad for history—you sometimes wonder if they really know what they are doing.”<a href="#1">[1]</a></p>
+<p>While historians are right to critique the controversial costs of the bicentennial celebrations in light of cuts to crucial public services, it is important to understand the government’s commemorative project as part of a more pernicious strategy of nation-building that historians Ian McKay and Jamie Swift identify as the “rebranding” of Canada as a “warrior nation.”<a href="#2">[2]</a> In short, McKay and Swift contend that today there is a concerted right-wing effort to use the power of the state to “change how we think about our country and its history.”<a href="#3">[3]</a> More specifically, they argue that “new warriors” are trying to rebrand Canada as a country “created by wars, defended by soldiers, and kept free by patriotic support of military virtues.”<a href="#4">[4]</a> Canada’s history wars, then, are far from over.</p>
+<p>In the case of the War of 1812’s bicentennial, the Harper Government pulled out all the stops to use the celebration as a rebranding opportunity. The commemorative project included a new national monument, a television <a href="http://www.youtube.com/watch?v=s4i_qe9W6Dk">commercial</a>, and even a cell phone application, all showcasing the War of 1812 as a “defining moment” in what the Prime Minister called the “<a href="http://1812.gc.ca/eng/1305743548294/1305743621243">Fight for Canada</a>.” Yet, this paper focuses on one aspect of the commemoration that received no critical attention: the representations of Indigenous peoples, and specifically of Tecumseh, in a free comic book called <i>Canada 1812: Forged in Fire</i>.<span id="more-13134"></span> The comic book was funded by the federal government and<i> </i>produced by High Fidelity HDTV in partnership with Parks Canada, Zeroes 2 Heroes Media, Bell Canada, and the Smithsonian Channel as part of a multi-media <a href="http://canada-1812.ca/">project</a>.<a href="#5">[5]</a> <i>Canada 1812 </i>will appeal to a broad public audience that will no doubt enjoy digging through the free comic book. However, like the other War of 1812 commemorative initiatives, <i>Canada 1812</i>, and especially its portrayal of Tecumseh,<i> </i>is a problematic “rebranding” of history to serve a nation-building agenda that must be critiqued and challenged.</p>
+<div id="attachment_13136" style="width: 215px" class="wp-caption alignleft"><a href="http://activehistory.ca/wp-content/uploads/2014/04/Figure-1.jpg"><img aria-describedby="caption-attachment-13136" data-attachment-id="13136" data-permalink="http://activehistory.ca/papers/history-papers-15/figure-1-4/" data-orig-file="http://activehistory.ca/wp-content/uploads/2014/04/Figure-1.jpg" data-orig-size="1032,1506" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;}" data-image-title="" data-image-description="" data-medium-file="http://activehistory.ca/wp-content/uploads/2014/04/Figure-1-205x300.jpg" data-large-file="http://activehistory.ca/wp-content/uploads/2014/04/Figure-1-701x1024.jpg" class="size-medium wp-image-13136 " alt="" src="http://activehistory.ca/wp-content/uploads/2014/04/Figure-1-205x300.jpg" width="205" height="300" srcset="http://activehistory.ca/wp-content/uploads/2014/04/Figure-1-205x300.jpg 205w, http://activehistory.ca/wp-content/uploads/2014/04/Figure-1-701x1024.jpg 701w, http://activehistory.ca/wp-content/uploads/2014/04/Figure-1-900x1313.jpg 900w, http://activehistory.ca/wp-content/uploads/2014/04/Figure-1.jpg 1032w" sizes="(max-width: 205px) 100vw, 205px" /></a><p id="caption-attachment-13136" class="wp-caption-text">Figure 1. Canada 1812: Forged in Fire. With permission.</p></div>
+<p>The 142 page comic book traces the stories of six individuals—Isaac Brock, Charles de Salaberry, Laura Secord, John Norton, Enos Collins, and Tecumseh—who are all portrayed as distinctly Canadian heroes because of the pivotal roles they played in forging “Canada” out of the flames of the War of 1812.<a href="#6">[6]</a> <i>Canada 1812 </i>memorializes these individuals in six separate stories, extoling each figure’s various virtues such as courage, bravery, and patriotism. The comic book opens with a hero-worshiping story of British military general Isaac Brock and the first panel of the first page depicts him as simplistically stating, “War is coming. Good.”<a href="#7">[7]</a> Similarly, the story of Laura Secord is full of stereotypical tropes about gender, race, and the nation, the likes of which have been expertly examined by Colin M. Coates and Cecilia Morgan.<a href="#8">[8]</a> As the work of Coates and Morgan suggests, it is important for historians to spark critical conversations about the ways in which past figures are used by different groups to reinforce troubling narratives that legitimize colonialism and Canadian nation-building. In hopes of sparking such a conversation about <i>Canada 1812</i>, I will more closely examine the representations of Indigenous peoples in the comic book, specifically the depiction of Shawnee chief Tecumseh.</p>
+<p>In this article, I argue that <i>Canada 1812 </i>is a prime example of how people manufacture and manipulate the image of Tecumseh for the purposes of Canadian nation-building, a process that historian Robin Jarvis Brownlie has recently labelled the “co-optation” of Tecumseh.<a href="#9">[9]</a> Despite his inclusion in the comic book to show a sort of multi-cultural coming together to defend Canada, I contend that the representations of Tecumseh in <i>Canada 1812 </i>ultimately conform to racist stereotypes of Indigenous peoples that rationalize colonialism and Canadian nation-building as benevolent, even natural and inevitable. The way we are taught to see the past shapes our understandings of, and actions in, the present and future. Thus, the representations of Tecumseh in <i>Canada 1812 </i>are problematic not only because of their racist underpinnings, but also because they play important roles in forming perceptions of Indigenous peoples that continue to justify Canada’s colonial policies of coercion, displacement, and assimilation.</p>
+<p><a name="26"></a><em><b>The Continuing Co-optation of Tecumseh   </b></em></p>
+<p>Tecumseh is a controversial and contested figure in Canadian history. In the recent article “The Co-optation of Tecumseh: The War of 1812 and Racial Discourse in Upper Canada,” Brownlie argues that Tecumseh is now generally understood as an Indigenous patriot who allied with the British in the War of 1812 to defend Indigenous peoples against further encroachment from whites. In the decade following the War of 1812, however, Brownlie shows how Tecumseh was subsequently “claimed by Upper Canadians as a war hero and symbol of the struggle with the United States, a ‘Noble Savage’ whose life and death provided material for nation-building discourses.”<a href="#10">[10]</a> In examining two lengthy poems from the 1820s, Brownlie claims that the most prominent themes in these works are “Tecumseh’s indomitable spirit, his ability to command his fellow warriors, and his fighting prowess.”<a href="#11">[11]</a> At the same time, Brownlie contends that the poems also deploy common racist stereotypes that reflect the era’s image of the “savage, driven by violence and lacking the education and cultivated emotions of Europeans.”<a href="#12">[12]</a> Ultimately, Brownlie argues that these representations of Tecumseh “served to mark off Indigenous peoples from the white Canadians whose cultural superiority legitimated their possessions of the lands and resources of Upper Canada.”<a href="#13">[13]</a> In the early nineteenth century, then, the image of Tecumseh was co-opted for nation-building.</p>
+<p>Almost 200 years later, the comic book <i>Canada 1812 </i>deploys similar imagery for, I will suggest, similar nation-building purposes. The continuing co-optation of Tecumseh should be of no surprise to those familiar with the literature on race, representation, and Indigenous peoples. In the important study <i>The White Man’s Indian: Images of the American Indian from Columbus to the Present</i>, Robert Berkhofer Jr. stresses continuity as a crucial feature of white representations of Indigenous peoples. Berkhofer argues, “The basic question to be asked of such overall white Indian imagery and conception is not…why its invention in the first place but why its continuance, or perpetuation, for so many succeeding centuries?”<a href="#14">[14]</a> As Berkhofer and many writers and scholars have shown, images of Indigenous peoples are often used in ways that continue to justify colonialism and rationalize coercive policies and practices by settlers against Indigenous peoples.<a href="#15">[15]</a> In terms of evaluating the representations of Tecumseh in the <i>Canada 1812 </i>comic book, I will focus on identifying the “persistence and perpetuation” of certain strategies of Tecumseh’s co-optation for nation-building that Brownlie outlines.</p>
+<p><a name="27"></a><em><b>“My name is Tecumseh”: Race and Representation in </b></em><b>Canada 1812</b></p>
+<p>Tecumseh played a crucial role in the War of 1812. As an influential ally, he brought many Indigenous peoples to the British side and acted as a strong leader in battle. Yet, despite Tecumseh’s pivotal role in the war, he is not afforded a lot of agency in the majority of popular accounts of the war. As Brownlie argues about the poems from the 1820s, Tecumseh’s own voice, intentions, and ambitions are refracted through the perspective of whites and are thus subsequently distorted and diffused. Generally, his determination to protest land theft and colonialism is downplayed while his heroic nature as a British ally is accented.</p>
+<p>Unlike the other characters in <i>Canada 1812 </i>such as Brock or Secord, Tecumseh is often pushed to the margins of the narrative. This is true even in Tecumseh’s separate segment in the comic book. The first time Tecumseh appears is during Brock’s section which is narrated in the first person by Brock. Tecumseh is shown meeting with the General in his office and the Shawnee chief is accompanied by two un-identified Indigenous men relegated to the background. Brock speaks first as the narrator, “We impressed the First Nations. It’s time to solidify the alliance.”<a href="#16">[16]</a> The comment implies that it is Brock’s idea to strike the alliance and this downplays the separate ambitions of Indigenous peoples. Tecumseh is then offered one of his few speaking engagements in the comic book, simply proclaiming, “My name is Tecumseh.” While the comic book suggests the two leaders then discussed strategy, it is Brock who resumes the role of narrator and claims, “Let’s take Detroit.”<a href="#17">[17]</a></p>
+<p>Tecumseh is consciously constructed as an ally, whereas Brock is transformed into the hero. During the siege of Fort Detroit, Tecumseh decides to circle his men back through the forest to make it appear to the Americans that the British forces were more numerous. As a result of Tecumseh’s genius, as well as other creative methods of deception used by the British, the Americans surrender the fort. While the comic book affords the most coverage to the British tactics, Tecumseh is depicted as stating “we did it,” implying a united front between the British and Indigenous peoples.<a href="#18">[18]</a> It is interesting to note that the comic book fails to mention that part of the British strategy was to pressure the Americans to surrender with the threat of a brutal Indigenous attack. In fact, Brock wrote a letter to American General William Hull claiming that he would not be able control the “savage” Indigenous warriors once the siege began.</p>
+<p>The conclusion to Brock’s segment once again pushes Tecumseh and Indigenous peoples to the sidelines. The comic book dramatically depicts Brock’s death at the battle of Queenston and Brock explains: “I fell but I found glory. When Tecumseh heard in the spring of 1813, his hopes were dashed. But the dream lived on. And the battle where I lost my life proved Canada would endure.”<a href="#19">[19]</a> In essence, the end of Brock’s segment relegates Tecumseh to the margins and suggests that the “dream” of creating a Canadian nation came at the cost of Indigenous peoples’ “hopes” for land and justice.</p>
+<div id="attachment_13138" style="width: 206px" class="wp-caption alignright"><a href="http://activehistory.ca/wp-content/uploads/2014/04/Figure-2.jpg"><img aria-describedby="caption-attachment-13138" data-attachment-id="13138" data-permalink="http://activehistory.ca/papers/history-papers-15/figure-2-4/" data-orig-file="http://activehistory.ca/wp-content/uploads/2014/04/Figure-2.jpg" data-orig-size="1032,1575" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;}" data-image-title="Figure 2" data-image-description="" data-medium-file="http://activehistory.ca/wp-content/uploads/2014/04/Figure-2-196x300.jpg" data-large-file="http://activehistory.ca/wp-content/uploads/2014/04/Figure-2-670x1024.jpg" class="size-medium wp-image-13138" alt="Figure 2. Brock’s Death and the Dashing of Tecumseh’s Hopes for Land and Justice, pg 25. With permission." src="http://activehistory.ca/wp-content/uploads/2014/04/Figure-2-196x300.jpg" width="196" height="300" srcset="http://activehistory.ca/wp-content/uploads/2014/04/Figure-2-196x300.jpg 196w, http://activehistory.ca/wp-content/uploads/2014/04/Figure-2-670x1024.jpg 670w, http://activehistory.ca/wp-content/uploads/2014/04/Figure-2-900x1373.jpg 900w, http://activehistory.ca/wp-content/uploads/2014/04/Figure-2.jpg 1032w" sizes="(max-width: 196px) 100vw, 196px" /></a><p id="caption-attachment-13138" class="wp-caption-text">Figure 2. Brock’s Death and the Dashing of Tecumseh’s Hopes for Land and Justice, pg 25. With permission.</p></div>
+<p>The marginalization of Indigenous peoples in <i>Canada 1812 </i>continues in Tecumseh’s own separate section. While Tecumseh talks more in this segment, there are still many instances where white characters are given the prominent speaking roles, which literally and figuratively silence Tecumseh in his own story. For example, when the decision to attack Fort Detroit is retold, it is Brock, again, that relays the important information to the reader. As the battle rages, Brock and Tecumseh are depicted together side by side, but Tecumseh is drawn smaller and slightly below the larger heroic figure of Brock. These depictions symbolically suggest Tecumseh’s subservience to Brock.</p>
+<p>Moreover, during the siege of Fort Meigs in Ohio, Tecumseh and Major General Henry Proctor are shown disagreeing over strategy. However, when Tecumseh calls Proctor on being a coward for wanting to avoid conflict with the Americans, it is Proctor who is given the prominent speaking role, “We’ll face them together on the Thames.”<a href="#20">[20]</a> When Proctor and his men end up retreating in the battle they are not depicted as running away, instead they are represented in forceful poses. In reality, the British soldiers broke rank and ran away against orders. Yet, when Tecumseh is killed, his men are shown actively fleeing the battle. Thus, even in his own story Tecumseh is marginalized and represented in ways that suggest he and his Indigenous warriors were generally inferior to the British.</p>
+<p>When Tecumseh is depicted directly, he is most often cast as the Noble Savage. Tecumseh is represented as being wise, creative, and strategic. Nevertheless he is still portrayed as possessing savage characteristics. Brownlie argues that in the poems from the 1820s, Tecumseh is viewed as acting out of vengeance. Similarly in <i>Canada 1812</i>, Tecumseh’s story begins with him recounting the murder of his father and later his brother at the hands of land-hungry Americans. The Americans are portrayed as ruthless but so are Indigenous peoples. The Indigenous warriors are depicted as dangerous and desperately wanting revenge for American outrages. As a result, the British alliance with Tecumseh is an uneasy one. Even though Tecumseh is viewed as a brilliant strategist, Brock tells another British officer that “he couldn’t be held accountable for what became of his men at the hands of Tecumseh”<a href="#21">[21]</a> Tecumseh, while a great warrior, is still a “savage” and thus cannot fully be trusted by the British.</p>
+<p>Tecumseh is also portrayed as being an exceptional “Indian.” Brownlie argues that “Tecumseh is depicted much of the time against a background of his fellow Indigenous warriors, who serve as foil.”<a href="#22">[22]</a> Brownlie’s observation holds true for <i>Canada 1812</i>. And Tecumseh’s fellow Indigenous warriors in the comic book are indeed “fellows.” Indigenous women are completely absent from Tecumseh’s story, with the exception of one panel where a woman is depicted as running away with her children from a village that is being set on fire by American soldiers. In the rest of the fighting scenes in the comic book, Indigenous male warriors are depicted as vicious and brutal. In the majority of the battle scenes, the British and American soldiers are depicted in crisp military uniforms with very stoic and expressionless looks on their faces. However, when Indigenous men are represented in battle, their eyes are wide and their mouths are open in forceful expressions, as if they are enjoying the thrill of war.</p>
+<div id="attachment_13139" style="width: 206px" class="wp-caption alignleft"><a href="http://activehistory.ca/wp-content/uploads/2014/04/Figure-3.jpg"><img aria-describedby="caption-attachment-13139" data-attachment-id="13139" data-permalink="http://activehistory.ca/papers/history-papers-15/figure-3-3/" data-orig-file="http://activehistory.ca/wp-content/uploads/2014/04/Figure-3.jpg" data-orig-size="1032,1575" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;}" data-image-title="Figure 3" data-image-description="" data-medium-file="http://activehistory.ca/wp-content/uploads/2014/04/Figure-3-196x300.jpg" data-large-file="http://activehistory.ca/wp-content/uploads/2014/04/Figure-3-670x1024.jpg" class="size-medium wp-image-13139" alt="Figure 3. Indigenous Warriors, pg 77. With permission." src="http://activehistory.ca/wp-content/uploads/2014/04/Figure-3-196x300.jpg" width="196" height="300" srcset="http://activehistory.ca/wp-content/uploads/2014/04/Figure-3-196x300.jpg 196w, http://activehistory.ca/wp-content/uploads/2014/04/Figure-3-670x1024.jpg 670w, http://activehistory.ca/wp-content/uploads/2014/04/Figure-3-900x1373.jpg 900w, http://activehistory.ca/wp-content/uploads/2014/04/Figure-3.jpg 1032w" sizes="(max-width: 196px) 100vw, 196px" /></a><p id="caption-attachment-13139" class="wp-caption-text">Figure 3. Indigenous Warriors, pg 77. With permission.</p></div>
+<p>The inherent “savagery” of the rest of Tecumseh’s men is displayed in one scene where in the midst of the conflict Tecumseh comes across a warrior about to scalp an enemy solider. Tecumseh intervenes and says, “I have seen torture. I want no part of it. I ordered my men to stop.”<a href="#23">[23]</a> This sequence implies that Indigenous warriors were more savage and that Tecumseh had been privy to scalping and torture before, but had renounced his past barbaric practices. Tecumseh is thus exceptional against a background of savagery that generally marks off Indigenous peoples from the more “civilized” whites. The comic book fails to mention that scalping was a common practice among American soldiers during the War of 1812.</p>
+<div id="attachment_13140" style="width: 211px" class="wp-caption alignright"><a href="http://activehistory.ca/wp-content/uploads/2014/04/Figure-4.jpg"><img aria-describedby="caption-attachment-13140" data-attachment-id="13140" data-permalink="http://activehistory.ca/papers/history-papers-15/figure-4-2/" data-orig-file="http://activehistory.ca/wp-content/uploads/2014/04/Figure-4.jpg" data-orig-size="1032,1535" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;}" data-image-title="Figure 4" data-image-description="" data-medium-file="http://activehistory.ca/wp-content/uploads/2014/04/Figure-4-201x300.jpg" data-large-file="http://activehistory.ca/wp-content/uploads/2014/04/Figure-4-688x1024.jpg" class="size-medium wp-image-13140" alt="Figure 4. Tecumseh Stops a Scalping, pg 85. With permission." src="http://activehistory.ca/wp-content/uploads/2014/04/Figure-4-201x300.jpg" width="201" height="300" srcset="http://activehistory.ca/wp-content/uploads/2014/04/Figure-4-201x300.jpg 201w, http://activehistory.ca/wp-content/uploads/2014/04/Figure-4-688x1024.jpg 688w, http://activehistory.ca/wp-content/uploads/2014/04/Figure-4-900x1338.jpg 900w, http://activehistory.ca/wp-content/uploads/2014/04/Figure-4.jpg 1032w" sizes="(max-width: 201px) 100vw, 201px" /></a><p id="caption-attachment-13140" class="wp-caption-text">Figure 4. Tecumseh Stops a Scalping, pg 85. With permission.</p></div>
+<p>A closer comparison of the ways in which Indigenous warriors and non-Indigenous soldiers are represented is further proof that <i>Canada 1812 </i>portrays Indigenous peoples as being more “savage” than whites. In the lead up to the attack on Fort Meigs, the comic book explains that a number of Indigenous warriors joined the British forces. In the accompanying image the British soldiers are depicted as marching orderly in crisp and clean uniforms with Indigenous allies at the back of the formation. The caption informs the reader that while 1,400 warriors merged with the British, none were “willing to join them in a direct attack on the American fort.”<a href="#24">[24]</a> Again, this sets up the British troops as being not only more orderly and disciplined, but also more courageous and brave. In contrast, most depictions of Indigenous warriors accent their so-called “savagery.” In one scene, a group of Indigenous reinforcements appear in British uniform; however, their appearance is dishevelled with tattered coats and ripped pants, suggesting the savagery of these Indigenous fighters could not be fully contained by the adoption of more “civilized” clothes. These contrasting representations serve to emphasize the inherent difference between whites and Indigenous peoples.<b><br />
+</b></p>
+<div id="attachment_13141" style="width: 206px" class="wp-caption alignleft"><a href="http://activehistory.ca/wp-content/uploads/2014/04/Figure-5.jpg"><img aria-describedby="caption-attachment-13141" data-attachment-id="13141" data-permalink="http://activehistory.ca/papers/history-papers-15/figure-5-2/" data-orig-file="http://activehistory.ca/wp-content/uploads/2014/04/Figure-5.jpg" data-orig-size="1032,1575" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;}" data-image-title="Figure 5" data-image-description="" data-medium-file="http://activehistory.ca/wp-content/uploads/2014/04/Figure-5-196x300.jpg" data-large-file="http://activehistory.ca/wp-content/uploads/2014/04/Figure-5-670x1024.jpg" class="size-medium wp-image-13141" alt="Figure 5. The So-called “Savagery” of Indigenous Warriors Shows Through, pg 88. With permission.   " src="http://activehistory.ca/wp-content/uploads/2014/04/Figure-5-196x300.jpg" width="196" height="300" srcset="http://activehistory.ca/wp-content/uploads/2014/04/Figure-5-196x300.jpg 196w, http://activehistory.ca/wp-content/uploads/2014/04/Figure-5-670x1024.jpg 670w, http://activehistory.ca/wp-content/uploads/2014/04/Figure-5-900x1373.jpg 900w, http://activehistory.ca/wp-content/uploads/2014/04/Figure-5.jpg 1032w" sizes="(max-width: 196px) 100vw, 196px" /></a><p id="caption-attachment-13141" class="wp-caption-text">Figure 5. The So-called “Savagery” of Indigenous Warriors Shows Through, pg 88. With permission.</p></div>
+<p>Lastly, Tecumseh’s segment concludes by suggesting that colonialism, while tragic, was inevitable. Brownlie argues that in poems from the 1820s, the Americans were depicted as particularly brutal while the British were portrayed as being more humane. Similarly, <i>Canada 1812 </i>contends that<i> </i>it was the Americans who were land-hungry and vicious, displacing Indigenous peoples from their lands. The British on the other hand are depicted as simply benevolent allies of Indigenous peoples who were powerless to stop the American incursions into Indigenous territories. This kind of narrative deflects attention away from Canada’s own sordid history of colonialism and dispossession.</p>
+<p>Tecumseh’s section ends by largely focusing only on the American example of colonialism. The final two panels of the section inform readers that “at the end of the War of 1812, both sides claimed victory. The British and the Americans. But for all their grandstanding, there was no doubt who lost it…” The ellipses direct the readers’ gaze to an image of a white farmer working the land while a dejected Indigenous man in the corner looks on, symbolizing the displacement of Indigenous peoples in the US. While this could be read as a critique of colonialism, nothing is mentioned about the fact that after the War of 1812 officials in what becomes Canada also adopted coercive policies to dispossess Indigenous peoples from their lands. The conclusion to Tecumseh’s story, then, demonizes American settler colonialism while largely ignoring Canada’s woeful treatment of Indigenous peoples that continues to this day.</p>
+<div id="attachment_13142" style="width: 206px" class="wp-caption alignright"><a href="http://activehistory.ca/wp-content/uploads/2014/04/Figure-6.jpg"><img aria-describedby="caption-attachment-13142" data-attachment-id="13142" data-permalink="http://activehistory.ca/papers/history-papers-15/figure-6-2/" data-orig-file="http://activehistory.ca/wp-content/uploads/2014/04/Figure-6.jpg" data-orig-size="1032,1575" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;}" data-image-title="Figure 6" data-image-description="" data-medium-file="http://activehistory.ca/wp-content/uploads/2014/04/Figure-6-196x300.jpg" data-large-file="http://activehistory.ca/wp-content/uploads/2014/04/Figure-6-670x1024.jpg" class="size-medium wp-image-13142" alt="Figure 6. Sidestepping Canada’s History of Dispossession, pg 94. With permission. " src="http://activehistory.ca/wp-content/uploads/2014/04/Figure-6-196x300.jpg" width="196" height="300" srcset="http://activehistory.ca/wp-content/uploads/2014/04/Figure-6-196x300.jpg 196w, http://activehistory.ca/wp-content/uploads/2014/04/Figure-6-670x1024.jpg 670w, http://activehistory.ca/wp-content/uploads/2014/04/Figure-6-900x1373.jpg 900w, http://activehistory.ca/wp-content/uploads/2014/04/Figure-6.jpg 1032w" sizes="(max-width: 196px) 100vw, 196px" /></a><p id="caption-attachment-13142" class="wp-caption-text">Figure 6. Sidestepping Canada’s History of Dispossession, pg 94. With permission.</p></div>
+<p><a name="28"></a><em><b>Conclusions: Comics, Colonialism, and Canadian History</b></em></p>
+<p><i>Canada 1812: Forged in Fire</i> illustrates Canada’s past in ways that will appeal to a popular audience, but it does so in problematic ways that need to be challenged. As part of a larger strategy to “re-brand” Canada for national-building purposes, <i>Canada 1812 </i>offers readers a romanticized rendition of the history of the War of 1812 that accents patriotism and nationalism while downplaying Canada’s complicity in harmful colonial policies and denying Indigenous peoples any sense of meaningful agency. In particular, the comic book portrays Tecumseh as the Noble Savage, an exception to the otherwise fierce, vengeful, and “savage” Indigenous peoples allied with Britain. In constructing Tecumseh as a kind of Canadian “hero,” the comic book also ignores the more complicated nature of Indigenous struggles for land and justice in the nineteenth century and misconstrues Tecumseh’s political intentions. As Brownlie has pointed out, Tecumseh would have likely opposed the creation of the Canadian nation at the expense of Indigenous autonomy and control over lands and resources.</p>
+<p>The continuing co-optation of Tecumseh in <i>Canada 1812 </i>is problematic not only because it continues the legacy of racist representations of Indigenous peoples, but because such portrayals can significantly shape peoples’ contemporary perceptions of, and actions towards, Indigenous peoples. This is especially dangerous at time when the Harper Government is cracking down on Indigenous dissent and corporate media are trying to discredit increasing Indigenous protests over everything from fracking and pipelines to the government’s failure to call a national inquiry into the hundreds of murdered and missing Indigenous women across Canada. Whether intentionally or not, racist representations of Indigenous peoples, like those found in <i>Canada 1812</i>, are part of the larger colonial project which continues to privilege a nation-building agenda and legitimize ongoing colonial coercion, displacement, and assimilation in Canada. Thus, challenging colonial ideas—on film and television or in textbooks and comic books—must be a part of the larger struggle for justice and decolonization.</p>
+<p>And with major milestones in the colonial project on the horizon such as the centennial of the Great War in 2014, the <a href="http://www.sirjohna2015.ca/">bicentennial</a> of John A. Macdonald’s birthday in 2015, and the sesquicentennial of Canadian confederation in 2017, historians must continue to challenge attempts by the state, increasingly supported by corporations, to manufacture and manipulate Canadian history in ways that legitimize colonialism and nation-building. Challenging the way we are taught to understand the past must continue to play an important role in our active struggles to improve the present and future.</p>
+<div>
+<p><em>Sean Carleton is a PhD Candidate in the Frost Centre for Canadian Studies &amp; Indigenous Studies at Trent University. His research examines the histories of colonialism, capitalism, and education in Canada, and he is also a founding member of the Graphic History Collective and an author of May Day: A Graphic History of Protest.</em><em></em></p>
+<hr align="left" size="1" width="33%" />
+<div>
+<p><a name="1"></a>[1] Meagan Fitzpatrick, “Conservatives Draw Fire for War of 1812 Spending,” <a href="http://www.cbc.ca/news/politics/conservatives-draw-fire-for-war-of-1812-spending-1.1265851">http://www.cbc.ca/news/politics/conservatives-draw-fire-for-war-of-1812-spending-1.1265851</a>. Special thanks are due to Robin Jarvis Brownlie, Thomas Peace, and the anonymous reviewer for their comments and suggestions on earlier drafts of this article. I thank Jarett Henderson for bringing the comic book to my attention and for encouraging me to write something in response.</p>
+</div>
+<div>
+<p><a name="2"></a>[2] See Ian McKay and Jamie Swift, <i>Warrior Nation: Rebranding Canada in an Age of Anxiety </i>(Toronto: Between the Lines Press, 2012).</p>
+</div>
+<div>
+<p><a name="3"></a>[3] McKay and Swift, <i>Warrior Nation</i>, xi.</p>
+</div>
+<div>
+<p><a name="4"></a>[4] McKay and Swift, <i>Warrior Nation</i>, xi.</p>
+</div>
+<div>
+<p><a name="5"></a>[5] <i>Canada 1812: Forged in Fire </i>can be downloaded for free from Itunes as well as from the website <a href="http://canada-1812.ca/">http://canada-1812.ca/</a>. The Itunes copy of the comic book is an enhanced version that allows readers to interact with each page and to access a host of special features.</p>
+</div>
+<div>
+<p><a name="6"></a>[6] While works such as <i>Canada 1812 </i>are often referred to as “graphic novels,” I use the terms “comics” and “comic book” as do many comics scholars. For more on the terminology and theory surrounding the study of comics see, for example, Scott McCloud, <i>Understanding Comics: The Invisible Art </i>(New York 1994); Douglas Wolk, <i>Reading Comics: How Graphic Novels Work and What they Mean</i> (Cambridge 2007); Jeet Heer and Kent Worchester eds., <i>A Comics Studies Reader </i>(Jackson 2009); Sean Carleton, “Drawn to Change: Comics and Critical Consciousness,” <i>Labour/Le Travail</i>, (Spring 2014), Forthcoming.</p>
+</div>
+<div>
+<p><a name="7"></a>[7] <i>Canada 1812</i>, 4.</p>
+</div>
+<div>
+<p><a name="8"></a>[8] Colin M. Coates and Cecilia Morgan, <i>Heroines and History: Representations of Madeleine de Verchères and Laura Secord</i> (Toronto: University of Toronto Press, 2002).</p>
+</div>
+<div>
+<p><a name="9"></a>[9] Robin Jarvis Brownlie, “The Co-optation of Tecumseh: The War of 1812 and Racial Discourse in Upper Canada,” <i>Journal of the CHA </i>2012 New Series, Vol. 23, no.1: 39-63.</p>
+</div>
+<div>
+<p><a name="10"></a>[10] Brownlie, “The Co-optation of Tecumseh,” 39.</p>
+</div>
+<div>
+<p><a name="11"></a>[11] Brownlie, “The Co-optation of Tecumseh,” 40.</p>
+</div>
+<div>
+<p><a name="12"></a>[12] Brownlie, “The Co-optation of Tecumseh,” 40.</p>
+</div>
+<div>
+<p><a name="13"></a>[13] Brownlie, “The Co-optation of Tecumseh,” 40.</p>
+</div>
+<div>
+<p><a name="14"></a>[14] Robert Berkhofer Jr., <i>The White Man’s Indian: Images of the American Indian from Columbus to the Present </i>(New York: Vintage Books, 1979).</p>
+</div>
+<div>
+<p><a name="15"></a>[15] There are many important studies that examine the representations of Indigenous peoples. For the Canadian context see, for example, Bruce Trigger, <i>Natives and Newcomers: Canada’s ‘Heroic Age’ Reconsidered</i>, (Montreal and Kingston: McGill-Queens University Press, 1985); Daniel Francis, <i>The Imaginary Indian: The Image of the Indian in Canadian Culture </i>(Vancouver: Arsenal, 1992); Elizabeth Furniss, <i>The Burden of History: Colonialism and the Frontier Myth in a Rural Canadian Community </i>(Vancouver: The University of British Columbia Press, 1999); R. Scott Sheffield, <i>The Red Man’s on the Warpath: The Image of the “Indian” and the Second World War</i> (Vancouver: University of British Columbia Press, 2004);<b> </b>Paige Raibmon, <i>Authentic Indians: Episodes From the Late-Nineteenth-Century Northwest Coast</i> (Durham: Duke University Press, 2005); Taiaiake Alfred, <i>Wasáse: Indigenous Pathways of Action and Freedom </i>(Peterborough: Broadview Press, 2005); Emma LaRocque, <i>When the Other is Me: Native Resistance Discourse, 1850-1990 </i>(Winnipeg: University of Manitoba, 2010). For my contribution to this field, see Sean Carleton, “Colonizing Minds: Public Education, the “Textbook Indian,” and Settler Colonialism in British Columbia, 1920-1970,” <i>BC Studies</i> 169 (Spring 2011): 101-130. For my thoughts on comics, race, and representation, see Sean Carleton “Illustrating Racism: Confronting Canada’s Racial Amnesia with Comics,” <i>Histoire sociale/Social History</i> 92 (November 2013): 509-522.</p>
+</div>
+<div>
+<p><a name="16"></a>[16] <i>Canada 1812</i>, 9.</p>
+</div>
+<div>
+<p><a name="17"></a>[17] <i>Canada 1812</i>, 10.</p>
+</div>
+<div>
+<p><a name="18"></a>[18] <i>Canada 1812</i>, 15.</p>
+</div>
+<div>
+<p><a name="19"></a>[19] <i>Canada 1812</i>, 25.</p>
+</div>
+<div>
+<p><a name="20"></a>[20] <i>Canada 1812</i>, 89.</p>
+</div>
+<div>
+<p><a name="21"></a>[21] <i>Canada 1812</i>, 82.</p>
+</div>
+<div>
+<p><a name="22"></a>[22] Brownlie, “The Co-optation of Tecumseh,” 47.</p>
+</div>
+<div>
+<p><a name="23"></a>[23] <i>Canada 1812</i>, 85.</p>
+</div>
+<div>
+<p><a name="24"></a>[24] <i>Canada 1812</i>, 87.</p>
+</div>
+</div>
+<div class="sharedaddy sd-sharing-enabled"><div class="robots-nocontent sd-block sd-social sd-social-official sd-sharing"><div class="sd-content"><ul><li class="share-facebook"><div class="fb-share-button" data-href="http://activehistory.ca/papers/history-papers-15/" data-layout="button_count"></div></li><li class="share-twitter"><a href="https://twitter.com/share" class="twitter-share-button" data-url="http://activehistory.ca/papers/history-papers-15/" data-text="Rebranding Canada with Comics: Canada 1812: Forged in Fire and the Continuing Co-optation of Tecumseh" data-via="ActiveHist" >Tweet</a></li><li class="share-email"><a rel="nofollow noopener noreferrer" data-shared="" class="share-email sd-button" href="http://activehistory.ca/papers/history-papers-15/?share=email" target="_blank" title="Click to email this to a friend"><span>Email</span></a></li><li class="share-end"></li></ul></div></div></div>					</div><!-- .entry-content -->
+
+		<footer class="entry-meta">
+					</footer><!-- .entry-meta -->
+
+	</article><!-- #post -->				
+<div id="comments" class="comments-area">
+
+				<div class="zg-wrapper-widget-area">
+			<div id="text-445942440" class="widget widget_text">			<div class="textwidget"><p><a href="http://creativecommons.org/licenses/by-nd/4.0/" rel="license"><img style="border-width: 0;" src="https://i.creativecommons.org/l/by-nd/4.0/80x15.png" alt="Creative Commons Licence" /></a><br />
+This work is licensed under a <a href="http://creativecommons.org/licenses/by-nd/4.0/" rel="license">Creative Commons Attribution-NoDerivatives 4.0 International License</a>. Blog posts published before October  28, 2018 are licensed with a Creative Commons Attribution-NonCommercial-ShareAlike 2.5 Canada License.</p>
+</div>
+		</div>		</div>
+    	
+			<h2 class="comments-title">
+			4 thoughts on &ldquo;<span>Rebranding Canada with Comics: Canada 1812: Forged in Fire and the Continuing Co-optation of Tecumseh</span>&rdquo;		</h2>
+
+		<ol class="commentlist">
+				<li class="pingback even thread-even depth-1" id="comment-46212">
+		<p>Pingback: <a href='http://activehistory.ca/2014/04/new-paper-sean-carleton-rebranding-canada-with-comics/' rel='external nofollow ugc' class='url'>Rebranding Canada with Comics</a> </p>
+	</li><!-- #comment-## -->
+	<li class="pingback odd alt thread-odd thread-alt depth-1" id="comment-46230">
+		<p>Pingback: <a href='http://adastracomix.com/2014/04/11/rebranding-canada-with-comics-and-the-continuing-co-optation-of-tecumseh/' rel='external nofollow ugc' class='url'>Rebranding Canada with Comics and the Continuing Co-optation of Tecumseh | AD ASTRA COMIX</a> </p>
+	</li><!-- #comment-## -->
+	<li class="pingback even thread-even depth-1" id="comment-46359">
+		<p>Pingback: <a href='http://graphichistorycollective.com/2014/04/17/rebranding-canada-with-comics-canada-1812-forged-in-fire-and-the-continuing-co-optation-of-tecumseh/' rel='external nofollow ugc' class='url'>Rebranding Canada with Comics: Canada 1812: Forged in Fire and the Continuing Co-optation of Tecumseh | Graphic History Collective</a> </p>
+	</li><!-- #comment-## -->
+	<li class="pingback odd alt thread-odd thread-alt depth-1" id="comment-46780">
+		<p>Pingback: <a href='http://graphichistorycollective.makerofnets.ca/2014/04/17/rebranding-canada-with-comics-canada-1812-forged-in-fire-and-the-continuing-co-optation-of-tecumseh/' rel='external nofollow ugc' class='url'>Rebranding Canada with Comics: Canada 1812: Forged in Fire and the Continuing Co-optation of Tecumseh</a> </p>
+	</li><!-- #comment-## -->
+		</ol><!-- .commentlist -->
+
+		
+		
+		
+		
+	<div class="wrapper-form-comments">
+	
+		<div id="respond" class="comment-respond">
+							<h3 id="reply-title" class="comment-reply-title">Please note: ActiveHistory.ca encourages comment and constructive discussion of our articles. We reserve the right to delete comments submitted under aliases, or that contain spam, harassment, or attacks on an individual.					<small><a rel="nofollow" id="cancel-comment-reply-link" href="/papers/history-papers-15/?shared=email&amp;msg=fail#respond" style="display:none;">Cancel reply</a></small>
+				</h3>
+						<form id="commentform" class="comment-form">
+				<iframe title="Comment Form" src="https://jetpack.wordpress.com/jetpack-comment/?blogid=42146343&#038;postid=13134&#038;comment_registration=0&#038;require_name_email=1&#038;stc_enabled=1&#038;stb_enabled=1&#038;show_avatars=1&#038;avatar_default=mystery&#038;greeting=Please+note%3A+ActiveHistory.ca+encourages+comment+and+constructive+discussion+of+our+articles.+We+reserve+the+right+to+delete+comments+submitted+under+aliases%2C+or+that+contain+spam%2C+harassment%2C+or+attacks+on+an+individual.&#038;greeting_reply=Leave+a+Reply+to+%25s&#038;color_scheme=light&#038;lang=en_CA&#038;jetpack_version=8.6.1&#038;show_cookie_consent=10&#038;has_cookie_consent=0&#038;token_key=%3Bnormal%3B&#038;sig=02cb225fbaed23a1d543cfb81708fb259b812bdf#parent=http%3A%2F%2Factivehistory.ca%2Fpapers%2Fhistory-papers-15%2F%3Fshared%3Demail%26msg%3Dfail" style="width:100%; height: 430px; border:0;" name="jetpack_remote_comment" class="jetpack_remote_comment" id="jetpack_remote_comment" sandbox="allow-same-origin allow-top-navigation allow-scripts allow-forms allow-popups"></iframe>
+									<!--[if !IE]><!-->
+					<script>
+						document.addEventListener('DOMContentLoaded', function () {
+							var commentForms = document.getElementsByClassName('jetpack_remote_comment');
+							for (var i = 0; i < commentForms.length; i++) {
+								commentForms[i].allowTransparency = false;
+								commentForms[i].scrolling = 'no';
+							}
+						});
+					</script>
+					<!--<![endif]-->
+							</form>
+		</div>
+
+		
+		<input type="hidden" name="comment_parent" id="comment_parent" value="" />
+
+			</div>
+
+</div><!-- #comments .comments-area -->			
+		</div><!-- #content -->
+	</div><!-- #primary -->
+
+
+			<div id="secondary" class="widget-area" role="complementary">
+			<aside id="search-2" class="widget widget_search">	<div class="wrapper-search-form">
+		<form method="get" id="searchform" action="http://activehistory.ca/">
+			<label for="s" class="assistive-text">Search</label>
+			<input type="search" class="txt-search" placeholder="Search..." name="s" id="s" />
+			<input type="submit" name="submit" id="btn-search-n" value="Search" />
+		</form>
+    </div></aside><aside id="text-445942422" class="widget widget_text"><h3 class="widget-title"><span class="prefix-widget-title"><i class="fa fa-th-large"></i></span> What is Active History?</h3>			<div class="textwidget"><p>ActiveHistory.ca is a website that connects the work of historians with the wider public and the importance of the past to current events.</p>
+<p>Please direct queries to Daniel Ross, Public Outreach Coordinator, via <a href="info@activehistory.ca">info@activehistory.ca</a>.</p>
+<p>For author guidelines, <a href="https://wp.me/P2QQbJ-32">click here</a>.</p>
+<p>Visitez notre partenaire francophone, <a href="http://histoireengagee.ca/"> HistoireEngagée.ca</a></p>
+</div>
+		</aside><aside id="text-445942433" class="widget widget_text"><h3 class="widget-title"><span class="prefix-widget-title"><i class="fa fa-th-large"></i></span> Ongoing Projects</h3>			<div class="textwidget"><ul>
+<li><b><a href="http://activehistory.ca/papers/beyond-the-lecture-series-list/">Beyond the Lecture</a></b></li>
+<li><b><a href="http://activehistory.ca/papers/canadas-first-world-war-a-centennial-series-on-activehistory-ca/">Canada's First World War</a></b></li>
+<li><b><a href="http://activehistory.ca/papers/from-juno-to-victory/">From Juno to Victory</a></b></li>
+<li><b><a href="http://activehistory.ca/podcasts/">History Slam Podcast</a></b></li>
+<li><b><a href="http://activehistory.ca/publications/">Open-Access Ebooks</a></b></li>
+<li><b><a href="http://activehistory.ca/remember-i-resist-i-redraw/">Remember/Resist/Redraw</a></b></li>
+</ul>
+
+</div>
+		</aside><aside id="twitter_timeline-3" class="widget widget_twitter_timeline"><h3 class="widget-title"><span class="prefix-widget-title"><i class="fa fa-th-large"></i></span> Twitter</h3><a class="twitter-timeline" data-theme="light" data-border-color="#e8e8e8" data-tweet-limit="3" data-lang="EN" data-partner="jetpack" data-chrome="noheader" href="https://twitter.com/ActiveHist" href="https://twitter.com/ActiveHist">My Tweets</a></aside><aside id="blog_subscription-3" class="widget widget_blog_subscription jetpack_subscription_widget"><h3 class="widget-title"><span class="prefix-widget-title"><i class="fa fa-th-large"></i></span> Subscribe via email</h3>
+            <form action="#" method="post" accept-charset="utf-8" id="subscribe-blog-blog_subscription-3">
+				                    <p id="subscribe-email">
+                        <label id="jetpack-subscribe-label"
+                               class="screen-reader-text"
+                               for="subscribe-field-blog_subscription-3">
+							Email Address                        </label>
+                        <input type="email" name="email" required="required"
+                        			                                                value=""
+                            id="subscribe-field-blog_subscription-3"
+                            placeholder="Email Address"
+                        />
+                    </p>
+
+                    <p id="subscribe-submit">
+                        <input type="hidden" name="action" value="subscribe"/>
+                        <input type="hidden" name="source" value="http://activehistory.ca/papers/history-papers-15/?shared=email&#038;msg=fail"/>
+                        <input type="hidden" name="sub-type" value="widget"/>
+                        <input type="hidden" name="redirect_fragment" value="blog_subscription-3"/>
+						                        <button type="submit"
+	                        		                    	                        name="jetpack_subscriptions_widget"
+	                    >
+	                        Subscribe                        </button>
+                    </p>
+				            </form>
+		
+</aside>		</div><!-- #secondary -->
+		</div><!-- #main .wrapper -->
+	</div><!-- #page -->
+		<footer>
+	<div style="background-color:#444444;">
+		<div class="wrapper-widget-area-footer">
+			<div class="widget-area-footer">
+				<div id="text-445942435" class="widget widget_text">			<div class="textwidget">ActiveHistory.ca is supported financially and administratively by the <a href="http://artsandscience.usask.ca/history/">History Department at the University of Saskatchewan</a> and <a href="http://www.huronuc.on.ca/Home">Huron University College</a>. <a href="https://calicologic.com/">Calico Logic</a> provides technical support.</div>
+		</div>			</div>
+			
+			<div class="widget-area-footer">
+				<div id="text-445942437" class="widget widget_text">			<div class="textwidget"><img src="http://activehistory.ca/wp-content/uploads/2017/02/usask_ArtsScience_History_black_reverse.png"/></div>
+		</div>			</div>
+			
+			<div class="widget-area-footer">
+				<div id="text-445942439" class="widget widget_text">			<div class="textwidget"><img src="http://activehistory.ca/wp-content/uploads/2017/02/huronuc_horiz_rgb_black_reverse_720.png"/></div>
+		</div>			</div>
+		</div>
+	</div>
+	</footer>
+		<hr class="hr-oscura" />
+	<footer id="colophon" role="contentinfo">
+	<div class="social-icon-wrapper">
+							<a href="https://twitter.com/activehist" title="Twitter" target="_blank"><i class="fa fa-twitter"></i></a> 
+						
+							<a href="https://www.facebook.com/ActiveHist/" title="Facebook" target="_blank"><i class="fa fa-facebook"></i></a>
+						
+						
+						
+					 		<a href="https://www.youtube.com/user/activehistoryca" title="YouTube" target="_blank"><i class="fa fa-youtube"></i></a>
+						
+						
+						
+							<a class="rss" href="http://feeds.feedburner.com/activehistoryca" title="Feed RSS" target="_blank"><i class="fa fa-rss"></i></a>			
+					</div><!-- .social-icon-wrapper -->
+		<hr class="hr-oscura" />
+		<div class="site-info">
+			<div class="credits-left"></div>
+			<div class="credits-center"><a rel="license" href="http://creativecommons.org/licenses/by-nd/4.0/"><img alt="Creative Commons Licence" style="border-width:0" src="https://i.creativecommons.org/l/by-nd/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nd/4.0/">Creative Commons Attribution-NoDerivatives 4.0 International License</a>.
+Blog posts published before October 28, 2018 are licensed with a Creative Commons Attribution-NonCommercial-ShareAlike 2.5 Canada License.</div>
+			<div class="credits-right"></div>
+		</div><!-- .site-info -->
+		
+			</footer><!-- #colophon -->
+
+			<div class="ir-arriba"><i class="fa fa-chevron-up"></i></div>
+	<script>
+    jQuery(document).ready(function () {
+		jQuery.post('http://activehistory.ca?ga_action=googleanalytics_get_script', {action: 'googleanalytics_get_script'}, function(response) {
+			var s = document.createElement("script");
+			s.type = "text/javascript";
+			s.innerHTML = response;
+			jQuery("head").append(s);
+		});
+    });
+</script><div id="fb-root"></div>
+			<script>(function(d, s, id) { var js, fjs = d.getElementsByTagName(s)[0]; if (d.getElementById(id)) return; js = d.createElement(s); js.id = id; js.src = 'https://connect.facebook.net/en_CA/sdk.js#xfbml=1&appId=249643311490&version=v2.3'; fjs.parentNode.insertBefore(js, fjs); }(document, 'script', 'facebook-jssdk'));</script>
+			<script>
+			jQuery( document.body ).on( 'post-load', function() {
+				if ( 'undefined' !== typeof FB ) {
+					FB.XFBML.parse();
+				}
+			} );
+			</script>
+						<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+'://platform.twitter.com/widgets.js';fjs.parentNode.insertBefore(js,fjs);}}(document, 'script', 'twitter-wjs');</script>
+				<div id="sharing_email" style="display: none;">
+		<form action="/papers/history-papers-15/?shared=email&#038;msg=fail" method="post">
+			<label for="target_email">Send to Email Address</label>
+			<input type="email" name="target_email" id="target_email" value="" />
+
+			
+				<label for="source_name">Your Name</label>
+				<input type="text" name="source_name" id="source_name" value="" />
+
+				<label for="source_email">Your Email Address</label>
+				<input type="email" name="source_email" id="source_email" value="" />
+
+						<input type="text" id="jetpack-source_f_name" name="source_f_name" class="input" value="" size="25" autocomplete="off" title="This field is for validation and should not be changed" />
+			
+			<img style="float: right; display: none" class="loading" src="http://activehistory.ca/wp-content/plugins/jetpack/modules/sharedaddy/images/loading.gif" alt="loading" width="16" height="16" />
+			<input type="submit" value="Send Email" class="sharing_send" />
+			<a rel="nofollow" href="#cancel" class="sharing_cancel" role="button">Cancel</a>
+
+			<div class="errors errors-1" style="display: none;">
+				Post was not sent - check your email addresses!			</div>
+
+			<div class="errors errors-2" style="display: none;">
+				Email check failed, please try again			</div>
+
+			<div class="errors errors-3" style="display: none;">
+				Sorry, your blog cannot share posts by email.			</div>
+		</form>
+	</div>
+<script type='text/javascript' src='http://activehistory.ca/wp-content/themes/rubbersoul-pro/js/navigation.js?ver=20140711'></script>
+<script type='text/javascript' src='http://activehistory.ca/wp-content/themes/rubbersoul-pro/js/slider-recent-posts-fp.js?ver=2.6.4'></script>
+<script type='text/javascript' src='http://activehistory.ca/wp-content/themes/rubbersoul-pro/js/rsoul-pro-toggle-search.js?ver=2.6.4'></script>
+<script type='text/javascript' src='http://activehistory.ca/wp-content/plugins/jetpack/_inc/build/twitter-timeline.min.js?ver=4.0.0'></script>
+<script type='text/javascript' src='http://activehistory.ca/wp-includes/js/wp-embed.min.js?ver=5.4.2'></script>
+<script type='text/javascript' src='http://activehistory.ca/wp-content/plugins/jetpack/_inc/build/spin.min.js?ver=1.3'></script>
+<script type='text/javascript' src='http://activehistory.ca/wp-content/plugins/jetpack/_inc/build/jquery.spin.min.js?ver=1.3'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var jetpackCarouselStrings = {"widths":[370,700,1000,1200,1400,2000],"is_logged_in":"","lang":"en","ajaxurl":"http:\/\/activehistory.ca\/wp-admin\/admin-ajax.php","nonce":"5e88d0d860","display_exif":"1","display_comments":"1","display_geo":"1","single_image_gallery":"1","single_image_gallery_media_file":"","background_color":"black","comment":"Comment","post_comment":"Post Comment","write_comment":"Write a Comment...","loading_comments":"Loading Comments...","download_original":"View full size <span class=\"photo-size\">{0}<span class=\"photo-size-times\">\u00d7<\/span>{1}<\/span>","no_comment_text":"Please be sure to submit some text with your comment.","no_comment_email":"Please provide an email address to comment.","no_comment_author":"Please provide your name to comment.","comment_post_error":"Sorry, but there was an error posting your comment. Please try again later.","comment_approved":"Your comment was approved.","comment_unapproved":"Your comment is in moderation.","camera":"Camera","aperture":"Aperture","shutter_speed":"Shutter Speed","focal_length":"Focal Length","copyright":"Copyright","comment_registration":"0","require_name_email":"1","login_url":"http:\/\/activehistory.ca\/wp-login.php?redirect_to=http%3A%2F%2Factivehistory.ca%2Fpapers%2Fhistory-papers-15%2F","blog_id":"1","meta_data":["camera","aperture","shutter_speed","focal_length","copyright"],"local_comments_commenting_as":"<fieldset><label for=\"email\">Email (Required)<\/label> <input type=\"text\" name=\"email\" class=\"jp-carousel-comment-form-field jp-carousel-comment-form-text-field\" id=\"jp-carousel-comment-form-email-field\" \/><\/fieldset><fieldset><label for=\"author\">Name (Required)<\/label> <input type=\"text\" name=\"author\" class=\"jp-carousel-comment-form-field jp-carousel-comment-form-text-field\" id=\"jp-carousel-comment-form-author-field\" \/><\/fieldset><fieldset><label for=\"url\">Website<\/label> <input type=\"text\" name=\"url\" class=\"jp-carousel-comment-form-field jp-carousel-comment-form-text-field\" id=\"jp-carousel-comment-form-url-field\" \/><\/fieldset>"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://activehistory.ca/wp-content/plugins/jetpack/_inc/build/carousel/jetpack-carousel.min.js?ver=20190102'></script>
+<script async="async" type='text/javascript' src='http://activehistory.ca/wp-content/plugins/akismet/_inc/form.js?ver=4.1.6'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var sharing_js_options = {"lang":"en","counts":"1","is_stats_active":"1"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://activehistory.ca/wp-content/plugins/jetpack/_inc/build/sharedaddy/sharing.min.js?ver=8.6.1'></script>
+<script type='text/javascript'>
+var windowOpen;
+			jQuery( document.body ).on( 'click', 'a.share-facebook', function() {
+				// If there's another sharing window open, close it.
+				if ( 'undefined' !== typeof windowOpen ) {
+					windowOpen.close();
+				}
+				windowOpen = window.open( jQuery( this ).attr( 'href' ), 'wpcomfacebook', 'menubar=1,resizable=1,width=600,height=400' );
+				return false;
+			});
+</script>
+
+		<!--[if IE]>
+		<script type="text/javascript">
+			if ( 0 === window.location.hash.indexOf( '#comment-' ) ) {
+				// window.location.reload() doesn't respect the Hash in IE
+				window.location.hash = window.location.hash;
+			}
+		</script>
+		<![endif]-->
+		<script type="text/javascript">
+			(function () {
+				var comm_par_el = document.getElementById( 'comment_parent' ),
+					comm_par = ( comm_par_el && comm_par_el.value ) ? comm_par_el.value : '',
+					frame = document.getElementById( 'jetpack_remote_comment' ),
+					tellFrameNewParent;
+
+				tellFrameNewParent = function () {
+					if ( comm_par ) {
+						frame.src = "https://jetpack.wordpress.com/jetpack-comment/?blogid=42146343&postid=13134&comment_registration=0&require_name_email=1&stc_enabled=1&stb_enabled=1&show_avatars=1&avatar_default=mystery&greeting=Please+note%3A+ActiveHistory.ca+encourages+comment+and+constructive+discussion+of+our+articles.+We+reserve+the+right+to+delete+comments+submitted+under+aliases%2C+or+that+contain+spam%2C+harassment%2C+or+attacks+on+an+individual.&greeting_reply=Leave+a+Reply+to+%25s&color_scheme=light&lang=en_CA&jetpack_version=8.6.1&show_cookie_consent=10&has_cookie_consent=0&token_key=%3Bnormal%3B&sig=02cb225fbaed23a1d543cfb81708fb259b812bdf#parent=http%3A%2F%2Factivehistory.ca%2Fpapers%2Fhistory-papers-15%2F%3Fshared%3Demail%26msg%3Dfail" + '&replytocom=' + parseInt( comm_par, 10 ).toString();
+					} else {
+						frame.src = "https://jetpack.wordpress.com/jetpack-comment/?blogid=42146343&postid=13134&comment_registration=0&require_name_email=1&stc_enabled=1&stb_enabled=1&show_avatars=1&avatar_default=mystery&greeting=Please+note%3A+ActiveHistory.ca+encourages+comment+and+constructive+discussion+of+our+articles.+We+reserve+the+right+to+delete+comments+submitted+under+aliases%2C+or+that+contain+spam%2C+harassment%2C+or+attacks+on+an+individual.&greeting_reply=Leave+a+Reply+to+%25s&color_scheme=light&lang=en_CA&jetpack_version=8.6.1&show_cookie_consent=10&has_cookie_consent=0&token_key=%3Bnormal%3B&sig=02cb225fbaed23a1d543cfb81708fb259b812bdf#parent=http%3A%2F%2Factivehistory.ca%2Fpapers%2Fhistory-papers-15%2F%3Fshared%3Demail%26msg%3Dfail";
+					}
+				};
+
+				
+				// Do the post message bit after the dom has loaded.
+				document.addEventListener( 'DOMContentLoaded', function () {
+					var iframe_url = "https:\/\/jetpack.wordpress.com";
+					if ( window.postMessage ) {
+						if ( document.addEventListener ) {
+							window.addEventListener( 'message', function ( event ) {
+								var origin = event.origin.replace( /^http:\/\//i, 'https://' );
+								if ( iframe_url.replace( /^http:\/\//i, 'https://' ) !== origin ) {
+									return;
+								}
+								jQuery( frame ).height( event.data );
+							});
+						} else if ( document.attachEvent ) {
+							window.attachEvent( 'message', function ( event ) {
+								var origin = event.origin.replace( /^http:\/\//i, 'https://' );
+								if ( iframe_url.replace( /^http:\/\//i, 'https://' ) !== origin ) {
+									return;
+								}
+								jQuery( frame ).height( event.data );
+							});
+						}
+					}
+				})
+
+			})();
+		</script>
+
+		<script type='text/javascript' src='https://stats.wp.com/e-202025.js' async='async' defer='defer'></script>
+<script type='text/javascript'>
+	_stq = window._stq || [];
+	_stq.push([ 'view', {v:'ext',j:'1:8.6.1',blog:'42146343',post:'13134',tz:'-4',srv:'activehistory.ca'} ]);
+	_stq.push([ 'clickTrackerInit', '42146343', '13134' ]);
+</script>
+			
+</body>
+</html>

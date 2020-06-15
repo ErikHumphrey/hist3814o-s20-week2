@@ -1,0 +1,714 @@
+<!DOCTYPE html>
+<!--[if IE 7]>
+<html class="ie ie7" lang="en-CA">
+<![endif]-->
+<!--[if IE 8]>
+<html class="ie ie8" lang="en-CA">
+<![endif]-->
+<!--[if !(IE 7) & !(IE 8)]><!-->
+<html lang="en-CA">
+<!--<![endif]-->
+<head>
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width" />
+<link rel="profile" href="http://gmpg.org/xfn/11" />
+<link rel="pingback" href="http://activehistory.ca/xmlrpc.php" />
+<!--[if lt IE 9]>
+<script src="http://activehistory.ca/wp-content/themes/rubbersoul-pro/js/html5.js" type="text/javascript"></script>
+<![endif]-->
+<title>A Polyphony of Synthesizers: Why Every Historian of Canada Should Write a History of Canada &#8211; Active History</title>
+<link rel='dns-prefetch' href='//secure.gravatar.com' />
+<link rel='dns-prefetch' href='//platform-api.sharethis.com' />
+<link rel='dns-prefetch' href='//fonts.googleapis.com' />
+<link rel='dns-prefetch' href='//s.w.org' />
+		<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/12.0.0-1\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/12.0.0-1\/svg\/","svgExt":".svg","source":{"concatemoji":"http:\/\/activehistory.ca\/wp-includes\/js\/wp-emoji-release.min.js?ver=5.4.2"}};
+			/*! This file is auto-generated */
+			!function(e,a,t){var r,n,o,i,p=a.createElement("canvas"),s=p.getContext&&p.getContext("2d");function c(e,t){var a=String.fromCharCode;s.clearRect(0,0,p.width,p.height),s.fillText(a.apply(this,e),0,0);var r=p.toDataURL();return s.clearRect(0,0,p.width,p.height),s.fillText(a.apply(this,t),0,0),r===p.toDataURL()}function l(e){if(!s||!s.fillText)return!1;switch(s.textBaseline="top",s.font="600 32px Arial",e){case"flag":return!c([127987,65039,8205,9895,65039],[127987,65039,8203,9895,65039])&&(!c([55356,56826,55356,56819],[55356,56826,8203,55356,56819])&&!c([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]));case"emoji":return!c([55357,56424,55356,57342,8205,55358,56605,8205,55357,56424,55356,57340],[55357,56424,55356,57342,8203,55358,56605,8203,55357,56424,55356,57340])}return!1}function d(e){var t=a.createElement("script");t.src=e,t.defer=t.type="text/javascript",a.getElementsByTagName("head")[0].appendChild(t)}for(i=Array("flag","emoji"),t.supports={everything:!0,everythingExceptFlag:!0},o=0;o<i.length;o++)t.supports[i[o]]=l(i[o]),t.supports.everything=t.supports.everything&&t.supports[i[o]],"flag"!==i[o]&&(t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&t.supports[i[o]]);t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&!t.supports.flag,t.DOMReady=!1,t.readyCallback=function(){t.DOMReady=!0},t.supports.everything||(n=function(){t.readyCallback()},a.addEventListener?(a.addEventListener("DOMContentLoaded",n,!1),e.addEventListener("load",n,!1)):(e.attachEvent("onload",n),a.attachEvent("onreadystatechange",function(){"complete"===a.readyState&&t.readyCallback()})),(r=t.source||{}).concatemoji?d(r.concatemoji):r.wpemoji&&r.twemoji&&(d(r.twemoji),d(r.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+		<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+	<link rel='stylesheet' id='wp-block-library-css'  href='http://activehistory.ca/wp-includes/css/dist/block-library/style.min.css?ver=5.4.2' type='text/css' media='all' />
+<style id='wp-block-library-inline-css' type='text/css'>
+.has-text-align-justify{text-align:justify;}
+</style>
+<link rel='stylesheet' id='dashicons-css'  href='http://activehistory.ca/wp-includes/css/dashicons.min.css?ver=5.4.2' type='text/css' media='all' />
+<link rel='stylesheet' id='rubbersoul-pro-fonts-css'  href='https://fonts.googleapis.com/css?family=Noto+Sans:400italic,700italic,400,700&#038;subset=latin,latin-ext' type='text/css' media='all' />
+<link rel='stylesheet' id='rubbersoul-pro-style-css'  href='http://activehistory.ca/wp-content/themes/rubbersoul-pro/style.css?ver=2.6.4' type='text/css' media='all' />
+<link rel='stylesheet' id='custom-style-css'  href='http://activehistory.ca/wp-content/themes/rubbersoul-pro/custom-style.css?ver=5.4.2' type='text/css' media='all' />
+<link rel='stylesheet' id='rsoul-pro-widgets-style-css'  href='http://activehistory.ca/wp-content/themes/rubbersoul-pro/css/rsoul-widgets-style.css?ver=2.6.4' type='text/css' media='all' />
+<link rel='stylesheet' id='font-awesome-css'  href='http://activehistory.ca/wp-content/themes/rubbersoul-pro/css/font-awesome-4.7.0/css/font-awesome.min.css?ver=5.4.2' type='text/css' media='all' />
+<link rel='stylesheet' id='rsoul-pro-slider-recent-posts-style-css'  href='http://activehistory.ca/wp-content/themes/rubbersoul-pro/css/slider-recent-posts-fp.css?ver=2.6.4' type='text/css' media='all' />
+<!--[if lt IE 9]>
+<link rel='stylesheet' id='rubbersoul-pro-ie-css'  href='http://activehistory.ca/wp-content/themes/rubbersoul-pro/css/ie.css?ver=20121010' type='text/css' media='all' />
+<![endif]-->
+<link rel='stylesheet' id='social-logos-css'  href='http://activehistory.ca/wp-content/plugins/jetpack/_inc/social-logos/social-logos.min.css?ver=8.6.1' type='text/css' media='all' />
+<link rel='stylesheet' id='jetpack_css-css'  href='http://activehistory.ca/wp-content/plugins/jetpack/css/jetpack.css?ver=8.6.1' type='text/css' media='all' />
+<script type='text/javascript' src='http://activehistory.ca/wp-includes/js/jquery/jquery.js?ver=1.12.4-wp'></script>
+<script type='text/javascript' src='http://activehistory.ca/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.4.1'></script>
+<script type='text/javascript' src='//platform-api.sharethis.com/js/sharethis.js#product=ga'></script>
+<link rel='https://api.w.org/' href='http://activehistory.ca/wp-json/' />
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://activehistory.ca/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://activehistory.ca/wp-includes/wlwmanifest.xml" /> 
+<meta name="generator" content="WordPress 5.4.2" />
+<link rel="canonical" href="http://activehistory.ca/papers/a-polyphony-of-synthesizers-why-every-historian-of-canada-should-write-a-history-of-canada/" />
+<link rel='shortlink' href='https://wp.me/P2QQbJ-1Ol' />
+<link rel="alternate" type="application/json+oembed" href="http://activehistory.ca/wp-json/oembed/1.0/embed?url=http%3A%2F%2Factivehistory.ca%2Fpapers%2Fa-polyphony-of-synthesizers-why-every-historian-of-canada-should-write-a-history-of-canada%2F" />
+<link rel="alternate" type="text/xml+oembed" href="http://activehistory.ca/wp-json/oembed/1.0/embed?url=http%3A%2F%2Factivehistory.ca%2Fpapers%2Fa-polyphony-of-synthesizers-why-every-historian-of-canada-should-write-a-history-of-canada%2F&#038;format=xml" />
+<script type="text/javascript"><!--
+function powerpress_pinw(pinw_url){window.open(pinw_url, 'PowerPressPlayer','toolbar=0,status=0,resizable=1,width=460,height=320');	return false;}
+//-->
+</script>
+
+<link rel='dns-prefetch' href='//jetpack.wordpress.com'/>
+<link rel='dns-prefetch' href='//s0.wp.com'/>
+<link rel='dns-prefetch' href='//s1.wp.com'/>
+<link rel='dns-prefetch' href='//s2.wp.com'/>
+<link rel='dns-prefetch' href='//public-api.wordpress.com'/>
+<link rel='dns-prefetch' href='//0.gravatar.com'/>
+<link rel='dns-prefetch' href='//1.gravatar.com'/>
+<link rel='dns-prefetch' href='//2.gravatar.com'/>
+<link rel='dns-prefetch' href='//widgets.wp.com'/>
+<link rel='dns-prefetch' href='//v0.wordpress.com'/>
+	<style type='text/css'>
+		a {color: #0f7b3f;}
+	a:hover {color: #0f7b3f;}
+	.social-icon-wrapper a:hover {color: #0f7b3f;}
+	.prefix-widget-title {color: #0f7b3f;}
+	.term-icon {color: #0f7b3f;}
+	.sub-title a:hover {color:#0f7b3f;}
+	.entry-content a:visited,.comment-content a:visited {color:#0f7b3f;}
+	input[type="submit"] {background-color:#0f7b3f !important;}
+	input[type="reset"] {background-color:#0f7b3f !important;}
+	.bypostauthor cite span {background-color:#0f7b3f;}
+	.wrapper-cabecera {background-color:#0f7b3f;}
+	.wrapper-search-top-bar {background-color:#0f7b3f;}
+	.main-navigation {background-color:#0f7b3f;}
+	.entry-header .entry-title a:hover {color:#0f7b3f ;}
+	.archive-header {border-left-color:#0f7b3f;}
+	.main-navigation a:hover,
+	.main-navigation a:focus {
+		color: #0f7b3f;
+	}
+	.widget-area .widget a:hover {
+		color: #0f7b3f !important;
+	}
+	footer[role="contentinfo"] a:hover {
+		color: #0f7b3f;
+	}
+	.entry-meta a:hover {
+	color: #0f7b3f;
+	}
+	.format-status .entry-header header a:hover {
+		color: #0f7b3f;
+	}
+	.comments-area article header a:hover {
+		color: #0f7b3f;
+	}
+	a.comment-reply-link:hover,
+	a.comment-edit-link:hover {
+		color: #0f7b3f;
+	}
+	.template-front-page .widget-area .widget li a:hover {
+		color: #0f7b3f;
+	}
+	
+	.currenttext, .paginacion a:hover {background-color:#0f7b3f;}
+	.aside{border-left-color:#0f7b3f !important;}
+	blockquote{border-left-color:#0f7b3f;}
+	ul.tabs li.t-activa a {border-top-color: #0f7b3f;} 
+	.slider-current-btn a {background-color:#0f7b3f !important;}
+	h2.comments-title {border-left-color:#0f7b3f;}
+	
+		
+		
+			.titulo-descripcion {
+	 		text-transform:none;
+		}
+		
+		
+		
+			.wrapper-cabecera {height:70px; height:5rem;}
+		
+		
+			.header-logo {background-color:transparent;}
+		
+		
+		
+			
+		body.custom-font-enabled {font-family: "Noto Sans", Arial, Verdana;}
+	
+			@media screen and (min-width: 600px) {
+			#primary {float:left;}
+			#secondary {float:right;}
+			.site-content {
+				border-left: none;
+				padding-left:0;
+				padding-right: 24px;
+				padding-right:1.714285714285714rem;
+			}
+		}
+		
+		
+	@media screen and (max-width: 599px) {
+		.menu-toggle, .menu-toggle:hover {
+			background:#0f7b3f !important;
+			color:#ffffff !important;
+			width:100%;
+		}
+	}
+	
+	/* bbPress */
+		</style>
+	
+	<!-- Google Analytics -->
+    
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-8653817-1', 'auto');
+  ga('send', 'pageview');
+
+</script>
+    <!-- Google Analytics -->
+    <style type="text/css" id="custom-background-css">
+body.custom-background { background-color: #f4f4f4; }
+</style>
+	
+<!-- Jetpack Open Graph Tags -->
+<meta property="og:type" content="article" />
+<meta property="og:title" content="A Polyphony of Synthesizers: Why Every Historian of Canada Should Write a History of Canada" />
+<meta property="og:url" content="http://activehistory.ca/papers/a-polyphony-of-synthesizers-why-every-historian-of-canada-should-write-a-history-of-canada/" />
+<meta property="og:description" content="Alan MacEachern The University of Western Ontario The following was my contribution to a 2010 Canadian Historical Association roundtable, “So What IS the Story? Exploring Fragmentation and Synthesi…" />
+<meta property="article:published_time" content="2012-01-10T02:07:38+00:00" />
+<meta property="article:modified_time" content="2012-04-18T13:09:24+00:00" />
+<meta property="og:site_name" content="Active History" />
+<meta property="og:image" content="http://activehistory.ca/wp-content/uploads/2012/01/aFigure-1-Can-pop-hist-lit.jpg" />
+<meta property="og:image:width" content="772" />
+<meta property="og:image:height" content="579" />
+<meta name="twitter:site" content="@ActiveHist" />
+<meta name="twitter:text:title" content="A Polyphony of Synthesizers: Why Every Historian of Canada Should Write a History of Canada" />
+<meta name="twitter:image" content="http://activehistory.ca/wp-content/uploads/2012/01/aFigure-1-Can-pop-hist-lit.jpg?w=640" />
+<meta name="twitter:card" content="summary_large_image" />
+
+<!-- End Jetpack Open Graph Tags -->
+<link rel="icon" href="http://activehistory.ca/wp-content/uploads/2019/02/cropped-ActiveHist2019_icon_whiteBCKG-6-32x32.jpg" sizes="32x32" />
+<link rel="icon" href="http://activehistory.ca/wp-content/uploads/2019/02/cropped-ActiveHist2019_icon_whiteBCKG-6-192x192.jpg" sizes="192x192" />
+<link rel="apple-touch-icon" href="http://activehistory.ca/wp-content/uploads/2019/02/cropped-ActiveHist2019_icon_whiteBCKG-6-180x180.jpg" />
+<meta name="msapplication-TileImage" content="http://activehistory.ca/wp-content/uploads/2019/02/cropped-ActiveHist2019_icon_whiteBCKG-6-270x270.jpg" />
+</head>
+
+<body class="page-template-default page page-id-6965 page-child parent-pageid-23 custom-background custom-font-enabled">
+	
+		
+	<header id="masthead" class="site-header" role="banner">
+	<div class="wrapper-cabecera">
+	
+		<div class="blogname-y-menu">
+			<div class="boton-menu-movil"><i class="fa fa-align-justify fa-2x"></i></div>
+			
+							<div class="header-logo">
+					<a href="http://activehistory.ca/"><img src="http://activehistory.ca/wp-content/uploads/2019/04/cropped-ActiveHist2019_icon_whiteBCKG-1.jpg" class="header-image" width="400" height="400" alt="Active History" /></a>
+				</div>
+						
+						<div class="titulo-descripcion">
+			
+									<p class="site-title"><a href="http://activehistory.ca/" title="Active History" rel="home">Active History</a></p>
+								
+				<p class="site-description">History Matters</p>
+				
+			</div>
+						
+			<div class="toggle-search"><i class="fa fa-search"></i></div>
+			
+			<div class="wrapper-site-navigation">
+				<nav id="site-navigation" class="main-navigation" role="navigation">
+					
+					<div class="menu-the-main-container"><ul id="menu-the-main" class="nav-menu"><li id="menu-item-7899" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-home menu-item-7899"><a href="http://activehistory.ca/">Home</a></li>
+<li id="menu-item-7902" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-7902"><a href="http://activehistory.ca/about/">About</a></li>
+<li id="menu-item-7900" class="menu-item menu-item-type-post_type menu-item-object-page current-page-ancestor menu-item-7900"><a href="http://activehistory.ca/papers/">Features</a></li>
+<li id="menu-item-25840" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-25840"><a href="http://activehistory.ca/publications/">Publications</a></li>
+<li id="menu-item-7915" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-7915"><a href="http://activehistory.ca/podcasts/">Podcasts</a></li>
+<li id="menu-item-20816" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-20816"><a href="http://activehistory.ca/donate/">Support Us</a></li>
+</ul></div>				</nav><!-- #site-navigation -->
+                
+				<div class="wrapper-search-top-bar">
+                	<div class="search-top-bar">
+							<div>
+		<form method="get" id="searchform-toggle" action="http://activehistory.ca/">
+			<label for="s" class="assistive-text">Search</label>
+			<input type="search" class="txt-search" placeholder="Search..." name="s" id="s" />
+			<input type="submit" name="submit" id="btn-search" value="Search" />
+		</form>
+    </div>                    </div>
+                </div>
+                
+			</div><!-- .wrapper-site-navigation -->
+			
+		</div><!-- .blogname-y-menu -->
+        
+	<div style="position:relative; clear:both;">
+		
+<div id="menu-movil">
+	<div class="search-form-movil">
+		<form method="get" id="searchform-movil" action="http://activehistory.ca/">
+			<label for="s" class="assistive-text">Search</label>
+			<input type="search" class="txt-search-movil" placeholder="Search..." name="s" id="s" />
+			<input type="submit" name="submit" id="btn-search-movil" value="Search" />
+		</form>
+    </div><!-- search-form-movil -->
+	<div class="menu-movil-enlaces">
+		<div class="menu-the-main-container"><ul id="menu-the-main-1" class="nav-menu"><li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-home menu-item-7899"><a href="http://activehistory.ca/">Home</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-7902"><a href="http://activehistory.ca/about/">About</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page current-page-ancestor menu-item-7900"><a href="http://activehistory.ca/papers/">Features</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-25840"><a href="http://activehistory.ca/publications/">Publications</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-7915"><a href="http://activehistory.ca/podcasts/">Podcasts</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-20816"><a href="http://activehistory.ca/donate/">Support Us</a></li>
+</ul></div>	</div>
+	
+	<div class="social-icon-wrapper-movil">
+							<a href="https://twitter.com/activehist" title="Twitter" target="_blank"><i class="fa fa-twitter"></i></a> 
+						
+							<a href="https://www.facebook.com/ActiveHist/" title="Facebook" target="_blank"><i class="fa fa-facebook"></i></a>
+						
+						
+						
+					 		<a href="https://www.youtube.com/user/activehistoryca" title="YouTube" target="_blank"><i class="fa fa-youtube"></i></a>
+						
+						
+						
+							<a class="rss" href="http://feeds.feedburner.com/activehistoryca" title="RSS" target="_blank"><i class="fa fa-rss"></i></a>			
+					</div><!-- .social-icon-wrapper -->	
+</div><!-- #menu-movil -->    </div>
+    
+	</div><!-- wrapper-cabecera -->
+	
+	<div class="wrapper-area-widget-superior area-widget-padding-top">
+		</div>
+	
+	</header><!-- #masthead -->
+	
+<div id="page" class="hfeed site">
+	
+	<div id="main" class="wrapper">
+	<div id="primary" class="site-content">
+		<div id="content" role="main">
+
+							
+	<article id="post-6965" class="post-6965 page type-page status-publish hentry">
+
+		<header class="entry-header">
+													<h1 class="entry-title">A Polyphony of Synthesizers: Why Every Historian of Canada Should Write a History of Canada</h1>
+					</header>
+
+		<div class="entry-content">
+			<p>Alan MacEachern<br />
+The University of Western Ontario</p>
+<p><em>The following was my contribution to a 2010 Canadian Historical Association </em><em>roundtable,</em><em> </em><em>“</em><em>So What IS the Story? Exploring Fragmentation and Synthesis in Current Canadian Historiography.” In it, I tried to a) graphically illustrate the marginalization of Canadian historical scholarship, b) argue why demography is likely only to make this problem worse, and c) suggest a response. All in under 1400 words. As far as I know, only one person was at all convinced, let alone inspired, by my presentation: me. It got me thinking about how one might go about writing a history of Canada that would necessarily cover the entire country from the beginning to the 21<sup>st</sup> century, that would treat Canada in global terms, and that would be relevant. Last month, I published a very, very early outline of such a history, <a href="http://history.uwo.ca/faculty/maceachern/Little%20Essay%20on%20Big,%20MacEachern,%20RCC%20Perspectives,%20dec11.pdf">“A Little Essay on Big.”</a><a title="" href="#_ftn1"><strong>[1]</strong></a> In an uncharacteristic fit of confidence, I’ve dusted off my presentation and asked ActiveHistory.ca if they’d like it, largely unchanged. I welcome your thoughts.</em></p>
+<p>The opportunity to synthesize some ideas on why and how we might, individually and collectively, better synthesize our Canadian history research and teaching is a chance too good to pass up. But, perhaps inevitably, to reach that point first requires some disjointed thinking.</p>
+<p>Let’s begin with two graphical representations of the state of the Canadian history field. The first (Figure 1) seeks to compare the position of Canada and Canadian history in the 20<sup>th</sup> century world. The left y-axis, measuring Canada’s population as a proportion of global population, shows general consistency: throughout the 1900s, roughly 1 out of every 200 humans was a Canadian. The right y-axis, measuring the number of books on Canadian history found in WorldCat, the world’s largest library union catalogue, as a proportion of those books on history generally, shows more variability. But from a high of over 2.5% of the historical literature in the early 1900s, to at least 1% for the past 70 years, the Canadian history field has consistently been significantly more productive than what our nation’s population alone would predict. In terms of output, we historians of Canada have punched above our weight. Of course, that is exactly what one would expect of a wealthy, healthy, literate nation.<a title="" href="#_ftn2">[2]</a></p>
+<div id="attachment_6966" style="width: 490px" class="wp-caption aligncenter"><a href="http://activehistory.ca/papers/a-polyphony-of-synthesizers-why-every-historian-of-canada-should-write-a-history-of-canada/afigure-1-can-pop-hist-lit/" rel="attachment wp-att-7085"><img aria-describedby="caption-attachment-6966" data-attachment-id="7085" data-permalink="http://activehistory.ca/papers/a-polyphony-of-synthesizers-why-every-historian-of-canada-should-write-a-history-of-canada/afigure-1-can-pop-hist-lit/" data-orig-file="http://activehistory.ca/wp-content/uploads/2012/01/aFigure-1-Can-pop-hist-lit.jpg" data-orig-size="772,579" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;}" data-image-title="Figure 1, Can pop &#038; hist lit" data-image-description="" data-medium-file="http://activehistory.ca/wp-content/uploads/2012/01/aFigure-1-Can-pop-hist-lit-300x225.jpg" data-large-file="http://activehistory.ca/wp-content/uploads/2012/01/aFigure-1-Can-pop-hist-lit.jpg" class=" wp-image-7085" title="Figure 1, Can pop &amp; hist lit" src="http://activehistory.ca/wp-content/uploads/2012/01/aFigure-1-Can-pop-hist-lit.jpg" alt="" width="480" height="405" /></a><p id="caption-attachment-6966" class="wp-caption-text">Figure 1: Canada&#39;s population and its historical literature in the 20th century.</p></div>
+<p>&nbsp;</p>
+<p>The second representation (Figure 2) is a photograph of the Canadian history section at my local Chapters bookstore in spring 2010. The section seems, to my eyes, small – in part because it was about twice that size less than a decade ago. But even that does not tell the whole story. Of the 53 titles shown, remove the seven that are not actually Canadian history, such as the misfiled biography of Kristi Yamaguchi. Remove the 23 titles written by journalists, political scientists, judges, and Rick Hillier. Perhaps remove the eight titles by Pierre Berton, solely because he is dead. What remains, in the largest bookstore in the nation’s tenth largest city, are 15 titles written by living Canadian historians (Figure 3).<a title="" href="#_ftn3">[3]</a> We might call this lackluster result anomalous, but Chapters-Indigo and its online stores move about half the books sold in Canada. In terms of reaching a broad audience, we historians of Canada are punching significantly below our weight.</p>
+<div id="attachment_7086" style="width: 310px" class="wp-caption aligncenter"><a href="http://activehistory.ca/papers/a-polyphony-of-synthesizers-why-every-historian-of-canada-should-write-a-history-of-canada/afigure-2-chapters/" rel="attachment wp-att-7086"><img aria-describedby="caption-attachment-7086" data-attachment-id="7086" data-permalink="http://activehistory.ca/papers/a-polyphony-of-synthesizers-why-every-historian-of-canada-should-write-a-history-of-canada/afigure-2-chapters/" data-orig-file="http://activehistory.ca/wp-content/uploads/2012/01/aFigure-2-Chapters.jpg" data-orig-size="774,581" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;}" data-image-title="aFigure 2, Chapters" data-image-description="" data-medium-file="http://activehistory.ca/wp-content/uploads/2012/01/aFigure-2-Chapters-300x225.jpg" data-large-file="http://activehistory.ca/wp-content/uploads/2012/01/aFigure-2-Chapters.jpg" class="size-medium wp-image-7086" title="aFigure 2, Chapters" src="http://activehistory.ca/wp-content/uploads/2012/01/aFigure-2-Chapters-300x225.jpg" alt="" width="300" height="225" srcset="http://activehistory.ca/wp-content/uploads/2012/01/aFigure-2-Chapters-300x225.jpg 300w, http://activehistory.ca/wp-content/uploads/2012/01/aFigure-2-Chapters.jpg 774w" sizes="(max-width: 300px) 100vw, 300px" /></a><p id="caption-attachment-7086" class="wp-caption-text">Figure 2: Canadian history section of Chapters bookstore, North London, Ontario, May 2010.</p></div>
+<div id="attachment_7087" style="width: 310px" class="wp-caption aligncenter"><a href="http://activehistory.ca/papers/a-polyphony-of-synthesizers-why-every-historian-of-canada-should-write-a-history-of-canada/afigure-3-chapters-expunged/" rel="attachment wp-att-7087"><img aria-describedby="caption-attachment-7087" data-attachment-id="7087" data-permalink="http://activehistory.ca/papers/a-polyphony-of-synthesizers-why-every-historian-of-canada-should-write-a-history-of-canada/afigure-3-chapters-expunged/" data-orig-file="http://activehistory.ca/wp-content/uploads/2012/01/aFigure-3-Chapters-expunged.jpg" data-orig-size="773,581" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;}" data-image-title="aFigure 3, Chapters expunged" data-image-description="" data-medium-file="http://activehistory.ca/wp-content/uploads/2012/01/aFigure-3-Chapters-expunged-300x225.jpg" data-large-file="http://activehistory.ca/wp-content/uploads/2012/01/aFigure-3-Chapters-expunged.jpg" class="size-medium wp-image-7087" title="aFigure 3, Chapters expunged" src="http://activehistory.ca/wp-content/uploads/2012/01/aFigure-3-Chapters-expunged-300x225.jpg" alt="" width="300" height="225" srcset="http://activehistory.ca/wp-content/uploads/2012/01/aFigure-3-Chapters-expunged-300x225.jpg 300w, http://activehistory.ca/wp-content/uploads/2012/01/aFigure-3-Chapters-expunged.jpg 773w" sizes="(max-width: 300px) 100vw, 300px" /></a><p id="caption-attachment-7087" class="wp-caption-text">Figure 3: Canadian history section of Chapters bookstore, North London, Ontario, May 2010, with all the titles but those of living Canadian historians expunged.</p></div>
+<p>Turning to a visual articulation of Canada as it exists today may help begin to account for the disparity between Canadian historians’ productivity and influence. On Statistics Canada’s online population clock (Figure 4),<a title="" href="#_ftn4">[4]</a> the nation’s population is represented as an odometer, the numbers inexorably ticking upward. As of this writing, the odometer reads 34,639,156, climbing at the rate of about 1000 per day. Put another way, every two weeks the population of Canada in 2011 grows the entire population of New France in 1700. As historians we have not been inclined to look squarely at the vertiginous rise of the nation’s or the world’s population, precisely because it is so dizzying. Consider that the population of Canada in 2000 was larger than the population of Canada (or rather the geographical area that became Canada) in 1950 <em>plus</em> 1900 <em>plus</em> 1850 <em>plus</em> 1800 <em>plus</em> 1750 <em>plus</em> 1700 <em>plus</em> 1650 <em>plus</em> 1600 <em>plus</em> 1550 <em>plus</em> 1500.<a title="" href="#_ftn5">[5]</a> Does this suggest that a Canadian history survey taught in the year 2100 should dedicate as much time to the people of today as to those of the previous 500 years put together? Presumably not, because as teachers of such surveys today we do not dedicate as much time to 1950 as we do the 450 years before that, even though the 1950 population was as large as all those half-centuries put together, too.</p>
+<p>Historians should take the time to reflect on how we deal with the relationship between people, time, and history.<a title="" href="#_ftn6">[6]</a> On the one hand, even the most dyed-in-the-wool, history-from-the-bottom social historians are likely resistant to the notion that it can be a simple equation of more people equals more history.  If that were the case, since there were and are so few Canadians, why study Canadian history at all? If that were the case, why, when there were and are so relatively few Canadians, study Canadian history at all? In fact, with the human population rising so fast, why study the diminishing percentage of past humans, why study history at all? On the other hand, historians have been even more resistant to the notion that a simple equation of more time equals more history. In <em>On Deep History and the Brain</em>, Daniel Lord Smail notes that in the 19<sup>th</sup> century, while the historical sciences such as geology and biology were coming to grips with a much older Earth than had been previously imagined, history itself continued to concentrate on recent centuries by replacing a scale based on sacred history with one based on civilizations. In fact, historians have since focused even more on the most recent past.<a title="" href="#_ftn7">[7]</a></p>
+<p>In the absence of discussion, let alone consensus, historians have created our own fuzzy, unspoken, individual equations for deciding which peoples and times merit our study. It is hardly surprising that we have disproportionately studied societies that are more like ours (i.e., closer to home) in centuries more like ours (i.e., closer to now). In terms of Canadian history, this has resulted in a focus on the mid-late 19<sup>th</sup> to mid-late 20<sup>th</sup> century, a concentration that – besides largely excluding more recent immigrant groups and playing down First Nations’ experience of deep time in Northern North America – may be simultaneously just too remote for most Canadians and too recent for the more historically-minded. And with university history departments inclined to hire like-minded historians as colleagues, the results can be self-replicating. Perhaps that is why history departments, more so than the rest of universities, look demographically like 19<sup>th</sup> century Canada.  Six faculty members of my department, four of whom study Canada, have last names that start with “Mac” or “Mc.” We study what we resemble, and soon we resemble what we study. There are more Canadian historians producing more Canadian history than ever before, and a larger potential audience for that history in Canada and elsewhere than ever before.  Yet, we have failed to find that audience. In 1951, Arthur Lower asked, “What class of person has done more for Canadian culture in the last thirty years than the Canadian historian?” <a title="" href="#_ftn8">[8]</a> Would any Canadian historian say such a thing today?</p>
+<div id="attachment_7088" style="width: 310px" class="wp-caption aligncenter"><a href="http://activehistory.ca/papers/a-polyphony-of-synthesizers-why-every-historian-of-canada-should-write-a-history-of-canada/afigure-4-can-pop-clock/" rel="attachment wp-att-7088"><img aria-describedby="caption-attachment-7088" data-attachment-id="7088" data-permalink="http://activehistory.ca/papers/a-polyphony-of-synthesizers-why-every-historian-of-canada-should-write-a-history-of-canada/afigure-4-can-pop-clock/" data-orig-file="http://activehistory.ca/wp-content/uploads/2012/01/aFigure-4-Can-pop-clock.jpg" data-orig-size="782,732" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;}" data-image-title="aFigure 4, Can pop clock" data-image-description="" data-medium-file="http://activehistory.ca/wp-content/uploads/2012/01/aFigure-4-Can-pop-clock-300x280.jpg" data-large-file="http://activehistory.ca/wp-content/uploads/2012/01/aFigure-4-Can-pop-clock.jpg" class="size-medium wp-image-7088" title="aFigure 4, Can pop clock" src="http://activehistory.ca/wp-content/uploads/2012/01/aFigure-4-Can-pop-clock-300x280.jpg" alt="" width="300" height="280" srcset="http://activehistory.ca/wp-content/uploads/2012/01/aFigure-4-Can-pop-clock-300x280.jpg 300w, http://activehistory.ca/wp-content/uploads/2012/01/aFigure-4-Can-pop-clock.jpg 782w" sizes="(max-width: 300px) 100vw, 300px" /></a><p id="caption-attachment-7088" class="wp-caption-text">Figure 4: Canada&#39;s population clock, 6 December 2011.</p></div>
+<p>Which leads me, belatedly, to synthesis. Ruth Sandwell has suggested on this roundtable <a href="../papers/rsandwell/">[and in a subsequent paper on the website]</a> that Canadian historians should <em>teach</em> what they <em>do</em>. Yes, but imagine if we were also to <em>do</em> what we <em>teach</em>. Whereas the bulk of our research and writing is on a relatively small, discrete subset of Canadian history, in our survey courses we have no qualms about constructing – or borrowing? – a sweeping view of the entire field from the last ice age to the present. We produce for our students a vision of Canada that we rarely share with our readers and colleagues (who are too often the same people). Imagine if we were to spread our elbows more assertively and move our research and writing beyond the thin sliver of the recent past. If we were to run our histories further into the past, to respect the deep history of this country and to engage fully with the reality that the past lives on in more than just documentary traces. If we were to run our histories up to the present, so as to make their meaning and import more apparent to Canadians today. If we were to position our written work in terms of the broader corpus of Canadian history in the same way we have been taught to position it in terms of theory. The result would be the end of that very polite, very Canadian historical tradition of steering clear of topics on which others are working. Instead, there would be bigger projects, in terms of people and time, ones that would inevitably spill out over one another, that would force us to deal more often with each other’s work and raise the bar on our own. The goal would not be <em>a</em> national synthesis. The goal would be more and better dialogues with Canadians and with one another.</p>
+<p><em>Alan MacEachern is an associate professor of history at the University of Western Ontario.  He is also director of the Network in Canadian History and Environment (NiCHE).</em></p>
+<p>&nbsp;</p>
+<p><strong>Footnotes</strong></p>
+<div>
+<hr align="left" size="1" width="33%" />
+<div>
+<p><a href="#_ftn1">[1]</a> <a href="http://history.uwo.ca/faculty/maceachern/Little%20Essay%20on%20Big,%20MacEachern,%20RCC%20Perspectives,%20dec11.pdf">&#8220;A Little Essay on Big: Towards a History of Canada&#8217;s Size,&#8221;</a> in <em>Big Country, Big Issues: Canada&#8217;s Environment, Culture, and History</em>, a special issue of <em>Perspectives</em> 2011 no.4 (Munich: Rachel Carson Center, 2011).</p>
+</div>
+<div>
+<p><a title="" href="#_ftnref2">[2]</a> Canadian population figures are from Statistics Canada, <a href="http://statcan.gc.ca/cgi-bin/af-fdr.cgi?l=eng&amp;loc=A1-eng.csv">http://statcan.gc.ca/cgi-bin/af-fdr.cgi?l=eng&amp;loc=A1-eng.csv</a> &#8211; accessed 1 September 2010. World population figures are from the U.S. Census Bureau, <a href="http://www.census.gov/ipc/www/worldhis.html">http://www.census.gov/ipc/www/worldhis.html</a> &#8211; accessed 1 September 2010, and John H. McNeill, <em>Something New Under the Sun: An Environmental History of the Twentieth Century </em>(New York: W.W. Norton &amp; Co., 2000). The WorldCat figures were found by keyword searching “history” and “Canada + history” in the description of books of all languages each decade.  <a href="http://www.worldcat.org/advancedsearch">http://www.worldcat.org/advancedsearch</a> &#8211; accessed 20 May 2010. A separate search for “Canadian + history” resulted in smaller numbers but the same general trend, except for a shallower rise at the end of the century. Obviously, these WorldCat results are rather impressionistic. In another attempt to visualize Canadian history scholarship, I graphed the number and size of footnotes in the first volume each decade of the <em>Canadian Historical Review</em>. Whereas the number of notes grew, the real growth was in their average size, from less than two lines/note until the 1970s to almost four lines/note today. This certainly reflects changes in the practice of citation, but also the fact that there are many more relevant sources to cite.</p>
+</div>
+<div>
+<p><a title="" href="#_ftnref3">[3]</a> This includes not just professional historians but also those who, on their book jacket or website, prominently declare their historical training.</p>
+</div>
+<div>
+<p><a title="" href="#_ftnref4">[4]</a> Canada’s Population Clock, <a href="http://www.statcan.gc.ca/ig-gi/pop-ca-eng.htm">http://www.statcan.gc.ca/ig-gi/pop-ca-eng.htm</a> &#8211; accessed 6 December 2011. The “Projected number of births” vs. “Projected number of immigrants” odometers were not there in 2010.</p>
+</div>
+<div>
+<p><a title="" href="#_ftnref5">[5]</a> That assumes a figure of one million people for each pre-1800 date. That number may well be low for pre-European contact, when aboriginal populations are commonly estimated at 500,000 to two million, but is likely high for post-contact years, after those populations were decimated by disease and war.</p>
+</div>
+<div>
+<p><a title="" href="#_ftnref6">[6]</a> A stimulating recent examination of Canadian historians’ treatment of time is Michael Dawson and Catherine Gidney, “Persistence and Inheritance: Rethinking Periodisation and English Canada’s ‘Twentieth Century’,” <em>Contesting Clio’s Craft: New Directions and Debates in Canadian History</em>, Christopher Dummitt and Michael Dawson, eds. (London: Institute for the Study of the Americas, 2009), 47-74.</p>
+</div>
+<div>
+<p><a title="" href="#_ftnref7">[7]</a> Daniel Lord Smail, <em>On Deep History and the Brain</em> (Berkeley: University of California Press, 2008).</p>
+</div>
+<div>
+<p><a title="" href="#_ftnref8">[8]</a> A.R.M. Lower, review of <em>Royal Commission Studies: A Selection of Essays Prepared for the Royal Commission on National Development in the Arts, Letters and Sciences, </em>in <em>Canadian Historical Review</em> 32 (December 1951), 381-3, cited in Marlene Shore, <em>The Contested Past: Reading Canada’s History</em> (Toronto: University of Toronto Press, 2002), 19.</p>
+</div>
+</div>
+<div class="sharedaddy sd-sharing-enabled"><div class="robots-nocontent sd-block sd-social sd-social-official sd-sharing"><div class="sd-content"><ul><li class="share-facebook"><div class="fb-share-button" data-href="http://activehistory.ca/papers/a-polyphony-of-synthesizers-why-every-historian-of-canada-should-write-a-history-of-canada/" data-layout="button_count"></div></li><li class="share-twitter"><a href="https://twitter.com/share" class="twitter-share-button" data-url="http://activehistory.ca/papers/a-polyphony-of-synthesizers-why-every-historian-of-canada-should-write-a-history-of-canada/" data-text="A Polyphony of Synthesizers: Why Every Historian of Canada Should Write a History of Canada" data-via="ActiveHist" >Tweet</a></li><li class="share-email"><a rel="nofollow noopener noreferrer" data-shared="" class="share-email sd-button" href="http://activehistory.ca/papers/a-polyphony-of-synthesizers-why-every-historian-of-canada-should-write-a-history-of-canada/?share=email" target="_blank" title="Click to email this to a friend"><span>Email</span></a></li><li class="share-end"></li></ul></div></div></div>					</div><!-- .entry-content -->
+
+		<footer class="entry-meta">
+					</footer><!-- .entry-meta -->
+
+	</article><!-- #post -->				
+<div id="comments" class="comments-area">
+
+				<div class="zg-wrapper-widget-area">
+			<div id="text-445942440" class="widget widget_text">			<div class="textwidget"><p><a href="http://creativecommons.org/licenses/by-nd/4.0/" rel="license"><img style="border-width: 0;" src="https://i.creativecommons.org/l/by-nd/4.0/80x15.png" alt="Creative Commons Licence" /></a><br />
+This work is licensed under a <a href="http://creativecommons.org/licenses/by-nd/4.0/" rel="license">Creative Commons Attribution-NoDerivatives 4.0 International License</a>. Blog posts published before October  28, 2018 are licensed with a Creative Commons Attribution-NonCommercial-ShareAlike 2.5 Canada License.</p>
+</div>
+		</div>		</div>
+    	
+			<h2 class="comments-title">
+			3 thoughts on &ldquo;<span>A Polyphony of Synthesizers: Why Every Historian of Canada Should Write a History of Canada</span>&rdquo;		</h2>
+
+		<ol class="commentlist">
+				<li class="pingback even thread-even depth-1" id="comment-18748">
+		<p>Pingback: <a href='http://activehistory.ca/2012/01/6995/' rel='external nofollow ugc' class='url'>New Paper: Alan MacEachern's "A Polyphony of Synthesizers: Why Every Historian of Canada Should Write a History of Canada" | ActiveHistory.ca</a> </p>
+	</li><!-- #comment-## -->
+	<li class="comment odd alt thread-odd thread-alt depth-1" id="li-comment-28078">
+		<article id="comment-28078" class="comment">
+			<header class="comment-meta comment-author vcard">
+				<img alt='' src='http://1.gravatar.com/avatar/d280ade2cf30bc91bb3cce0011d13a4f?s=44&#038;d=mm&#038;r=g' srcset='http://1.gravatar.com/avatar/d280ade2cf30bc91bb3cce0011d13a4f?s=88&#038;d=mm&#038;r=g 2x' class='avatar avatar-44 photo' height='44' width='44' /><cite><b class="fn">Sue Baker</b> </cite><a href="http://activehistory.ca/papers/a-polyphony-of-synthesizers-why-every-historian-of-canada-should-write-a-history-of-canada/#comment-28078"><time datetime="2012-05-13T12:04:23-04:00">May 13, 2012 at 12:04 pm</time></a>			</header><!-- .comment-meta -->
+
+			
+			<section class="comment-content comment">
+				<p>I enjoyed reading this article.  Though I am not an historian I do have a couple of questions due to limited knowledge about history and its value.</p>
+<p>Are not most people drawn to topics by their own past experience &#8211; hence why most historians of Canadian history are Canadians?<br />
+Are there non-Canadian working as Canadian historians?<br />
+Is your article simply trying to enlist Canadian historians to publish?<br />
+Do you think what lines a Chapter&#8217;s book store the real story about Canadian historian publications?  What about libraries?<br />
+Why look back more than 300 years?  What will that history tell us about today?  Would the findings be relevant now in the information age where social and  cultural lives would seem to me to be unrecognizable?<br />
+Just wondering and look forward to your responses.<br />
+Sue Baker</p>
+							</section><!-- .comment-content -->
+
+			<div class="reply">
+							</div><!-- .reply -->
+		</article><!-- #comment-## -->
+	</li><!-- #comment-## -->
+	<li class="comment even thread-even depth-1" id="li-comment-28467">
+		<article id="comment-28467" class="comment">
+			<header class="comment-meta comment-author vcard">
+				<img alt='' src='http://0.gravatar.com/avatar/9b4860177ecf64ea2e1f99d41967cc63?s=44&#038;d=mm&#038;r=g' srcset='http://0.gravatar.com/avatar/9b4860177ecf64ea2e1f99d41967cc63?s=88&#038;d=mm&#038;r=g 2x' class='avatar avatar-44 photo' height='44' width='44' /><cite><b class="fn"><a href='http://niche-canada.org' rel='external nofollow ugc' class='url'>Alan MacEachern</a></b> </cite><a href="http://activehistory.ca/papers/a-polyphony-of-synthesizers-why-every-historian-of-canada-should-write-a-history-of-canada/#comment-28467"><time datetime="2012-06-01T14:08:04-04:00">June 1, 2012 at 2:08 pm</time></a>			</header><!-- .comment-meta -->
+
+			
+			<section class="comment-content comment">
+				<p>Hi Sue.<br />
+I&#8217;m glad you enjoyed the article.<br />
+Here&#8217;s my answers:<br />
+-Yes, most historians of Canada are Canadian, drawn to topics by their own past experience, including having the previous generation of Canadian history teachers teaching them.<br />
+-Yes, there are some non-Canadians working as Canadian historians (&amp; many Canadian &amp; non-Canadian historians who touch on Canadian history in their non-Canadian work, &amp; so improve our understanding of it.)<br />
+-NO! I&#8217;m not enlisting Canadian historians to publish more. (I tend to think we should publish less, but that&#8217;s another story.) Instead, I&#8217;m enlisting (encouraging? entreating?) them to to write an all-of-Canada, all-of-time Canadian history at least once in their career. I&#8217;m arguing that that will a) help them better understand Canada, b) force them to &#8220;come clean&#8221; beyond the classroom as to what they believe about Canada&#8217;s history, c) result in more &amp; spirited &amp; better conversations between Canadian historians, because their work will be more often bumping against each others, and d) ultimately be more relevant &amp; interesting to Canadians today, because by necessity connections will have been made between the deep past &amp; the present, &amp; between all parts of the country.<br />
+-To me, Chapters seems a good barometer of the state of Canadian history publishing because the owned-under-one-roof Indigo/Chapters/Coles/SmithBooks together controls so much of the national bookselling market. Public libraries are different, true, but then again they buy mostly the same books as those available at Chapters.  (The 2011-12 Canada history purchases of my local library&#8217;s central branch bear this out, I think: <a href="http://encore.londonpubliclibrary.ca/iii/encore/search/C__Sd%3A%28canada+history%29+b%3Ace+y%3A%5B2011-2012%5D__Orightresult__U1?lang=eng&#038;suite=cobalt" rel="nofollow ugc">http://encore.londonpubliclibrary.ca/iii/encore/search/C__Sd%3A%28canada+history%29+b%3Ace+y%3A%5B2011-2012%5D__Orightresult__U1?lang=eng&#038;suite=cobalt</a> ) There are of course some historians publishing Canadian history who make it into Chapters, but most of that section is dominated by non-historians. That, coupled with the WorldCat stats (Figure 1), suggest that it&#8217;s not a case of Canadian historians not publishing (many to academic &amp; small presses, perhaps) &#8230;it&#8217;s of Canadian historians not selling.<br />
+-Your last questions are fantastic, they&#8217;re exactly the questions I think historians are going to have to grapple with. You cite the information age, whereas I cite population, but we&#8217;re each saying that things are so fundamentally different now than they were 50, 100, 300 years ago that it calls into question the relevance of all but the most recent history. Here are just 2 top-of-the-head defenses of more distant history:<br />
+*I study environmental history / historical geography, &amp; think there&#8217;s still lots relevant from the more distant past, &amp; lots that I can convince Canadians is relevant.  Everything from changing ideas of geography (how has our understanding of Canada changed because it&#8217;s taken us months&gt;weeks&gt;days&gt;hours to cross its physical space?) to changing environment itself (despite a warmer 20th century, trees haven&#8217;t moved north as they had in earlier warm centuries, because we&#8217;ve reduced the number of wildlife that help disperse them).<br />
+*We can&#8217;t be satisfied with understandings of the more distant past anymore because of the very thing you mention: the  information age. Digital technologies are helping unearth, search, evaluate, and present new historical sources. It&#8217;s exciting, it&#8217;s fun, &amp; I think the public (publics) will feel the same way, &amp; so will learn new &amp; different things about the more distant past.<br />
+All the best,<br />
+Alan</p>
+							</section><!-- .comment-content -->
+
+			<div class="reply">
+							</div><!-- .reply -->
+		</article><!-- #comment-## -->
+	</li><!-- #comment-## -->
+		</ol><!-- .commentlist -->
+
+		
+		
+		
+		
+	<div class="wrapper-form-comments">
+	
+		<div id="respond" class="comment-respond">
+							<h3 id="reply-title" class="comment-reply-title">Please note: ActiveHistory.ca encourages comment and constructive discussion of our articles. We reserve the right to delete comments submitted under aliases, or that contain spam, harassment, or attacks on an individual.					<small><a rel="nofollow" id="cancel-comment-reply-link" href="/papers/a-polyphony-of-synthesizers-why-every-historian-of-canada-should-write-a-history-of-canada/?shared=email&amp;msg=fail#respond" style="display:none;">Cancel reply</a></small>
+				</h3>
+						<form id="commentform" class="comment-form">
+				<iframe title="Comment Form" src="https://jetpack.wordpress.com/jetpack-comment/?blogid=42146343&#038;postid=6965&#038;comment_registration=0&#038;require_name_email=1&#038;stc_enabled=1&#038;stb_enabled=1&#038;show_avatars=1&#038;avatar_default=mystery&#038;greeting=Please+note%3A+ActiveHistory.ca+encourages+comment+and+constructive+discussion+of+our+articles.+We+reserve+the+right+to+delete+comments+submitted+under+aliases%2C+or+that+contain+spam%2C+harassment%2C+or+attacks+on+an+individual.&#038;greeting_reply=Leave+a+Reply+to+%25s&#038;color_scheme=light&#038;lang=en_CA&#038;jetpack_version=8.6.1&#038;show_cookie_consent=10&#038;has_cookie_consent=0&#038;token_key=%3Bnormal%3B&#038;sig=f0af1f37001562d23463fe52341726ffb589853a#parent=http%3A%2F%2Factivehistory.ca%2Fpapers%2Fa-polyphony-of-synthesizers-why-every-historian-of-canada-should-write-a-history-of-canada%2F%3Fshared%3Demail%26msg%3Dfail" style="width:100%; height: 430px; border:0;" name="jetpack_remote_comment" class="jetpack_remote_comment" id="jetpack_remote_comment" sandbox="allow-same-origin allow-top-navigation allow-scripts allow-forms allow-popups"></iframe>
+									<!--[if !IE]><!-->
+					<script>
+						document.addEventListener('DOMContentLoaded', function () {
+							var commentForms = document.getElementsByClassName('jetpack_remote_comment');
+							for (var i = 0; i < commentForms.length; i++) {
+								commentForms[i].allowTransparency = false;
+								commentForms[i].scrolling = 'no';
+							}
+						});
+					</script>
+					<!--<![endif]-->
+							</form>
+		</div>
+
+		
+		<input type="hidden" name="comment_parent" id="comment_parent" value="" />
+
+			</div>
+
+</div><!-- #comments .comments-area -->			
+		</div><!-- #content -->
+	</div><!-- #primary -->
+
+
+			<div id="secondary" class="widget-area" role="complementary">
+			<aside id="search-2" class="widget widget_search">	<div class="wrapper-search-form">
+		<form method="get" id="searchform" action="http://activehistory.ca/">
+			<label for="s" class="assistive-text">Search</label>
+			<input type="search" class="txt-search" placeholder="Search..." name="s" id="s" />
+			<input type="submit" name="submit" id="btn-search-n" value="Search" />
+		</form>
+    </div></aside><aside id="text-445942422" class="widget widget_text"><h3 class="widget-title"><span class="prefix-widget-title"><i class="fa fa-th-large"></i></span> What is Active History?</h3>			<div class="textwidget"><p>ActiveHistory.ca is a website that connects the work of historians with the wider public and the importance of the past to current events.</p>
+<p>Please direct queries to Daniel Ross, Public Outreach Coordinator, via <a href="info@activehistory.ca">info@activehistory.ca</a>.</p>
+<p>For author guidelines, <a href="https://wp.me/P2QQbJ-32">click here</a>.</p>
+<p>Visitez notre partenaire francophone, <a href="http://histoireengagee.ca/"> HistoireEngagée.ca</a></p>
+</div>
+		</aside><aside id="text-445942433" class="widget widget_text"><h3 class="widget-title"><span class="prefix-widget-title"><i class="fa fa-th-large"></i></span> Ongoing Projects</h3>			<div class="textwidget"><ul>
+<li><b><a href="http://activehistory.ca/papers/beyond-the-lecture-series-list/">Beyond the Lecture</a></b></li>
+<li><b><a href="http://activehistory.ca/papers/canadas-first-world-war-a-centennial-series-on-activehistory-ca/">Canada's First World War</a></b></li>
+<li><b><a href="http://activehistory.ca/papers/from-juno-to-victory/">From Juno to Victory</a></b></li>
+<li><b><a href="http://activehistory.ca/podcasts/">History Slam Podcast</a></b></li>
+<li><b><a href="http://activehistory.ca/publications/">Open-Access Ebooks</a></b></li>
+<li><b><a href="http://activehistory.ca/remember-i-resist-i-redraw/">Remember/Resist/Redraw</a></b></li>
+</ul>
+
+</div>
+		</aside><aside id="twitter_timeline-3" class="widget widget_twitter_timeline"><h3 class="widget-title"><span class="prefix-widget-title"><i class="fa fa-th-large"></i></span> Twitter</h3><a class="twitter-timeline" data-theme="light" data-border-color="#e8e8e8" data-tweet-limit="3" data-lang="EN" data-partner="jetpack" data-chrome="noheader" href="https://twitter.com/ActiveHist" href="https://twitter.com/ActiveHist">My Tweets</a></aside><aside id="blog_subscription-3" class="widget widget_blog_subscription jetpack_subscription_widget"><h3 class="widget-title"><span class="prefix-widget-title"><i class="fa fa-th-large"></i></span> Subscribe via email</h3>
+            <form action="#" method="post" accept-charset="utf-8" id="subscribe-blog-blog_subscription-3">
+				                    <p id="subscribe-email">
+                        <label id="jetpack-subscribe-label"
+                               class="screen-reader-text"
+                               for="subscribe-field-blog_subscription-3">
+							Email Address                        </label>
+                        <input type="email" name="email" required="required"
+                        			                                                value=""
+                            id="subscribe-field-blog_subscription-3"
+                            placeholder="Email Address"
+                        />
+                    </p>
+
+                    <p id="subscribe-submit">
+                        <input type="hidden" name="action" value="subscribe"/>
+                        <input type="hidden" name="source" value="http://activehistory.ca/papers/a-polyphony-of-synthesizers-why-every-historian-of-canada-should-write-a-history-of-canada/?shared=email&#038;msg=fail"/>
+                        <input type="hidden" name="sub-type" value="widget"/>
+                        <input type="hidden" name="redirect_fragment" value="blog_subscription-3"/>
+						                        <button type="submit"
+	                        		                    	                        name="jetpack_subscriptions_widget"
+	                    >
+	                        Subscribe                        </button>
+                    </p>
+				            </form>
+		
+</aside>		</div><!-- #secondary -->
+		</div><!-- #main .wrapper -->
+	</div><!-- #page -->
+		<footer>
+	<div style="background-color:#444444;">
+		<div class="wrapper-widget-area-footer">
+			<div class="widget-area-footer">
+				<div id="text-445942435" class="widget widget_text">			<div class="textwidget">ActiveHistory.ca is supported financially and administratively by the <a href="http://artsandscience.usask.ca/history/">History Department at the University of Saskatchewan</a> and <a href="http://www.huronuc.on.ca/Home">Huron University College</a>. <a href="https://calicologic.com/">Calico Logic</a> provides technical support.</div>
+		</div>			</div>
+			
+			<div class="widget-area-footer">
+				<div id="text-445942437" class="widget widget_text">			<div class="textwidget"><img src="http://activehistory.ca/wp-content/uploads/2017/02/usask_ArtsScience_History_black_reverse.png"/></div>
+		</div>			</div>
+			
+			<div class="widget-area-footer">
+				<div id="text-445942439" class="widget widget_text">			<div class="textwidget"><img src="http://activehistory.ca/wp-content/uploads/2017/02/huronuc_horiz_rgb_black_reverse_720.png"/></div>
+		</div>			</div>
+		</div>
+	</div>
+	</footer>
+		<hr class="hr-oscura" />
+	<footer id="colophon" role="contentinfo">
+	<div class="social-icon-wrapper">
+							<a href="https://twitter.com/activehist" title="Twitter" target="_blank"><i class="fa fa-twitter"></i></a> 
+						
+							<a href="https://www.facebook.com/ActiveHist/" title="Facebook" target="_blank"><i class="fa fa-facebook"></i></a>
+						
+						
+						
+					 		<a href="https://www.youtube.com/user/activehistoryca" title="YouTube" target="_blank"><i class="fa fa-youtube"></i></a>
+						
+						
+						
+							<a class="rss" href="http://feeds.feedburner.com/activehistoryca" title="Feed RSS" target="_blank"><i class="fa fa-rss"></i></a>			
+					</div><!-- .social-icon-wrapper -->
+		<hr class="hr-oscura" />
+		<div class="site-info">
+			<div class="credits-left"></div>
+			<div class="credits-center"><a rel="license" href="http://creativecommons.org/licenses/by-nd/4.0/"><img alt="Creative Commons Licence" style="border-width:0" src="https://i.creativecommons.org/l/by-nd/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nd/4.0/">Creative Commons Attribution-NoDerivatives 4.0 International License</a>.
+Blog posts published before October 28, 2018 are licensed with a Creative Commons Attribution-NonCommercial-ShareAlike 2.5 Canada License.</div>
+			<div class="credits-right"></div>
+		</div><!-- .site-info -->
+		
+			</footer><!-- #colophon -->
+
+			<div class="ir-arriba"><i class="fa fa-chevron-up"></i></div>
+		<div style="display:none">
+	<div class="grofile-hash-map-d280ade2cf30bc91bb3cce0011d13a4f">
+	</div>
+	<div class="grofile-hash-map-9b4860177ecf64ea2e1f99d41967cc63">
+	</div>
+	</div>
+<script>
+    jQuery(document).ready(function () {
+		jQuery.post('http://activehistory.ca?ga_action=googleanalytics_get_script', {action: 'googleanalytics_get_script'}, function(response) {
+			var s = document.createElement("script");
+			s.type = "text/javascript";
+			s.innerHTML = response;
+			jQuery("head").append(s);
+		});
+    });
+</script><div id="fb-root"></div>
+			<script>(function(d, s, id) { var js, fjs = d.getElementsByTagName(s)[0]; if (d.getElementById(id)) return; js = d.createElement(s); js.id = id; js.src = 'https://connect.facebook.net/en_CA/sdk.js#xfbml=1&appId=249643311490&version=v2.3'; fjs.parentNode.insertBefore(js, fjs); }(document, 'script', 'facebook-jssdk'));</script>
+			<script>
+			jQuery( document.body ).on( 'post-load', function() {
+				if ( 'undefined' !== typeof FB ) {
+					FB.XFBML.parse();
+				}
+			} );
+			</script>
+						<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+'://platform.twitter.com/widgets.js';fjs.parentNode.insertBefore(js,fjs);}}(document, 'script', 'twitter-wjs');</script>
+				<div id="sharing_email" style="display: none;">
+		<form action="/papers/a-polyphony-of-synthesizers-why-every-historian-of-canada-should-write-a-history-of-canada/?shared=email&#038;msg=fail" method="post">
+			<label for="target_email">Send to Email Address</label>
+			<input type="email" name="target_email" id="target_email" value="" />
+
+			
+				<label for="source_name">Your Name</label>
+				<input type="text" name="source_name" id="source_name" value="" />
+
+				<label for="source_email">Your Email Address</label>
+				<input type="email" name="source_email" id="source_email" value="" />
+
+						<input type="text" id="jetpack-source_f_name" name="source_f_name" class="input" value="" size="25" autocomplete="off" title="This field is for validation and should not be changed" />
+			
+			<img style="float: right; display: none" class="loading" src="http://activehistory.ca/wp-content/plugins/jetpack/modules/sharedaddy/images/loading.gif" alt="loading" width="16" height="16" />
+			<input type="submit" value="Send Email" class="sharing_send" />
+			<a rel="nofollow" href="#cancel" class="sharing_cancel" role="button">Cancel</a>
+
+			<div class="errors errors-1" style="display: none;">
+				Post was not sent - check your email addresses!			</div>
+
+			<div class="errors errors-2" style="display: none;">
+				Email check failed, please try again			</div>
+
+			<div class="errors errors-3" style="display: none;">
+				Sorry, your blog cannot share posts by email.			</div>
+		</form>
+	</div>
+<script type='text/javascript' src='https://secure.gravatar.com/js/gprofiles.js?ver=202025'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var WPGroHo = {"my_hash":""};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://activehistory.ca/wp-content/plugins/jetpack/modules/wpgroho.js?ver=5.4.2'></script>
+<script type='text/javascript' src='http://activehistory.ca/wp-content/themes/rubbersoul-pro/js/navigation.js?ver=20140711'></script>
+<script type='text/javascript' src='http://activehistory.ca/wp-content/themes/rubbersoul-pro/js/slider-recent-posts-fp.js?ver=2.6.4'></script>
+<script type='text/javascript' src='http://activehistory.ca/wp-content/themes/rubbersoul-pro/js/rsoul-pro-toggle-search.js?ver=2.6.4'></script>
+<script type='text/javascript' src='http://activehistory.ca/wp-content/plugins/jetpack/_inc/build/twitter-timeline.min.js?ver=4.0.0'></script>
+<script type='text/javascript' src='http://activehistory.ca/wp-includes/js/wp-embed.min.js?ver=5.4.2'></script>
+<script type='text/javascript' src='http://activehistory.ca/wp-content/plugins/jetpack/_inc/build/spin.min.js?ver=1.3'></script>
+<script type='text/javascript' src='http://activehistory.ca/wp-content/plugins/jetpack/_inc/build/jquery.spin.min.js?ver=1.3'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var jetpackCarouselStrings = {"widths":[370,700,1000,1200,1400,2000],"is_logged_in":"","lang":"en","ajaxurl":"http:\/\/activehistory.ca\/wp-admin\/admin-ajax.php","nonce":"5e88d0d860","display_exif":"1","display_comments":"1","display_geo":"1","single_image_gallery":"1","single_image_gallery_media_file":"","background_color":"black","comment":"Comment","post_comment":"Post Comment","write_comment":"Write a Comment...","loading_comments":"Loading Comments...","download_original":"View full size <span class=\"photo-size\">{0}<span class=\"photo-size-times\">\u00d7<\/span>{1}<\/span>","no_comment_text":"Please be sure to submit some text with your comment.","no_comment_email":"Please provide an email address to comment.","no_comment_author":"Please provide your name to comment.","comment_post_error":"Sorry, but there was an error posting your comment. Please try again later.","comment_approved":"Your comment was approved.","comment_unapproved":"Your comment is in moderation.","camera":"Camera","aperture":"Aperture","shutter_speed":"Shutter Speed","focal_length":"Focal Length","copyright":"Copyright","comment_registration":"0","require_name_email":"1","login_url":"http:\/\/activehistory.ca\/wp-login.php?redirect_to=http%3A%2F%2Factivehistory.ca%2Fpapers%2Fa-polyphony-of-synthesizers-why-every-historian-of-canada-should-write-a-history-of-canada%2F","blog_id":"1","meta_data":["camera","aperture","shutter_speed","focal_length","copyright"],"local_comments_commenting_as":"<fieldset><label for=\"email\">Email (Required)<\/label> <input type=\"text\" name=\"email\" class=\"jp-carousel-comment-form-field jp-carousel-comment-form-text-field\" id=\"jp-carousel-comment-form-email-field\" \/><\/fieldset><fieldset><label for=\"author\">Name (Required)<\/label> <input type=\"text\" name=\"author\" class=\"jp-carousel-comment-form-field jp-carousel-comment-form-text-field\" id=\"jp-carousel-comment-form-author-field\" \/><\/fieldset><fieldset><label for=\"url\">Website<\/label> <input type=\"text\" name=\"url\" class=\"jp-carousel-comment-form-field jp-carousel-comment-form-text-field\" id=\"jp-carousel-comment-form-url-field\" \/><\/fieldset>"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://activehistory.ca/wp-content/plugins/jetpack/_inc/build/carousel/jetpack-carousel.min.js?ver=20190102'></script>
+<script async="async" type='text/javascript' src='http://activehistory.ca/wp-content/plugins/akismet/_inc/form.js?ver=4.1.6'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var sharing_js_options = {"lang":"en","counts":"1","is_stats_active":"1"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://activehistory.ca/wp-content/plugins/jetpack/_inc/build/sharedaddy/sharing.min.js?ver=8.6.1'></script>
+<script type='text/javascript'>
+var windowOpen;
+			jQuery( document.body ).on( 'click', 'a.share-facebook', function() {
+				// If there's another sharing window open, close it.
+				if ( 'undefined' !== typeof windowOpen ) {
+					windowOpen.close();
+				}
+				windowOpen = window.open( jQuery( this ).attr( 'href' ), 'wpcomfacebook', 'menubar=1,resizable=1,width=600,height=400' );
+				return false;
+			});
+</script>
+
+		<!--[if IE]>
+		<script type="text/javascript">
+			if ( 0 === window.location.hash.indexOf( '#comment-' ) ) {
+				// window.location.reload() doesn't respect the Hash in IE
+				window.location.hash = window.location.hash;
+			}
+		</script>
+		<![endif]-->
+		<script type="text/javascript">
+			(function () {
+				var comm_par_el = document.getElementById( 'comment_parent' ),
+					comm_par = ( comm_par_el && comm_par_el.value ) ? comm_par_el.value : '',
+					frame = document.getElementById( 'jetpack_remote_comment' ),
+					tellFrameNewParent;
+
+				tellFrameNewParent = function () {
+					if ( comm_par ) {
+						frame.src = "https://jetpack.wordpress.com/jetpack-comment/?blogid=42146343&postid=6965&comment_registration=0&require_name_email=1&stc_enabled=1&stb_enabled=1&show_avatars=1&avatar_default=mystery&greeting=Please+note%3A+ActiveHistory.ca+encourages+comment+and+constructive+discussion+of+our+articles.+We+reserve+the+right+to+delete+comments+submitted+under+aliases%2C+or+that+contain+spam%2C+harassment%2C+or+attacks+on+an+individual.&greeting_reply=Leave+a+Reply+to+%25s&color_scheme=light&lang=en_CA&jetpack_version=8.6.1&show_cookie_consent=10&has_cookie_consent=0&token_key=%3Bnormal%3B&sig=f0af1f37001562d23463fe52341726ffb589853a#parent=http%3A%2F%2Factivehistory.ca%2Fpapers%2Fa-polyphony-of-synthesizers-why-every-historian-of-canada-should-write-a-history-of-canada%2F%3Fshared%3Demail%26msg%3Dfail" + '&replytocom=' + parseInt( comm_par, 10 ).toString();
+					} else {
+						frame.src = "https://jetpack.wordpress.com/jetpack-comment/?blogid=42146343&postid=6965&comment_registration=0&require_name_email=1&stc_enabled=1&stb_enabled=1&show_avatars=1&avatar_default=mystery&greeting=Please+note%3A+ActiveHistory.ca+encourages+comment+and+constructive+discussion+of+our+articles.+We+reserve+the+right+to+delete+comments+submitted+under+aliases%2C+or+that+contain+spam%2C+harassment%2C+or+attacks+on+an+individual.&greeting_reply=Leave+a+Reply+to+%25s&color_scheme=light&lang=en_CA&jetpack_version=8.6.1&show_cookie_consent=10&has_cookie_consent=0&token_key=%3Bnormal%3B&sig=f0af1f37001562d23463fe52341726ffb589853a#parent=http%3A%2F%2Factivehistory.ca%2Fpapers%2Fa-polyphony-of-synthesizers-why-every-historian-of-canada-should-write-a-history-of-canada%2F%3Fshared%3Demail%26msg%3Dfail";
+					}
+				};
+
+				
+				// Do the post message bit after the dom has loaded.
+				document.addEventListener( 'DOMContentLoaded', function () {
+					var iframe_url = "https:\/\/jetpack.wordpress.com";
+					if ( window.postMessage ) {
+						if ( document.addEventListener ) {
+							window.addEventListener( 'message', function ( event ) {
+								var origin = event.origin.replace( /^http:\/\//i, 'https://' );
+								if ( iframe_url.replace( /^http:\/\//i, 'https://' ) !== origin ) {
+									return;
+								}
+								jQuery( frame ).height( event.data );
+							});
+						} else if ( document.attachEvent ) {
+							window.attachEvent( 'message', function ( event ) {
+								var origin = event.origin.replace( /^http:\/\//i, 'https://' );
+								if ( iframe_url.replace( /^http:\/\//i, 'https://' ) !== origin ) {
+									return;
+								}
+								jQuery( frame ).height( event.data );
+							});
+						}
+					}
+				})
+
+			})();
+		</script>
+
+		<script type='text/javascript' src='https://stats.wp.com/e-202025.js' async='async' defer='defer'></script>
+<script type='text/javascript'>
+	_stq = window._stq || [];
+	_stq.push([ 'view', {v:'ext',j:'1:8.6.1',blog:'42146343',post:'6965',tz:'-4',srv:'activehistory.ca'} ]);
+	_stq.push([ 'clickTrackerInit', '42146343', '6965' ]);
+</script>
+			
+</body>
+</html>

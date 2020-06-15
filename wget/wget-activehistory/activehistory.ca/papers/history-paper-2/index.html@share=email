@@ -1,0 +1,748 @@
+<!DOCTYPE html>
+<!--[if IE 7]>
+<html class="ie ie7" lang="en-CA">
+<![endif]-->
+<!--[if IE 8]>
+<html class="ie ie8" lang="en-CA">
+<![endif]-->
+<!--[if !(IE 7) & !(IE 8)]><!-->
+<html lang="en-CA">
+<!--<![endif]-->
+<head>
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width" />
+<link rel="profile" href="http://gmpg.org/xfn/11" />
+<link rel="pingback" href="http://activehistory.ca/xmlrpc.php" />
+<!--[if lt IE 9]>
+<script src="http://activehistory.ca/wp-content/themes/rubbersoul-pro/js/html5.js" type="text/javascript"></script>
+<![endif]-->
+<title>The Berlin Wall: Life, Death and the Spatial Heritage of Berlin &#8211; Active History</title>
+<link rel='dns-prefetch' href='//secure.gravatar.com' />
+<link rel='dns-prefetch' href='//platform-api.sharethis.com' />
+<link rel='dns-prefetch' href='//fonts.googleapis.com' />
+<link rel='dns-prefetch' href='//s.w.org' />
+		<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/12.0.0-1\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/12.0.0-1\/svg\/","svgExt":".svg","source":{"concatemoji":"http:\/\/activehistory.ca\/wp-includes\/js\/wp-emoji-release.min.js?ver=5.4.2"}};
+			/*! This file is auto-generated */
+			!function(e,a,t){var r,n,o,i,p=a.createElement("canvas"),s=p.getContext&&p.getContext("2d");function c(e,t){var a=String.fromCharCode;s.clearRect(0,0,p.width,p.height),s.fillText(a.apply(this,e),0,0);var r=p.toDataURL();return s.clearRect(0,0,p.width,p.height),s.fillText(a.apply(this,t),0,0),r===p.toDataURL()}function l(e){if(!s||!s.fillText)return!1;switch(s.textBaseline="top",s.font="600 32px Arial",e){case"flag":return!c([127987,65039,8205,9895,65039],[127987,65039,8203,9895,65039])&&(!c([55356,56826,55356,56819],[55356,56826,8203,55356,56819])&&!c([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]));case"emoji":return!c([55357,56424,55356,57342,8205,55358,56605,8205,55357,56424,55356,57340],[55357,56424,55356,57342,8203,55358,56605,8203,55357,56424,55356,57340])}return!1}function d(e){var t=a.createElement("script");t.src=e,t.defer=t.type="text/javascript",a.getElementsByTagName("head")[0].appendChild(t)}for(i=Array("flag","emoji"),t.supports={everything:!0,everythingExceptFlag:!0},o=0;o<i.length;o++)t.supports[i[o]]=l(i[o]),t.supports.everything=t.supports.everything&&t.supports[i[o]],"flag"!==i[o]&&(t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&t.supports[i[o]]);t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&!t.supports.flag,t.DOMReady=!1,t.readyCallback=function(){t.DOMReady=!0},t.supports.everything||(n=function(){t.readyCallback()},a.addEventListener?(a.addEventListener("DOMContentLoaded",n,!1),e.addEventListener("load",n,!1)):(e.attachEvent("onload",n),a.attachEvent("onreadystatechange",function(){"complete"===a.readyState&&t.readyCallback()})),(r=t.source||{}).concatemoji?d(r.concatemoji):r.wpemoji&&r.twemoji&&(d(r.twemoji),d(r.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+		<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+	<link rel='stylesheet' id='wp-block-library-css'  href='http://activehistory.ca/wp-includes/css/dist/block-library/style.min.css?ver=5.4.2' type='text/css' media='all' />
+<style id='wp-block-library-inline-css' type='text/css'>
+.has-text-align-justify{text-align:justify;}
+</style>
+<link rel='stylesheet' id='dashicons-css'  href='http://activehistory.ca/wp-includes/css/dashicons.min.css?ver=5.4.2' type='text/css' media='all' />
+<link rel='stylesheet' id='rubbersoul-pro-fonts-css'  href='https://fonts.googleapis.com/css?family=Noto+Sans:400italic,700italic,400,700&#038;subset=latin,latin-ext' type='text/css' media='all' />
+<link rel='stylesheet' id='rubbersoul-pro-style-css'  href='http://activehistory.ca/wp-content/themes/rubbersoul-pro/style.css?ver=2.6.4' type='text/css' media='all' />
+<link rel='stylesheet' id='custom-style-css'  href='http://activehistory.ca/wp-content/themes/rubbersoul-pro/custom-style.css?ver=5.4.2' type='text/css' media='all' />
+<link rel='stylesheet' id='rsoul-pro-widgets-style-css'  href='http://activehistory.ca/wp-content/themes/rubbersoul-pro/css/rsoul-widgets-style.css?ver=2.6.4' type='text/css' media='all' />
+<link rel='stylesheet' id='font-awesome-css'  href='http://activehistory.ca/wp-content/themes/rubbersoul-pro/css/font-awesome-4.7.0/css/font-awesome.min.css?ver=5.4.2' type='text/css' media='all' />
+<link rel='stylesheet' id='rsoul-pro-slider-recent-posts-style-css'  href='http://activehistory.ca/wp-content/themes/rubbersoul-pro/css/slider-recent-posts-fp.css?ver=2.6.4' type='text/css' media='all' />
+<!--[if lt IE 9]>
+<link rel='stylesheet' id='rubbersoul-pro-ie-css'  href='http://activehistory.ca/wp-content/themes/rubbersoul-pro/css/ie.css?ver=20121010' type='text/css' media='all' />
+<![endif]-->
+<link rel='stylesheet' id='social-logos-css'  href='http://activehistory.ca/wp-content/plugins/jetpack/_inc/social-logos/social-logos.min.css?ver=8.6.1' type='text/css' media='all' />
+<link rel='stylesheet' id='jetpack_css-css'  href='http://activehistory.ca/wp-content/plugins/jetpack/css/jetpack.css?ver=8.6.1' type='text/css' media='all' />
+<script type='text/javascript' src='http://activehistory.ca/wp-includes/js/jquery/jquery.js?ver=1.12.4-wp'></script>
+<script type='text/javascript' src='http://activehistory.ca/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.4.1'></script>
+<script type='text/javascript' src='//platform-api.sharethis.com/js/sharethis.js#product=ga'></script>
+<link rel='https://api.w.org/' href='http://activehistory.ca/wp-json/' />
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://activehistory.ca/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://activehistory.ca/wp-includes/wlwmanifest.xml" /> 
+<meta name="generator" content="WordPress 5.4.2" />
+<link rel="canonical" href="http://activehistory.ca/papers/history-paper-2/" />
+<link rel='shortlink' href='https://wp.me/P2QQbJ-5C' />
+<link rel="alternate" type="application/json+oembed" href="http://activehistory.ca/wp-json/oembed/1.0/embed?url=http%3A%2F%2Factivehistory.ca%2Fpapers%2Fhistory-paper-2%2F" />
+<link rel="alternate" type="text/xml+oembed" href="http://activehistory.ca/wp-json/oembed/1.0/embed?url=http%3A%2F%2Factivehistory.ca%2Fpapers%2Fhistory-paper-2%2F&#038;format=xml" />
+<script type="text/javascript"><!--
+function powerpress_pinw(pinw_url){window.open(pinw_url, 'PowerPressPlayer','toolbar=0,status=0,resizable=1,width=460,height=320');	return false;}
+//-->
+</script>
+
+<link rel='dns-prefetch' href='//jetpack.wordpress.com'/>
+<link rel='dns-prefetch' href='//s0.wp.com'/>
+<link rel='dns-prefetch' href='//s1.wp.com'/>
+<link rel='dns-prefetch' href='//s2.wp.com'/>
+<link rel='dns-prefetch' href='//public-api.wordpress.com'/>
+<link rel='dns-prefetch' href='//0.gravatar.com'/>
+<link rel='dns-prefetch' href='//1.gravatar.com'/>
+<link rel='dns-prefetch' href='//2.gravatar.com'/>
+<link rel='dns-prefetch' href='//widgets.wp.com'/>
+<link rel='dns-prefetch' href='//v0.wordpress.com'/>
+	<style type='text/css'>
+		a {color: #0f7b3f;}
+	a:hover {color: #0f7b3f;}
+	.social-icon-wrapper a:hover {color: #0f7b3f;}
+	.prefix-widget-title {color: #0f7b3f;}
+	.term-icon {color: #0f7b3f;}
+	.sub-title a:hover {color:#0f7b3f;}
+	.entry-content a:visited,.comment-content a:visited {color:#0f7b3f;}
+	input[type="submit"] {background-color:#0f7b3f !important;}
+	input[type="reset"] {background-color:#0f7b3f !important;}
+	.bypostauthor cite span {background-color:#0f7b3f;}
+	.wrapper-cabecera {background-color:#0f7b3f;}
+	.wrapper-search-top-bar {background-color:#0f7b3f;}
+	.main-navigation {background-color:#0f7b3f;}
+	.entry-header .entry-title a:hover {color:#0f7b3f ;}
+	.archive-header {border-left-color:#0f7b3f;}
+	.main-navigation a:hover,
+	.main-navigation a:focus {
+		color: #0f7b3f;
+	}
+	.widget-area .widget a:hover {
+		color: #0f7b3f !important;
+	}
+	footer[role="contentinfo"] a:hover {
+		color: #0f7b3f;
+	}
+	.entry-meta a:hover {
+	color: #0f7b3f;
+	}
+	.format-status .entry-header header a:hover {
+		color: #0f7b3f;
+	}
+	.comments-area article header a:hover {
+		color: #0f7b3f;
+	}
+	a.comment-reply-link:hover,
+	a.comment-edit-link:hover {
+		color: #0f7b3f;
+	}
+	.template-front-page .widget-area .widget li a:hover {
+		color: #0f7b3f;
+	}
+	
+	.currenttext, .paginacion a:hover {background-color:#0f7b3f;}
+	.aside{border-left-color:#0f7b3f !important;}
+	blockquote{border-left-color:#0f7b3f;}
+	ul.tabs li.t-activa a {border-top-color: #0f7b3f;} 
+	.slider-current-btn a {background-color:#0f7b3f !important;}
+	h2.comments-title {border-left-color:#0f7b3f;}
+	
+		
+		
+			.titulo-descripcion {
+	 		text-transform:none;
+		}
+		
+		
+		
+			.wrapper-cabecera {height:70px; height:5rem;}
+		
+		
+			.header-logo {background-color:transparent;}
+		
+		
+		
+			
+		body.custom-font-enabled {font-family: "Noto Sans", Arial, Verdana;}
+	
+			@media screen and (min-width: 600px) {
+			#primary {float:left;}
+			#secondary {float:right;}
+			.site-content {
+				border-left: none;
+				padding-left:0;
+				padding-right: 24px;
+				padding-right:1.714285714285714rem;
+			}
+		}
+		
+		
+	@media screen and (max-width: 599px) {
+		.menu-toggle, .menu-toggle:hover {
+			background:#0f7b3f !important;
+			color:#ffffff !important;
+			width:100%;
+		}
+	}
+	
+	/* bbPress */
+		</style>
+	
+	<!-- Google Analytics -->
+    
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-8653817-1', 'auto');
+  ga('send', 'pageview');
+
+</script>
+    <!-- Google Analytics -->
+    <style type="text/css" id="custom-background-css">
+body.custom-background { background-color: #f4f4f4; }
+</style>
+	
+<!-- Jetpack Open Graph Tags -->
+<meta property="og:type" content="article" />
+<meta property="og:title" content="The Berlin Wall: Life, Death and the Spatial Heritage of Berlin" />
+<meta property="og:url" content="http://activehistory.ca/papers/history-paper-2/" />
+<meta property="og:description" content="By Rector Gérard-François Dumont Professor at the University of Paris-Sorbonne Chairman of the Journal Population &amp; Avenir Translated by Thomas Peace, York University Abstract Introduction Befo…" />
+<meta property="article:published_time" content="2009-11-05T16:18:21+00:00" />
+<meta property="article:modified_time" content="2009-11-24T14:56:38+00:00" />
+<meta property="og:site_name" content="Active History" />
+<meta property="og:image" content="http://activehistory.ca/wp-content/uploads/2009/11/photo5.jpg" />
+<meta property="og:image:width" content="253" />
+<meta property="og:image:height" content="306" />
+<meta name="twitter:site" content="@ActiveHist" />
+<meta name="twitter:text:title" content="The Berlin Wall: Life, Death and the Spatial Heritage of Berlin" />
+<meta name="twitter:image" content="http://activehistory.ca/wp-content/uploads/2009/11/photo3.jpg?w=144" />
+<meta name="twitter:card" content="summary" />
+
+<!-- End Jetpack Open Graph Tags -->
+<link rel="icon" href="http://activehistory.ca/wp-content/uploads/2019/02/cropped-ActiveHist2019_icon_whiteBCKG-6-32x32.jpg" sizes="32x32" />
+<link rel="icon" href="http://activehistory.ca/wp-content/uploads/2019/02/cropped-ActiveHist2019_icon_whiteBCKG-6-192x192.jpg" sizes="192x192" />
+<link rel="apple-touch-icon" href="http://activehistory.ca/wp-content/uploads/2019/02/cropped-ActiveHist2019_icon_whiteBCKG-6-180x180.jpg" />
+<meta name="msapplication-TileImage" content="http://activehistory.ca/wp-content/uploads/2019/02/cropped-ActiveHist2019_icon_whiteBCKG-6-270x270.jpg" />
+</head>
+
+<body class="page-template-default page page-id-348 page-child parent-pageid-23 custom-background custom-font-enabled">
+	
+		
+	<header id="masthead" class="site-header" role="banner">
+	<div class="wrapper-cabecera">
+	
+		<div class="blogname-y-menu">
+			<div class="boton-menu-movil"><i class="fa fa-align-justify fa-2x"></i></div>
+			
+							<div class="header-logo">
+					<a href="http://activehistory.ca/"><img src="http://activehistory.ca/wp-content/uploads/2019/04/cropped-ActiveHist2019_icon_whiteBCKG-1.jpg" class="header-image" width="400" height="400" alt="Active History" /></a>
+				</div>
+						
+						<div class="titulo-descripcion">
+			
+									<p class="site-title"><a href="http://activehistory.ca/" title="Active History" rel="home">Active History</a></p>
+								
+				<p class="site-description">History Matters</p>
+				
+			</div>
+						
+			<div class="toggle-search"><i class="fa fa-search"></i></div>
+			
+			<div class="wrapper-site-navigation">
+				<nav id="site-navigation" class="main-navigation" role="navigation">
+					
+					<div class="menu-the-main-container"><ul id="menu-the-main" class="nav-menu"><li id="menu-item-7899" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-home menu-item-7899"><a href="http://activehistory.ca/">Home</a></li>
+<li id="menu-item-7902" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-7902"><a href="http://activehistory.ca/about/">About</a></li>
+<li id="menu-item-7900" class="menu-item menu-item-type-post_type menu-item-object-page current-page-ancestor menu-item-7900"><a href="http://activehistory.ca/papers/">Features</a></li>
+<li id="menu-item-25840" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-25840"><a href="http://activehistory.ca/publications/">Publications</a></li>
+<li id="menu-item-7915" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-7915"><a href="http://activehistory.ca/podcasts/">Podcasts</a></li>
+<li id="menu-item-20816" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-20816"><a href="http://activehistory.ca/donate/">Support Us</a></li>
+</ul></div>				</nav><!-- #site-navigation -->
+                
+				<div class="wrapper-search-top-bar">
+                	<div class="search-top-bar">
+							<div>
+		<form method="get" id="searchform-toggle" action="http://activehistory.ca/">
+			<label for="s" class="assistive-text">Search</label>
+			<input type="search" class="txt-search" placeholder="Search..." name="s" id="s" />
+			<input type="submit" name="submit" id="btn-search" value="Search" />
+		</form>
+    </div>                    </div>
+                </div>
+                
+			</div><!-- .wrapper-site-navigation -->
+			
+		</div><!-- .blogname-y-menu -->
+        
+	<div style="position:relative; clear:both;">
+		
+<div id="menu-movil">
+	<div class="search-form-movil">
+		<form method="get" id="searchform-movil" action="http://activehistory.ca/">
+			<label for="s" class="assistive-text">Search</label>
+			<input type="search" class="txt-search-movil" placeholder="Search..." name="s" id="s" />
+			<input type="submit" name="submit" id="btn-search-movil" value="Search" />
+		</form>
+    </div><!-- search-form-movil -->
+	<div class="menu-movil-enlaces">
+		<div class="menu-the-main-container"><ul id="menu-the-main-1" class="nav-menu"><li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-home menu-item-7899"><a href="http://activehistory.ca/">Home</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-7902"><a href="http://activehistory.ca/about/">About</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page current-page-ancestor menu-item-7900"><a href="http://activehistory.ca/papers/">Features</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-25840"><a href="http://activehistory.ca/publications/">Publications</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-7915"><a href="http://activehistory.ca/podcasts/">Podcasts</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-20816"><a href="http://activehistory.ca/donate/">Support Us</a></li>
+</ul></div>	</div>
+	
+	<div class="social-icon-wrapper-movil">
+							<a href="https://twitter.com/activehist" title="Twitter" target="_blank"><i class="fa fa-twitter"></i></a> 
+						
+							<a href="https://www.facebook.com/ActiveHist/" title="Facebook" target="_blank"><i class="fa fa-facebook"></i></a>
+						
+						
+						
+					 		<a href="https://www.youtube.com/user/activehistoryca" title="YouTube" target="_blank"><i class="fa fa-youtube"></i></a>
+						
+						
+						
+							<a class="rss" href="http://feeds.feedburner.com/activehistoryca" title="RSS" target="_blank"><i class="fa fa-rss"></i></a>			
+					</div><!-- .social-icon-wrapper -->	
+</div><!-- #menu-movil -->    </div>
+    
+	</div><!-- wrapper-cabecera -->
+	
+	<div class="wrapper-area-widget-superior area-widget-padding-top">
+		</div>
+	
+	</header><!-- #masthead -->
+	
+<div id="page" class="hfeed site">
+	
+	<div id="main" class="wrapper">
+	<div id="primary" class="site-content">
+		<div id="content" role="main">
+
+							
+	<article id="post-348" class="post-348 page type-page status-publish hentry">
+
+		<header class="entry-header">
+													<h1 class="entry-title">The Berlin Wall: Life, Death and the Spatial Heritage of Berlin</h1>
+					</header>
+
+		<div class="entry-content">
+			<p>By Rector Gérard-François Dumont<br />
+Professor at the University of Paris-Sorbonne<br />
+Chairman of the Journal Population &amp; Avenir<br />
+Translated by Thomas Peace, York University</p>
+<p><em><strong><a href="#1">Abstract</a><br />
+<a href="#2">Introduction</a><br />
+<a href="#3">Before the wall: Demographic haemorrhage</a><br />
+<a href="#4">Much more than a wall</a><br />
+<a href="#5">Crossing the Great Wall</a><br />
+<a href="#6">Death of the wall</a><br />
+<a href="#7">Is the wall still present?</a><br />
+<a href="#8">Berlin’s spatial paradox</a><br />
+<a href="#9">Further Reading</a></strong></em></p>
+<p><em><strong><a name="1">Abstract</a></strong></em></p>
+<p>Walls that divide are meant to be broken down.  Twenty years after the fall of the Berlin Wall, the legacy of the East-West division can still be seen in the city’s architecture, economy and overall culture.  This paper examines Berlin’s spatial and political history from the wall’s beginnings to the long-term repercussions still being felt today.</p>
+<p><em><strong><a name="2">Introduction</a></strong></em></p>
+<p><em>Of all the walls people have built, the Berlin Wall had a unique impact on the city’s urban landscape.  It is the only wall where the conditions for reunification were set in place twelve years before its divisions were conceived.  In the aftermath of the Second World War and the east-west division of Germany, the Basic Law, enacted in the Federal Republic of Germany (FRG) on 23 May 1949, defined the German nation and the territory of the Reich as it had existed on 31 December 1937.  According to its 116th article: “Unless otherwise provided by a law, a German within the meaning of this Basic Law is a person who possesses German citizenship or who has been admitted to the territory of the German Reich within the boundaries of December 31st, 1937 as a refugee or expellee of German ethnic origin or as the spouse or descendant of such person.”  The law implicitly refused to accept a definitive understanding of the German people; rather it provided German nationality to those former citizens living outside the country’s borders and/or excluded from citizenship during the 1930s and 1940s because of their political, racial or religious identities.  The creation of this law meant that in the FRG, better known as West Germany, the Iron Curtain – which had already been hung by the USSR before this law was enacted – would not deprive East Germans of their nationality.  It also meant that upon the reunification of Germany, on 3 October 1990, the provisions in the Basic Law could be used to easily incorporate Germans living in the former USSR without the need for new legislation.  Despite the potential for pan-German unity that lay at the heart of the Basic Law, the wall was still built.  Focusing on its political and spatial impact, this paper discusses the factors that led to the wall’s creation, how the wall transformed West and East Berlin, and how – despite the risks – Germans overcame this division.  It concludes with a discussion of how, even twenty years after it was dismantled, the wall continues to the influence the spatial politics of the city.</em></p>
+<p><em><strong><a name="3">Before the wall: Demographic haemorrhage</a></strong></em></p>
+<p>For forty years, the German Democratic Republic (GDR) – founded under Soviet influence on 7 October 1949 – prevented German unity.  A 1970s East German tourist brochure emphasized their position as one in which the GDR sought to maintain its borders and hold close diplomatic relations with the USSR and other socialist states.  This long-lasting position, which followed the policies of the USSR and shared similarities with the ideology that created the Iron Curtain, was created in Soviet-occupied Berlin in the aftermath of the Second World War.  The West refused to accept this division.</p>
+<p>In 1948 – following the Second World War – Berlin was divided into four zones (American, French, English and Soviet), while all of the land around the city was under Soviet occupation.  On 24 June 1948 the Soviets, who occupied East Berlin (about 45.6% of the city), decided to blockade the three zones under Western military occupation.  This was an effort to extend Soviet influence in Germany and reflected Lenin’s belief that whoever took Berlin would also take Germany.  Using technical problems as a pretext, the Soviets cut off communication and transportation between the three Western zones and the rest of West Germany.  If successful, this show of force would have resulted in the Western abandonment and the subsequent Soviet occupation of West Berlin.</p>
+<p>The Berlin Wall would never have been built if the Americans and English had not reacted to the Berlin blockade with consistency, efficiency and remarkable courage.  For eleven months the United States and England relieved West Berlin by air.  277,728 flights from the West brought supplies into Berlin over the 322 day blockade. Contrary to Soviet hopes, the Western air bridge withstood the German winter and Soviet bullying.  Neither shining lights into pilots’ eyes, radio interference, ground-to-ground resistance nor anti-aircraft defences were enough to destroy the bridge and allow West Berlin to fall into Soviet hands.  On 25 April 1949 the Telegraph Agency of the Soviet Union (TASS) announced the decision to lift the blockade.  Despite 76 deaths and considerable cost, the Western allies had kept hold of West Berlin.  Their persistence in not abandoning the city to Soviet totalitarianism laid the framework for the wall’s construction.</p>
+<p>The key factor in the wall’s construction, however, was the impact on East Germans of the connection between West Berlin and the increasing freedom in West Germany and Western Europe.  In 1950, with certain exemptions related to military service, West Berlin became a part of the FRG.  In 1957 West Berlin’s geopolitical status vis-a-vis the rest of Western Europe was strengthened through the integration of the FRG into the Treaty of Rome.  West Germany’s involvement in the Western European Economic Community confirmed West Berlin’s place both relative to Western Europe and as a Western European enclave in the heart of the territory controlled by the communist GDR.</p>
+<p>This was an intolerable situation for the Soviets.  Half-a-million people crossed the border between East and West Berlin as they went to work, to shop or to visit family.  Daily, East Germans voted with their feet and fled the Soviet regime through West Berlin.  By 1958 over three million East Germans had left the GDR through Berlin.  This demographic haemorrhaging was a critical problem.  Not only did it demonstrate to the world that few Germans supported the Soviet regime, but it also deprived the government of their work force.  If it continued it would leave the country with few people to actually govern.  Perhaps more concerning for the GDR leadership, some Germans even imagined a reunification of Germany, as East Berliners continued to migrate to the western side of the city.</p>
+<p>On 27 November 1958 the USSR took a new tactic.  They demanded that Western troops leave Berlin within six months.  They sought to make the city a demilitarized zone.  The Western allies refused their ultimatum and East Germans continued to flee.   In 1960 the GDR had a negative net migration of 216,642; by August 1961over 3.6 million people had emigrated to the West.  This massive migration, which had already cost East Germany a fifth of its population, had a significant geopolitical impact: it threatened the legitimacy of the GDR.  With this erosion in confidence, the Soviets decided to prevent further migration by replacing the Berlin demarcation line with a wall; for many it quickly became known as the ‘wall of shame’.</p>
+<p>The West did not fully comprehend the significance of the wall when the initial fences and barbed wire went up around West Berlin on 12 and 13 June 1961.  The Soviets chose the ideal date to fully implement their plan.  The border closed on 13 August 1961 during the middle of the summer when many embassies and Western heads of state were on vacation.  The GDR announced its approval of the Warsaw Pact and presented the construction, using contemporary communist rhetoric, as an ‘Anti-Fascist Protective Wall’.  Armed GDR forces completely encircled West Berlin and, after long and detailed planning, the wall was erected in record time. The West had little recourse, other than war, to oppose its construction.</p>
+<p><em><strong><a name="4">Much more than a wall</a></strong></em></p>
+<p>The wall was not merely a wall.  First, it incorporated other elements to ensure that it was impassable.  The cement wall, which people in West Berlin saw, had eight parallel features on its other side.  First there were road blocks, then a patrol route, followed by lamps to light up the wall and watch towers.  Further east and closer to East Berlin there were land mines, tank traps, alarm systems and finally the eastern wall.  After 1965, the wall was made even more effective by replacing it with 3.5 meter concrete blocks topped with pipe to prevent climbing.</p>
+<p>Second, after the 155km of wall surrounding West Berlin was built, there were also other walls created by the closure of inner-city communication and transportation networks that connected East and West Berlin.</p>
+<blockquote><p><strong>Technical Characteristics of the Berlin Wall</strong><br />
+Total length of the belt around West Berlin:  155 kilometres, in which:<br />
+. The length between West Berlin and East-Berlin: 43.1 km<br />
+. The length between West Berlin and the GDR: 111.9 km<br />
+Measurements of each segment of the wall:<br />
+. Height: 3.6 m (at least)<br />
+. Width: 1.2 m<br />
+. Depth in the ground: 2.1 m<br />
+Control Towers: 302<br />
+Watch dog units: 259<br />
+Watchtowers: 93<br />
+Bunkers: 20</p></blockquote>
+<p>Third, the wall was quickly made more effective by closing many of the original crossing points.  There were 81 before August 1961, 69 of which were closed-in with brick and barbed wire on the thirteenth of that month.  The Brandenburg Gate was closed on the 14th and four other passage ways were closed on the twenty third.  By the end of August only seven crossings remained.  Economic exchange between the two Berlins ground to a halt.  63,000 East Berliners lost their jobs in the West and 10,000 West Berliners lost their jobs in the East.  After a Quadripartite Agreement in 1971, three more crossing points were opened.</p>
+<p>Fourth, along with the building of the wall, the windows of homes and buildings within viewing distance of the wall’s infrastructure were closed-in.<br />
+Another consequence of the wall was the loss of the vibrant urban life in Berlin’s historical centre (Mitte), which was now in East Berlin.  The area found itself in a sort of hibernation, where maintenance of the city was poor, when it had not been abandoned altogether.  The magnificent buildings on the Museum Island, including the important Pergamon Museum, particularly suffered from neglect and the wear of time and weather.</p>
+<p><img data-attachment-id="353" data-permalink="http://activehistory.ca/papers/history-paper-2/1248-1-img_1113_2/" data-orig-file="http://activehistory.ca/wp-content/uploads/2009/11/1248-1-IMG_1113_2.JPG" data-orig-size="" data-comments-opened="1" data-image-meta="[]" data-image-title="1248-1-IMG_1113_2" data-image-description="" data-medium-file="http://activehistory.ca/wp-content/uploads/2009/11/1248-1-IMG_1113_2.JPG" data-large-file="http://activehistory.ca/wp-content/uploads/2009/11/1248-1-IMG_1113_2.JPG" class="aligncenter size-full wp-image-353" title="1248-1-IMG_1113_2" src="http://activehistory.ca/wp-content/uploads/2009/11/1248-1-IMG_1113_2.JPG" alt="1248-1-IMG_1113_2" width="299" height="398" /></p>
+<p style="text-align: center;">Photo 1. A mosaic of the Pergamon Museum in Berlin: a lion of Babylon. Photo © Gérard-François Dumont &#8211; 2007.</p>
+<p>Despite this decline in the city’s maintenance and upkeep, over the years the GDR felt the need to attract foreign tourists.  The government decided that for a fee it would provide supervised day-passes to foreign visitors and West Germans.  Checkpoint Charlie was selected as the crossing point for these visitors.  The GDR also established a mandatory currency exchange upon each tourist excursion.  A tour book issued in December 1980 by the Berlin tourism office noted that Deutschmarks and all other western currencies could be carried home without limitations, but all currency from the GDR and other countries in the socialist bloc were to remain in the East.   In 1965, to demonstrate its superiority and increase tourism, East Berlin built the Fernsehturm, a 361.5 meter high tower on the Alexanderplatz.  The top of the tower featured a revolving restaurant.  The tower was also used for telecommunications and military observation.</p>
+<p>The wall also created a number of non-physical barriers and challenges for both sides of the city.  In effect, the wall created two different cities resulting in the loss of a civic identity, the construction of separate suburbs, the loss of a downtown, the loss of economic innovation and other links between the two areas of the city.  Two cities also meant that many aspects of urban life were doubled; for example, Berlin had two main operas, two universities and two zoos.</p>
+<blockquote><p><strong>A Geopolitical Calendar of the Berlin Wall</strong></p>
+<ul>
+<li>May 8 1945: Unconditional capitulation of the German army</li>
+<li>July 17 – August 2 1945: Potsdam Conference cutting Berlin into four zones</li>
+<li>June 24 1948: Beginning of the Berlin Blockade</li>
+<li>May 23 1949: Creation of the FRG and the Basic Law</li>
+<li>October 7 1949: Creation of the GDR</li>
+<li>1953: Berlin under siege following workers’ protests against the socialist regime</li>
+<li>August 13 1961: Erection of the Berlin Wall</li>
+<li>August 24 1961: First victim of the wall</li>
+<li>September 3 1971: The Quadripartite Agreement</li>
+<li>December 21 1972: Under the guidance of Willy Brandt and his ‘Eastern Policy’ the FRG considers the GDR a de facto sovereign nation<br />
+September 10 1989: Complete opening of the Iron Curtain along the Austro-Hungarian border</li>
+<li>October 7 1989: Gorbachev attends 40th anniversary celebrations of the GDR</li>
+<li>November 4 1989: One million East Germans assemble on the Alexanderplatz<br />
+November 9 1989: The wall is opened and then destroyed.</li>
+<li>July 1 1990: Monetary union between the FRG and GDR</li>
+<li>September 23 1990: The GDR parliament votes for reunification</li>
+<li>October 3 1990: Reunification is made official</li>
+<li>June 2 1991: The Bundestag meets in Bonn and decides, by a vote of 338 to 320, that the German parliament and government should return to Berlin</li>
+<li>April 19 1999: The Bundestag takes sole possession in Berlin of the newly remodelled Reichstag</li>
+</ul>
+</blockquote>
+<p><em><strong><a name="5">Crossing the Great Wall</a></strong></em></p>
+<p>Karl-Heinz Hoffman, a GDR army general, thought the Berlin Wall was the most secure and sophisticated border in the world.  Throughout the 28 years that the wall divided Berlin, though, the call for liberty remained constant.  Throughout these years thousands of East Germans risked their lives in attempts at crossing over.  In total, between August 1961 and March 1989, 5,075 people successfully escaped to West Berlin.  They used every means possible.  Most went over the wall, though some went under, invented specialized vehicles, or swam across the Spree River.  Escape was facilitated by anonymous border guards, who would fail to take proper aim when firing upon people attempting escape.  Over the years, some of them, who hated firing on their compatriots, deserted and helped to support others in their attempt to crossover to West Berlin. In particular, the museum ‘Haus am Checkpoint Charlie’, which opened on 14 June 1963, was located in West Berlin and was close enough to the wall to serve as a welcome point for just-escaped East Germans.</p>
+<p>Not everyone was lucky in their attempt to escape.  588 people died while trying to cross over into West Berlin.  Some of their modest tombs can be found near the Brandenburg Gate on the western side.  Among the last of these victims was Winfried Freudenberg (13 February 1989) who died after trying to escape in a homemade plastic balloon.</p>
+<p style="text-align: center;"><img data-attachment-id="444" data-permalink="http://activehistory.ca/papers/the-berlin-wall/photo2/" data-orig-file="http://activehistory.ca/wp-content/uploads/2009/11/photo2.jpg" data-orig-size="189,252" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;}" data-image-title="photo2" data-image-description="" data-medium-file="http://activehistory.ca/wp-content/uploads/2009/11/photo2.jpg" data-large-file="http://activehistory.ca/wp-content/uploads/2009/11/photo2.jpg" class="aligncenter size-full wp-image-444" title="photo2" src="http://activehistory.ca/wp-content/uploads/2009/11/photo2.jpg" alt="photo2" width="189" height="252" />Photo 2: Near the Brandenburg Gate, the tomb of one of the last people killed while trying to cross the Berlin Wall: Chris Geoffroy, February 5, 1989 © Photo: Gérard-François Dumont &#8211; 2007.</p>
+<p><em><strong><a name="6">Death of the wall</a></strong></em></p>
+<p>By 1989, the GDR could no longer stop emigration to the West.  Rather than escaping through Berlin, it became possible to escape to Hungary through Czechoslovakia.  From Hungary, the thousands of cars fleeing the East were able to cross the recently opened border with Austria and travel onwards to West Germany.  The opening of this border was confirmed on 10 September 1989 when the Iron Curtain between the two countries was lifted by the Soviet Union.  It was now possible for East Germans to bypass the Berlin Wall in their attempt to reach the West.</p>
+<p>Two months later, the wall’s central purpose came to an end.  On 9 November 1989, Günter Schabowski, a member of the Politburo, announced the GDR’s decision to remove travel restrictions for East Germans wanting to travel west.  Hours later, in the face of overwhelming demand to crossover to West Berlin, border guards were forced to let the border open.  The wall was conquered.</p>
+<p>During the winter of 1989 the wall began to be dismantled.  It was taken apart at a rate of 100 meters per night.  By 1991 its demolition was complete.  The city of Berlin was reunited and thus began a new page in the city’s history.  Traffic moved between the two sides without much hindrance and over the 1990s public transit has reintegrated and modernized.  More recently, in the 2000s, the city built a new central train station symbolizing the end of reunification by creating a central hub for all the city’s transportation networks.</p>
+<p><em><strong><a name="7">Is the wall still present?</a></strong></em></p>
+<p>With the exception of six conserved sections and brass plaques marking the wall’s location, the physical wall – and the formal division between East and West Berlin – has disappeared.  Replacing this division was a new political space.</p>
+<p>It is not difficult, however, for the attentive observer to notice that a geopolitical wall continues to divide the city.  In the West, the scars of the Second World War, symbolized by the bombed-out Kaiser Wilhelm Memorial Church and the more recently reconstructed Reichstag – with its glass dome symbolizing transparent democracy, serve as a continual reminder of the stain of Nazism on German history.  In the East, little trace remains of the Nazi influence, even though the past is now somewhat recalled in the recently rebuilt Rykestrasse synagogue in the city’s Jewish quarter.</p>
+<p style="text-align: center;"><img data-attachment-id="358" data-permalink="http://activehistory.ca/papers/history-paper-2/photo3/" data-orig-file="http://activehistory.ca/wp-content/uploads/2009/11/photo3.jpg" data-orig-size="287,215" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;}" data-image-title="photo3" data-image-description="" data-medium-file="http://activehistory.ca/wp-content/uploads/2009/11/photo3.jpg" data-large-file="http://activehistory.ca/wp-content/uploads/2009/11/photo3.jpg" class="aligncenter size-full wp-image-358" title="photo3" src="http://activehistory.ca/wp-content/uploads/2009/11/photo3.jpg" alt="photo3" width="287" height="215" />Photo 3. Preserved sections of the Berlin wall and the panels on the history of the wall in front of the subway station at Potsdamer Platz. Photo © Gérard-François Dumont &#8211; 2007.</p>
+<p style="text-align: center;"><img data-attachment-id="357" data-permalink="http://activehistory.ca/papers/history-paper-2/photo4/" data-orig-file="http://activehistory.ca/wp-content/uploads/2009/11/photo4.jpg" data-orig-size="293,221" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;}" data-image-title="photo4" data-image-description="" data-medium-file="http://activehistory.ca/wp-content/uploads/2009/11/photo4.jpg" data-large-file="http://activehistory.ca/wp-content/uploads/2009/11/photo4.jpg" class="aligncenter size-full wp-image-357" title="photo4" src="http://activehistory.ca/wp-content/uploads/2009/11/photo4.jpg" alt="photo4" width="293" height="221" />Photo 4.  A plaque marking where the wall’s location near Potsdamer Platz.  The plaque reads “Berlin Wall 1961-1989”.  Photo © Gérard-François Dumont &#8211; 2007.</p>
+<p style="text-align: center;"><img data-attachment-id="354" data-permalink="http://activehistory.ca/papers/history-paper-2/photo5/" data-orig-file="http://activehistory.ca/wp-content/uploads/2009/11/photo5.jpg" data-orig-size="253,306" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;}" data-image-title="photo5" data-image-description="" data-medium-file="http://activehistory.ca/wp-content/uploads/2009/11/photo5-248x300.jpg" data-large-file="http://activehistory.ca/wp-content/uploads/2009/11/photo5.jpg" class="aligncenter size-full wp-image-354" title="photo5" src="http://activehistory.ca/wp-content/uploads/2009/11/photo5.jpg" alt="photo5" width="253" height="306" srcset="http://activehistory.ca/wp-content/uploads/2009/11/photo5.jpg 253w, http://activehistory.ca/wp-content/uploads/2009/11/photo5-248x300.jpg 248w" sizes="(max-width: 253px) 100vw, 253px" />Photo 5.  The Bundestag, Germany’s lower house of assembly, is located in the refurbished and redesigned Reichstag building. Photo © Gérard-François Dumont &#8212; 2007.</p>
+<p>The two sides of the city also have different architecture.  The West, which was about five times the size of Paris, had less population pressure than East Berlin.  This large amount of space meant that high rises were practically nonexistent across its 484 km2 territory.  The East, on-the-other-hand, sought to demonstrate its ‘modernity’ by transforming the Alexanderplatz with structures like the Fernsehturm and building layers of similar looking suburbs in the city’s outlaying areas.</p>
+<p>The socialist influence also continues to divide the East from West.  Statues of Marx and Lenin and images of the hammer and sickle can still be found in old East Berlin.  Traces of the GDR also remain in the debate over the rebuilding of the imperial palace, which was destroyed in 1950 to create the soulless Palace of the Republic and Marx-Engels Square.  Whether this plan will move forward is still a question remaining for a city with limited financial resources.</p>
+<p>The Wall itself remains a scar on the city’s human and economic landscape.  Before the Second World War, Berlin was the largest, most innovative and industrialized city in Germany.  After 1945, West Berlin’s unique situation (it was inaccessible, in a poor position relative to suppliers and markets, and deeply affected by the departure of workers) reined its economy in.  It was a gloomy situation: for the most part West Berlin relied on the aid and protection of its Western occupiers.  In East Berlin, the socialist planned economy, with its emphasis on large state-run businesses, created deficiencies in the organization and profitability of the economy.  Since 1990 Berlin has benefited from the return of the national government, many renowned institutions and important head offices, and an increase in tourism.</p>
+<p>Berlin’s economy, however, remains modest and somewhat less than what was expected at reunification.  The intellectual and economic frameworks created over forty years of the communist regime combined with the economic constraints imposed on West Berlin by the wall were deeply ingrained.  They will not disappear easily.  Around the Museum Island, for example, a tourist haven has developed, while nearby markets continue to sell remnants from the socialist period (military insignias, miniature sculptures of Lenin, etc&#8230;).  Behaviours are difficult to change and people who once lived under the communist regime remain cautious.</p>
+<p style="text-align: center;"><img data-attachment-id="356" data-permalink="http://activehistory.ca/papers/history-paper-2/photo6/" data-orig-file="http://activehistory.ca/wp-content/uploads/2009/11/Photo6.jpg" data-orig-size="263,197" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;}" data-image-title="Photo6" data-image-description="" data-medium-file="http://activehistory.ca/wp-content/uploads/2009/11/Photo6.jpg" data-large-file="http://activehistory.ca/wp-content/uploads/2009/11/Photo6.jpg" class="aligncenter size-full wp-image-356" title="Photo6" src="http://activehistory.ca/wp-content/uploads/2009/11/Photo6.jpg" alt="Photo6" width="263" height="197" />Photo 6. The New Chancellery in Berlin built after reunification in 1990.  Photo © Gérard-François Dumont &#8211; 2007.</p>
+<p style="text-align: center;"><img data-attachment-id="355" data-permalink="http://activehistory.ca/papers/history-paper-2/photo7/" data-orig-file="http://activehistory.ca/wp-content/uploads/2009/11/Photo7.jpg" data-orig-size="217,290" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;}" data-image-title="Photo7" data-image-description="" data-medium-file="http://activehistory.ca/wp-content/uploads/2009/11/Photo7.jpg" data-large-file="http://activehistory.ca/wp-content/uploads/2009/11/Photo7.jpg" class="aligncenter size-full wp-image-355" title="Photo7" src="http://activehistory.ca/wp-content/uploads/2009/11/Photo7.jpg" alt="Photo7" width="217" height="290" />Photo 7.  The Bundesrat representing Germany’s 16 states.  Photo © Gérard-François Dumont &#8211; 2007.</p>
+<p>The tearing down of the Berlin Wall expanded the free space accessible to West Berliners.  Many moved outside of the city and into areas formerly controlled by the GDR.  Like when the wall first went up, this out-migration – along with a weak birth rate – caused the population to decline.</p>
+<p>In many ways Germany continues to be a divided country.  Although the wall has been removed, the division continues to be seen through differences in birth rates, migration patterns, age structures and the economy.</p>
+<p><em><strong><a name="8">Berlin’s spatial paradox</a></strong></em></p>
+<p>Walls between people are made to be destroyed.  The Berlin Wall, which for thirty years prevented free migration from East Germany, was no different.  Nonetheless, the wall has left an architectural, economic and behavioural legacy on the Berlin landscape.  The wall’s spatial heritage continues to influence the city.  Despite the millions of Euros that flooded into the city since 1989 to help reunify Germany and its role as Germany’s capital, Berlin remains a city deeply affected by the moral and physical scars left by the wall.  Reunification did not perform miracles.  The eastern part of the city continues to be challenged by the Soviet legacy.  Berlin is only now in the process of becoming a significant metropole.  Its socio-spatial distortions – mostly caused by the wall – have prevented its growth and development.  One opportunity for Berlin to overcome these obstacles, however, is in the eastern growth of the European Union.  Eastern expansion would draw Berlin from the outskirts into an enviable position within Europe.</p>
+<p>This is Berlin’s spatial paradox.  The city’s external geopolitical role is gradually increasing as Germany’s international reputation balances with its economic weight.  Over the past decade this change has been made manifest through the ‘five plus one’ meetings between Germany and the members with veto power from the UN Security Council, as well as through German participation in international military operations.  Internally, however, the wall’s effects on the city’s spatial politics have been much less beneficial.  In comparison with similar German cities like Frankfurt and Munich, Berlin’s economic and demographic success has been much more limited.  Even though the wall is gone, the city continues a somewhat paradoxical existence.</p>
+<p><em><strong><a name="9">Further Reading</a></strong></em></p>
+<p>Gerard-François Dumont and Pierre Verluise, Géopolitique de l’Europe, (Paris : Sedes, 2009).<br />
+Read this paper in French at: <a href="http://www.diploweb.com/Mur-de-Berlin-vie-mort-et-heritage.html">http://www.diploweb.com/Mur-de-Berlin-vie-mort-et-heritage.html</a><br />
+<a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/2.5/ca/"><img style="border-width:0" src="http://i.creativecommons.org/l/by-nc-nd/2.5/ca/80x15.png" alt="Creative Commons License" /></a><br />
+<span>The Berlin Wall: Life, Death and the Spatial Heritage of Berlin</span> by <a rel="cc:attributionURL" href="http://activehistory.ca/papers/history-paper-2/">Gérard-François Dumont and Thomas Peace</a> is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/2.5/ca/">Creative Commons Attribution-Noncommercial-No Derivative Works 2.5 Canada License</a>.<br />
+Permissions beyond the scope of this license may be available at <a rel="cc:morePermissions" href="info@activehistory.ca">info@activehistory.ca</a>.</p>
+<div class="sharedaddy sd-sharing-enabled"><div class="robots-nocontent sd-block sd-social sd-social-official sd-sharing"><div class="sd-content"><ul><li class="share-facebook"><div class="fb-share-button" data-href="http://activehistory.ca/papers/history-paper-2/" data-layout="button_count"></div></li><li class="share-twitter"><a href="https://twitter.com/share" class="twitter-share-button" data-url="http://activehistory.ca/papers/history-paper-2/" data-text="The Berlin Wall: Life, Death and the Spatial Heritage of Berlin" data-via="ActiveHist" >Tweet</a></li><li class="share-email"><a rel="nofollow noopener noreferrer" data-shared="" class="share-email sd-button" href="http://activehistory.ca/papers/history-paper-2/?share=email" target="_blank" title="Click to email this to a friend"><span>Email</span></a></li><li class="share-end"></li></ul></div></div></div>					</div><!-- .entry-content -->
+
+		<footer class="entry-meta">
+					</footer><!-- .entry-meta -->
+
+	</article><!-- #post -->				
+<div id="comments" class="comments-area">
+
+				<div class="zg-wrapper-widget-area">
+			<div id="text-445942440" class="widget widget_text">			<div class="textwidget"><p><a href="http://creativecommons.org/licenses/by-nd/4.0/" rel="license"><img style="border-width: 0;" src="https://i.creativecommons.org/l/by-nd/4.0/80x15.png" alt="Creative Commons Licence" /></a><br />
+This work is licensed under a <a href="http://creativecommons.org/licenses/by-nd/4.0/" rel="license">Creative Commons Attribution-NoDerivatives 4.0 International License</a>. Blog posts published before October  28, 2018 are licensed with a Creative Commons Attribution-NonCommercial-ShareAlike 2.5 Canada License.</p>
+</div>
+		</div>		</div>
+    	
+			<h2 class="comments-title">
+			6 thoughts on &ldquo;<span>The Berlin Wall: Life, Death and the Spatial Heritage of Berlin</span>&rdquo;		</h2>
+
+		<ol class="commentlist">
+				<li class="pingback even thread-even depth-1" id="comment-15835">
+		<p>Pingback: <a href='http://dayyash11tht.wordpress.com/2011/10/20/the-berlin-wall-life-death-and-the-spatial-heritage-of-berlin/' rel='external nofollow ugc' class='url'>The Berlin Wall: Life, Death and the Spatial Heritage of Berlin &laquo; Dima Ayyash 11.THT</a> </p>
+	</li><!-- #comment-## -->
+	<li class="pingback odd alt thread-odd thread-alt depth-1" id="comment-27694">
+		<p>Pingback: <a href='http://activehistory.ca/2012/05/celebrating-three-years/' rel='external nofollow ugc' class='url'>Celebrating Three Years</a> </p>
+	</li><!-- #comment-## -->
+	<li class="comment even thread-even depth-1" id="li-comment-32381">
+		<article id="comment-32381" class="comment">
+			<header class="comment-meta comment-author vcard">
+				<img alt='' src='http://0.gravatar.com/avatar/c78241dc04ef4cf346a88479cba3cf60?s=44&#038;d=mm&#038;r=g' srcset='http://0.gravatar.com/avatar/c78241dc04ef4cf346a88479cba3cf60?s=88&#038;d=mm&#038;r=g 2x' class='avatar avatar-44 photo' height='44' width='44' /><cite><b class="fn">Katie W.</b> </cite><a href="http://activehistory.ca/papers/history-paper-2/#comment-32381"><time datetime="2012-08-02T19:07:39-04:00">August 2, 2012 at 7:07 pm</time></a>			</header><!-- .comment-meta -->
+
+			
+			<section class="comment-content comment">
+				<p>Thank you so much i will be using this very much in my history fair project for 2012-2013</p>
+							</section><!-- .comment-content -->
+
+			<div class="reply">
+							</div><!-- .reply -->
+		</article><!-- #comment-## -->
+	</li><!-- #comment-## -->
+	<li class="pingback odd alt thread-odd thread-alt depth-1" id="comment-48622">
+		<p>Pingback: <a href='http://activehistory.ca/2014/08/activehistory-ca-repost-the-berlin-wall-life-death-and-the-spatial-heritage-of-berlin/' rel='external nofollow ugc' class='url'>ActiveHistory.ca repost &#8211; The Berlin Wall: Life, Death and the Spatial Heritage of Berlin</a> </p>
+	</li><!-- #comment-## -->
+	<li class="pingback even thread-even depth-1" id="comment-50637">
+		<p>Pingback: <a href='http://activehistory.ca/2014/10/towards-an-active-history/' rel='external nofollow ugc' class='url'>Towards an Active History</a> </p>
+	</li><!-- #comment-## -->
+	<li class="pingback odd alt thread-odd thread-alt depth-1" id="comment-77410">
+		<p>Pingback: <a href='https://tpeace.wordpress.com/2016/01/23/towards-an-active-history/' rel='external nofollow ugc' class='url'>Towards an Active History | Thomas Peace</a> </p>
+	</li><!-- #comment-## -->
+		</ol><!-- .commentlist -->
+
+		
+		
+		
+		
+	<div class="wrapper-form-comments">
+	
+		<div id="respond" class="comment-respond">
+							<h3 id="reply-title" class="comment-reply-title">Please note: ActiveHistory.ca encourages comment and constructive discussion of our articles. We reserve the right to delete comments submitted under aliases, or that contain spam, harassment, or attacks on an individual.					<small><a rel="nofollow" id="cancel-comment-reply-link" href="/papers/history-paper-2/?shared=email&amp;msg=fail#respond" style="display:none;">Cancel reply</a></small>
+				</h3>
+						<form id="commentform" class="comment-form">
+				<iframe title="Comment Form" src="https://jetpack.wordpress.com/jetpack-comment/?blogid=42146343&#038;postid=348&#038;comment_registration=0&#038;require_name_email=1&#038;stc_enabled=1&#038;stb_enabled=1&#038;show_avatars=1&#038;avatar_default=mystery&#038;greeting=Please+note%3A+ActiveHistory.ca+encourages+comment+and+constructive+discussion+of+our+articles.+We+reserve+the+right+to+delete+comments+submitted+under+aliases%2C+or+that+contain+spam%2C+harassment%2C+or+attacks+on+an+individual.&#038;greeting_reply=Leave+a+Reply+to+%25s&#038;color_scheme=light&#038;lang=en_CA&#038;jetpack_version=8.6.1&#038;show_cookie_consent=10&#038;has_cookie_consent=0&#038;token_key=%3Bnormal%3B&#038;sig=5d819915272ec8572a163b768619ea25733ba59d#parent=http%3A%2F%2Factivehistory.ca%2Fpapers%2Fhistory-paper-2%2F%3Fshared%3Demail%26msg%3Dfail" style="width:100%; height: 430px; border:0;" name="jetpack_remote_comment" class="jetpack_remote_comment" id="jetpack_remote_comment" sandbox="allow-same-origin allow-top-navigation allow-scripts allow-forms allow-popups"></iframe>
+									<!--[if !IE]><!-->
+					<script>
+						document.addEventListener('DOMContentLoaded', function () {
+							var commentForms = document.getElementsByClassName('jetpack_remote_comment');
+							for (var i = 0; i < commentForms.length; i++) {
+								commentForms[i].allowTransparency = false;
+								commentForms[i].scrolling = 'no';
+							}
+						});
+					</script>
+					<!--<![endif]-->
+							</form>
+		</div>
+
+		
+		<input type="hidden" name="comment_parent" id="comment_parent" value="" />
+
+			</div>
+
+</div><!-- #comments .comments-area -->			
+		</div><!-- #content -->
+	</div><!-- #primary -->
+
+
+			<div id="secondary" class="widget-area" role="complementary">
+			<aside id="search-2" class="widget widget_search">	<div class="wrapper-search-form">
+		<form method="get" id="searchform" action="http://activehistory.ca/">
+			<label for="s" class="assistive-text">Search</label>
+			<input type="search" class="txt-search" placeholder="Search..." name="s" id="s" />
+			<input type="submit" name="submit" id="btn-search-n" value="Search" />
+		</form>
+    </div></aside><aside id="text-445942422" class="widget widget_text"><h3 class="widget-title"><span class="prefix-widget-title"><i class="fa fa-th-large"></i></span> What is Active History?</h3>			<div class="textwidget"><p>ActiveHistory.ca is a website that connects the work of historians with the wider public and the importance of the past to current events.</p>
+<p>Please direct queries to Daniel Ross, Public Outreach Coordinator, via <a href="info@activehistory.ca">info@activehistory.ca</a>.</p>
+<p>For author guidelines, <a href="https://wp.me/P2QQbJ-32">click here</a>.</p>
+<p>Visitez notre partenaire francophone, <a href="http://histoireengagee.ca/"> HistoireEngagée.ca</a></p>
+</div>
+		</aside><aside id="text-445942433" class="widget widget_text"><h3 class="widget-title"><span class="prefix-widget-title"><i class="fa fa-th-large"></i></span> Ongoing Projects</h3>			<div class="textwidget"><ul>
+<li><b><a href="http://activehistory.ca/papers/beyond-the-lecture-series-list/">Beyond the Lecture</a></b></li>
+<li><b><a href="http://activehistory.ca/papers/canadas-first-world-war-a-centennial-series-on-activehistory-ca/">Canada's First World War</a></b></li>
+<li><b><a href="http://activehistory.ca/papers/from-juno-to-victory/">From Juno to Victory</a></b></li>
+<li><b><a href="http://activehistory.ca/podcasts/">History Slam Podcast</a></b></li>
+<li><b><a href="http://activehistory.ca/publications/">Open-Access Ebooks</a></b></li>
+<li><b><a href="http://activehistory.ca/remember-i-resist-i-redraw/">Remember/Resist/Redraw</a></b></li>
+</ul>
+
+</div>
+		</aside><aside id="twitter_timeline-3" class="widget widget_twitter_timeline"><h3 class="widget-title"><span class="prefix-widget-title"><i class="fa fa-th-large"></i></span> Twitter</h3><a class="twitter-timeline" data-theme="light" data-border-color="#e8e8e8" data-tweet-limit="3" data-lang="EN" data-partner="jetpack" data-chrome="noheader" href="https://twitter.com/ActiveHist" href="https://twitter.com/ActiveHist">My Tweets</a></aside><aside id="blog_subscription-3" class="widget widget_blog_subscription jetpack_subscription_widget"><h3 class="widget-title"><span class="prefix-widget-title"><i class="fa fa-th-large"></i></span> Subscribe via email</h3>
+            <form action="#" method="post" accept-charset="utf-8" id="subscribe-blog-blog_subscription-3">
+				                    <p id="subscribe-email">
+                        <label id="jetpack-subscribe-label"
+                               class="screen-reader-text"
+                               for="subscribe-field-blog_subscription-3">
+							Email Address                        </label>
+                        <input type="email" name="email" required="required"
+                        			                                                value=""
+                            id="subscribe-field-blog_subscription-3"
+                            placeholder="Email Address"
+                        />
+                    </p>
+
+                    <p id="subscribe-submit">
+                        <input type="hidden" name="action" value="subscribe"/>
+                        <input type="hidden" name="source" value="http://activehistory.ca/papers/history-paper-2/?shared=email&#038;msg=fail"/>
+                        <input type="hidden" name="sub-type" value="widget"/>
+                        <input type="hidden" name="redirect_fragment" value="blog_subscription-3"/>
+						                        <button type="submit"
+	                        		                    	                        name="jetpack_subscriptions_widget"
+	                    >
+	                        Subscribe                        </button>
+                    </p>
+				            </form>
+		
+</aside>		</div><!-- #secondary -->
+		</div><!-- #main .wrapper -->
+	</div><!-- #page -->
+		<footer>
+	<div style="background-color:#444444;">
+		<div class="wrapper-widget-area-footer">
+			<div class="widget-area-footer">
+				<div id="text-445942435" class="widget widget_text">			<div class="textwidget">ActiveHistory.ca is supported financially and administratively by the <a href="http://artsandscience.usask.ca/history/">History Department at the University of Saskatchewan</a> and <a href="http://www.huronuc.on.ca/Home">Huron University College</a>. <a href="https://calicologic.com/">Calico Logic</a> provides technical support.</div>
+		</div>			</div>
+			
+			<div class="widget-area-footer">
+				<div id="text-445942437" class="widget widget_text">			<div class="textwidget"><img src="http://activehistory.ca/wp-content/uploads/2017/02/usask_ArtsScience_History_black_reverse.png"/></div>
+		</div>			</div>
+			
+			<div class="widget-area-footer">
+				<div id="text-445942439" class="widget widget_text">			<div class="textwidget"><img src="http://activehistory.ca/wp-content/uploads/2017/02/huronuc_horiz_rgb_black_reverse_720.png"/></div>
+		</div>			</div>
+		</div>
+	</div>
+	</footer>
+		<hr class="hr-oscura" />
+	<footer id="colophon" role="contentinfo">
+	<div class="social-icon-wrapper">
+							<a href="https://twitter.com/activehist" title="Twitter" target="_blank"><i class="fa fa-twitter"></i></a> 
+						
+							<a href="https://www.facebook.com/ActiveHist/" title="Facebook" target="_blank"><i class="fa fa-facebook"></i></a>
+						
+						
+						
+					 		<a href="https://www.youtube.com/user/activehistoryca" title="YouTube" target="_blank"><i class="fa fa-youtube"></i></a>
+						
+						
+						
+							<a class="rss" href="http://feeds.feedburner.com/activehistoryca" title="Feed RSS" target="_blank"><i class="fa fa-rss"></i></a>			
+					</div><!-- .social-icon-wrapper -->
+		<hr class="hr-oscura" />
+		<div class="site-info">
+			<div class="credits-left"></div>
+			<div class="credits-center"><a rel="license" href="http://creativecommons.org/licenses/by-nd/4.0/"><img alt="Creative Commons Licence" style="border-width:0" src="https://i.creativecommons.org/l/by-nd/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nd/4.0/">Creative Commons Attribution-NoDerivatives 4.0 International License</a>.
+Blog posts published before October 28, 2018 are licensed with a Creative Commons Attribution-NonCommercial-ShareAlike 2.5 Canada License.</div>
+			<div class="credits-right"></div>
+		</div><!-- .site-info -->
+		
+			</footer><!-- #colophon -->
+
+			<div class="ir-arriba"><i class="fa fa-chevron-up"></i></div>
+		<div style="display:none">
+	<div class="grofile-hash-map-c78241dc04ef4cf346a88479cba3cf60">
+	</div>
+	</div>
+<script>
+    jQuery(document).ready(function () {
+		jQuery.post('http://activehistory.ca?ga_action=googleanalytics_get_script', {action: 'googleanalytics_get_script'}, function(response) {
+			var s = document.createElement("script");
+			s.type = "text/javascript";
+			s.innerHTML = response;
+			jQuery("head").append(s);
+		});
+    });
+</script><div id="fb-root"></div>
+			<script>(function(d, s, id) { var js, fjs = d.getElementsByTagName(s)[0]; if (d.getElementById(id)) return; js = d.createElement(s); js.id = id; js.src = 'https://connect.facebook.net/en_CA/sdk.js#xfbml=1&appId=249643311490&version=v2.3'; fjs.parentNode.insertBefore(js, fjs); }(document, 'script', 'facebook-jssdk'));</script>
+			<script>
+			jQuery( document.body ).on( 'post-load', function() {
+				if ( 'undefined' !== typeof FB ) {
+					FB.XFBML.parse();
+				}
+			} );
+			</script>
+						<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+'://platform.twitter.com/widgets.js';fjs.parentNode.insertBefore(js,fjs);}}(document, 'script', 'twitter-wjs');</script>
+				<div id="sharing_email" style="display: none;">
+		<form action="/papers/history-paper-2/?shared=email&#038;msg=fail" method="post">
+			<label for="target_email">Send to Email Address</label>
+			<input type="email" name="target_email" id="target_email" value="" />
+
+			
+				<label for="source_name">Your Name</label>
+				<input type="text" name="source_name" id="source_name" value="" />
+
+				<label for="source_email">Your Email Address</label>
+				<input type="email" name="source_email" id="source_email" value="" />
+
+						<input type="text" id="jetpack-source_f_name" name="source_f_name" class="input" value="" size="25" autocomplete="off" title="This field is for validation and should not be changed" />
+			
+			<img style="float: right; display: none" class="loading" src="http://activehistory.ca/wp-content/plugins/jetpack/modules/sharedaddy/images/loading.gif" alt="loading" width="16" height="16" />
+			<input type="submit" value="Send Email" class="sharing_send" />
+			<a rel="nofollow" href="#cancel" class="sharing_cancel" role="button">Cancel</a>
+
+			<div class="errors errors-1" style="display: none;">
+				Post was not sent - check your email addresses!			</div>
+
+			<div class="errors errors-2" style="display: none;">
+				Email check failed, please try again			</div>
+
+			<div class="errors errors-3" style="display: none;">
+				Sorry, your blog cannot share posts by email.			</div>
+		</form>
+	</div>
+<script type='text/javascript' src='https://secure.gravatar.com/js/gprofiles.js?ver=202025'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var WPGroHo = {"my_hash":""};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://activehistory.ca/wp-content/plugins/jetpack/modules/wpgroho.js?ver=5.4.2'></script>
+<script type='text/javascript' src='http://activehistory.ca/wp-content/themes/rubbersoul-pro/js/navigation.js?ver=20140711'></script>
+<script type='text/javascript' src='http://activehistory.ca/wp-content/themes/rubbersoul-pro/js/slider-recent-posts-fp.js?ver=2.6.4'></script>
+<script type='text/javascript' src='http://activehistory.ca/wp-content/themes/rubbersoul-pro/js/rsoul-pro-toggle-search.js?ver=2.6.4'></script>
+<script type='text/javascript' src='http://activehistory.ca/wp-content/plugins/jetpack/_inc/build/twitter-timeline.min.js?ver=4.0.0'></script>
+<script type='text/javascript' src='http://activehistory.ca/wp-includes/js/wp-embed.min.js?ver=5.4.2'></script>
+<script type='text/javascript' src='http://activehistory.ca/wp-content/plugins/jetpack/_inc/build/spin.min.js?ver=1.3'></script>
+<script type='text/javascript' src='http://activehistory.ca/wp-content/plugins/jetpack/_inc/build/jquery.spin.min.js?ver=1.3'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var jetpackCarouselStrings = {"widths":[370,700,1000,1200,1400,2000],"is_logged_in":"","lang":"en","ajaxurl":"http:\/\/activehistory.ca\/wp-admin\/admin-ajax.php","nonce":"5e88d0d860","display_exif":"1","display_comments":"1","display_geo":"1","single_image_gallery":"1","single_image_gallery_media_file":"","background_color":"black","comment":"Comment","post_comment":"Post Comment","write_comment":"Write a Comment...","loading_comments":"Loading Comments...","download_original":"View full size <span class=\"photo-size\">{0}<span class=\"photo-size-times\">\u00d7<\/span>{1}<\/span>","no_comment_text":"Please be sure to submit some text with your comment.","no_comment_email":"Please provide an email address to comment.","no_comment_author":"Please provide your name to comment.","comment_post_error":"Sorry, but there was an error posting your comment. Please try again later.","comment_approved":"Your comment was approved.","comment_unapproved":"Your comment is in moderation.","camera":"Camera","aperture":"Aperture","shutter_speed":"Shutter Speed","focal_length":"Focal Length","copyright":"Copyright","comment_registration":"0","require_name_email":"1","login_url":"http:\/\/activehistory.ca\/wp-login.php?redirect_to=http%3A%2F%2Factivehistory.ca%2Fpapers%2Fhistory-paper-2%2F","blog_id":"1","meta_data":["camera","aperture","shutter_speed","focal_length","copyright"],"local_comments_commenting_as":"<fieldset><label for=\"email\">Email (Required)<\/label> <input type=\"text\" name=\"email\" class=\"jp-carousel-comment-form-field jp-carousel-comment-form-text-field\" id=\"jp-carousel-comment-form-email-field\" \/><\/fieldset><fieldset><label for=\"author\">Name (Required)<\/label> <input type=\"text\" name=\"author\" class=\"jp-carousel-comment-form-field jp-carousel-comment-form-text-field\" id=\"jp-carousel-comment-form-author-field\" \/><\/fieldset><fieldset><label for=\"url\">Website<\/label> <input type=\"text\" name=\"url\" class=\"jp-carousel-comment-form-field jp-carousel-comment-form-text-field\" id=\"jp-carousel-comment-form-url-field\" \/><\/fieldset>"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://activehistory.ca/wp-content/plugins/jetpack/_inc/build/carousel/jetpack-carousel.min.js?ver=20190102'></script>
+<script async="async" type='text/javascript' src='http://activehistory.ca/wp-content/plugins/akismet/_inc/form.js?ver=4.1.6'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var sharing_js_options = {"lang":"en","counts":"1","is_stats_active":"1"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://activehistory.ca/wp-content/plugins/jetpack/_inc/build/sharedaddy/sharing.min.js?ver=8.6.1'></script>
+<script type='text/javascript'>
+var windowOpen;
+			jQuery( document.body ).on( 'click', 'a.share-facebook', function() {
+				// If there's another sharing window open, close it.
+				if ( 'undefined' !== typeof windowOpen ) {
+					windowOpen.close();
+				}
+				windowOpen = window.open( jQuery( this ).attr( 'href' ), 'wpcomfacebook', 'menubar=1,resizable=1,width=600,height=400' );
+				return false;
+			});
+</script>
+
+		<!--[if IE]>
+		<script type="text/javascript">
+			if ( 0 === window.location.hash.indexOf( '#comment-' ) ) {
+				// window.location.reload() doesn't respect the Hash in IE
+				window.location.hash = window.location.hash;
+			}
+		</script>
+		<![endif]-->
+		<script type="text/javascript">
+			(function () {
+				var comm_par_el = document.getElementById( 'comment_parent' ),
+					comm_par = ( comm_par_el && comm_par_el.value ) ? comm_par_el.value : '',
+					frame = document.getElementById( 'jetpack_remote_comment' ),
+					tellFrameNewParent;
+
+				tellFrameNewParent = function () {
+					if ( comm_par ) {
+						frame.src = "https://jetpack.wordpress.com/jetpack-comment/?blogid=42146343&postid=348&comment_registration=0&require_name_email=1&stc_enabled=1&stb_enabled=1&show_avatars=1&avatar_default=mystery&greeting=Please+note%3A+ActiveHistory.ca+encourages+comment+and+constructive+discussion+of+our+articles.+We+reserve+the+right+to+delete+comments+submitted+under+aliases%2C+or+that+contain+spam%2C+harassment%2C+or+attacks+on+an+individual.&greeting_reply=Leave+a+Reply+to+%25s&color_scheme=light&lang=en_CA&jetpack_version=8.6.1&show_cookie_consent=10&has_cookie_consent=0&token_key=%3Bnormal%3B&sig=5d819915272ec8572a163b768619ea25733ba59d#parent=http%3A%2F%2Factivehistory.ca%2Fpapers%2Fhistory-paper-2%2F%3Fshared%3Demail%26msg%3Dfail" + '&replytocom=' + parseInt( comm_par, 10 ).toString();
+					} else {
+						frame.src = "https://jetpack.wordpress.com/jetpack-comment/?blogid=42146343&postid=348&comment_registration=0&require_name_email=1&stc_enabled=1&stb_enabled=1&show_avatars=1&avatar_default=mystery&greeting=Please+note%3A+ActiveHistory.ca+encourages+comment+and+constructive+discussion+of+our+articles.+We+reserve+the+right+to+delete+comments+submitted+under+aliases%2C+or+that+contain+spam%2C+harassment%2C+or+attacks+on+an+individual.&greeting_reply=Leave+a+Reply+to+%25s&color_scheme=light&lang=en_CA&jetpack_version=8.6.1&show_cookie_consent=10&has_cookie_consent=0&token_key=%3Bnormal%3B&sig=5d819915272ec8572a163b768619ea25733ba59d#parent=http%3A%2F%2Factivehistory.ca%2Fpapers%2Fhistory-paper-2%2F%3Fshared%3Demail%26msg%3Dfail";
+					}
+				};
+
+				
+				// Do the post message bit after the dom has loaded.
+				document.addEventListener( 'DOMContentLoaded', function () {
+					var iframe_url = "https:\/\/jetpack.wordpress.com";
+					if ( window.postMessage ) {
+						if ( document.addEventListener ) {
+							window.addEventListener( 'message', function ( event ) {
+								var origin = event.origin.replace( /^http:\/\//i, 'https://' );
+								if ( iframe_url.replace( /^http:\/\//i, 'https://' ) !== origin ) {
+									return;
+								}
+								jQuery( frame ).height( event.data );
+							});
+						} else if ( document.attachEvent ) {
+							window.attachEvent( 'message', function ( event ) {
+								var origin = event.origin.replace( /^http:\/\//i, 'https://' );
+								if ( iframe_url.replace( /^http:\/\//i, 'https://' ) !== origin ) {
+									return;
+								}
+								jQuery( frame ).height( event.data );
+							});
+						}
+					}
+				})
+
+			})();
+		</script>
+
+		<script type='text/javascript' src='https://stats.wp.com/e-202025.js' async='async' defer='defer'></script>
+<script type='text/javascript'>
+	_stq = window._stq || [];
+	_stq.push([ 'view', {v:'ext',j:'1:8.6.1',blog:'42146343',post:'348',tz:'-4',srv:'activehistory.ca'} ]);
+	_stq.push([ 'clickTrackerInit', '42146343', '348' ]);
+</script>
+			
+</body>
+</html>

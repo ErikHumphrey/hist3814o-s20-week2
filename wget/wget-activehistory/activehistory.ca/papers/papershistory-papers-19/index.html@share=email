@@ -1,0 +1,789 @@
+<!DOCTYPE html>
+<!--[if IE 7]>
+<html class="ie ie7" lang="en-CA">
+<![endif]-->
+<!--[if IE 8]>
+<html class="ie ie8" lang="en-CA">
+<![endif]-->
+<!--[if !(IE 7) & !(IE 8)]><!-->
+<html lang="en-CA">
+<!--<![endif]-->
+<head>
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width" />
+<link rel="profile" href="http://gmpg.org/xfn/11" />
+<link rel="pingback" href="http://activehistory.ca/xmlrpc.php" />
+<!--[if lt IE 9]>
+<script src="http://activehistory.ca/wp-content/themes/rubbersoul-pro/js/html5.js" type="text/javascript"></script>
+<![endif]-->
+<title>Memory Politics: Ottawa&#8217;s Monument to the Victims of Communism &#8211; Active History</title>
+<link rel='dns-prefetch' href='//secure.gravatar.com' />
+<link rel='dns-prefetch' href='//platform-api.sharethis.com' />
+<link rel='dns-prefetch' href='//fonts.googleapis.com' />
+<link rel='dns-prefetch' href='//s.w.org' />
+		<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/12.0.0-1\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/12.0.0-1\/svg\/","svgExt":".svg","source":{"concatemoji":"http:\/\/activehistory.ca\/wp-includes\/js\/wp-emoji-release.min.js?ver=5.4.2"}};
+			/*! This file is auto-generated */
+			!function(e,a,t){var r,n,o,i,p=a.createElement("canvas"),s=p.getContext&&p.getContext("2d");function c(e,t){var a=String.fromCharCode;s.clearRect(0,0,p.width,p.height),s.fillText(a.apply(this,e),0,0);var r=p.toDataURL();return s.clearRect(0,0,p.width,p.height),s.fillText(a.apply(this,t),0,0),r===p.toDataURL()}function l(e){if(!s||!s.fillText)return!1;switch(s.textBaseline="top",s.font="600 32px Arial",e){case"flag":return!c([127987,65039,8205,9895,65039],[127987,65039,8203,9895,65039])&&(!c([55356,56826,55356,56819],[55356,56826,8203,55356,56819])&&!c([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]));case"emoji":return!c([55357,56424,55356,57342,8205,55358,56605,8205,55357,56424,55356,57340],[55357,56424,55356,57342,8203,55358,56605,8203,55357,56424,55356,57340])}return!1}function d(e){var t=a.createElement("script");t.src=e,t.defer=t.type="text/javascript",a.getElementsByTagName("head")[0].appendChild(t)}for(i=Array("flag","emoji"),t.supports={everything:!0,everythingExceptFlag:!0},o=0;o<i.length;o++)t.supports[i[o]]=l(i[o]),t.supports.everything=t.supports.everything&&t.supports[i[o]],"flag"!==i[o]&&(t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&t.supports[i[o]]);t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&!t.supports.flag,t.DOMReady=!1,t.readyCallback=function(){t.DOMReady=!0},t.supports.everything||(n=function(){t.readyCallback()},a.addEventListener?(a.addEventListener("DOMContentLoaded",n,!1),e.addEventListener("load",n,!1)):(e.attachEvent("onload",n),a.attachEvent("onreadystatechange",function(){"complete"===a.readyState&&t.readyCallback()})),(r=t.source||{}).concatemoji?d(r.concatemoji):r.wpemoji&&r.twemoji&&(d(r.twemoji),d(r.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+		<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+	<link rel='stylesheet' id='wp-block-library-css'  href='http://activehistory.ca/wp-includes/css/dist/block-library/style.min.css?ver=5.4.2' type='text/css' media='all' />
+<style id='wp-block-library-inline-css' type='text/css'>
+.has-text-align-justify{text-align:justify;}
+</style>
+<link rel='stylesheet' id='dashicons-css'  href='http://activehistory.ca/wp-includes/css/dashicons.min.css?ver=5.4.2' type='text/css' media='all' />
+<link rel='stylesheet' id='rubbersoul-pro-fonts-css'  href='https://fonts.googleapis.com/css?family=Noto+Sans:400italic,700italic,400,700&#038;subset=latin,latin-ext' type='text/css' media='all' />
+<link rel='stylesheet' id='rubbersoul-pro-style-css'  href='http://activehistory.ca/wp-content/themes/rubbersoul-pro/style.css?ver=2.6.4' type='text/css' media='all' />
+<link rel='stylesheet' id='custom-style-css'  href='http://activehistory.ca/wp-content/themes/rubbersoul-pro/custom-style.css?ver=5.4.2' type='text/css' media='all' />
+<link rel='stylesheet' id='rsoul-pro-widgets-style-css'  href='http://activehistory.ca/wp-content/themes/rubbersoul-pro/css/rsoul-widgets-style.css?ver=2.6.4' type='text/css' media='all' />
+<link rel='stylesheet' id='font-awesome-css'  href='http://activehistory.ca/wp-content/themes/rubbersoul-pro/css/font-awesome-4.7.0/css/font-awesome.min.css?ver=5.4.2' type='text/css' media='all' />
+<link rel='stylesheet' id='rsoul-pro-slider-recent-posts-style-css'  href='http://activehistory.ca/wp-content/themes/rubbersoul-pro/css/slider-recent-posts-fp.css?ver=2.6.4' type='text/css' media='all' />
+<!--[if lt IE 9]>
+<link rel='stylesheet' id='rubbersoul-pro-ie-css'  href='http://activehistory.ca/wp-content/themes/rubbersoul-pro/css/ie.css?ver=20121010' type='text/css' media='all' />
+<![endif]-->
+<link rel='stylesheet' id='social-logos-css'  href='http://activehistory.ca/wp-content/plugins/jetpack/_inc/social-logos/social-logos.min.css?ver=8.6.1' type='text/css' media='all' />
+<link rel='stylesheet' id='jetpack_css-css'  href='http://activehistory.ca/wp-content/plugins/jetpack/css/jetpack.css?ver=8.6.1' type='text/css' media='all' />
+<script type='text/javascript' src='http://activehistory.ca/wp-includes/js/jquery/jquery.js?ver=1.12.4-wp'></script>
+<script type='text/javascript' src='http://activehistory.ca/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.4.1'></script>
+<script type='text/javascript' src='//platform-api.sharethis.com/js/sharethis.js#product=ga'></script>
+<link rel='https://api.w.org/' href='http://activehistory.ca/wp-json/' />
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://activehistory.ca/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://activehistory.ca/wp-includes/wlwmanifest.xml" /> 
+<meta name="generator" content="WordPress 5.4.2" />
+<link rel="canonical" href="http://activehistory.ca/papers/papershistory-papers-19/" />
+<link rel='shortlink' href='https://wp.me/P2QQbJ-43e' />
+<link rel="alternate" type="application/json+oembed" href="http://activehistory.ca/wp-json/oembed/1.0/embed?url=http%3A%2F%2Factivehistory.ca%2Fpapers%2Fpapershistory-papers-19%2F" />
+<link rel="alternate" type="text/xml+oembed" href="http://activehistory.ca/wp-json/oembed/1.0/embed?url=http%3A%2F%2Factivehistory.ca%2Fpapers%2Fpapershistory-papers-19%2F&#038;format=xml" />
+<script type="text/javascript"><!--
+function powerpress_pinw(pinw_url){window.open(pinw_url, 'PowerPressPlayer','toolbar=0,status=0,resizable=1,width=460,height=320');	return false;}
+//-->
+</script>
+
+<link rel='dns-prefetch' href='//jetpack.wordpress.com'/>
+<link rel='dns-prefetch' href='//s0.wp.com'/>
+<link rel='dns-prefetch' href='//s1.wp.com'/>
+<link rel='dns-prefetch' href='//s2.wp.com'/>
+<link rel='dns-prefetch' href='//public-api.wordpress.com'/>
+<link rel='dns-prefetch' href='//0.gravatar.com'/>
+<link rel='dns-prefetch' href='//1.gravatar.com'/>
+<link rel='dns-prefetch' href='//2.gravatar.com'/>
+<link rel='dns-prefetch' href='//widgets.wp.com'/>
+<link rel='dns-prefetch' href='//v0.wordpress.com'/>
+	<style type='text/css'>
+		a {color: #0f7b3f;}
+	a:hover {color: #0f7b3f;}
+	.social-icon-wrapper a:hover {color: #0f7b3f;}
+	.prefix-widget-title {color: #0f7b3f;}
+	.term-icon {color: #0f7b3f;}
+	.sub-title a:hover {color:#0f7b3f;}
+	.entry-content a:visited,.comment-content a:visited {color:#0f7b3f;}
+	input[type="submit"] {background-color:#0f7b3f !important;}
+	input[type="reset"] {background-color:#0f7b3f !important;}
+	.bypostauthor cite span {background-color:#0f7b3f;}
+	.wrapper-cabecera {background-color:#0f7b3f;}
+	.wrapper-search-top-bar {background-color:#0f7b3f;}
+	.main-navigation {background-color:#0f7b3f;}
+	.entry-header .entry-title a:hover {color:#0f7b3f ;}
+	.archive-header {border-left-color:#0f7b3f;}
+	.main-navigation a:hover,
+	.main-navigation a:focus {
+		color: #0f7b3f;
+	}
+	.widget-area .widget a:hover {
+		color: #0f7b3f !important;
+	}
+	footer[role="contentinfo"] a:hover {
+		color: #0f7b3f;
+	}
+	.entry-meta a:hover {
+	color: #0f7b3f;
+	}
+	.format-status .entry-header header a:hover {
+		color: #0f7b3f;
+	}
+	.comments-area article header a:hover {
+		color: #0f7b3f;
+	}
+	a.comment-reply-link:hover,
+	a.comment-edit-link:hover {
+		color: #0f7b3f;
+	}
+	.template-front-page .widget-area .widget li a:hover {
+		color: #0f7b3f;
+	}
+	
+	.currenttext, .paginacion a:hover {background-color:#0f7b3f;}
+	.aside{border-left-color:#0f7b3f !important;}
+	blockquote{border-left-color:#0f7b3f;}
+	ul.tabs li.t-activa a {border-top-color: #0f7b3f;} 
+	.slider-current-btn a {background-color:#0f7b3f !important;}
+	h2.comments-title {border-left-color:#0f7b3f;}
+	
+		
+		
+			.titulo-descripcion {
+	 		text-transform:none;
+		}
+		
+		
+		
+			.wrapper-cabecera {height:70px; height:5rem;}
+		
+		
+			.header-logo {background-color:transparent;}
+		
+		
+		
+			
+		body.custom-font-enabled {font-family: "Noto Sans", Arial, Verdana;}
+	
+			@media screen and (min-width: 600px) {
+			#primary {float:left;}
+			#secondary {float:right;}
+			.site-content {
+				border-left: none;
+				padding-left:0;
+				padding-right: 24px;
+				padding-right:1.714285714285714rem;
+			}
+		}
+		
+		
+	@media screen and (max-width: 599px) {
+		.menu-toggle, .menu-toggle:hover {
+			background:#0f7b3f !important;
+			color:#ffffff !important;
+			width:100%;
+		}
+	}
+	
+	/* bbPress */
+		</style>
+	
+	<!-- Google Analytics -->
+    
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-8653817-1', 'auto');
+  ga('send', 'pageview');
+
+</script>
+    <!-- Google Analytics -->
+    <style type="text/css" id="custom-background-css">
+body.custom-background { background-color: #f4f4f4; }
+</style>
+	
+<!-- Jetpack Open Graph Tags -->
+<meta property="og:type" content="article" />
+<meta property="og:title" content="Memory Politics: Ottawa&#8217;s Monument to the Victims of Communism" />
+<meta property="og:url" content="http://activehistory.ca/papers/papershistory-papers-19/" />
+<meta property="og:description" content="By Gregor Kranjc Know that evil comes in many forms and seems to reinvent itself – Nazism, Marxist-Leninism, today, terrorism – they all have one thing in common: The destruction, the end, of human…" />
+<meta property="article:published_time" content="2015-03-14T20:15:59+00:00" />
+<meta property="article:modified_time" content="2015-03-16T01:37:56+00:00" />
+<meta property="og:site_name" content="Active History" />
+<meta property="og:image" content="http://activehistory.ca/wp-content/uploads/2019/02/cropped-ActiveHist2019_icon_whiteBCKG-6.jpg" />
+<meta property="og:image:width" content="512" />
+<meta property="og:image:height" content="512" />
+<meta name="twitter:site" content="@ActiveHist" />
+<meta name="twitter:text:title" content="Memory Politics: Ottawa&#8217;s Monument to the Victims of Communism" />
+<meta name="twitter:image" content="http://activehistory.ca/wp-content/uploads/2015/03/Kranjc-1.jpg?w=144" />
+<meta name="twitter:image:alt" content="Figure 1" />
+<meta name="twitter:card" content="summary" />
+
+<!-- End Jetpack Open Graph Tags -->
+<link rel="icon" href="http://activehistory.ca/wp-content/uploads/2019/02/cropped-ActiveHist2019_icon_whiteBCKG-6-32x32.jpg" sizes="32x32" />
+<link rel="icon" href="http://activehistory.ca/wp-content/uploads/2019/02/cropped-ActiveHist2019_icon_whiteBCKG-6-192x192.jpg" sizes="192x192" />
+<link rel="apple-touch-icon" href="http://activehistory.ca/wp-content/uploads/2019/02/cropped-ActiveHist2019_icon_whiteBCKG-6-180x180.jpg" />
+<meta name="msapplication-TileImage" content="http://activehistory.ca/wp-content/uploads/2019/02/cropped-ActiveHist2019_icon_whiteBCKG-6-270x270.jpg" />
+</head>
+
+<body class="page-template-default page page-id-15576 page-child parent-pageid-23 custom-background custom-font-enabled">
+	
+		
+	<header id="masthead" class="site-header" role="banner">
+	<div class="wrapper-cabecera">
+	
+		<div class="blogname-y-menu">
+			<div class="boton-menu-movil"><i class="fa fa-align-justify fa-2x"></i></div>
+			
+							<div class="header-logo">
+					<a href="http://activehistory.ca/"><img src="http://activehistory.ca/wp-content/uploads/2019/04/cropped-ActiveHist2019_icon_whiteBCKG-1.jpg" class="header-image" width="400" height="400" alt="Active History" /></a>
+				</div>
+						
+						<div class="titulo-descripcion">
+			
+									<p class="site-title"><a href="http://activehistory.ca/" title="Active History" rel="home">Active History</a></p>
+								
+				<p class="site-description">History Matters</p>
+				
+			</div>
+						
+			<div class="toggle-search"><i class="fa fa-search"></i></div>
+			
+			<div class="wrapper-site-navigation">
+				<nav id="site-navigation" class="main-navigation" role="navigation">
+					
+					<div class="menu-the-main-container"><ul id="menu-the-main" class="nav-menu"><li id="menu-item-7899" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-home menu-item-7899"><a href="http://activehistory.ca/">Home</a></li>
+<li id="menu-item-7902" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-7902"><a href="http://activehistory.ca/about/">About</a></li>
+<li id="menu-item-7900" class="menu-item menu-item-type-post_type menu-item-object-page current-page-ancestor menu-item-7900"><a href="http://activehistory.ca/papers/">Features</a></li>
+<li id="menu-item-25840" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-25840"><a href="http://activehistory.ca/publications/">Publications</a></li>
+<li id="menu-item-7915" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-7915"><a href="http://activehistory.ca/podcasts/">Podcasts</a></li>
+<li id="menu-item-20816" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-20816"><a href="http://activehistory.ca/donate/">Support Us</a></li>
+</ul></div>				</nav><!-- #site-navigation -->
+                
+				<div class="wrapper-search-top-bar">
+                	<div class="search-top-bar">
+							<div>
+		<form method="get" id="searchform-toggle" action="http://activehistory.ca/">
+			<label for="s" class="assistive-text">Search</label>
+			<input type="search" class="txt-search" placeholder="Search..." name="s" id="s" />
+			<input type="submit" name="submit" id="btn-search" value="Search" />
+		</form>
+    </div>                    </div>
+                </div>
+                
+			</div><!-- .wrapper-site-navigation -->
+			
+		</div><!-- .blogname-y-menu -->
+        
+	<div style="position:relative; clear:both;">
+		
+<div id="menu-movil">
+	<div class="search-form-movil">
+		<form method="get" id="searchform-movil" action="http://activehistory.ca/">
+			<label for="s" class="assistive-text">Search</label>
+			<input type="search" class="txt-search-movil" placeholder="Search..." name="s" id="s" />
+			<input type="submit" name="submit" id="btn-search-movil" value="Search" />
+		</form>
+    </div><!-- search-form-movil -->
+	<div class="menu-movil-enlaces">
+		<div class="menu-the-main-container"><ul id="menu-the-main-1" class="nav-menu"><li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-home menu-item-7899"><a href="http://activehistory.ca/">Home</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-7902"><a href="http://activehistory.ca/about/">About</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page current-page-ancestor menu-item-7900"><a href="http://activehistory.ca/papers/">Features</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-25840"><a href="http://activehistory.ca/publications/">Publications</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-7915"><a href="http://activehistory.ca/podcasts/">Podcasts</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-20816"><a href="http://activehistory.ca/donate/">Support Us</a></li>
+</ul></div>	</div>
+	
+	<div class="social-icon-wrapper-movil">
+							<a href="https://twitter.com/activehist" title="Twitter" target="_blank"><i class="fa fa-twitter"></i></a> 
+						
+							<a href="https://www.facebook.com/ActiveHist/" title="Facebook" target="_blank"><i class="fa fa-facebook"></i></a>
+						
+						
+						
+					 		<a href="https://www.youtube.com/user/activehistoryca" title="YouTube" target="_blank"><i class="fa fa-youtube"></i></a>
+						
+						
+						
+							<a class="rss" href="http://feeds.feedburner.com/activehistoryca" title="RSS" target="_blank"><i class="fa fa-rss"></i></a>			
+					</div><!-- .social-icon-wrapper -->	
+</div><!-- #menu-movil -->    </div>
+    
+	</div><!-- wrapper-cabecera -->
+	
+	<div class="wrapper-area-widget-superior area-widget-padding-top">
+		</div>
+	
+	</header><!-- #masthead -->
+	
+<div id="page" class="hfeed site">
+	
+	<div id="main" class="wrapper">
+	<div id="primary" class="site-content">
+		<div id="content" role="main">
+
+							
+	<article id="post-15576" class="post-15576 page type-page status-publish hentry">
+
+		<header class="entry-header">
+													<h1 class="entry-title">Memory Politics: Ottawa&#8217;s Monument to the Victims of Communism</h1>
+					</header>
+
+		<div class="entry-content">
+			<p><em>By Gregor Kranjc</em></p>
+<p><em>Know that evil comes in many forms and seems to reinvent itself – Nazism, Marxist-Leninism, today, terrorism – they all have one thing in common: The destruction, the end, of human liberty.</em></p>
+<p><em>Ideologies that promise utopias lead to the opposite, hell on earth. That’s why […] this monument […] reminds us of the names the stories of those lost to one of the deadliest ideological plagues ever spread, to communism</em>.</p>
+<p>The year is 2014, not 1954, and the speaker is the Conservative Canadian Prime Minister Stephen Harper, not Senator Joseph McCarthy. These phrases denouncing Communism and celebrating Canada’s commitment to freedom, democracy and justice were extolled <a href="http://pm.gc.ca/eng/news/2014/05/30/statement-prime-minister-canada-toronto-0" target="_blank">in a 20-minute speech</a> at a 250$-per plate fundraising event in Toronto for the building of the Memorial to the Victims of Communism on 30 May 2014. Harper’s speech had in fact very little to do with the actual monument proposed for Ottawa or the historical record of communism, beyond denouncing it as an abomination alongside fascism that “snuffed out the lights and lives of freedom, democracy and justice”. It did have a lot to say about conservatives winning the Cold War (and standing on the shoulders of the “giants” U.S. President Ronald Reagan and British Prime Minister Thatcher), about the apologetic and weak-kneed stance towards Communist regimes by successive Liberal governments (although he never mentioned the party by name), and about the large numbers of Canadians (approximately one-quarter in Harper’s estimates) who trace their origins to current or former Communist countries.</p>
+<p>As Harper’s speech was delivered at the height of the ongoing Ukrainian crisis, two months after Russia’s annexation of the Crimea, over a quarter of his speech was dedicated to Canada’s unfailing support of the new Ukrainian government (including Canada’s official recognition of the Holodomor as a genocide in 2008 that was spearheaded by the Conservative Party) and allusions that history – and the Cold War – was repeating itself as Russian President Vladimir Putin once again threatened the freedom-loving people of Eastern Europe. Indeed Harper’s speech stands as a useful metaphor in helping to understand the controversy behind the proposed Memorial to the Victims of Communism in Ottawa. From its inception, the campaign to build the monument has been marred by a caricaturized understanding of the historical context of Communism and its legacies, and an uncritical equivalency of its relationship with other homicidal and genocidal ideologies of the 20<sup>th</sup> century. Moreover, the monument has surprisingly little to say about the victims of Communism themselves, but much to say about the current climate of political partisanship in Canada. In fact, the East European and East Asian émigré associations who helped spearhead the project, and who were road-blocked by a lack of public interest in financing the campaign, have made effective use of Communism’s resurrection as electoral fodder.</p>
+<p>Over the past seventy years, numerous monuments to the victims of communism have been built in Canada. Most of them, though, were constructed by the country’s various immigrant communities, impacted in one form or another by Communism. In Toronto, the city’s Polish community alone has constructed two monuments to Communism’s victims – a striking Katyn memorial and a more humble monument to the Soviet deportation of Polish soldiers to Siberia. While government support has often been critical in their construction, it has usually been local municipal governments who have assisted, for example in donating land for the monuments or, in the case of Budapest Park in Toronto, by renaming an existing park in memory of the 1956 Revolution. What sets the Ottawa Memorial to the Victims of Communism apart has been the unprecedented active financial, logistical and spiritual support provided by the Canadian federal government and its ruling Conservative Party.</p>
+<p>The origins of the memorial according to Josef Cermak, the doyen of the Czech-Canadian community, was an off-the-cuff remark by Jason Kenney, the Secretary of State for Multiculturalism and Canadian Identity, to the Czech ambassador in Canada Pavel Vošalík while visiting the Masaryk Memorial Institute, the centre of the Czech and Slovak immigrant community in Toronto, on Czech and Slovak Day in July 2007. The two men were standing before a small monument to the victims of communism entitled “Crucified Again,” (Figure 1) which had been erected by the Club of Czechoslovak Political Prisoners in Toronto in 1989, when Kenney remarked “Too bad, this monument doesn’t stand somewhere where more people could see it.”<a href="#1">[1]</a> The Czech ambassador agreed and thus the idea for the memorial was born.</p>
+<div id="attachment_15577" style="width: 230px" class="wp-caption alignleft"><img aria-describedby="caption-attachment-15577" data-attachment-id="15577" data-permalink="http://activehistory.ca/papers/papershistory-papers-19/kranjc-1/" data-orig-file="http://activehistory.ca/wp-content/uploads/2015/03/Kranjc-1.jpg" data-orig-size="220,165" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;}" data-image-title="Kranjc 1" data-image-description="" data-medium-file="http://activehistory.ca/wp-content/uploads/2015/03/Kranjc-1.jpg" data-large-file="http://activehistory.ca/wp-content/uploads/2015/03/Kranjc-1.jpg" class="size-full wp-image-15577" src="http://activehistory.ca/wp-content/uploads/2015/03/Kranjc-1.jpg" alt="Figure 1" width="220" height="165" /><p id="caption-attachment-15577" class="wp-caption-text">Figure One</p></div>
+<p>Kenney next approached the prime minister who officially approved the plan in a letter in 2008. A member of the Czech community, Zuzana Hahn, whose family fled Czechoslovakia in the wake of the Prague Spring, spearheaded the grassroots organization and fundraising for the group, managing to secure additional support from other Canadian (mostly East European) émigré associations and over a dozen ambassadors by 2009. The initial working group behind the project, the Open Book Group, divided in 2008 into another non-profit organization, the Tribute to Liberty group.<a href="#2">[2]</a> In September 2009 Tribute to Liberty’s proposal for permission to erect a memorial (with the Open Book Group subsumed within it) on National Capital land – that is, federal land – was submitted to the National Capital Commission’s (NCC) board which oversees all development on public federal lands.</p>
+<p>Thus from the very start, the federal government and its minister for multiculturalism were closely involved in the monument project. This was no mere accident. The Conservative Party formed a minority government in 2006 (a position it would be in until 2011 when it won a majority). In order to receive the necessary votes to vault into majority territory, the Conservative Party engaged in outreach to ethnic Canadian communities, particularly those in the Greater Toronto Area (GTA), a densely multicultural belt that surrounds Toronto and that traditionally had voted Liberal. The Conservatives were convinced that headway could be made among these communities as “‘work hard, play by the rules’ types who don’t like high taxes or big government, often having escaped oppressive regimes” and who the Conservatives saw “as naturally sympathetic to small-c conservative values.”<a href="#3">[3]</a></p>
+<p>Kenney’s multiculturalism office spearheaded these efforts. <em>The Toronto Star</em> reported on 22 February 2008 that Kenney was at the Polish National Union of Canada building in Toronto listening to “a pitch [that] was made for the Conservative government to designate land in Ottawa for a cross-cultural monument to victims of Communism,” a project, the report continued, that “has drawn together Canadians in the GTA of Polish, Czech, Ukrainian, Hungarian, Tibetan, Cuban, Latvian, Lithuanian and Korean descent.”<a href="#4">[4]</a> The visit with Polish community leaders was part of a larger blitz of “back-to-back events, sometimes 15 to 20 from Friday afternoon to Sunday night, [where] Kenney meets with groups of cultural community leaders, talks to ethnic media, shakes hands with new Canadians and takes notes.”<a href="#5">[5]</a></p>
+<p>In addition to his involvement in kick-starting the monument project, Kenney was also present at the screening of the film Katyn and an exhibit dedicated to the victims of the Holodomor which were both held at the National Gallery in Ottawa in April 2008, and which were sponsored by Kenney’s office, the embassies of Poland and Ukraine and parliamentary friendship groups.<a href="#6">[6]</a> Hahn did not dispute that the presence of a federal minister with particularly close ties to the prime minister at the working meetings of ethnic Canadians hoping to construct the memorial “gives the Conservatives good visibility,” that “it definitely helps the Conservative government,” and that “it’s a very smart thing for them to be doing.” However, Hahn added that the visibility given to the Conservative government in its support for the memorial project was “not necessarily my goal” and that “[t]his is about something that&#8217;s very important to people on an emotional level &#8230;These are extremely personal things, they resonate very deeply with most of us.”<a href="#7">[7]</a> Despite Hahn’s ambivalent attitude towards the Conservative government’s support for the project, their assistance would only increase as the proposed monument encountered bureaucratic hurdles, political push-back and lukewarm public support.</p>
+<p>In 2008 the scale and scope of the monument was still unclear. Ambitiousness, however, was not in short supply. Wladyslaw Lizon, president of the Polish National Congress, noted that while “[w]e’re still in discussions about how big it would be […] it would have to be very noticeable, at least 30 feet tall.”<a href="#8">[8]</a> Others within the East European ethnic communities believed that a monument would not suffice, believing that a museum for the victims of Communism was preferable. Lubomyr Luciuk, the chairman of the Ukrainian Canadian Civil Liberties Association, noted in 2009 that “people will come to visit [a monument] perhaps occasionally,” and that it could not “adequately teach of communism&#8217;s vast, unique horrors.”<a href="#9">[9]</a> Instead he urged the construction of a national museum, pointing to the Canadian Museum for Human Rights, which was at that time still being built in Winnipeg, as a more effective example of remembering and learning about past crimes. Hahn also expressed misgivings that a monument would adequately document communism’s atrocities, pointing to the Victims of Communism Memorial in Washington DC – a 10-foot replica of the 33-foot high Goddess of Democracy statue that crowned the centre of Tiananmen Square during pro-democracy protests in 1989 – as a monument which “represents [US] values of freedom more than bitter memories of immigrant communities.”<a href="#10">[10]</a></p>
+<p>While the conflicting views on what form the final monument in Ottawa should take – a monument, museum or both – was one of friendly disagreements over shape rather than substance between otherwise supportive activists in the East European community, the NCC’s board of directors questioned the very core of the project. While the NCC’s board approved the project, it added that it should proceed “perhaps with a different title.”<a href="#11">[11]</a> Discussions between Tribute to Liberty and the NCC’s experts led to the original title “Monument to the Victims of Communism” being changed to “Monument to the Victims of <em>Totalitarian</em> Communism” [author’s italics] because otherwise it could be perceived as “unduly critical of Canadians who might associate themselves with communism.”<a href="#12">[12]</a> Some board members, such as Adel Ayad, remained uneasy about Tribute’s focus on communism alone: “It&#8217;s not communism itself that we should be fighting here […]. It is rather totalitarianism we are against in any form”.<a href="#13">[13]</a> Board member Richard Jennings suggested changing “totalitarian communism” with the phrase “oppressive regimes”, while others “suggested that the monument should focus more on Canada as a refuge for victims of oppressive regimes.”<a href="#14">[14]</a> The NCC countered with another suggested title: “Canada: A Place of Refuge for Victims of Communism and Oppressive Regimes,” noting that “this would better reflect the experience of all Canadians who have fled different forms of oppressive regimes.”<a href="#15">[15]</a> Alide Forstmanis, Chair of Tribute to Liberty, was not satisfied with lumping “communism in with something else. It’s not that we say the others weren’t bad, it’s just that communism has lasted so long—it’s still around, <em>it’s unique, it differs—and that’s why it needs to be on its own</em> [author’s italics].”<a href="#16">[16] </a>The NCC approved the name “Victims of Totalitarian Communism” in late September 2009, provided it included the subtitle “Canada, a Land of Refuge.”<a href="#17">[17]</a></p>
+<p>The naming controversy garnered some attention in the Canadian media, particularly from the <em>National Post</em> and the <em>Ottawa Citizen</em>, with most commentary (including letters from members of East Asian and East European immigrant communities) in favour of Tribute to Liberty and the Canadian government’s support of the project. Critiques of the NCC were grounded in a competing narrative of what is usually assumed to have been Canada’s role in the Cold War – namely, a more reasonable Cold Warrior than its southern neighbour that willingly engaged with Communist regimes. Indeed, Canada nurtured diplomatic relations with Communist regimes in the 1970s and 1980s, to say nothing of its alliance with “Uncle Joe” during World War II. Former Canadian Prime Minister Pierre Trudeau’s visit with Chairman Mao in 1973 and his rather close relationship with Fidel Castro were particularly irritating to this understanding of the Cold War, as they were for Harper who in his May 2014 speech at the Tribute to Liberty fundraiser pointed to the “moral-equivalency” of past Canadian governments, which had urged Canadians “to accept totalitarian communism as just another option.”<a href="#18">[18]</a></p>
+<p>Harper’s criticism was in keeping with editorials which, for example, bemoaned the “cool factor” that Communist insignias and images like the ever-present Che Guevara t-shirts still represented for young Canadians.<a href="#19">[19]</a> Hahn agreed with this pervasive double-standard that provided Communist regimes a free pass by Canadians, yet she also suggested that the campaigns by comparatively much better organized victims of fascism – namely Jews – helped explain why the crimes of fascism eclipsed those of communism in the public consciousness. She noted that selling a monument to the victims of communism was not as easy as a Holocaust memorial: “The Jews have been so verbal, and would not let us forget…But when you talk to people about communism &#8230; many feel, ‘oh, it wasn’t so bad.’”<a href="#20">[20]</a> Were Jews not letting Canadians forget, or was it the singular horror that Canadians felt in learning about the machinery of Nazi death camps – a reaction which did not extend to Soviet prison and labour camps?</p>
+<p>Perhaps the best known academic work that addressed the concerns of Hahn and others that the crimes of Communism had been comparatively brushed off was (editor) Stephane Courtois’ <a href="http://www.hup.harvard.edu/catalog.php?isbn=9780674076082" target="_blank"><em>The Black Book of Communism</em></a>, which identified Communism as the twentieth century’s most destructive ideology. Courtois’ work both informed and anticipated many of the controversies in building a monument to the victims of communism in Canada. Published initially in France in 1997 before being translated into English, <em>The Black Book of Communism</em> (Figure 2) is the source of “the nearly 100 million”, “the 100 million” or the “over 100 million” victims of communism that have been variously claimed by the supporters of the memorial. Courtois posited that the 100 million victims of Communism far outnumbered the 25 million deaths caused by the Nazis – consequently “communism represents a greater evil than Nazism”.<a href="#21">[21]</a> Tribute to Liberty frequently sources <em>The Black Book of Communism</em> on its website, including its description of Communism as “the most colossal case of political carnage in history.”<a href="#22">[22]</a> Other opinion and letter writers who have weighed into the memorial controversy have also described Communist crimes as “greater than those of Nazi Germany” and Communism as “the 20th century’s deadliest ideology”.<a href="#23">[23]</a></p>
+<p>Yet <em>The Black Book of Communism</em> was also greeted with considerable controversy. Holocaust historian <a href="http://jwa.org/encyclopedia/article/wieviorka-annette" target="_blank">Annette Wieviorka</a> claimed that Courtois was “attempting to substitute the memory of Communism’s crimes for the memory of Nazi crimes,” and that he “was explicitly attacking what he called the ‘international Jewish community’ for emphasizing the crimes of Hitler in a way that displaced the much greater crimes of communism.”<a href="#24">[24]</a> Historian Jon Wiener provides an excellent summary of <em>The Black Book</em> controversy, revealing that two of its own contributors – Nicholas Werth and Louis Margolin, who wrote the chapters on the Soviet Union and China, Vietnam and Cambodia respectively – concluded that the evidence fell short of Courtois’ neat figure of 100 million (their estimates were between 65 and 93 million). Werth and Margolin even consulted lawyers in an unsuccessful attempt to have their contributions withdrawn.<a href="#25">[25]</a></p>
+<p>The frequent citing of the 100 million figure by politicians and the public alike reveals its attractiveness. Wiener also highlighted the qualitative difference between Nazi and Communist repression which led to famine claiming over half the deaths in Communist regimes, provoking historian J. Arch Getty’s claim that the Soviet famines in the 1930s were caused by the “stupidity or incompetence of the regime” and should not be equated with genocide.<a href="#26">[26]</a> Moreover, Wiener contends that if “‘excess mortality’ due to poor nutrition and inadequate medical care – in the Gulag, in particular […] is the standard” of comparison, then capitalist countries like India, according to historian Amartya Sen, have provided a significantly higher death rate in the last half-century, to say nothing of post-Communist Russia in the 1990s which also experienced greater “excess mortality” compared to the last decades of the Soviet Union.<a href="#27">[27]</a> The late historian Tony Judt, who was otherwise impressed with Courtois’ work, also questioned whether “state-induced famine” was “analogous to industrial-scale racial genocide,” adding that there is a “crucial <em>analytical</em> contrast &#8230; between regimes that exterminate people in the inhuman pursuit of an arbitrary objective and those whose objective is extermination itself”, even if they remain “<em>morally</em> indistinguishable”.<a href="#28">[28]</a></p>
+<div id="attachment_15578" style="width: 148px" class="wp-caption alignright"><img aria-describedby="caption-attachment-15578" data-attachment-id="15578" data-permalink="http://activehistory.ca/papers/papershistory-papers-19/kranjc-2/" data-orig-file="http://activehistory.ca/wp-content/uploads/2015/03/Kranjc-2.jpg" data-orig-size="138,211" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;}" data-image-title="Kranjc 2" data-image-description="" data-medium-file="http://activehistory.ca/wp-content/uploads/2015/03/Kranjc-2.jpg" data-large-file="http://activehistory.ca/wp-content/uploads/2015/03/Kranjc-2.jpg" class="size-full wp-image-15578" src="http://activehistory.ca/wp-content/uploads/2015/03/Kranjc-2.jpg" alt="Figure 2" width="138" height="211" /><p id="caption-attachment-15578" class="wp-caption-text">Figure Two</p></div>
+<p>Judt’s review of <em>The Black Book</em> also offered an additional important observation, which anticipated the NCC naming controversy: “Is it ‘Communism’ that links and explains the deeds of Lenin, Stalin, Mao, Kim Il Sung, Pol Pot and all their lesser acolytes in Afghanistan, Ethiopia, Angola, Poland and elsewhere? In name, yes, but in practice the Cambodian massacres, to take just one case, have more in common with the horrors of Rwanda and Bosnia than with Stalin’s secretive, paranoid, targeted purges.”<a href="#29">[29]</a> Indeed, by naming a monument to the victims of Communism, does it not cast the net too wide, identifying the murderous motives in an almost two-century old ideology that had its roots in the inequality and exploitation of Europe’s 19<sup>th</sup> century industrial revolution, and which spawned divergent political applications across the globe (and some seemingly contradicting, like the inability of the state to wither away) of the communist society which co-founder Karl Marx only vaguely described? Was the ideology of Communism central or incidental to the crimes perpetrated by these regimes? Other scholars, like political scientist Andrew Roberts, believes that the regimes of Eastern Europe (including those of Asia) cannot be usefully described as anything but Communist, as using the increasingly popular designation of socialist or state socialist, “stretches the concept of socialism too thin, turns communism into an empty category, and has negative consequences for existing democratic socialists” which are tainted by the crimes of Communist regimes.<a href="#30">[30]</a></p>
+<p>Tribute to Liberty and its supporters employed Courtois’ thesis in rejecting the NCC’s attempt to divert the memorial to the victims of communism into a monument to all victims of oppressive regimes by claiming “it’s unique, it differs—and that’s why it needs to be on its own.” However, at other times, supporters of the monument have taken the opposite approach, claiming that Communism emanates from the same “evil” (to borrow the terminology from Harper’s speech) as fascism and terrorism, piggy-backing off the more reliable and contemporary public revulsion to their crimes. If all ideologies are fair game, then the victims of capitalism – according to those critical of the motives behind the monument – should also be added to the comparison. The Canadian writer and journalist Rick Salutin advocated, albeit tongue-in-cheek, such an approach in a 2010 <em>Globe and Mail</em> editorial:</p>
+<blockquote><p>My favourite moment in Wednesday’s Throne Speech was the promise to erect a monument to the victims of communism. As a monument-liker, that would be fine with me – <em>if</em> it were twinned with a monument to the victims of capitalism, which makes as much sense. Or maybe they could both be united by the need to cut spending, resulting in a single National Victims Monument, come one, come all.<a href="#31">[31]</a></p></blockquote>
+<p>Salutin’s comment largely flew under the radar, but his more serious claim that capitalism too had taken its pound of flesh would be resurrected by the leader of the Canadian Green Party to much more media attention three years later.</p>
+<p>The NCC’s primary objection to the memorial’s name was based on the fact that it was “unduly critical of Canadians who might associate themselves with communism”.<a href="#32">[32]</a> Predictably the Communist Party of Canada, which has consistently polled under 1% of the Canadian electorate in recent elections, responded in anger to the NCC’s approval of the monument. They believed the monument was “defamatory” and that it “smacks of the type of vicious anti-communism which plagued our country (among others) during much of the latter half of the last century.”<a href="#33">[33]</a> Moreover, the Communist Party believed the NCC violated its own 2006 Comprehensive Commemoration Program and Policy for Canada’s Capital in approving the monument, particularly “its mandate of building pride and unity among Canadians.”<a href="#34">[34]</a> In the Communist Party’s view, the monument will divide Canadians:</p>
+<blockquote><p>the monument would constitute an unjust attack on the pride Canadian Communists feel for our pioneering contributions to Canada since 1921, such as fighting fascism, organizing industrial workers into unions, initiating the movements to win unemployment insurance, public health care and other social programs, campaigning for peace and disarmament, fighting for the full national rights of Aboriginal peoples and Quebec and in defending Canada’s sovereignty. <a href="#35">[35]</a></p></blockquote>
+<p>The Communist Party would later also question why such an overtly political monument was granted charitable status. Yet, the Communist Party also played its own dubious “numbers game” by claiming that Tribute to Liberty’s 100 million victims of Communism included 25 million Soviet citizens that died fighting against fascism. In fact, Courtois’ work estimated 20 million Soviet victims of Communism, but did not include the over 20 million who died fighting the Nazis during World War II.</p>
+<p>The Communist Party of Canada’s denunciation of the proposed monument placed it in a distinct minority as most public reactions to the monument, as already noted, were sharply critical of the “political correctness” of the NCC. In any event, public interest in the proposed memorial was ultimately restricted to the NCC naming controversy in the months of September and October 2009, and went largely dormant after that. Media attention resurfaced briefly in March 2010 when the Conservatives pledged in their Speech from the Throne – a speech that introduces a government’s legislative priorities – to support “the establishment of a National Monument to the Victims of Communism and […] establish a national Holocaust memorial.”<a href="#36">[36]</a> It was this official endorsement of the project by the Conservative government that provoked Salutin’s aforementioned editorial from March 2010. A number of political analysts suggested that Harper’s commitment to victims – and they highlighted that it was not just limited to those of communism and Nazism, but also to victims of crime in Canada – were “largely symbolic policy nuggets”, while opposition parties referred to them as “gimmicks”.<a href="#37">[37]</a> What escaped criticism was the government’s public pledge to help build memorials to the victims of communism <em>and</em> <em>Nazism</em>. The Conservative Party’s position in its Speech from the Throne was consistent with its overall tactic of conflating the two ideologies. No mainstream commentator (the Communist Party of Canada not included) pounced on the paradox that it was the Communist Soviet Union (Canada’s World War II ally) that engaged the bulk of Hitler’s armies and ultimately liberated the Nazi death camps.</p>
+<p>Controversy erupted once again with a critical funding announcement by the Conservative government on 23 August 2013. The date was not chosen arbitrarily, as it was on the 23 August 1939 that the Molotov-Ribbentrop Pact was signed which witnessed the shocking spectacle of the two ideological enemies – Soviet Russia and Nazi Germany – promising mutual non-aggression and secretly dividing Eastern Europe between them. If there was ever a day that could be used as ammunition for twinning the evils of communism and fascism, the 23 August was it. Indeed, anti-Communist émigrés commemorate the day as Black Ribbon Day, which the Conservative government made an official day of remembrance in Canada in 2009. The Conservatives announced they would be providing Tribute to Liberty and the Memorial to the Victims of Communism campaign $1.5 million in funding, adding, at the same time, that the project’s overall budget had increased from $1.5 to $4 million.</p>
+<p>Tribute to Liberty’s original proposal to the NCC had been budgeted at $1.5 million, which the organization’s chair pledged in September 2009 would be raised by private donations: “We aren’t going after any government funds.”<a href="#38">[38]</a> Fundraising over the next three years remained dismal, pushing the building of the monument further and further into the future, and potentially outside of a Conservative tenure in office. In 2010, the group only had $15,000 in the bank and received $45,000 in donations and gifts; in 2011 it had $9,000 in the bank and had received $52,000 in revenue.<a href="#39">[39]</a> By 2012 the group had only raised $140,000.<a href="#40">[40]</a> A few of the larger recent private donations have come from individuals associated with the Conservatives, not least Conservative Senator Linda Frum who is listed as a “legacy donor” (over $100,000). In an interview with the <em>Ottawa Citizen</em> in 2011, Carolyn Foster, Tribute to Liberty’s project coordinator admitted: “It’s very slow, unfortunately […]. It’s a difficult project for a lot of the public to understand. It’s not like raising money for a new wing of hospital.” The paper noted that “[a]t the current rate of fundraising and spending, it would take decades to reach the goal of erecting the monument”, or even the $650,000 necessary for the NCC to begin a design selection.<a href="#41">[41]</a></p>
+<p>The Conservative Party’s $1.5 million contribution – and its active fundraising efforts on behalf of Tribute to Liberty, including Harper’s May 2014 speech at the memorial fundraiser – solved the financial woes of Tribute to Liberty, breathing life into the moribund construction schedule. On 1 April 2014, the federal government launched the official design competition for the “Memorial to the Victims of Communism: Canada, a Land of Refuge,” which, evidently, jettisoned what they saw as the unpalatable “totalitarian” adjective from the title. Yet the solution to the memorial’s financial difficulties raised a new problem of optics – taxpayers were now footing the bill for what was supposed to be a monument that allegedly reflected, according to the Prime Minister, the experiences of one-quarter of all Canadians. If such a large number of Canadians were indeed impacted by Communism, why were so few donating? Even traditional allies of political conservatism, like the Canadian Taxpayers Federation, which “called the memorial ‘a great project’” believed “‘it’s a slippery slope when the government gets involved with sponsoring these kinds of things’ [adding] it would have been better […] if Tribute to Liberty ‘had just persevered and raised enough money to build it.’”<a href="#42">[42]</a> With the infusion of $1.5 million, the project had become in part, despite the signatures of support from most of the other leading political parties in Parliament, a Conservative Party monument.</p>
+<div id="attachment_15580" style="width: 146px" class="wp-caption alignleft"><img aria-describedby="caption-attachment-15580" data-attachment-id="15580" data-permalink="http://activehistory.ca/papers/papershistory-papers-19/kranjc-3/" data-orig-file="http://activehistory.ca/wp-content/uploads/2015/03/Kranjc-3.jpg" data-orig-size="136,227" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;}" data-image-title="Kranjc 3" data-image-description="" data-medium-file="http://activehistory.ca/wp-content/uploads/2015/03/Kranjc-3.jpg" data-large-file="http://activehistory.ca/wp-content/uploads/2015/03/Kranjc-3.jpg" class="size-full wp-image-15580" src="http://activehistory.ca/wp-content/uploads/2015/03/Kranjc-3.jpg" alt="Figure 3" width="136" height="227" /><p id="caption-attachment-15580" class="wp-caption-text">Figure Three</p></div>
+<p>Without government support, the Canadian memorial to the victims of Communism was clearly on track to follow its American counterpart into obscurity. This wasn’t predicted in 1993, when the US Congress, with much fanfare, authorized a $100 million Victims of Communism Museum, which would include a re-creation of the Gulag and a <em>200-foot high statue</em> of the Goddess of Democracy, to be built on public lands in Washington DC. The first decade of fundraising was abysmal. In 2003, the $100 million museum was scaled down to a $25 million building; a year later even these plans appeared out of reach and were discarded, replaced by the current 10-foot statue of the Goddess of Democracy (Figure 3).<a href="#43">[43]</a> Prominent locations for the memorial were proposed – Capitol Hill and then the US Supreme Court. All were turned down by the National Capital Planning Commission. An agreed upon site at a park relatively close to the Supreme Court was torpedoed by neighbours who opposed the uprooting of half-century old oak trees to build the memorial. The final site, a busy traffic intersection one kilometer away from Capitol Hill was finally chosen as the site for the memorial. The lack of enthusiasm was evident in the poor attendance at the ground-breaking – only fifty people showed up – while only four hundred attended the dedication ceremony in June 2007 in which President Bush gave a speech.<a href="#44">[44]</a></p>
+<p>Unlike their US counterpart’s refusal to dedicate taxpayer funds to the monument, the Canadian government took over financing and direction of the project. Moreover, unlike the US monument’s final sad resting spot, the NCC approved 5000 m² for the memorial in a prime location on Wellington Street, next to the Supreme Court of Canada and less than half a kilometer from Parliament Hill. The scale of the proposed Canadian monument also eclipses the rather humble US statue. The launch of the official design competition in April 2014 netted six rather striking finalists (Figure 4). The winning bid (the first design in the series), by Toronto-based firm <a href="http://www.abstraktstudio.ca" target="_blank">ABSTRAKT Studio Architecture</a>, is anticipated to reach a height of 14.5 meters, and will include a three-story high image of the victims of communism, a life-sized statue of a fallen victim and “one hundred million finger-tip sized ‘memory squares,’ each representing a life lost to Communist regimes worldwide”.<a href="#45">[45]</a> The plan to inscribe 1000 names of the victims of communism into the monument and its walkways at the cost of a $1000 donation to Tribute to Liberty has raised hackles, not least from the editor of <em>Canadian Architect</em> magazine, who argued in a <em>National Post</em> editorial that this “highlighting of donors effectively renders the project a private memorial, subsidized by public land and funds.”<a href="#46">[46]</a></p>
+<div id="attachment_15581" style="width: 310px" class="wp-caption aligncenter"><a href="Figure Four"><img aria-describedby="caption-attachment-15581" data-attachment-id="15581" data-permalink="http://activehistory.ca/papers/papershistory-papers-19/screen-shot-2015-03-14-at-9-31-05-am/" data-orig-file="http://activehistory.ca/wp-content/uploads/2015/03/Screen-Shot-2015-03-14-at-9.31.05-AM.png" data-orig-size="623,314" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;}" data-image-title="Screen Shot 2015-03-14 at 9.31.05 AM" data-image-description="" data-medium-file="http://activehistory.ca/wp-content/uploads/2015/03/Screen-Shot-2015-03-14-at-9.31.05-AM-300x151.png" data-large-file="http://activehistory.ca/wp-content/uploads/2015/03/Screen-Shot-2015-03-14-at-9.31.05-AM.png" class="wp-image-15581 size-medium" src="http://activehistory.ca/wp-content/uploads/2015/03/Screen-Shot-2015-03-14-at-9.31.05-AM-300x151.png" alt="Screen Shot 2015-03-14 at 9.31.05 AM" width="300" height="151" srcset="http://activehistory.ca/wp-content/uploads/2015/03/Screen-Shot-2015-03-14-at-9.31.05-AM-300x151.png 300w, http://activehistory.ca/wp-content/uploads/2015/03/Screen-Shot-2015-03-14-at-9.31.05-AM.png 623w" sizes="(max-width: 300px) 100vw, 300px" /></a><p id="caption-attachment-15581" class="wp-caption-text">Figure Four</p></div>
+<p>Invigorated by movement on the design of the monument, in August 2014 the federal government doubled its contribution to the memorial, pledging $3 million dollars. With the land transfer from the Ministry of Public Works, the total government support for the project is currently $4 million. In announcing the winning competition in December 2014, Heritage Minister Shelly Glover estimated that the total cost of the memorial (not including the cost of the land) was $5.5 million, noting, however, “That’s the approximate now”.<a href="#47">[47]</a> The government is thus currently contributing some 55% of the estimated cost of the memorial, with the remaining $2.5 million to be raised by Tribute to Liberty. As of December 2014, Tribute to Liberty claimed that it was still $800,000 to $900,000 short of its share of the monument’s cost.<a href="#48">[48]</a> The sensitivity of government assistance was clear in a 25 August 2014 CBC interview with Ludwik Klimkowski, the chair of Tribute to Liberty, who when asked how much government “help” Tribute to Liberty received, stated that he preferred to view it as a “partnership”.<a href="#49">[49]</a></p>
+<p>In the middle of the October 2013 Speech from the Throne, which reasserted the $1.5 million earmarked for the monument, Green Party leader Elizabeth May tweeted: “No mention of monument to victims of capitalism. :)”.<a href="#50">[50]</a> The emoticon, according to May, was to denote the satirical gist of her comment. Kenny angrily replied in an online post: “Perhaps that’s because no one was shot in the back while risking their lives to flee eastward over the Iron Curtain. […] Or perhaps that’s because free societies didn’t murder tens of millions in gulags, planned famines, etc.”<a href="#51">[51]</a> May later clarified her comment, adding that “I am questioning this relentless process of building monuments [&#8230;]. There are a lot of victims of a lot of ‘isms.’ Are we going to build monuments to all of them?”<a href="#52">[52]</a></p>
+<p>The “Elizabeth May Tweet Controversy” (for lack of a better title) represented perhaps the first serious public discussion of the memory politics behind the Memorial to the Victims of Communism. While some in the Canadian media criticized May’s “misstep,” numerous commentators – most clearly not Conservative Party supporters – also came to May’s defense, staking the view that if communism was the opposite of capitalism, then the denunciation of one without a frank appraisal of the victims of the other revealed the inherent triumphalism of a government that prided itself on capitalist dogmas of small government and the deregulation of the market. For example, the editorial in the October 19 <em>Times Colonist</em> in Victoria BC, (May’s riding is the nearby Saanich-Gulf Islands) commented that:</p>
+<blockquote><p>It’s hard to find an “ism” that isn’t stained with blood. We could easily erect monuments to those killed by Catholicism, Protestantism, feudalism, racism, imperialism and any number of others, including capitalism. How do we decide whose victims are worthy of memorials? Who will judge whether your ism is more heinous than my ism? In the end it will be political, just as the communism memorial is political. May had every right to question the monument campaign, and Kenney knows it.<a href="#53">[53]</a></p></blockquote>
+<p>A few days later, a letter writer responded in agreement to the <em>Times Colonist</em> editorial:</p>
+<blockquote><p>Green party Leader Elizabeth May asked Multiculturalism Minister Jason Kenney why there should not be a memorial to victims of capitalism, as well as a monument to victims of communism. What a good question! The victims of capitalism and its ultimate stage imperialism would probably be a billion or more. Consider the extinction of the First Nations in the New World, the slavery that decimated Africa, the poisons poured all over by uncaring greed of capitalists everywhere, the many who perished after a very short life in the mines and mills, the deliberate starvation of the Irish while the home secretary of the U.K. chortled that it would bring down an excessive population. The list is long of the crimes of capitalism against humanity. But of course, to bring attention to these would not fit the ideological and propaganda purposes of our anti-democratic government.<a href="#54">[54]</a></p></blockquote>
+<p>A letter writer in the <em>National Post</em> took issue with the paper’s description of May’s comments as a “misstep,” in part by asking the same question that Judt posed in his review of Courtois’ <em>Black Book</em>, namely, does the Communist ideology of the 19<sup>th</sup> century explain the crimes of the 20<sup>th</sup>?:</p>
+<blockquote><p>I’m not a Green party supporter, but why should we be building a monument to the victims of communism over those who are victims of religious extremism, fascism, even capitalism? We know why Marx and others developed and looked at communism as an alternative to the abuses of the capitalist system; the intent was not to foment the massacre of millions of people. Unfortunately, the Marxist-Leninists decided that the end &#8211; the communist or ideal state &#8211; justified the means. If we decide to build a monument, it should be to all victims of persecution, whatever the cause.<a href="#55">[55]</a></p></blockquote>
+<p>On October 22, May responded to the growing controversy with a full-length letter in the <em>National Post</em>, highlighting what she saw as the disconnect between the Conservative government’s love of “symbolic gestures” and its reluctance to live up to promises inherent in these gestures:</p>
+<blockquote><p>The hypocrisy is staggering. The Prime Minister apparently recognizes the harsh cruelty of communist regimes only when they have passed into history. While posturing about victims of communism, the last remaining communist superpower is being granted preferential ability to attack Canadian laws. Under the Canada-China Investment Treaty, China’s state-owned enterprises of will have preferential rights to claim damages against Canadian laws and regulations they find offensive, while Canadian corporations have no such rights in relation to our domestic laws. The lust for Chinese investment and access to their market for our exports is blinding us to the current horrors of repression of political dissidents and religious minorities. Monuments may be crowd pleasers, but I, for one, would rather we invested in the living. I prefer we invest in our children and stop wasting resources on empty symbolism.<a href="#56">[56]</a></p></blockquote>
+<p>May, along with other parliamentarians, did donate to the Tribute to Liberty campaign, and her letter to the organization stated that totalitarian communism “yielded some of the most horrifying results of human history” and that Canada can be “proud that we opposed totalitarian communism and have provided a land of refuge for so many of those who fled its terrors”. However, of all the parliamentarian letters in support of Tribute to Liberty (Conservative and Liberal), only May’s identified its target as “totalitarian communism” as opposed to the more general “communism”.<a href="#57">[57]</a></p>
+<p>The Conservative Party’s narrative on the need to build the memorial was clearly challenged by the tweet controversy, and letters in support of May or critical of what they assumed were the government’s hidden motives in supporting the project, continued into 2014. An April 2014 opinion piece in <em>The Toronto Star</em> picked up on a neglected aspect of the memorial’s memory politics, as it waded into the dirty wars of the Cold War, highlighting that “our side” was not so clean: “And where are the Cambodian victims of the Khmer Rouge, which was essentially communist in intent? But they wouldn’t have been allowed their genocidal moment had it not been for American bombing, so doesn’t the memorial need a section of the monument to victims of “communist enabling?” That would net the Americans. How awkward.”<a href="#58">[58]</a></p>
+<div id="attachment_15582" style="width: 241px" class="wp-caption alignright"><img aria-describedby="caption-attachment-15582" data-attachment-id="15582" data-permalink="http://activehistory.ca/papers/papershistory-papers-19/kranjc-5/" data-orig-file="http://activehistory.ca/wp-content/uploads/2015/03/Kranjc-5.jpg" data-orig-size="231,156" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;}" data-image-title="Kranjc 5" data-image-description="" data-medium-file="http://activehistory.ca/wp-content/uploads/2015/03/Kranjc-5.jpg" data-large-file="http://activehistory.ca/wp-content/uploads/2015/03/Kranjc-5.jpg" class="size-full wp-image-15582" src="http://activehistory.ca/wp-content/uploads/2015/03/Kranjc-5.jpg" alt="Figure Five" width="231" height="156" /><p id="caption-attachment-15582" class="wp-caption-text">Figure Five</p></div>
+<p>But perhaps the most interesting recent twist to the memorial saga was the open letter to the Prime Minister by an Ottawa architect, Barry Padolsky, on 1 September 2014, who claimed that the land on which the memorial is to be built “<em>was stolen</em> from its intended use as the location for a future Federal Court building or other national institution (author’s italics).”<a href="#59">[59]</a> Since the seminal plan proposed in 1950 by the urban planner Jacques Greber, the land had been included as part of a government-approved Long Term Vision and Plan (LTVP) for the “Judicial Triad”. The triad refers to the balance of three buildings enclosing a central square – Canada’s Parliament Hill is so constructed, with buildings on its north, east and west enclosing a quadrangle (Figure 5).</p>
+<p>The Judicial Triad, right next to the Parliamentary Triad, has two existing buildings – the Justice Building on the east side and the imposing Supreme Court on the north (Figure 6). According to Padolsky, the ideal building for the empty western site, which is now the proposed location for the Memorial to the Victims of Communism, would have been the already designed Federal Court Building (originally named the Pierre Elliott Trudeau Judicial Building) or some significant “national institution such as an expansion of the Department of Justice or national museum”. The LTVP set “out an exemplary and inspiring vision for the nation’s ‘Capital Plateau’ — the parliamentary and judicial ‘acropolis’ overlooking the Ottawa River”, which “a low profile landscaped memorial,” as Padolsky describes the designs of the finalists for the Memorial to the Victims of Communism, disrupts. In fact, Padolsky pointed to the US experience for guidance, citing the American government’s wise decision to move the “Goddess of Democracy” to a “modest street corner,” clearly understanding “that this type of controversial memorial should not occupy a place meant for more significant expressions of American values.”<a href="#60">[60]</a></p>
+<div id="attachment_15584" style="width: 210px" class="wp-caption alignleft"><img aria-describedby="caption-attachment-15584" data-attachment-id="15584" data-permalink="http://activehistory.ca/papers/papershistory-papers-19/kranjc-6/" data-orig-file="http://activehistory.ca/wp-content/uploads/2015/03/Kranjc-6.jpg" data-orig-size="200,172" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;}" data-image-title="Kranjc 6" data-image-description="" data-medium-file="http://activehistory.ca/wp-content/uploads/2015/03/Kranjc-6.jpg" data-large-file="http://activehistory.ca/wp-content/uploads/2015/03/Kranjc-6.jpg" class="size-full wp-image-15584" src="http://activehistory.ca/wp-content/uploads/2015/03/Kranjc-6.jpg" alt="Figure Six" width="200" height="172" /><p id="caption-attachment-15584" class="wp-caption-text">Figure Six</p></div>
+<p>Padolsky’s concerns were echoed by the Supreme Court of Canada Chief Justice Beverley McLachlin in a September 2014 letter to the deputy minister of Public Works and Government Services. She too reminded the deputy minister that the land had been previously designated for a Federal Court of Canada building, and expressed concern that the “proposed designs for the memorial could send the wrong message within the judicial precinct, unintentionally conveying a sense of bleakness and brutalism that is inconsistent with a space dedicated to the administration of justice.”<a href="#61">[61]</a></p>
+<p>Another high-profile critic of the monument was architect and member of the monument’s design-selection jury, Shirley Blumberg, who aired her concerns together with Padolsky in a joint CBC interview in December 2014. Blumberg, like Padolsky, is not against the monument being built, but insists it should be built somewhere other than “the most significant unbuilt site in the country,” located “in the judicial and parliamentary precinct which represent our values as Canadians, our history, and […] is at the core of our democracy. It represents who we are as Canadians.”<a href="#62">[62]</a> While Blumberg noted that apparently 8 million Canadians can trace their roots to a country that was under Communism, “the site belongs to all Canadians”.</p>
+<p>Moreover, Blumberg and Padolsky questioned the motive behind what they saw as the government’s bull in a china shop approach to securing the monument at its current location. Padolsky stated that the bureaucracy behind the monument (NCC, Public Works, Federal Heritage Building Review Office) “almost unanimously recommended against the site, so it’s not just a few architects with voices in the wilderness.” Blumberg questioned the Conservatives’ Cold War narrative – “We are not a nation whose history is that we overthrew the yoke of Communism”. The paradox is that the Americans do share such a self-image, yet they permitted only a relatively humble monument well away from the National Mall, the sacred heart of American history and democracy, which Blumberg added was equivalent to Ottawa’s judicial and parliamentary precinct where the proposed Canadian monument is to be built.</p>
+<p>A somewhat deflated Padolsky could only conclude that it will be a “great puzzlement to people that are students of the national capital to understand why this arbitrary decision was made.” Indeed the “arbitrary” process behind the monument’s location and design has garnered additional recent critics, among them Ottawa Mayor Jim Watson, who in early February 2015 complained that the monument “was sprung on everyone and announced with no consultation whatsoever,” arguing that the NCC should “engage with the public who are the ones that are going to be seeing it each and every day as they go by, as well as tourists across the country who come into our capital.”<a href="#63">[63]</a></p>
+<p>One aspect of the monument which most supporters and critics can agree upon is that Canada played an honourable role in providing “A Land of Refuge,” as it is worded in the monument’s official subtitle, to the cited one-quarter of all Canadians who trace their roots to countries impacted by Communism. In his May 2014 fundraising speech, Harper praised the hard-working refugees who escaped Communism and who “raised strong families” in Canada.<a href="#64">[64]</a></p>
+<p>Yet a closer examination of the “victims of communism” that Canada accepted in the post-World War II years also yield some less flattering examples. The uncomfortable truth about the ideologically polarized twentieth century, particularly within the confines of World War II and in the “bloodlands” that were Eastern Europe, is that victims of Communism could also be perpetrators of fascist crimes. Canada had a lax immigration policy in the immediate post-war years, introducing exclusions on Nazi party members and the German military only briefly in the late 1940s and early 1950s before relaxing them again as national security resources pivoted from tracking-down Nazi war criminals to stopping Communist agents from infiltrating the country.<a href="#65">[65]</a> A definition of a Nazi “collaborator” and their exclusion was never implemented, which may have netted East European immigrants who had served in various pro-German collaborating units, some of which were implicated in atrocities against Jews and other Nazi war crimes, not least the hunting of communist-led resistance movements. A government Commission of Inquiry on War Criminals led by Mr. Justice Jules Deschênes – commonly referred to as the Deschênes Commission – was struck in 1985 to investigate the presence of Nazis and Nazi collaborators in Canada. For a number of reasons, the Deschênes Commission was unable to gather evidence in Communist Eastern Europe and the Soviet Union. Its final report in 1986 concluded that of the more than seven hundred alleged war criminals that attempted to enter Canada, the “Commission found <em>prima facie</em> [evidence] of war crimes” in the case of twenty.<a href="#66">[66]</a> Of these, a number were East European collaborators of the Nazis (ex. Slovak Hlinka Guard and Ukrainian and Latvian police units) who were accused of involvement in anti-Partisan activities and atrocities against Jews.</p>
+<p>The failure to achieve any convictions using the Criminal Code of Canada, while frustrating to prosecutors, did lead to the establishment of the Canadian War Crimes Program in 1998 and Parliament’s adoption of the Crimes against Humanity and War Crimes Act in 2003 to facilitate convictions. While the War Crimes Program did not achieve any criminal convictions against World War II-era war criminals, it did initiate revocation of citizenship and deportation proceedings against a few surviving East European collaborators.<a href="#67">[67]</a> Thus while Canada did take in thousands of bona fide East Europeans seeking refuge from Communist oppression in the years immediately after the end of World War II, it is important to recognize that for a few it was their behaviour during the war that made them targets of the new regimes.</p>
+<p>Indeed, a few East European immigrant organizations in Canada that have sponsored the Memorial to the Victims of Communism, have also had rather checkered past relationships with East European fascist regimes, and at least one of them can be found listed on the Tribute to Liberty website as “Supporters” below the letters of support from Harper, Kenney and other leading politicians in Canada. The Canadian Slovak League, which has donated to Tribute to Liberty, was identified in RCMP reports during World War II as supporting the “policies of an independent Slovakia under Hitler.”<a href="#68">[68]</a> A 1945 RCMP report concluded:</p>
+<blockquote><p>As the Hlinka Party in Slovakia believed in Hitler&#8217;s promise of independence in March 1939, the Slovak League on this continent too, rejoiced when this “independence” was granted. After Canada went to war, the Canadian Slovak League had to confine itself to slandering President Edouard Benes and his government-in-exile in London, in the League’s press organ, the “Kanadsky Slovak” (Canadian Slovak) a weekly newspaper, published in Montreal. This paper also showed anti-Soviet trends, and many proofs of the devout Catholicism of all League members.<a href="#69">[69]</a></p></blockquote>
+<p>Nor was this simply wartime enthusiasm gone wrong – as late as the 1990s, the Canadian Slovak League’s Toronto chapter commemorated the death of Father Tiso, the leader of the Nazi puppet state of Slovakia who oversaw the deportation of tens of thousands of Slovak Jews to the death camps.<a href="#70">[70]</a></p>
+<p>The League of Ukrainian Canadians routinely celebrates the life of Stepan Bandera, the World War II Ukrainian nationalist leader whose Ukrainian Insurgent Army (OUN (b)) collaborated with the Nazis and who were involved in the murder of Poles, Jews and Ukrainians who cooperated with the Soviet Red Army in western Ukraine. In fact, the League of Ukrainian Canadians emerged from the League for the Liberation of Ukraine (Liga vyzvolennia Ukrainy, LVU), which as historian Per Rudling revealed, was established in 1949 as a clandestine network of the OUN(b) – a “planned settlement” of “revolutionary nationalists” throughout Canada.<a href="#71">[71]</a> According to Rudling, some 1200-2000 of the 26,000 Ukrainian displaced persons who arrived in Canada after World War II were former soldiers of the Ukrainian Waffen-SS. Their arrival led to tensions, even clashes, within the Ukrainian Canadian community, especially between them and left-leaning Ukrainians. In 2009, the League celebrated the 100<sup>th</sup> anniversary of Bandera’s birth and 50<sup>th</sup> anniversary of his death at the building of the Ukrainian Youth Association in Edmonton, Alberta, which is named after Roman Shukhevych, a leader of Bandera’s Insurgent Army.<a href="#72">[72]</a></p>
+<p>In short, by not attempting to define who the victims of Communism were, the Memorial to the Victims of Communism is in danger of lumping in individuals and groups who committed atrocities – often in the name of the struggle against communism – against various left-wing resistance groups, civilians and Jews during World War II. The persecution of these pro-fascist and collaborating movements after the war by various Communist East European regimes only reaffirmed their sense of martyrdom. The memorial’s inability to historically contextualize (not absolve) Communism and its victims, and reveal some of its complicated history, may lead to what Judt warned was occurring across Europe in the post-Communist “epidemic of finger pointing and blame” – that “the mismemory of communism is also contributing, in its turn, to a mismemory of anticommunism”:</p>
+<blockquote><p>Marshal Antonescu, the wartime Romanian leader who was executed in June 1945, defended himself at his trial with the claim that he had sought to protect his country from the Soviet Union. He is now being written into Romanian popular history as a hero, his part in the massacre of Jews and others in wartime Romania weighing little in the balance against his anti-Russian credentials. Anti-communist clerics throughout the region; nationalists who fought alongside the Nazis in Estonia, Lithuania, and Hungary; right-wing partisans who indiscriminately murdered Jews, Communists, and liberals in the vicious score settling of the immediate postwar years before the communists took effective control are all candidates for rehabilitation as men of moderate and laudable convictions; their strongest suit, of course, is the obloquy heaped upon them by the former [Communist] regime.<a href="#73">[73]</a></p></blockquote>
+<p>If the historic sections of this paper seem confusing to those unfamiliar with East European history, and the distinction between ‘good guy’ and ‘bad guy’ less-than-clear, it should at the very least caution us that even monuments as seemingly straightforward as those to victims carry their grey recesses and dark corners. This is not to state that there were no victims of communism. The twentieth century soaked up the blood of millions of them – perhaps not the suspiciously perfect 100 million – but tens of millions nonetheless. But it was also the tanks and soldiers of the Soviet Red Army (Canada’s wartime ally) that beat back the Nazis and liberated the Nazi death camps of Majdanek and Auschwitz, whose victims are remembered in the other memorial under construction in Ottawa – the National Holocaust Monument. This does not and should never absolve Soviet Communism of its crimes (in fact, the Soviets used the liberated Majdanek camp to imprison members of the Polish resistance), but it does remind us that we risk losing vital historical context and nuance when we caricaturize something as complicated as Communism as <em>only</em> representing pure evil.It also risks blinding us from acknowledging our own historic episodes of dishonourable behaviour conducted in the name of containing the “ideological plague” of Communism.</p>
+<p>But the more relevant question for Canadians, which Padolsky described as a “puzzlement”, is why is this monument being built now? Why in Ottawa? Why in its particularly high-profile location? Why is the current Canadian government (taxpayers) footing the majority of the bill? And why is the Canadian public seemingly being excluded from a process that will change the appearance and the symbolism of their capital?</p>
+<p>The politics in “memory politics” has certainly played a role. If a quarter of all Canadians do indeed trace their origins from formerly Communist states, then the monument’s uncompromising recognition of the suffering they endured may garner electoral support for the Conservatives. Conservative support for the monument was born in a seemingly innocuous act of outreach to ethnic voters. Greater government support was steadily required as the overestimated strength of public financial support for the monument steadily waned. To a certain extent the Conservatives backed themselves into a corner – not wanting to abandon a potentially profitable immigrant constituency, and seeing the construction of the monument slide ever further into the hazy future, the monument was increasingly transferred from the hands of the community to the government.</p>
+<p>But it does raise the question of why so few Canadians were willing to contribute financially to a monument that supposedly spoke for so many of them. Does it really matter to them? Criticism of a monument to victims, even on the grounds of political and procedural mismanagement, is always a perilous position. However, the growing unease among wider sections of the Canadian public as to the motives, the financing and the location of the monument, indicates that opposition will probably only grow as shovels hit the ground. At Canada’s bicentennial in 2067, will the throngs of visitors to the capital, which we can only imagine, stare in puzzlement at the striking memorial a stone’s throw from their Parliament or will they gaze upon it with instant recognition and pride? Only the future will tell.</p>
+<p><em><a href="http://www.brocku.ca/humanities/departments-and-centres/history/faculty-staff/gregor-kranjc" target="_blank">Gregor Kranjc</a> is an assistant professor at Brock University. He is the author of  <a href="http://www.utppublishing.com/To-Walk-with-the-Devil-Slovene-Collaboration-and-Axis-Occupation-1941-1945.html" target="_blank"><i style="color: #000000;">To Walk with the Devil: Slovene Collaboration and Axis Occupation, 1941-1945 </i></a></em></p>
+<hr />
+<p><a id="1"></a>[1] Josef Cermak, “Pilsen…Ottawa….The story of two monuments to the victims of Communism (Príbeh dvou památníku obetem komunismu),” CzechFolks.com: A Site Not Only for Czech/American Citizens (accessed 18 December 2013)</p>
+<p><a id="2"></a>[2] Ibid.</p>
+<p><a id="3"></a>[3] “Travelling Tory Woos Ethnic Voters; Multiculturalism secretary of state Jason Kenney is meeting community leaders and taking notes,” <em>The Toronto Star</em>, 23 February 2008: A15.</p>
+<p><a id="4"></a>[4] Ibid.</p>
+<p><a id="5"></a>[5] Ibid.</p>
+<p><a id="6"></a>[6] Jennifer Campbell, “Marking the Dangers of Communism,” <em>Ottawa Citizen</em>, April 30, 2008: C6</p>
+<p><a id="7"></a>[7] “Travelling Tory”</p>
+<p><a id="8"></a>[8] Campbell.</p>
+<p><a id="9"></a>[9] Kevin Libin, “Cross of the Sickle: Ottawa plans monument to communism&#8217;s victims,” <em>National Post</em>, July 4, 2009: A1.</p>
+<p><a id="10"></a>[10] Ibid.</p>
+<p><a id="11"></a>[11] “NCC Approves Monument Against &#8216;Oppression&#8217;: Decision made despite confusion over what work even commemorates,” <em>Ottawa Citizen</em>, September 11, 2009: C1</p>
+<p><a id="12"></a>[12] Ibid.</p>
+<p><a id="13"></a>[13] Ibid.</p>
+<p><a id="14"></a>[14] Ibid.</p>
+<p><a id="15"></a>[15] Joan Delaney, “Government Agency Wants Name Change For ‘Victims of communism’ Monument,” <em>Epoch Times</em>, 24 September 2009. (accessed 8 November 2014).</p>
+<p><a id="16"></a>[16] Ibid.</p>
+<p><a id="17"></a>[17] “Canadian Memorial to Millions Killed by Marxist Regimes Approved,” <em>National Post</em>, September 24, 2009: A5.</p>
+<p><a id="18"></a>[18] Statement by the Prime Minister.</p>
+<p><a id="19"></a>[19] Barbara Sherriff, “Forgotten Victims,” <em>National Post</em>, July 8, 2009: A17; David Reevely, “A Sick Feeling About the Hammer and Sickle,” <em>Ottawa Citizen</em>, June 5, 2006: A12; Libin.</p>
+<p><a id="20"></a>[20] Libin.</p>
+<p><a id="21"></a>[21] Ibid, 37, 39.</p>
+<p><a id="22"></a>[22] “Why a Memorial? Why in Canada?” Tribute to Liberty. <a href="http://tributetoliberty.ca/memorial-why">http://tributetoliberty.ca/memorial-why</a> (accessed 3 November 2014)</p>
+<p><a id="23"></a>[23] Oksana Bashuk Hepburn, “Call Communist Atrocities What They Are,” <em>Ottawa Citizen</em>, September 22, 2009: A13; Mark Milke, History&#8217;s Most Murderous Ideology Doesn&#8217;t Need Adjective, <em>The Calgary Herald</em>, July 11, 2010: A11.</p>
+<p><a id="24"></a>[24] Jon Wiener, <em>How We Forgot the Cold War: A historical journey across America</em>. (Berkeley: University of California Press, 2012), 39.</p>
+<p><a id="25"></a>[25] Wiener, 37.</p>
+<p><a id="26"></a>[26] Ibid, 38.</p>
+<p><a id="27"></a>[27] Ibid.</p>
+<p><a id="28"></a>[28] Tony Judt, “The Longest Road to Hell,” <em>New York Times</em>, 22 December 1997, A27.</p>
+<p><a id="29"></a>[29] Ibid.</p>
+<p><a id="30"></a>[30] Andrew Roberts, “The State of Socialism: A Note on Terminology,” <em>Slavic Review</em>, Vol. 63, No. 2 (Summer, 2004), p. 366.</p>
+<p><a id="31"></a>[31] Rick Salutin, “Freedom fighters, killer whales,” <em>The Globe and Mail</em>, March 5, 2010: A19</p>
+<p><a id="32"></a>[32] “NCC Approves Monument”</p>
+<p><a id="33"></a>[33] Steve Mazey, “Proposed monument offends Communist Party,” <em>Ottawa Citizen</em>, October 9, 2009: A5.</p>
+<p><a id="34"></a>[34] <em>Comprehensive Commemoration Program and Policy for Canada’s Capital</em>, Approved by the National Capital Commission Executive Management Committee, June 2006, 2.</p>
+<p><a id="35"></a>[35] Mazey.</p>
+<p><a id="36"></a>[36] Carol and Jeff Grosman, “Daughter’s Vision may be Realized” <em>National Post</em>, March 10, 2010: A17.</p>
+<p><a id="37"></a>[37] Barbara Yaffe, “Throne Speech Shifts Focus to Symbolic Nuggets; Recognition for seniors and volunteers, changes to national anthem, new immigration museum provide something for everyone to support,” <em>The Vancouver </em>Sun, March 4, 2010: B1; Barbara Yaffe, “Harperites’ Canny Plan Includes Ignoring the Environment,” <em>The Vancouver Sun</em>, March 9, 2010: B3.</p>
+<p><a id="38"></a>[38] Delaney.</p>
+<p><a id="39"></a>[39] See the 2010-2013 financial statements of “Tribute to Liberty &#8211; A Memorial to Victims of Communism Inc. &#8211; Quick View” on the Canada Revenue Agency website, http://tributetoliberty.ca/about/financial.</p>
+<p><a id="40"></a>[40] “Anti-Communist Monument Charity Seeks $750,000 in Federal Help; Tribute to Liberty fundraising falls short,” <em>Ottawa Citizen</em>, July 26, 2012: A5.</p>
+<p><a id="41"></a>[41] “Monument Organizers far from $1.5M Goal; Tribute to Liberty project to honour victims of communism” <em>Ottawa Citizen</em>, August 15, 2011: B3.</p>
+<p><a id="42"></a>[42] Don Butler, “Victims of Communism memorial cost jumps to $4M,” <em>Ottawa Citizen</em>, August 21, 2014 [accessed 17 November 2014].</p>
+<p><a id="43"></a>[43] Wiener, 33.</p>
+<p><a id="44"></a>[44] Ibid., 33-35.</p>
+<p><a id="45"></a>[45] Don Butler, “Winning design for victims of communism memorial features 100 million &#8216;memory squares&#8217;”, <em>Ottawa Citizen</em>, 12 December 2014 (accessed 27 January 2015)</p>
+<p><a id="46"></a>[46] Elsa Lam “Ottawa’s planned memorial to victims of communism is both misguided and misplaced,” <em>National Post</em>, 11 February 2015. (accessed 11 March 2015)</p>
+<p><a id="47"></a>[47] Ibid.</p>
+<p><a id="48"></a>[48] Ibid.</p>
+<p><a id="49"></a>[49] Interview, “Victims of Communism Monument,” <em>As it Happens</em>, CBC Radio One, 25 August 2014; for audio, go to: http://www.cbc.ca/radio_template_2012/audiopop.html?autoPlay=true&amp;clipIds=2497729902</p>
+<p><a id="50"></a>[50] “Elizabeth May&#8217;s Latest Misstep,” <em>National Post</em>, October 18, 2013: A12.</p>
+<p><a id="51"></a>[51] “Monument Joke Lands May in a Twitter Tiff,” <em>Times Colonist</em>, October 18, 2013: A8.</p>
+<p><a id="52"></a>[52] Ibid.</p>
+<p><a id="53"></a>[53] “A Scrap over Monuments,” <em>Times Colonist</em>, October 19, 2013: A12.</p>
+<p><a id="54"></a>[54] Wilma Riley, “Capitalism has its Victims, Too”, <em>Times Colonist</em>, October 22, 2013: A11</p>
+<p><a id="55"></a>[55] Paul Leyton, “Elizabeth May&#8217;s Not-So-Crazy Idea,” <em>National Post</em>, October 22, 2013: A13.</p>
+<p><a id="56"></a>[56] Elizabeth May, “Stephen Harper&#8217;s Love of Empty Symbolism,” <em>National Post</em>, October 22, 2013: A12.</p>
+<p><a id="57"></a>[57] Letter, Elizabeth May to Ludwik Klimkowski, 14 February 2014; located on Tribute to Liberty website:http://tributetoliberty.ca/content/supporters</p>
+<p><a id="58"></a>[58] “Anti-Communist Memorial Will be a Magnet for Quarrels,” <em>The Toronto Star</em>, April 9, 2014: A15.</p>
+<p><a id="59"></a>[59] Barry Padolsky, “An Open Letter to Prime Minister Stephen Harper,” in “Padolsky: Misplaced Monument,” <em>Ottawa Citizen</em>, September 1, 2014</p>
+<p><a id="60"></a>[60]Ibid.</p>
+<p><a id="61"></a>[61] John Geddes, “Victims of communism-memorial designs worried Chief Justice,” Maclean’s, 26 January 2015 (accessed 11 March 2015).</p>
+<p><a id="62"></a>[62] Interview, “A Monument to the Victims of Communism is Causing a Stir,” <em>Ottawa Morning</em>, CBC Radio One, Dec 15, 2014; for audio, go to: http://www.cbc.ca/player/Radio/Local+Shows/Ontario/ID/2638541304/</p>
+<p><a id="63"></a>[63] “Jim Watson joins critics of &#8216;victims of communism&#8217; monument location”, <em>CBC News Ottawa</em>, 12 February 2015 (accessed 11 March 2015).</p>
+<p><a id="64"></a>[64] Statement by the Prime Minister.</p>
+<p><a id="65"></a>[65] Grant Purves, “War Criminals: The Deschênes Commission,” Political and Social Affairs Division, Library of Parliament, Revised 16 October 1998.</p>
+<p><a id="66"></a>[66] Ibid.</p>
+<p><a id="67"></a>[67] For detailed information on legal proceedings against war criminals in Canada, see the Annual Reports of the War Crimes Program from 1998-2011: http://canada.justice.gc.ca/eng/cj-jp/wc-cdg/prog.html#research.</p>
+<p><a id="68"></a>[68] “Intelligence Bulletin,” Royal Canadian Mounted Police, Ottawa, February 17, 1941. War Series: No. 40, 330.</p>
+<p><a id="69"></a>[69] “Monthly Intelligence Report,” Royal Canadian Mounted Police, Ottawa, August 1, 1945. War Series: Part D.</p>
+<p><a id="70"></a>[70] Scott Anderson, “Extremists in our Midst: Local Slovak League pays Homage to Wartime Figure who Collaborated with Hitler,” <em>Now Magazine</em>, June 5-11, 1997.</p>
+<p><a id="71"></a>[71] Per A. Rudling, “Multiculturalism, Memory, and Ritualization: Ukrainian nationalist monuments in Edmonton, Alberta,” <em>Nationalities Papers</em>, Vol. 39, No. 5, September 2011: 737.</p>
+<p><a id="72"></a>[72] Grzegorz Rossolinski-Liebe, “Celebrating Fascism and War Criminality in Edmonton. The Political Myth and Cult of Stepan Bandera in Multicultural Canada,” <em>Kakanien Revisited</em>, 12 (2010): 1–16.</p>
+<p><a id="73"></a>[73] T. Judt, “The Past is Another Country: Myth and Memory in Postwar Europe”, in I. Deák, J. Gross, and T. Judt, eds., <em>The Politics of Retribution: World War II and Its Aftermath</em> (Princeton, NJ: Princeton University Press, 2000), 309-10.</p>
+<div class="sharedaddy sd-sharing-enabled"><div class="robots-nocontent sd-block sd-social sd-social-official sd-sharing"><div class="sd-content"><ul><li class="share-facebook"><div class="fb-share-button" data-href="http://activehistory.ca/papers/papershistory-papers-19/" data-layout="button_count"></div></li><li class="share-twitter"><a href="https://twitter.com/share" class="twitter-share-button" data-url="http://activehistory.ca/papers/papershistory-papers-19/" data-text="Memory Politics: Ottawa&#039;s Monument to the Victims of Communism" data-via="ActiveHist" >Tweet</a></li><li class="share-email"><a rel="nofollow noopener noreferrer" data-shared="" class="share-email sd-button" href="http://activehistory.ca/papers/papershistory-papers-19/?share=email" target="_blank" title="Click to email this to a friend"><span>Email</span></a></li><li class="share-end"></li></ul></div></div></div>					</div><!-- .entry-content -->
+
+		<footer class="entry-meta">
+					</footer><!-- .entry-meta -->
+
+	</article><!-- #post -->				
+<div id="comments" class="comments-area">
+
+				<div class="zg-wrapper-widget-area">
+			<div id="text-445942440" class="widget widget_text">			<div class="textwidget"><p><a href="http://creativecommons.org/licenses/by-nd/4.0/" rel="license"><img style="border-width: 0;" src="https://i.creativecommons.org/l/by-nd/4.0/80x15.png" alt="Creative Commons Licence" /></a><br />
+This work is licensed under a <a href="http://creativecommons.org/licenses/by-nd/4.0/" rel="license">Creative Commons Attribution-NoDerivatives 4.0 International License</a>. Blog posts published before October  28, 2018 are licensed with a Creative Commons Attribution-NonCommercial-ShareAlike 2.5 Canada License.</p>
+</div>
+		</div>		</div>
+    	
+			<h2 class="comments-title">
+			5 thoughts on &ldquo;<span>Memory Politics: Ottawa&#8217;s Monument to the Victims of Communism</span>&rdquo;		</h2>
+
+		<ol class="commentlist">
+				<li class="pingback even thread-even depth-1" id="comment-63218">
+		<p>Pingback: <a href='http://activehistory.ca/2015/03/new-paper-memory-politics-ottawas-monument-to-the-victims-of-communism/' rel='external nofollow ugc' class='url'>New Paper: Memory Politics: Ottawa’s Monument to the Victims of Communism</a> </p>
+	</li><!-- #comment-## -->
+	<li class="pingback odd alt thread-odd thread-alt depth-1" id="comment-66159">
+		<p>Pingback: <a href='http://www.his241.com/?p=43' rel='external nofollow ugc' class='url'>When you put the names of donors and not victims on a victims’ monument, what are memorializing? | HIS 241 Online</a> </p>
+	</li><!-- #comment-## -->
+	<li class="comment even thread-even depth-1" id="li-comment-71178">
+		<article id="comment-71178" class="comment">
+			<header class="comment-meta comment-author vcard">
+				<img alt='' src='http://2.gravatar.com/avatar/8a476300fcf7ac38b95773f163c2add0?s=44&#038;d=mm&#038;r=g' srcset='http://2.gravatar.com/avatar/8a476300fcf7ac38b95773f163c2add0?s=88&#038;d=mm&#038;r=g 2x' class='avatar avatar-44 photo' height='44' width='44' /><cite><b class="fn">Andrew Hubbertz</b> </cite><a href="http://activehistory.ca/papers/papershistory-papers-19/#comment-71178"><time datetime="2015-07-24T14:33:06-04:00">July 24, 2015 at 2:33 pm</time></a>			</header><!-- .comment-meta -->
+
+			
+			<section class="comment-content comment">
+				<p>Mr. Kranjc, </p>
+<p>Thank you for your article. It is the best thing I have read on the subject. I am referring my friends to it.</p>
+							</section><!-- .comment-content -->
+
+			<div class="reply">
+							</div><!-- .reply -->
+		</article><!-- #comment-## -->
+	</li><!-- #comment-## -->
+	<li class="pingback odd alt thread-odd thread-alt depth-1" id="comment-76006">
+		<p>Pingback: <a href='http://activehistory.ca/2015/11/the-european-extreme-right-yesterday-and-today/' rel='external nofollow ugc' class='url'>The European Extreme Right Yesterday and Today | ActiveHistory.ca</a> </p>
+	</li><!-- #comment-## -->
+	<li class="pingback even thread-even depth-1" id="comment-85985">
+		<p>Pingback: <a href='http://activehistory.ca/2018/11/remembrance-day-2018-and-canadas-first-world-war-centennial/' rel='external nofollow ugc' class='url'>Remembrance Day 2018 and Canada’s First World War Centennial &#8211; ActiveHistory.ca</a> </p>
+	</li><!-- #comment-## -->
+		</ol><!-- .commentlist -->
+
+		
+		
+		
+		
+	<div class="wrapper-form-comments">
+	
+		<div id="respond" class="comment-respond">
+							<h3 id="reply-title" class="comment-reply-title">Please note: ActiveHistory.ca encourages comment and constructive discussion of our articles. We reserve the right to delete comments submitted under aliases, or that contain spam, harassment, or attacks on an individual.					<small><a rel="nofollow" id="cancel-comment-reply-link" href="/papers/papershistory-papers-19/?shared=email&amp;msg=fail#respond" style="display:none;">Cancel reply</a></small>
+				</h3>
+						<form id="commentform" class="comment-form">
+				<iframe title="Comment Form" src="https://jetpack.wordpress.com/jetpack-comment/?blogid=42146343&#038;postid=15576&#038;comment_registration=0&#038;require_name_email=1&#038;stc_enabled=1&#038;stb_enabled=1&#038;show_avatars=1&#038;avatar_default=mystery&#038;greeting=Please+note%3A+ActiveHistory.ca+encourages+comment+and+constructive+discussion+of+our+articles.+We+reserve+the+right+to+delete+comments+submitted+under+aliases%2C+or+that+contain+spam%2C+harassment%2C+or+attacks+on+an+individual.&#038;greeting_reply=Leave+a+Reply+to+%25s&#038;color_scheme=light&#038;lang=en_CA&#038;jetpack_version=8.6.1&#038;show_cookie_consent=10&#038;has_cookie_consent=0&#038;token_key=%3Bnormal%3B&#038;sig=b354d14a26444d5bf5ce3d71c580ceb62971c857#parent=http%3A%2F%2Factivehistory.ca%2Fpapers%2Fpapershistory-papers-19%2F%3Fshared%3Demail%26msg%3Dfail" style="width:100%; height: 430px; border:0;" name="jetpack_remote_comment" class="jetpack_remote_comment" id="jetpack_remote_comment" sandbox="allow-same-origin allow-top-navigation allow-scripts allow-forms allow-popups"></iframe>
+									<!--[if !IE]><!-->
+					<script>
+						document.addEventListener('DOMContentLoaded', function () {
+							var commentForms = document.getElementsByClassName('jetpack_remote_comment');
+							for (var i = 0; i < commentForms.length; i++) {
+								commentForms[i].allowTransparency = false;
+								commentForms[i].scrolling = 'no';
+							}
+						});
+					</script>
+					<!--<![endif]-->
+							</form>
+		</div>
+
+		
+		<input type="hidden" name="comment_parent" id="comment_parent" value="" />
+
+			</div>
+
+</div><!-- #comments .comments-area -->			
+		</div><!-- #content -->
+	</div><!-- #primary -->
+
+
+			<div id="secondary" class="widget-area" role="complementary">
+			<aside id="search-2" class="widget widget_search">	<div class="wrapper-search-form">
+		<form method="get" id="searchform" action="http://activehistory.ca/">
+			<label for="s" class="assistive-text">Search</label>
+			<input type="search" class="txt-search" placeholder="Search..." name="s" id="s" />
+			<input type="submit" name="submit" id="btn-search-n" value="Search" />
+		</form>
+    </div></aside><aside id="text-445942422" class="widget widget_text"><h3 class="widget-title"><span class="prefix-widget-title"><i class="fa fa-th-large"></i></span> What is Active History?</h3>			<div class="textwidget"><p>ActiveHistory.ca is a website that connects the work of historians with the wider public and the importance of the past to current events.</p>
+<p>Please direct queries to Daniel Ross, Public Outreach Coordinator, via <a href="info@activehistory.ca">info@activehistory.ca</a>.</p>
+<p>For author guidelines, <a href="https://wp.me/P2QQbJ-32">click here</a>.</p>
+<p>Visitez notre partenaire francophone, <a href="http://histoireengagee.ca/"> HistoireEngagée.ca</a></p>
+</div>
+		</aside><aside id="text-445942433" class="widget widget_text"><h3 class="widget-title"><span class="prefix-widget-title"><i class="fa fa-th-large"></i></span> Ongoing Projects</h3>			<div class="textwidget"><ul>
+<li><b><a href="http://activehistory.ca/papers/beyond-the-lecture-series-list/">Beyond the Lecture</a></b></li>
+<li><b><a href="http://activehistory.ca/papers/canadas-first-world-war-a-centennial-series-on-activehistory-ca/">Canada's First World War</a></b></li>
+<li><b><a href="http://activehistory.ca/papers/from-juno-to-victory/">From Juno to Victory</a></b></li>
+<li><b><a href="http://activehistory.ca/podcasts/">History Slam Podcast</a></b></li>
+<li><b><a href="http://activehistory.ca/publications/">Open-Access Ebooks</a></b></li>
+<li><b><a href="http://activehistory.ca/remember-i-resist-i-redraw/">Remember/Resist/Redraw</a></b></li>
+</ul>
+
+</div>
+		</aside><aside id="twitter_timeline-3" class="widget widget_twitter_timeline"><h3 class="widget-title"><span class="prefix-widget-title"><i class="fa fa-th-large"></i></span> Twitter</h3><a class="twitter-timeline" data-theme="light" data-border-color="#e8e8e8" data-tweet-limit="3" data-lang="EN" data-partner="jetpack" data-chrome="noheader" href="https://twitter.com/ActiveHist" href="https://twitter.com/ActiveHist">My Tweets</a></aside><aside id="blog_subscription-3" class="widget widget_blog_subscription jetpack_subscription_widget"><h3 class="widget-title"><span class="prefix-widget-title"><i class="fa fa-th-large"></i></span> Subscribe via email</h3>
+            <form action="#" method="post" accept-charset="utf-8" id="subscribe-blog-blog_subscription-3">
+				                    <p id="subscribe-email">
+                        <label id="jetpack-subscribe-label"
+                               class="screen-reader-text"
+                               for="subscribe-field-blog_subscription-3">
+							Email Address                        </label>
+                        <input type="email" name="email" required="required"
+                        			                                                value=""
+                            id="subscribe-field-blog_subscription-3"
+                            placeholder="Email Address"
+                        />
+                    </p>
+
+                    <p id="subscribe-submit">
+                        <input type="hidden" name="action" value="subscribe"/>
+                        <input type="hidden" name="source" value="http://activehistory.ca/papers/papershistory-papers-19/?shared=email&#038;msg=fail"/>
+                        <input type="hidden" name="sub-type" value="widget"/>
+                        <input type="hidden" name="redirect_fragment" value="blog_subscription-3"/>
+						                        <button type="submit"
+	                        		                    	                        name="jetpack_subscriptions_widget"
+	                    >
+	                        Subscribe                        </button>
+                    </p>
+				            </form>
+		
+</aside>		</div><!-- #secondary -->
+		</div><!-- #main .wrapper -->
+	</div><!-- #page -->
+		<footer>
+	<div style="background-color:#444444;">
+		<div class="wrapper-widget-area-footer">
+			<div class="widget-area-footer">
+				<div id="text-445942435" class="widget widget_text">			<div class="textwidget">ActiveHistory.ca is supported financially and administratively by the <a href="http://artsandscience.usask.ca/history/">History Department at the University of Saskatchewan</a> and <a href="http://www.huronuc.on.ca/Home">Huron University College</a>. <a href="https://calicologic.com/">Calico Logic</a> provides technical support.</div>
+		</div>			</div>
+			
+			<div class="widget-area-footer">
+				<div id="text-445942437" class="widget widget_text">			<div class="textwidget"><img src="http://activehistory.ca/wp-content/uploads/2017/02/usask_ArtsScience_History_black_reverse.png"/></div>
+		</div>			</div>
+			
+			<div class="widget-area-footer">
+				<div id="text-445942439" class="widget widget_text">			<div class="textwidget"><img src="http://activehistory.ca/wp-content/uploads/2017/02/huronuc_horiz_rgb_black_reverse_720.png"/></div>
+		</div>			</div>
+		</div>
+	</div>
+	</footer>
+		<hr class="hr-oscura" />
+	<footer id="colophon" role="contentinfo">
+	<div class="social-icon-wrapper">
+							<a href="https://twitter.com/activehist" title="Twitter" target="_blank"><i class="fa fa-twitter"></i></a> 
+						
+							<a href="https://www.facebook.com/ActiveHist/" title="Facebook" target="_blank"><i class="fa fa-facebook"></i></a>
+						
+						
+						
+					 		<a href="https://www.youtube.com/user/activehistoryca" title="YouTube" target="_blank"><i class="fa fa-youtube"></i></a>
+						
+						
+						
+							<a class="rss" href="http://feeds.feedburner.com/activehistoryca" title="Feed RSS" target="_blank"><i class="fa fa-rss"></i></a>			
+					</div><!-- .social-icon-wrapper -->
+		<hr class="hr-oscura" />
+		<div class="site-info">
+			<div class="credits-left"></div>
+			<div class="credits-center"><a rel="license" href="http://creativecommons.org/licenses/by-nd/4.0/"><img alt="Creative Commons Licence" style="border-width:0" src="https://i.creativecommons.org/l/by-nd/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nd/4.0/">Creative Commons Attribution-NoDerivatives 4.0 International License</a>.
+Blog posts published before October 28, 2018 are licensed with a Creative Commons Attribution-NonCommercial-ShareAlike 2.5 Canada License.</div>
+			<div class="credits-right"></div>
+		</div><!-- .site-info -->
+		
+			</footer><!-- #colophon -->
+
+			<div class="ir-arriba"><i class="fa fa-chevron-up"></i></div>
+		<div style="display:none">
+	<div class="grofile-hash-map-8a476300fcf7ac38b95773f163c2add0">
+	</div>
+	</div>
+<script>
+    jQuery(document).ready(function () {
+		jQuery.post('http://activehistory.ca?ga_action=googleanalytics_get_script', {action: 'googleanalytics_get_script'}, function(response) {
+			var s = document.createElement("script");
+			s.type = "text/javascript";
+			s.innerHTML = response;
+			jQuery("head").append(s);
+		});
+    });
+</script><div id="fb-root"></div>
+			<script>(function(d, s, id) { var js, fjs = d.getElementsByTagName(s)[0]; if (d.getElementById(id)) return; js = d.createElement(s); js.id = id; js.src = 'https://connect.facebook.net/en_CA/sdk.js#xfbml=1&appId=249643311490&version=v2.3'; fjs.parentNode.insertBefore(js, fjs); }(document, 'script', 'facebook-jssdk'));</script>
+			<script>
+			jQuery( document.body ).on( 'post-load', function() {
+				if ( 'undefined' !== typeof FB ) {
+					FB.XFBML.parse();
+				}
+			} );
+			</script>
+						<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+'://platform.twitter.com/widgets.js';fjs.parentNode.insertBefore(js,fjs);}}(document, 'script', 'twitter-wjs');</script>
+				<div id="sharing_email" style="display: none;">
+		<form action="/papers/papershistory-papers-19/?shared=email&#038;msg=fail" method="post">
+			<label for="target_email">Send to Email Address</label>
+			<input type="email" name="target_email" id="target_email" value="" />
+
+			
+				<label for="source_name">Your Name</label>
+				<input type="text" name="source_name" id="source_name" value="" />
+
+				<label for="source_email">Your Email Address</label>
+				<input type="email" name="source_email" id="source_email" value="" />
+
+						<input type="text" id="jetpack-source_f_name" name="source_f_name" class="input" value="" size="25" autocomplete="off" title="This field is for validation and should not be changed" />
+			
+			<img style="float: right; display: none" class="loading" src="http://activehistory.ca/wp-content/plugins/jetpack/modules/sharedaddy/images/loading.gif" alt="loading" width="16" height="16" />
+			<input type="submit" value="Send Email" class="sharing_send" />
+			<a rel="nofollow" href="#cancel" class="sharing_cancel" role="button">Cancel</a>
+
+			<div class="errors errors-1" style="display: none;">
+				Post was not sent - check your email addresses!			</div>
+
+			<div class="errors errors-2" style="display: none;">
+				Email check failed, please try again			</div>
+
+			<div class="errors errors-3" style="display: none;">
+				Sorry, your blog cannot share posts by email.			</div>
+		</form>
+	</div>
+<script type='text/javascript' src='https://secure.gravatar.com/js/gprofiles.js?ver=202025'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var WPGroHo = {"my_hash":""};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://activehistory.ca/wp-content/plugins/jetpack/modules/wpgroho.js?ver=5.4.2'></script>
+<script type='text/javascript' src='http://activehistory.ca/wp-content/themes/rubbersoul-pro/js/navigation.js?ver=20140711'></script>
+<script type='text/javascript' src='http://activehistory.ca/wp-content/themes/rubbersoul-pro/js/slider-recent-posts-fp.js?ver=2.6.4'></script>
+<script type='text/javascript' src='http://activehistory.ca/wp-content/themes/rubbersoul-pro/js/rsoul-pro-toggle-search.js?ver=2.6.4'></script>
+<script type='text/javascript' src='http://activehistory.ca/wp-content/plugins/jetpack/_inc/build/twitter-timeline.min.js?ver=4.0.0'></script>
+<script type='text/javascript' src='http://activehistory.ca/wp-includes/js/wp-embed.min.js?ver=5.4.2'></script>
+<script type='text/javascript' src='http://activehistory.ca/wp-content/plugins/jetpack/_inc/build/spin.min.js?ver=1.3'></script>
+<script type='text/javascript' src='http://activehistory.ca/wp-content/plugins/jetpack/_inc/build/jquery.spin.min.js?ver=1.3'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var jetpackCarouselStrings = {"widths":[370,700,1000,1200,1400,2000],"is_logged_in":"","lang":"en","ajaxurl":"http:\/\/activehistory.ca\/wp-admin\/admin-ajax.php","nonce":"5e88d0d860","display_exif":"1","display_comments":"1","display_geo":"1","single_image_gallery":"1","single_image_gallery_media_file":"","background_color":"black","comment":"Comment","post_comment":"Post Comment","write_comment":"Write a Comment...","loading_comments":"Loading Comments...","download_original":"View full size <span class=\"photo-size\">{0}<span class=\"photo-size-times\">\u00d7<\/span>{1}<\/span>","no_comment_text":"Please be sure to submit some text with your comment.","no_comment_email":"Please provide an email address to comment.","no_comment_author":"Please provide your name to comment.","comment_post_error":"Sorry, but there was an error posting your comment. Please try again later.","comment_approved":"Your comment was approved.","comment_unapproved":"Your comment is in moderation.","camera":"Camera","aperture":"Aperture","shutter_speed":"Shutter Speed","focal_length":"Focal Length","copyright":"Copyright","comment_registration":"0","require_name_email":"1","login_url":"http:\/\/activehistory.ca\/wp-login.php?redirect_to=http%3A%2F%2Factivehistory.ca%2Fpapers%2Fpapershistory-papers-19%2F","blog_id":"1","meta_data":["camera","aperture","shutter_speed","focal_length","copyright"],"local_comments_commenting_as":"<fieldset><label for=\"email\">Email (Required)<\/label> <input type=\"text\" name=\"email\" class=\"jp-carousel-comment-form-field jp-carousel-comment-form-text-field\" id=\"jp-carousel-comment-form-email-field\" \/><\/fieldset><fieldset><label for=\"author\">Name (Required)<\/label> <input type=\"text\" name=\"author\" class=\"jp-carousel-comment-form-field jp-carousel-comment-form-text-field\" id=\"jp-carousel-comment-form-author-field\" \/><\/fieldset><fieldset><label for=\"url\">Website<\/label> <input type=\"text\" name=\"url\" class=\"jp-carousel-comment-form-field jp-carousel-comment-form-text-field\" id=\"jp-carousel-comment-form-url-field\" \/><\/fieldset>"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://activehistory.ca/wp-content/plugins/jetpack/_inc/build/carousel/jetpack-carousel.min.js?ver=20190102'></script>
+<script async="async" type='text/javascript' src='http://activehistory.ca/wp-content/plugins/akismet/_inc/form.js?ver=4.1.6'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var sharing_js_options = {"lang":"en","counts":"1","is_stats_active":"1"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://activehistory.ca/wp-content/plugins/jetpack/_inc/build/sharedaddy/sharing.min.js?ver=8.6.1'></script>
+<script type='text/javascript'>
+var windowOpen;
+			jQuery( document.body ).on( 'click', 'a.share-facebook', function() {
+				// If there's another sharing window open, close it.
+				if ( 'undefined' !== typeof windowOpen ) {
+					windowOpen.close();
+				}
+				windowOpen = window.open( jQuery( this ).attr( 'href' ), 'wpcomfacebook', 'menubar=1,resizable=1,width=600,height=400' );
+				return false;
+			});
+</script>
+
+		<!--[if IE]>
+		<script type="text/javascript">
+			if ( 0 === window.location.hash.indexOf( '#comment-' ) ) {
+				// window.location.reload() doesn't respect the Hash in IE
+				window.location.hash = window.location.hash;
+			}
+		</script>
+		<![endif]-->
+		<script type="text/javascript">
+			(function () {
+				var comm_par_el = document.getElementById( 'comment_parent' ),
+					comm_par = ( comm_par_el && comm_par_el.value ) ? comm_par_el.value : '',
+					frame = document.getElementById( 'jetpack_remote_comment' ),
+					tellFrameNewParent;
+
+				tellFrameNewParent = function () {
+					if ( comm_par ) {
+						frame.src = "https://jetpack.wordpress.com/jetpack-comment/?blogid=42146343&postid=15576&comment_registration=0&require_name_email=1&stc_enabled=1&stb_enabled=1&show_avatars=1&avatar_default=mystery&greeting=Please+note%3A+ActiveHistory.ca+encourages+comment+and+constructive+discussion+of+our+articles.+We+reserve+the+right+to+delete+comments+submitted+under+aliases%2C+or+that+contain+spam%2C+harassment%2C+or+attacks+on+an+individual.&greeting_reply=Leave+a+Reply+to+%25s&color_scheme=light&lang=en_CA&jetpack_version=8.6.1&show_cookie_consent=10&has_cookie_consent=0&token_key=%3Bnormal%3B&sig=b354d14a26444d5bf5ce3d71c580ceb62971c857#parent=http%3A%2F%2Factivehistory.ca%2Fpapers%2Fpapershistory-papers-19%2F%3Fshared%3Demail%26msg%3Dfail" + '&replytocom=' + parseInt( comm_par, 10 ).toString();
+					} else {
+						frame.src = "https://jetpack.wordpress.com/jetpack-comment/?blogid=42146343&postid=15576&comment_registration=0&require_name_email=1&stc_enabled=1&stb_enabled=1&show_avatars=1&avatar_default=mystery&greeting=Please+note%3A+ActiveHistory.ca+encourages+comment+and+constructive+discussion+of+our+articles.+We+reserve+the+right+to+delete+comments+submitted+under+aliases%2C+or+that+contain+spam%2C+harassment%2C+or+attacks+on+an+individual.&greeting_reply=Leave+a+Reply+to+%25s&color_scheme=light&lang=en_CA&jetpack_version=8.6.1&show_cookie_consent=10&has_cookie_consent=0&token_key=%3Bnormal%3B&sig=b354d14a26444d5bf5ce3d71c580ceb62971c857#parent=http%3A%2F%2Factivehistory.ca%2Fpapers%2Fpapershistory-papers-19%2F%3Fshared%3Demail%26msg%3Dfail";
+					}
+				};
+
+				
+				// Do the post message bit after the dom has loaded.
+				document.addEventListener( 'DOMContentLoaded', function () {
+					var iframe_url = "https:\/\/jetpack.wordpress.com";
+					if ( window.postMessage ) {
+						if ( document.addEventListener ) {
+							window.addEventListener( 'message', function ( event ) {
+								var origin = event.origin.replace( /^http:\/\//i, 'https://' );
+								if ( iframe_url.replace( /^http:\/\//i, 'https://' ) !== origin ) {
+									return;
+								}
+								jQuery( frame ).height( event.data );
+							});
+						} else if ( document.attachEvent ) {
+							window.attachEvent( 'message', function ( event ) {
+								var origin = event.origin.replace( /^http:\/\//i, 'https://' );
+								if ( iframe_url.replace( /^http:\/\//i, 'https://' ) !== origin ) {
+									return;
+								}
+								jQuery( frame ).height( event.data );
+							});
+						}
+					}
+				})
+
+			})();
+		</script>
+
+		<script type='text/javascript' src='https://stats.wp.com/e-202025.js' async='async' defer='defer'></script>
+<script type='text/javascript'>
+	_stq = window._stq || [];
+	_stq.push([ 'view', {v:'ext',j:'1:8.6.1',blog:'42146343',post:'15576',tz:'-4',srv:'activehistory.ca'} ]);
+	_stq.push([ 'clickTrackerInit', '42146343', '15576' ]);
+</script>
+			
+</body>
+</html>

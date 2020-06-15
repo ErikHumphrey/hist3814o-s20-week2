@@ -1,0 +1,620 @@
+<!DOCTYPE html>
+<!--[if IE 7]>
+<html class="ie ie7" lang="en-CA">
+<![endif]-->
+<!--[if IE 8]>
+<html class="ie ie8" lang="en-CA">
+<![endif]-->
+<!--[if !(IE 7) & !(IE 8)]><!-->
+<html lang="en-CA">
+<!--<![endif]-->
+<head>
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width" />
+<link rel="profile" href="http://gmpg.org/xfn/11" />
+<link rel="pingback" href="http://activehistory.ca/xmlrpc.php" />
+<!--[if lt IE 9]>
+<script src="http://activehistory.ca/wp-content/themes/rubbersoul-pro/js/html5.js" type="text/javascript"></script>
+<![endif]-->
+<title>Fragmentation and Synthesis from the Standpoint of Critical History &#8211; Active History</title>
+<link rel='dns-prefetch' href='//secure.gravatar.com' />
+<link rel='dns-prefetch' href='//platform-api.sharethis.com' />
+<link rel='dns-prefetch' href='//fonts.googleapis.com' />
+<link rel='dns-prefetch' href='//s.w.org' />
+		<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/12.0.0-1\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/12.0.0-1\/svg\/","svgExt":".svg","source":{"concatemoji":"http:\/\/activehistory.ca\/wp-includes\/js\/wp-emoji-release.min.js?ver=5.4.2"}};
+			/*! This file is auto-generated */
+			!function(e,a,t){var r,n,o,i,p=a.createElement("canvas"),s=p.getContext&&p.getContext("2d");function c(e,t){var a=String.fromCharCode;s.clearRect(0,0,p.width,p.height),s.fillText(a.apply(this,e),0,0);var r=p.toDataURL();return s.clearRect(0,0,p.width,p.height),s.fillText(a.apply(this,t),0,0),r===p.toDataURL()}function l(e){if(!s||!s.fillText)return!1;switch(s.textBaseline="top",s.font="600 32px Arial",e){case"flag":return!c([127987,65039,8205,9895,65039],[127987,65039,8203,9895,65039])&&(!c([55356,56826,55356,56819],[55356,56826,8203,55356,56819])&&!c([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]));case"emoji":return!c([55357,56424,55356,57342,8205,55358,56605,8205,55357,56424,55356,57340],[55357,56424,55356,57342,8203,55358,56605,8203,55357,56424,55356,57340])}return!1}function d(e){var t=a.createElement("script");t.src=e,t.defer=t.type="text/javascript",a.getElementsByTagName("head")[0].appendChild(t)}for(i=Array("flag","emoji"),t.supports={everything:!0,everythingExceptFlag:!0},o=0;o<i.length;o++)t.supports[i[o]]=l(i[o]),t.supports.everything=t.supports.everything&&t.supports[i[o]],"flag"!==i[o]&&(t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&t.supports[i[o]]);t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&!t.supports.flag,t.DOMReady=!1,t.readyCallback=function(){t.DOMReady=!0},t.supports.everything||(n=function(){t.readyCallback()},a.addEventListener?(a.addEventListener("DOMContentLoaded",n,!1),e.addEventListener("load",n,!1)):(e.attachEvent("onload",n),a.attachEvent("onreadystatechange",function(){"complete"===a.readyState&&t.readyCallback()})),(r=t.source||{}).concatemoji?d(r.concatemoji):r.wpemoji&&r.twemoji&&(d(r.twemoji),d(r.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+		<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+	<link rel='stylesheet' id='wp-block-library-css'  href='http://activehistory.ca/wp-includes/css/dist/block-library/style.min.css?ver=5.4.2' type='text/css' media='all' />
+<style id='wp-block-library-inline-css' type='text/css'>
+.has-text-align-justify{text-align:justify;}
+</style>
+<link rel='stylesheet' id='dashicons-css'  href='http://activehistory.ca/wp-includes/css/dashicons.min.css?ver=5.4.2' type='text/css' media='all' />
+<link rel='stylesheet' id='rubbersoul-pro-fonts-css'  href='https://fonts.googleapis.com/css?family=Noto+Sans:400italic,700italic,400,700&#038;subset=latin,latin-ext' type='text/css' media='all' />
+<link rel='stylesheet' id='rubbersoul-pro-style-css'  href='http://activehistory.ca/wp-content/themes/rubbersoul-pro/style.css?ver=2.6.4' type='text/css' media='all' />
+<link rel='stylesheet' id='custom-style-css'  href='http://activehistory.ca/wp-content/themes/rubbersoul-pro/custom-style.css?ver=5.4.2' type='text/css' media='all' />
+<link rel='stylesheet' id='rsoul-pro-widgets-style-css'  href='http://activehistory.ca/wp-content/themes/rubbersoul-pro/css/rsoul-widgets-style.css?ver=2.6.4' type='text/css' media='all' />
+<link rel='stylesheet' id='font-awesome-css'  href='http://activehistory.ca/wp-content/themes/rubbersoul-pro/css/font-awesome-4.7.0/css/font-awesome.min.css?ver=5.4.2' type='text/css' media='all' />
+<link rel='stylesheet' id='rsoul-pro-slider-recent-posts-style-css'  href='http://activehistory.ca/wp-content/themes/rubbersoul-pro/css/slider-recent-posts-fp.css?ver=2.6.4' type='text/css' media='all' />
+<!--[if lt IE 9]>
+<link rel='stylesheet' id='rubbersoul-pro-ie-css'  href='http://activehistory.ca/wp-content/themes/rubbersoul-pro/css/ie.css?ver=20121010' type='text/css' media='all' />
+<![endif]-->
+<link rel='stylesheet' id='social-logos-css'  href='http://activehistory.ca/wp-content/plugins/jetpack/_inc/social-logos/social-logos.min.css?ver=8.6.1' type='text/css' media='all' />
+<link rel='stylesheet' id='jetpack_css-css'  href='http://activehistory.ca/wp-content/plugins/jetpack/css/jetpack.css?ver=8.6.1' type='text/css' media='all' />
+<script type='text/javascript' src='http://activehistory.ca/wp-includes/js/jquery/jquery.js?ver=1.12.4-wp'></script>
+<script type='text/javascript' src='http://activehistory.ca/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.4.1'></script>
+<script type='text/javascript' src='//platform-api.sharethis.com/js/sharethis.js#product=ga'></script>
+<link rel='https://api.w.org/' href='http://activehistory.ca/wp-json/' />
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://activehistory.ca/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://activehistory.ca/wp-includes/wlwmanifest.xml" /> 
+<meta name="generator" content="WordPress 5.4.2" />
+<link rel="canonical" href="http://activehistory.ca/papers/ldick/" />
+<link rel='shortlink' href='https://wp.me/P2QQbJ-1g4' />
+<link rel="alternate" type="application/json+oembed" href="http://activehistory.ca/wp-json/oembed/1.0/embed?url=http%3A%2F%2Factivehistory.ca%2Fpapers%2Fldick%2F" />
+<link rel="alternate" type="text/xml+oembed" href="http://activehistory.ca/wp-json/oembed/1.0/embed?url=http%3A%2F%2Factivehistory.ca%2Fpapers%2Fldick%2F&#038;format=xml" />
+<script type="text/javascript"><!--
+function powerpress_pinw(pinw_url){window.open(pinw_url, 'PowerPressPlayer','toolbar=0,status=0,resizable=1,width=460,height=320');	return false;}
+//-->
+</script>
+
+<link rel='dns-prefetch' href='//jetpack.wordpress.com'/>
+<link rel='dns-prefetch' href='//s0.wp.com'/>
+<link rel='dns-prefetch' href='//s1.wp.com'/>
+<link rel='dns-prefetch' href='//s2.wp.com'/>
+<link rel='dns-prefetch' href='//public-api.wordpress.com'/>
+<link rel='dns-prefetch' href='//0.gravatar.com'/>
+<link rel='dns-prefetch' href='//1.gravatar.com'/>
+<link rel='dns-prefetch' href='//2.gravatar.com'/>
+<link rel='dns-prefetch' href='//widgets.wp.com'/>
+<link rel='dns-prefetch' href='//v0.wordpress.com'/>
+	<style type='text/css'>
+		a {color: #0f7b3f;}
+	a:hover {color: #0f7b3f;}
+	.social-icon-wrapper a:hover {color: #0f7b3f;}
+	.prefix-widget-title {color: #0f7b3f;}
+	.term-icon {color: #0f7b3f;}
+	.sub-title a:hover {color:#0f7b3f;}
+	.entry-content a:visited,.comment-content a:visited {color:#0f7b3f;}
+	input[type="submit"] {background-color:#0f7b3f !important;}
+	input[type="reset"] {background-color:#0f7b3f !important;}
+	.bypostauthor cite span {background-color:#0f7b3f;}
+	.wrapper-cabecera {background-color:#0f7b3f;}
+	.wrapper-search-top-bar {background-color:#0f7b3f;}
+	.main-navigation {background-color:#0f7b3f;}
+	.entry-header .entry-title a:hover {color:#0f7b3f ;}
+	.archive-header {border-left-color:#0f7b3f;}
+	.main-navigation a:hover,
+	.main-navigation a:focus {
+		color: #0f7b3f;
+	}
+	.widget-area .widget a:hover {
+		color: #0f7b3f !important;
+	}
+	footer[role="contentinfo"] a:hover {
+		color: #0f7b3f;
+	}
+	.entry-meta a:hover {
+	color: #0f7b3f;
+	}
+	.format-status .entry-header header a:hover {
+		color: #0f7b3f;
+	}
+	.comments-area article header a:hover {
+		color: #0f7b3f;
+	}
+	a.comment-reply-link:hover,
+	a.comment-edit-link:hover {
+		color: #0f7b3f;
+	}
+	.template-front-page .widget-area .widget li a:hover {
+		color: #0f7b3f;
+	}
+	
+	.currenttext, .paginacion a:hover {background-color:#0f7b3f;}
+	.aside{border-left-color:#0f7b3f !important;}
+	blockquote{border-left-color:#0f7b3f;}
+	ul.tabs li.t-activa a {border-top-color: #0f7b3f;} 
+	.slider-current-btn a {background-color:#0f7b3f !important;}
+	h2.comments-title {border-left-color:#0f7b3f;}
+	
+		
+		
+			.titulo-descripcion {
+	 		text-transform:none;
+		}
+		
+		
+		
+			.wrapper-cabecera {height:70px; height:5rem;}
+		
+		
+			.header-logo {background-color:transparent;}
+		
+		
+		
+			
+		body.custom-font-enabled {font-family: "Noto Sans", Arial, Verdana;}
+	
+			@media screen and (min-width: 600px) {
+			#primary {float:left;}
+			#secondary {float:right;}
+			.site-content {
+				border-left: none;
+				padding-left:0;
+				padding-right: 24px;
+				padding-right:1.714285714285714rem;
+			}
+		}
+		
+		
+	@media screen and (max-width: 599px) {
+		.menu-toggle, .menu-toggle:hover {
+			background:#0f7b3f !important;
+			color:#ffffff !important;
+			width:100%;
+		}
+	}
+	
+	/* bbPress */
+		</style>
+	
+	<!-- Google Analytics -->
+    
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-8653817-1', 'auto');
+  ga('send', 'pageview');
+
+</script>
+    <!-- Google Analytics -->
+    <style type="text/css" id="custom-background-css">
+body.custom-background { background-color: #f4f4f4; }
+</style>
+	
+<!-- Jetpack Open Graph Tags -->
+<meta property="og:type" content="article" />
+<meta property="og:title" content="Fragmentation and Synthesis from the Standpoint of Critical History" />
+<meta property="og:url" content="http://activehistory.ca/papers/ldick/" />
+<meta property="og:description" content="Lyle Dick, Parks Canada What is critical history? Since it is not a recognized sub-field of history, it needs definition. The German philosopher of history G.W.F. Hegel provided a succinct statemen…" />
+<meta property="article:published_time" content="2011-04-26T10:32:10+00:00" />
+<meta property="article:modified_time" content="2011-04-26T12:23:51+00:00" />
+<meta property="og:site_name" content="Active History" />
+<meta property="og:image" content="http://activehistory.ca/wp-content/uploads/2019/02/cropped-ActiveHist2019_icon_whiteBCKG-6.jpg" />
+<meta property="og:image:width" content="512" />
+<meta property="og:image:height" content="512" />
+<meta name="twitter:site" content="@ActiveHist" />
+<meta name="twitter:text:title" content="Fragmentation and Synthesis from the Standpoint of Critical History" />
+<meta name="twitter:image" content="http://activehistory.ca/wp-content/uploads/2019/02/cropped-ActiveHist2019_icon_whiteBCKG-6-270x270.jpg" />
+<meta name="twitter:card" content="summary" />
+
+<!-- End Jetpack Open Graph Tags -->
+<link rel="icon" href="http://activehistory.ca/wp-content/uploads/2019/02/cropped-ActiveHist2019_icon_whiteBCKG-6-32x32.jpg" sizes="32x32" />
+<link rel="icon" href="http://activehistory.ca/wp-content/uploads/2019/02/cropped-ActiveHist2019_icon_whiteBCKG-6-192x192.jpg" sizes="192x192" />
+<link rel="apple-touch-icon" href="http://activehistory.ca/wp-content/uploads/2019/02/cropped-ActiveHist2019_icon_whiteBCKG-6-180x180.jpg" />
+<meta name="msapplication-TileImage" content="http://activehistory.ca/wp-content/uploads/2019/02/cropped-ActiveHist2019_icon_whiteBCKG-6-270x270.jpg" />
+</head>
+
+<body class="page-template-default page page-id-4840 page-child parent-pageid-23 custom-background custom-font-enabled">
+	
+		
+	<header id="masthead" class="site-header" role="banner">
+	<div class="wrapper-cabecera">
+	
+		<div class="blogname-y-menu">
+			<div class="boton-menu-movil"><i class="fa fa-align-justify fa-2x"></i></div>
+			
+							<div class="header-logo">
+					<a href="http://activehistory.ca/"><img src="http://activehistory.ca/wp-content/uploads/2019/04/cropped-ActiveHist2019_icon_whiteBCKG-1.jpg" class="header-image" width="400" height="400" alt="Active History" /></a>
+				</div>
+						
+						<div class="titulo-descripcion">
+			
+									<p class="site-title"><a href="http://activehistory.ca/" title="Active History" rel="home">Active History</a></p>
+								
+				<p class="site-description">History Matters</p>
+				
+			</div>
+						
+			<div class="toggle-search"><i class="fa fa-search"></i></div>
+			
+			<div class="wrapper-site-navigation">
+				<nav id="site-navigation" class="main-navigation" role="navigation">
+					
+					<div class="menu-the-main-container"><ul id="menu-the-main" class="nav-menu"><li id="menu-item-7899" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-home menu-item-7899"><a href="http://activehistory.ca/">Home</a></li>
+<li id="menu-item-7902" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-7902"><a href="http://activehistory.ca/about/">About</a></li>
+<li id="menu-item-7900" class="menu-item menu-item-type-post_type menu-item-object-page current-page-ancestor menu-item-7900"><a href="http://activehistory.ca/papers/">Features</a></li>
+<li id="menu-item-25840" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-25840"><a href="http://activehistory.ca/publications/">Publications</a></li>
+<li id="menu-item-7915" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-7915"><a href="http://activehistory.ca/podcasts/">Podcasts</a></li>
+<li id="menu-item-20816" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-20816"><a href="http://activehistory.ca/donate/">Support Us</a></li>
+</ul></div>				</nav><!-- #site-navigation -->
+                
+				<div class="wrapper-search-top-bar">
+                	<div class="search-top-bar">
+							<div>
+		<form method="get" id="searchform-toggle" action="http://activehistory.ca/">
+			<label for="s" class="assistive-text">Search</label>
+			<input type="search" class="txt-search" placeholder="Search..." name="s" id="s" />
+			<input type="submit" name="submit" id="btn-search" value="Search" />
+		</form>
+    </div>                    </div>
+                </div>
+                
+			</div><!-- .wrapper-site-navigation -->
+			
+		</div><!-- .blogname-y-menu -->
+        
+	<div style="position:relative; clear:both;">
+		
+<div id="menu-movil">
+	<div class="search-form-movil">
+		<form method="get" id="searchform-movil" action="http://activehistory.ca/">
+			<label for="s" class="assistive-text">Search</label>
+			<input type="search" class="txt-search-movil" placeholder="Search..." name="s" id="s" />
+			<input type="submit" name="submit" id="btn-search-movil" value="Search" />
+		</form>
+    </div><!-- search-form-movil -->
+	<div class="menu-movil-enlaces">
+		<div class="menu-the-main-container"><ul id="menu-the-main-1" class="nav-menu"><li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-home menu-item-7899"><a href="http://activehistory.ca/">Home</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-7902"><a href="http://activehistory.ca/about/">About</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page current-page-ancestor menu-item-7900"><a href="http://activehistory.ca/papers/">Features</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-25840"><a href="http://activehistory.ca/publications/">Publications</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-7915"><a href="http://activehistory.ca/podcasts/">Podcasts</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-20816"><a href="http://activehistory.ca/donate/">Support Us</a></li>
+</ul></div>	</div>
+	
+	<div class="social-icon-wrapper-movil">
+							<a href="https://twitter.com/activehist" title="Twitter" target="_blank"><i class="fa fa-twitter"></i></a> 
+						
+							<a href="https://www.facebook.com/ActiveHist/" title="Facebook" target="_blank"><i class="fa fa-facebook"></i></a>
+						
+						
+						
+					 		<a href="https://www.youtube.com/user/activehistoryca" title="YouTube" target="_blank"><i class="fa fa-youtube"></i></a>
+						
+						
+						
+							<a class="rss" href="http://feeds.feedburner.com/activehistoryca" title="RSS" target="_blank"><i class="fa fa-rss"></i></a>			
+					</div><!-- .social-icon-wrapper -->	
+</div><!-- #menu-movil -->    </div>
+    
+	</div><!-- wrapper-cabecera -->
+	
+	<div class="wrapper-area-widget-superior area-widget-padding-top">
+		</div>
+	
+	</header><!-- #masthead -->
+	
+<div id="page" class="hfeed site">
+	
+	<div id="main" class="wrapper">
+	<div id="primary" class="site-content">
+		<div id="content" role="main">
+
+							
+	<article id="post-4840" class="post-4840 page type-page status-publish hentry">
+
+		<header class="entry-header">
+													<h1 class="entry-title">Fragmentation and Synthesis from the Standpoint of Critical History</h1>
+					</header>
+
+		<div class="entry-content">
+			<p><body></p>
+<p class="p1">Lyle Dick, Parks Canada</p>
+<p class="p3"><b></b></p>
+<p class="p4">What is critical history? Since it is not a recognized sub-field of history, it needs definition.<span class="Apple-converted-space">  </span>The German philosopher of history G.W.F. Hegel provided a succinct statement on Critical History in his <i>Lectures on the Philosophy of History</i>: “It is not history itself that is here presented. We might more properly designate it as a History of History; a criticism of historical narratives and an investigation of their truth and credibility.”<a id="fnlink1"></a><a href="#fn1"><sup>[1]</sup></a><span class="Apple-converted-space">  </span>Under the rubric of critical history, I would include any works involving the critical assessment of historical representations or methodologies, historiographical criticism, or studies in the philosophy of history.<span class="Apple-converted-space">  </span>Critical history leads us to the study, not only of interpretations bearing upon past phenomena but also of present-day matters informing our perspectives on the past.<a id="fnlink2"></a><a href="#fn2"><sup>[2]</sup></a> In Canada, critical history has been found most often in reviews of historical books, films, or exhibitions, review articles, or articles on historiography. Methodologies from other disciplines in the humanities and social sciences are also relevant to the extent that they comment upon or illuminate the conceptualization and practice of history. <span class="Apple-converted-space"> </span></p>
+<p class="p4">What would a critically-informed history of Canada look like? Given the acknowledged difficulties of addressing the ever-increasing diversity of topics and approaches, perhaps we could practically begin by identifying some of the key issues that might be taken into account in light of critical theory. Some of the major critical concerns of the last few decades regarding historical synthesis as a form and practice can be summarized.<span class="Apple-converted-space">  </span>The historian Alan Megill identified a professional bias in favour of coherence and integration as opposed to the representation of difference.<a id="fnlink3"></a><a href="#fn3"><sup>[3]</sup></a><sup> </sup><span class="Apple-converted-space">  </span>He further asserted that: “Unity on the substantive level – the unity provided by the telling of a single story – can only serve to exclude.”<a id="fnlink4"></a><a href="#fn4"><sup>[4]</sup></a> In his analysis of synthetic history – what he termed “normal history” – Robert Berkhofer Jr. discerned a common authorial will to power over readers by historians regardless of ideological position.<a id="fnlink5"></a><a href="#fn5"><sup>[5]</sup></a> From the standpoint of women’s studies, Ruth Roach Pierson admonished historians seeking to represent the experience of others to proceed with “epistemic humility” and “methodological caution.”<a id="fnlink6"></a><a href="#fn6"><sup>[6]</sup></a><span class="Apple-converted-space">  </span>Important issues relating to the representation of experience, voice, and power relations have been identified by practitioners of Lesbian, Gay, Bisexual and Transgendered history.<a id="fnlink7"></a><a href="#fn7"><sup>[7]</sup></a> Joining the American debate on historical synthesis from the standpoint of ethnocultural communities history, John Kuo Wei Tchen challenged the assumptions of what he termed “trickle-down, all-authoritative academic history.” He asked, pointedly: “Who is researching and interpreting for whom?”, and asserted his belief that “the sustained personal experience of being deemed an ‘other’ and sustained reflection on that experience are vital to any study of the power dynamics of a racialized, gendered, classed, ethnicized, and sexualized history.”<a id="fnlink8"></a><a href="#fn8"><sup>[8]</sup></a> North American historiography’s neglect or erasure of vernacular traditions and voices was discussed in works by the material culture historian Henry Glassie in the United States,<a id="fnlink9"></a><a href="#fn9"><sup>[9]</sup></a> and in my own work on vernacular historians in Western Canada.<a id="fnlink10"></a><a href="#fn10"><sup>[10]</sup></a> More general theoretical concerns relating to the form of historical synthesis were elaborated in works by such thinkers as Walter Benjamin, Mikhail Bakhtin, Michel de Certeau, and others, who developed critiques of unified representations of history and culture in the twentieth century.<a id="fnlink11"></a><a href="#fn11"><sup>[11]</sup></a> Encompassing a wide range of philosophies and methodologies, these writers articulated some of the key questions that will need to be answered if historical synthesis is to pass the test of critical analysis in light of current knowledge and concerns.<span class="Apple-converted-space"> </span></p>
+<p class="p4">Of continuing concern is the matter of historical form, which as Hayden White extensively demonstrated, carries a content independent of the manifest content of such works.<a id="fnlink12"></a><a href="#fn12"><sup>[12]</sup></a><span class="Apple-converted-space">  </span>Our formal education has often predisposed us to treat language and form as straightforward vehicles for representing both the past and the “world out there.” Critical history teaches us though that history is far from a transparent window through which to view the past.<span class="Apple-converted-space">  </span>It is more like a prism, refracting not only the referenced historical evidence but also the historians’ and readers’ perspectives and ideological presuppositions. This suggests a need to move beyond a focus on diversity of content towards embracing a greater diversity of form. In this regard, we might consider replacing univocal narratives or harmonized syntheses relying on partial perspectives or evidence with forms incorporating a larger selection of voices and perspectives.<span class="Apple-converted-space">  </span>Instead of weaving the different strands together into tight narratives, we might be trying to combine different forms, genres, and voices into looser structures.<span class="Apple-converted-space">  </span>Rather than seeking resolution and coherence, we might be juxtaposing conflicting and even contradictory materials to more accurately represent the contested character of the Canadian past and the actual diversity of perspectives bearing upon its interpretation.<span class="Apple-converted-space"> </span></p>
+<p class="p4">As the debates of the last generation have revealed, the very notion of grand syntheses or great stories has been considered problematic – almost as soon as one has imagined it, one confronts the possibility of the negation of these grand edifices of the imagination.<a id="fnlink13"></a><a href="#fn13"><sup>[13]</sup></a><span class="Apple-converted-space">  </span>That is why I have difficulty imagining a great story of Canada without the periodic inclusion, alongside evidence supporting the main narrative line, of alternative texts, perspectives and voices raising questions regarding the truth claims of synthesis histories. Critical and representational history have been treated as discrete practices but if history were approached as less a product and more a process of on-going enquiry, these elements might readily be combined, rather than integrated or harmonized, while encouraging audiences to weigh the evidence and form their own interpretations. Rather than being consigned to the footnotes, or an add-on at the end of a chapter, critical discussions might be introduced throughout the narrative, perhaps functioning as another voice alongside the author’s, and not necessarily a voice that is in complete agreement with the main narrative line. This kind of approach could represent a step towards a more democratic form and content in Canadian historiography.</p>
+<p class="p4">Another concern identified by critical history is the problem of reification – the tendency of discourse to transform human relations into lifeless things or commodities.<a id="fnlink14"></a><a href="#fn14"><sup>[14]</sup></a><span class="Apple-converted-space">  </span>One of the ways we can counter this tendency is to restore to history something of the actual diversity of voices from the past and present. Bearing in mind Bakhtin’s powerful critique of monological discourse, historians might consider shifting from Voice-of-God third-person narration to more dialogical forms of representation.<a id="fnlink15"></a><a href="#fn15"><sup>[15]</sup></a> The role of the historian could modulate from an arbiter of history to more of a coordinator, engaged in contextualizing and laying out the different perspectives of a representative mix of voices, and / or an interrogator, applying the skills of critical history to the examination of the truth claims of the different versions of history. <span class="Apple-converted-space"> </span></p>
+<p class="p4">In my view the practice of history would benefit from an extended period of experimentation combined with critical evaluation, in which different approaches to historical representation could be tried out, assessed, and embraced, revised, or discarded.<span class="Apple-converted-space">  </span>In the spirit of dialogism, practitioners might attempt the hybrid mixing of textual forms to break up their narratives, alerting readers to the constructed character of these texts, and seeking to mitigate passivity or complacency in their reception. We generally lack such models in Canada, but some very interesting experiments with dialogical approaches to public historical representations, involving museum visitors, curators, and historians, have emerged in the United States over the last ten to twenty years.<span class="Apple-converted-space">  </span>These include the Animating Democracy project, a series of initiatives devoted to using various media and venues in museum contexts to encourage and provoke dialogue among the many constituencies at these museums.<a id="fnlink16"></a><a href="#fn16"><sup>[16]</sup></a><span class="Apple-converted-space">  </span>Other noteworthy projects include the Chinatown History Museum Project in New York City and the Japanese American National Museum in Los Angeles, both of which have espoused dialogue-driven approaches entailing sustained engagement with their audiences in planning, developing, and staging exhibitions and other forms of programming.<a id="fnlink17"></a><a href="#fn17"><sup>[17]</sup></a><span class="Apple-converted-space">  </span>Rather than be passive observers, constituencies and audiences at these museums have been empowered to participate in dialogues on historiographical issues.<span class="Apple-converted-space">  </span>These are just a few notions arising from critical history that might be considered as practitioners seek to reinvigorate the venerable form of historical synthesis within the field of Canadian history.</p>
+<p class="p3"></p>
+<hr>
+<p class="p4"><a id="fn1"></a><a href="#fnlink1">[1]</a> Georg Wilhelm Friedrich Hegel, <i>Lectures on the Philosophy of History</i> (Translated from the Third Edition by J. Sibree) (London: Henry G. Bohn, 1857), 7.</p>
+<p class="p4"><a id="fn2"></a><a href="#fnlink2">[2]</a> David Couzens Hoy, “Critical Theory and Critical History,” in David Couzens Hoy and Thomas A, McCarthy, eds., <i>Critical Theory</i> (:London: Wiley Blackwell, 1994), 136.</p>
+<p class="p4"><a id="fn3"></a><a href="#fnlink3">[3]</a> Alan Megill, “Coherence and Incoherence in Historical Studies: From the Annales School to the New Cultural History,” in <i>Historical Knowledge, Historical Erro</i>r<i>: A Contemporary Guide to Practice</i> (Chicago: University of Chicago Press, 2007), 188-208.</p>
+<p class="p4"><a id="fn4"></a><a href="#fnlink4">[4]</a> Alan Megill, “Fragmentation and the Future of Historiography,” ibid., 163.</p>
+<p class="p4"><a id="fn5"></a><a href="#fnlink5">[5]</a> Robert F. Berkhofer Jr., “The Challenge of Poetics to (Normal) Historical Practice,” in Paul Hernadi, ed., <i>The Rhetoric of Interpretation and the Interpretation of Rhetoric</i> (Durham, NC: Duke University Press, 1989), 197.</p>
+<p class="p4"><a id="fn6"></a><a href="#fnlink6">[6]</a> Ruth Roach Pierson, “Experience, Difference, Dominance and Voice in the Writing of Canadian Women’s History,” in Karen Offen, Ruth Roach Pierson and Jane Rendal, eds. <i>Writing Women’s History: International Perspectives</i> (Bloomington: Indiana University Press, 1991), 79-106.</p>
+<p class="p4"><a id="fn7"></a><a href="#fnlink7">[7]</a> Joseph Bristow, “Gay, Lesbian, Bisexual, Queer, and Transgender Criticism,” in Christa Knellwolf and Christopher Norris, eds., <i>The Cambridge History of Literary Criticism</i>, Vol. 9, <i>Twentieth Century Historical, Philosophical and Psychological Perspectives</i> (Cambridge, United Kingdom: Cambridge University Press, 2001), 217-34. For a recent collection of LGBT perspectives on Canadian historical and archival practice, see the special issue of <i>Archivaria: Journal of the Association of Canadian Archivists </i>68 (Fall 2009) devoted to “Queer Archives,” including: Patrizia Gentile, “Resisted Access? National Security, the Access to Information Act, and Queer(ing) Archives,” 141-58; Steven Maynard, “Police/Archives,” 159-82; Lyle Dick, “The 1942 Same-sex Trials in Edmonton: On the State&#8217;s Repression of Sexual Minorities, Archives, and Human Rights in Canada,” 183-218; and Elise Chenier, “Hidden from Historians: Preserving Lesbian Oral History in Canada;” 247-70.</p>
+<p class="p4"><a id="fn8"></a><a href="#fnlink8">[8]</a> John Kuo Wei Tchen, <span class="s1">“</span>Back to the Basics: Who is Researching and Interpreting for Whom?” <i>The Journal of American History</i>, Vol. 81, No. 3 (December 1994), 1005.</p>
+<p class="p4"><a id="fn9"></a><a href="#fnlink9">[9]</a> Henry Glassie, “The Practice and Purpose of History,” <i>Journal of American History</i>, Vol. 81, No. 3 (December 1994), pp. 961-68; and “History,” in <i>Material Culture</i> (Bloomington and Indianapolis: Indiana University Press, 1999), 5-40.</p>
+<p class="p4"><a id="fn10"></a><a href="#fnlink10">[10]</a> Lyle Dick, “Vernacular Currents in Western Canadian Historiography: The Passion and Prose of Katherine Hughes, F.G. Roe, and Roy Ito,” in Alvin Finkel, Sarah Carter, and Peter Fortna, eds., <i>The West and Beyond: New Perspectives on an Imagined ‘Region’</i> (Edmonton: Athabasca University Press, 2010), 13-46; and “The Seven Oaks Incident and the Construction of a Historical Tradition,” in Margaret Conrad and Alvin Finkel, eds.,<i> Foundations: Readings in Pre-Confederation Canadian History</i> (Toronto: Pearson Longman, 2004), 254-72.</p>
+<p class="p4"><a id="fn11"></a><a href="#fnlink11">[11]</a> Walter Benjamin, “Theses on the Philosophy of History, XVII,” in <i>Illuminations</i> (ed., Hannah Arendt, trans. Harry Zohn) (New York: Schocken, 1969), pp. 253-64; Mikhail Bakhtin, <i>Problems of Dostoevsky’s Poetics</i> (ed. and trans., Caryl Emerson) (Minneapolis: University of Minnesota Press, 1984); and “Epic and Novel,” in <i>The Dialogic Imagination: Four Essays</i> (ed., Michael Holquist; trans., Caryl Emerson and Michael Holquist) (Austin: University of Texas Press, 1981), 3-40; Michel de Certeau, “The Historiographical Operation,” in <i>The Writing of History</i> (trans., Tom Conley) (New York: Columbia University Press, 1988), 56-113.</p>
+<p class="p4"><a id="fn12"></a><a href="#fnlink12">[12]</a> Hayden White, <i>The Content of the Form: Narrative Discourse and Historical Representation</i> (Baltimore and London: The Johns Hopkins University Press, 1987).</p>
+<p class="p4"><a id="fn13"></a><a href="#fnlink13">[13]</a> See Robert F. Berkhofer Jr, <i>Beyond the Great Story: History as Text and Discourse</i> (Cambridge, Mass: Harvard University Press, 1995), 50-58.</p>
+<p class="p4"><a id="fn14"></a><a href="#fnlink14">[14]</a> For a recent statement of the problem, see Axel Honneth, <i>Reification: A New Look at an Old Idea</i>, with commentaries by Judith Butler, Raymond Guess, and Jonathan Lear (Oxford, United Kingdom: Oxford University Press, 2008).</p>
+<p class="p4"><a id="fn15"></a><a href="#fnlink15">[15]</a> Mikhail Bakhtin, <i>Problems of Dostoevsky’s Poetics</i> (ed. and trans., Caryl Emerson) (Minneapolis: University of Minnesota Press, 1984).</p>
+<p class="p4"><a id="fn16"></a><a href="#fnlink16">[16]</a> Pam Korza and Barbara Schaffer Bacon, <i>History as Catalyst for Civic Dialogue</i>: <i>Case Studies from Animating Democracy</i> (Washington, D.C.: Americans for the Arts, 2005).</p>
+<p class="p4"><a id="fn17"></a><a href="#fnlink17">[17]</a> John Kuo Wei Tchen, “Creating a Dialogic Museum: The Chinatown History Museum Experiment,” in Ivan Karp. Christiane Mullen Kreamer, and Steve D. Lavine, eds., <i>Museums and Communities: The Politics of Public Culture</i> (Washington, D.C. and London: Smithsonian Institution Press, 1992), 285-326; Akemi Kikumura-Yano, Lane Ryo Hirabayashi, and James A. Hirabayashi, eds., <i>Common Ground: The Japanese American National Museum and the Culture of Collaborations</i> (Boulder, Colorado: University of Colorado Press, 2005).</p>
+<p></body></p>
+<div class="sharedaddy sd-sharing-enabled"><div class="robots-nocontent sd-block sd-social sd-social-official sd-sharing"><div class="sd-content"><ul><li class="share-facebook"><div class="fb-share-button" data-href="http://activehistory.ca/papers/ldick/" data-layout="button_count"></div></li><li class="share-twitter"><a href="https://twitter.com/share" class="twitter-share-button" data-url="http://activehistory.ca/papers/ldick/" data-text="Fragmentation and Synthesis from the Standpoint of Critical History" data-via="ActiveHist" >Tweet</a></li><li class="share-email"><a rel="nofollow noopener noreferrer" data-shared="" class="share-email sd-button" href="http://activehistory.ca/papers/ldick/?share=email" target="_blank" title="Click to email this to a friend"><span>Email</span></a></li><li class="share-end"></li></ul></div></div></div>					</div><!-- .entry-content -->
+
+		<footer class="entry-meta">
+					</footer><!-- .entry-meta -->
+
+	</article><!-- #post -->				
+<div id="comments" class="comments-area">
+
+				<div class="zg-wrapper-widget-area">
+			<div id="text-445942440" class="widget widget_text">			<div class="textwidget"><p><a href="http://creativecommons.org/licenses/by-nd/4.0/" rel="license"><img style="border-width: 0;" src="https://i.creativecommons.org/l/by-nd/4.0/80x15.png" alt="Creative Commons Licence" /></a><br />
+This work is licensed under a <a href="http://creativecommons.org/licenses/by-nd/4.0/" rel="license">Creative Commons Attribution-NoDerivatives 4.0 International License</a>. Blog posts published before October  28, 2018 are licensed with a Creative Commons Attribution-NonCommercial-ShareAlike 2.5 Canada License.</p>
+</div>
+		</div>		</div>
+    	
+		
+		
+	<div class="wrapper-form-comments">
+	
+		<div id="respond" class="comment-respond">
+							<h3 id="reply-title" class="comment-reply-title">Please note: ActiveHistory.ca encourages comment and constructive discussion of our articles. We reserve the right to delete comments submitted under aliases, or that contain spam, harassment, or attacks on an individual.					<small><a rel="nofollow" id="cancel-comment-reply-link" href="/papers/ldick/?shared=email&amp;msg=fail#respond" style="display:none;">Cancel reply</a></small>
+				</h3>
+						<form id="commentform" class="comment-form">
+				<iframe title="Comment Form" src="https://jetpack.wordpress.com/jetpack-comment/?blogid=42146343&#038;postid=4840&#038;comment_registration=0&#038;require_name_email=1&#038;stc_enabled=1&#038;stb_enabled=1&#038;show_avatars=1&#038;avatar_default=mystery&#038;greeting=Please+note%3A+ActiveHistory.ca+encourages+comment+and+constructive+discussion+of+our+articles.+We+reserve+the+right+to+delete+comments+submitted+under+aliases%2C+or+that+contain+spam%2C+harassment%2C+or+attacks+on+an+individual.&#038;greeting_reply=Leave+a+Reply+to+%25s&#038;color_scheme=light&#038;lang=en_CA&#038;jetpack_version=8.6.1&#038;show_cookie_consent=10&#038;has_cookie_consent=0&#038;token_key=%3Bnormal%3B&#038;sig=d8e1ef70bbd21eb95551159ecb1e35b1264d7d59#parent=http%3A%2F%2Factivehistory.ca%2Fpapers%2Fldick%2F%3Fshared%3Demail%26msg%3Dfail" style="width:100%; height: 430px; border:0;" name="jetpack_remote_comment" class="jetpack_remote_comment" id="jetpack_remote_comment" sandbox="allow-same-origin allow-top-navigation allow-scripts allow-forms allow-popups"></iframe>
+									<!--[if !IE]><!-->
+					<script>
+						document.addEventListener('DOMContentLoaded', function () {
+							var commentForms = document.getElementsByClassName('jetpack_remote_comment');
+							for (var i = 0; i < commentForms.length; i++) {
+								commentForms[i].allowTransparency = false;
+								commentForms[i].scrolling = 'no';
+							}
+						});
+					</script>
+					<!--<![endif]-->
+							</form>
+		</div>
+
+		
+		<input type="hidden" name="comment_parent" id="comment_parent" value="" />
+
+			</div>
+
+</div><!-- #comments .comments-area -->			
+		</div><!-- #content -->
+	</div><!-- #primary -->
+
+
+			<div id="secondary" class="widget-area" role="complementary">
+			<aside id="search-2" class="widget widget_search">	<div class="wrapper-search-form">
+		<form method="get" id="searchform" action="http://activehistory.ca/">
+			<label for="s" class="assistive-text">Search</label>
+			<input type="search" class="txt-search" placeholder="Search..." name="s" id="s" />
+			<input type="submit" name="submit" id="btn-search-n" value="Search" />
+		</form>
+    </div></aside><aside id="text-445942422" class="widget widget_text"><h3 class="widget-title"><span class="prefix-widget-title"><i class="fa fa-th-large"></i></span> What is Active History?</h3>			<div class="textwidget"><p>ActiveHistory.ca is a website that connects the work of historians with the wider public and the importance of the past to current events.</p>
+<p>Please direct queries to Daniel Ross, Public Outreach Coordinator, via <a href="info@activehistory.ca">info@activehistory.ca</a>.</p>
+<p>For author guidelines, <a href="https://wp.me/P2QQbJ-32">click here</a>.</p>
+<p>Visitez notre partenaire francophone, <a href="http://histoireengagee.ca/"> HistoireEngagée.ca</a></p>
+</div>
+		</aside><aside id="text-445942433" class="widget widget_text"><h3 class="widget-title"><span class="prefix-widget-title"><i class="fa fa-th-large"></i></span> Ongoing Projects</h3>			<div class="textwidget"><ul>
+<li><b><a href="http://activehistory.ca/papers/beyond-the-lecture-series-list/">Beyond the Lecture</a></b></li>
+<li><b><a href="http://activehistory.ca/papers/canadas-first-world-war-a-centennial-series-on-activehistory-ca/">Canada's First World War</a></b></li>
+<li><b><a href="http://activehistory.ca/papers/from-juno-to-victory/">From Juno to Victory</a></b></li>
+<li><b><a href="http://activehistory.ca/podcasts/">History Slam Podcast</a></b></li>
+<li><b><a href="http://activehistory.ca/publications/">Open-Access Ebooks</a></b></li>
+<li><b><a href="http://activehistory.ca/remember-i-resist-i-redraw/">Remember/Resist/Redraw</a></b></li>
+</ul>
+
+</div>
+		</aside><aside id="twitter_timeline-3" class="widget widget_twitter_timeline"><h3 class="widget-title"><span class="prefix-widget-title"><i class="fa fa-th-large"></i></span> Twitter</h3><a class="twitter-timeline" data-theme="light" data-border-color="#e8e8e8" data-tweet-limit="3" data-lang="EN" data-partner="jetpack" data-chrome="noheader" href="https://twitter.com/ActiveHist" href="https://twitter.com/ActiveHist">My Tweets</a></aside><aside id="blog_subscription-3" class="widget widget_blog_subscription jetpack_subscription_widget"><h3 class="widget-title"><span class="prefix-widget-title"><i class="fa fa-th-large"></i></span> Subscribe via email</h3>
+            <form action="#" method="post" accept-charset="utf-8" id="subscribe-blog-blog_subscription-3">
+				                    <p id="subscribe-email">
+                        <label id="jetpack-subscribe-label"
+                               class="screen-reader-text"
+                               for="subscribe-field-blog_subscription-3">
+							Email Address                        </label>
+                        <input type="email" name="email" required="required"
+                        			                                                value=""
+                            id="subscribe-field-blog_subscription-3"
+                            placeholder="Email Address"
+                        />
+                    </p>
+
+                    <p id="subscribe-submit">
+                        <input type="hidden" name="action" value="subscribe"/>
+                        <input type="hidden" name="source" value="http://activehistory.ca/papers/ldick/?shared=email&#038;msg=fail"/>
+                        <input type="hidden" name="sub-type" value="widget"/>
+                        <input type="hidden" name="redirect_fragment" value="blog_subscription-3"/>
+						                        <button type="submit"
+	                        		                    	                        name="jetpack_subscriptions_widget"
+	                    >
+	                        Subscribe                        </button>
+                    </p>
+				            </form>
+		
+</aside>		</div><!-- #secondary -->
+		</div><!-- #main .wrapper -->
+	</div><!-- #page -->
+		<footer>
+	<div style="background-color:#444444;">
+		<div class="wrapper-widget-area-footer">
+			<div class="widget-area-footer">
+				<div id="text-445942435" class="widget widget_text">			<div class="textwidget">ActiveHistory.ca is supported financially and administratively by the <a href="http://artsandscience.usask.ca/history/">History Department at the University of Saskatchewan</a> and <a href="http://www.huronuc.on.ca/Home">Huron University College</a>. <a href="https://calicologic.com/">Calico Logic</a> provides technical support.</div>
+		</div>			</div>
+			
+			<div class="widget-area-footer">
+				<div id="text-445942437" class="widget widget_text">			<div class="textwidget"><img src="http://activehistory.ca/wp-content/uploads/2017/02/usask_ArtsScience_History_black_reverse.png"/></div>
+		</div>			</div>
+			
+			<div class="widget-area-footer">
+				<div id="text-445942439" class="widget widget_text">			<div class="textwidget"><img src="http://activehistory.ca/wp-content/uploads/2017/02/huronuc_horiz_rgb_black_reverse_720.png"/></div>
+		</div>			</div>
+		</div>
+	</div>
+	</footer>
+		<hr class="hr-oscura" />
+	<footer id="colophon" role="contentinfo">
+	<div class="social-icon-wrapper">
+							<a href="https://twitter.com/activehist" title="Twitter" target="_blank"><i class="fa fa-twitter"></i></a> 
+						
+							<a href="https://www.facebook.com/ActiveHist/" title="Facebook" target="_blank"><i class="fa fa-facebook"></i></a>
+						
+						
+						
+					 		<a href="https://www.youtube.com/user/activehistoryca" title="YouTube" target="_blank"><i class="fa fa-youtube"></i></a>
+						
+						
+						
+							<a class="rss" href="http://feeds.feedburner.com/activehistoryca" title="Feed RSS" target="_blank"><i class="fa fa-rss"></i></a>			
+					</div><!-- .social-icon-wrapper -->
+		<hr class="hr-oscura" />
+		<div class="site-info">
+			<div class="credits-left"></div>
+			<div class="credits-center"><a rel="license" href="http://creativecommons.org/licenses/by-nd/4.0/"><img alt="Creative Commons Licence" style="border-width:0" src="https://i.creativecommons.org/l/by-nd/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nd/4.0/">Creative Commons Attribution-NoDerivatives 4.0 International License</a>.
+Blog posts published before October 28, 2018 are licensed with a Creative Commons Attribution-NonCommercial-ShareAlike 2.5 Canada License.</div>
+			<div class="credits-right"></div>
+		</div><!-- .site-info -->
+		
+			</footer><!-- #colophon -->
+
+			<div class="ir-arriba"><i class="fa fa-chevron-up"></i></div>
+	<script>
+    jQuery(document).ready(function () {
+		jQuery.post('http://activehistory.ca?ga_action=googleanalytics_get_script', {action: 'googleanalytics_get_script'}, function(response) {
+			var s = document.createElement("script");
+			s.type = "text/javascript";
+			s.innerHTML = response;
+			jQuery("head").append(s);
+		});
+    });
+</script><div id="fb-root"></div>
+			<script>(function(d, s, id) { var js, fjs = d.getElementsByTagName(s)[0]; if (d.getElementById(id)) return; js = d.createElement(s); js.id = id; js.src = 'https://connect.facebook.net/en_CA/sdk.js#xfbml=1&appId=249643311490&version=v2.3'; fjs.parentNode.insertBefore(js, fjs); }(document, 'script', 'facebook-jssdk'));</script>
+			<script>
+			jQuery( document.body ).on( 'post-load', function() {
+				if ( 'undefined' !== typeof FB ) {
+					FB.XFBML.parse();
+				}
+			} );
+			</script>
+						<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+'://platform.twitter.com/widgets.js';fjs.parentNode.insertBefore(js,fjs);}}(document, 'script', 'twitter-wjs');</script>
+				<div id="sharing_email" style="display: none;">
+		<form action="/papers/ldick/?shared=email&#038;msg=fail" method="post">
+			<label for="target_email">Send to Email Address</label>
+			<input type="email" name="target_email" id="target_email" value="" />
+
+			
+				<label for="source_name">Your Name</label>
+				<input type="text" name="source_name" id="source_name" value="" />
+
+				<label for="source_email">Your Email Address</label>
+				<input type="email" name="source_email" id="source_email" value="" />
+
+						<input type="text" id="jetpack-source_f_name" name="source_f_name" class="input" value="" size="25" autocomplete="off" title="This field is for validation and should not be changed" />
+			
+			<img style="float: right; display: none" class="loading" src="http://activehistory.ca/wp-content/plugins/jetpack/modules/sharedaddy/images/loading.gif" alt="loading" width="16" height="16" />
+			<input type="submit" value="Send Email" class="sharing_send" />
+			<a rel="nofollow" href="#cancel" class="sharing_cancel" role="button">Cancel</a>
+
+			<div class="errors errors-1" style="display: none;">
+				Post was not sent - check your email addresses!			</div>
+
+			<div class="errors errors-2" style="display: none;">
+				Email check failed, please try again			</div>
+
+			<div class="errors errors-3" style="display: none;">
+				Sorry, your blog cannot share posts by email.			</div>
+		</form>
+	</div>
+<script type='text/javascript' src='http://activehistory.ca/wp-content/themes/rubbersoul-pro/js/navigation.js?ver=20140711'></script>
+<script type='text/javascript' src='http://activehistory.ca/wp-content/themes/rubbersoul-pro/js/slider-recent-posts-fp.js?ver=2.6.4'></script>
+<script type='text/javascript' src='http://activehistory.ca/wp-content/themes/rubbersoul-pro/js/rsoul-pro-toggle-search.js?ver=2.6.4'></script>
+<script type='text/javascript' src='http://activehistory.ca/wp-content/plugins/jetpack/_inc/build/twitter-timeline.min.js?ver=4.0.0'></script>
+<script type='text/javascript' src='http://activehistory.ca/wp-includes/js/wp-embed.min.js?ver=5.4.2'></script>
+<script async="async" type='text/javascript' src='http://activehistory.ca/wp-content/plugins/akismet/_inc/form.js?ver=4.1.6'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var sharing_js_options = {"lang":"en","counts":"1","is_stats_active":"1"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://activehistory.ca/wp-content/plugins/jetpack/_inc/build/sharedaddy/sharing.min.js?ver=8.6.1'></script>
+<script type='text/javascript'>
+var windowOpen;
+			jQuery( document.body ).on( 'click', 'a.share-facebook', function() {
+				// If there's another sharing window open, close it.
+				if ( 'undefined' !== typeof windowOpen ) {
+					windowOpen.close();
+				}
+				windowOpen = window.open( jQuery( this ).attr( 'href' ), 'wpcomfacebook', 'menubar=1,resizable=1,width=600,height=400' );
+				return false;
+			});
+</script>
+
+		<!--[if IE]>
+		<script type="text/javascript">
+			if ( 0 === window.location.hash.indexOf( '#comment-' ) ) {
+				// window.location.reload() doesn't respect the Hash in IE
+				window.location.hash = window.location.hash;
+			}
+		</script>
+		<![endif]-->
+		<script type="text/javascript">
+			(function () {
+				var comm_par_el = document.getElementById( 'comment_parent' ),
+					comm_par = ( comm_par_el && comm_par_el.value ) ? comm_par_el.value : '',
+					frame = document.getElementById( 'jetpack_remote_comment' ),
+					tellFrameNewParent;
+
+				tellFrameNewParent = function () {
+					if ( comm_par ) {
+						frame.src = "https://jetpack.wordpress.com/jetpack-comment/?blogid=42146343&postid=4840&comment_registration=0&require_name_email=1&stc_enabled=1&stb_enabled=1&show_avatars=1&avatar_default=mystery&greeting=Please+note%3A+ActiveHistory.ca+encourages+comment+and+constructive+discussion+of+our+articles.+We+reserve+the+right+to+delete+comments+submitted+under+aliases%2C+or+that+contain+spam%2C+harassment%2C+or+attacks+on+an+individual.&greeting_reply=Leave+a+Reply+to+%25s&color_scheme=light&lang=en_CA&jetpack_version=8.6.1&show_cookie_consent=10&has_cookie_consent=0&token_key=%3Bnormal%3B&sig=d8e1ef70bbd21eb95551159ecb1e35b1264d7d59#parent=http%3A%2F%2Factivehistory.ca%2Fpapers%2Fldick%2F%3Fshared%3Demail%26msg%3Dfail" + '&replytocom=' + parseInt( comm_par, 10 ).toString();
+					} else {
+						frame.src = "https://jetpack.wordpress.com/jetpack-comment/?blogid=42146343&postid=4840&comment_registration=0&require_name_email=1&stc_enabled=1&stb_enabled=1&show_avatars=1&avatar_default=mystery&greeting=Please+note%3A+ActiveHistory.ca+encourages+comment+and+constructive+discussion+of+our+articles.+We+reserve+the+right+to+delete+comments+submitted+under+aliases%2C+or+that+contain+spam%2C+harassment%2C+or+attacks+on+an+individual.&greeting_reply=Leave+a+Reply+to+%25s&color_scheme=light&lang=en_CA&jetpack_version=8.6.1&show_cookie_consent=10&has_cookie_consent=0&token_key=%3Bnormal%3B&sig=d8e1ef70bbd21eb95551159ecb1e35b1264d7d59#parent=http%3A%2F%2Factivehistory.ca%2Fpapers%2Fldick%2F%3Fshared%3Demail%26msg%3Dfail";
+					}
+				};
+
+				
+				// Do the post message bit after the dom has loaded.
+				document.addEventListener( 'DOMContentLoaded', function () {
+					var iframe_url = "https:\/\/jetpack.wordpress.com";
+					if ( window.postMessage ) {
+						if ( document.addEventListener ) {
+							window.addEventListener( 'message', function ( event ) {
+								var origin = event.origin.replace( /^http:\/\//i, 'https://' );
+								if ( iframe_url.replace( /^http:\/\//i, 'https://' ) !== origin ) {
+									return;
+								}
+								jQuery( frame ).height( event.data );
+							});
+						} else if ( document.attachEvent ) {
+							window.attachEvent( 'message', function ( event ) {
+								var origin = event.origin.replace( /^http:\/\//i, 'https://' );
+								if ( iframe_url.replace( /^http:\/\//i, 'https://' ) !== origin ) {
+									return;
+								}
+								jQuery( frame ).height( event.data );
+							});
+						}
+					}
+				})
+
+			})();
+		</script>
+
+		<script type='text/javascript' src='https://stats.wp.com/e-202025.js' async='async' defer='defer'></script>
+<script type='text/javascript'>
+	_stq = window._stq || [];
+	_stq.push([ 'view', {v:'ext',j:'1:8.6.1',blog:'42146343',post:'4840',tz:'-4',srv:'activehistory.ca'} ]);
+	_stq.push([ 'clickTrackerInit', '42146343', '4840' ]);
+</script>
+			
+</body>
+</html>

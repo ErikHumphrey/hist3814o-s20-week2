@@ -1,0 +1,763 @@
+<!DOCTYPE html>
+<!--[if IE 7]>
+<html class="ie ie7" lang="en-CA">
+<![endif]-->
+<!--[if IE 8]>
+<html class="ie ie8" lang="en-CA">
+<![endif]-->
+<!--[if !(IE 7) & !(IE 8)]><!-->
+<html lang="en-CA">
+<!--<![endif]-->
+<head>
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width" />
+<link rel="profile" href="http://gmpg.org/xfn/11" />
+<link rel="pingback" href="http://activehistory.ca/xmlrpc.php" />
+<!--[if lt IE 9]>
+<script src="http://activehistory.ca/wp-content/themes/rubbersoul-pro/js/html5.js" type="text/javascript"></script>
+<![endif]-->
+<title>The History of Education As “Active History”: A Cautionary Tale? &#8211; Active History</title>
+<link rel='dns-prefetch' href='//secure.gravatar.com' />
+<link rel='dns-prefetch' href='//platform-api.sharethis.com' />
+<link rel='dns-prefetch' href='//fonts.googleapis.com' />
+<link rel='dns-prefetch' href='//s.w.org' />
+		<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/12.0.0-1\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/12.0.0-1\/svg\/","svgExt":".svg","source":{"concatemoji":"http:\/\/activehistory.ca\/wp-includes\/js\/wp-emoji-release.min.js?ver=5.4.2"}};
+			/*! This file is auto-generated */
+			!function(e,a,t){var r,n,o,i,p=a.createElement("canvas"),s=p.getContext&&p.getContext("2d");function c(e,t){var a=String.fromCharCode;s.clearRect(0,0,p.width,p.height),s.fillText(a.apply(this,e),0,0);var r=p.toDataURL();return s.clearRect(0,0,p.width,p.height),s.fillText(a.apply(this,t),0,0),r===p.toDataURL()}function l(e){if(!s||!s.fillText)return!1;switch(s.textBaseline="top",s.font="600 32px Arial",e){case"flag":return!c([127987,65039,8205,9895,65039],[127987,65039,8203,9895,65039])&&(!c([55356,56826,55356,56819],[55356,56826,8203,55356,56819])&&!c([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]));case"emoji":return!c([55357,56424,55356,57342,8205,55358,56605,8205,55357,56424,55356,57340],[55357,56424,55356,57342,8203,55358,56605,8203,55357,56424,55356,57340])}return!1}function d(e){var t=a.createElement("script");t.src=e,t.defer=t.type="text/javascript",a.getElementsByTagName("head")[0].appendChild(t)}for(i=Array("flag","emoji"),t.supports={everything:!0,everythingExceptFlag:!0},o=0;o<i.length;o++)t.supports[i[o]]=l(i[o]),t.supports.everything=t.supports.everything&&t.supports[i[o]],"flag"!==i[o]&&(t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&t.supports[i[o]]);t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&!t.supports.flag,t.DOMReady=!1,t.readyCallback=function(){t.DOMReady=!0},t.supports.everything||(n=function(){t.readyCallback()},a.addEventListener?(a.addEventListener("DOMContentLoaded",n,!1),e.addEventListener("load",n,!1)):(e.attachEvent("onload",n),a.attachEvent("onreadystatechange",function(){"complete"===a.readyState&&t.readyCallback()})),(r=t.source||{}).concatemoji?d(r.concatemoji):r.wpemoji&&r.twemoji&&(d(r.twemoji),d(r.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+		<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+	<link rel='stylesheet' id='wp-block-library-css'  href='http://activehistory.ca/wp-includes/css/dist/block-library/style.min.css?ver=5.4.2' type='text/css' media='all' />
+<style id='wp-block-library-inline-css' type='text/css'>
+.has-text-align-justify{text-align:justify;}
+</style>
+<link rel='stylesheet' id='dashicons-css'  href='http://activehistory.ca/wp-includes/css/dashicons.min.css?ver=5.4.2' type='text/css' media='all' />
+<link rel='stylesheet' id='rubbersoul-pro-fonts-css'  href='https://fonts.googleapis.com/css?family=Noto+Sans:400italic,700italic,400,700&#038;subset=latin,latin-ext' type='text/css' media='all' />
+<link rel='stylesheet' id='rubbersoul-pro-style-css'  href='http://activehistory.ca/wp-content/themes/rubbersoul-pro/style.css?ver=2.6.4' type='text/css' media='all' />
+<link rel='stylesheet' id='custom-style-css'  href='http://activehistory.ca/wp-content/themes/rubbersoul-pro/custom-style.css?ver=5.4.2' type='text/css' media='all' />
+<link rel='stylesheet' id='rsoul-pro-widgets-style-css'  href='http://activehistory.ca/wp-content/themes/rubbersoul-pro/css/rsoul-widgets-style.css?ver=2.6.4' type='text/css' media='all' />
+<link rel='stylesheet' id='font-awesome-css'  href='http://activehistory.ca/wp-content/themes/rubbersoul-pro/css/font-awesome-4.7.0/css/font-awesome.min.css?ver=5.4.2' type='text/css' media='all' />
+<link rel='stylesheet' id='rsoul-pro-slider-recent-posts-style-css'  href='http://activehistory.ca/wp-content/themes/rubbersoul-pro/css/slider-recent-posts-fp.css?ver=2.6.4' type='text/css' media='all' />
+<!--[if lt IE 9]>
+<link rel='stylesheet' id='rubbersoul-pro-ie-css'  href='http://activehistory.ca/wp-content/themes/rubbersoul-pro/css/ie.css?ver=20121010' type='text/css' media='all' />
+<![endif]-->
+<link rel='stylesheet' id='social-logos-css'  href='http://activehistory.ca/wp-content/plugins/jetpack/_inc/social-logos/social-logos.min.css?ver=8.6.1' type='text/css' media='all' />
+<link rel='stylesheet' id='jetpack_css-css'  href='http://activehistory.ca/wp-content/plugins/jetpack/css/jetpack.css?ver=8.6.1' type='text/css' media='all' />
+<script type='text/javascript' src='http://activehistory.ca/wp-includes/js/jquery/jquery.js?ver=1.12.4-wp'></script>
+<script type='text/javascript' src='http://activehistory.ca/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.4.1'></script>
+<script type='text/javascript' src='//platform-api.sharethis.com/js/sharethis.js#product=ga'></script>
+<link rel='https://api.w.org/' href='http://activehistory.ca/wp-json/' />
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://activehistory.ca/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://activehistory.ca/wp-includes/wlwmanifest.xml" /> 
+<meta name="generator" content="WordPress 5.4.2" />
+<link rel="canonical" href="http://activehistory.ca/papers/history-papers-11/" />
+<link rel='shortlink' href='https://wp.me/P2QQbJ-2oP' />
+<link rel="alternate" type="application/json+oembed" href="http://activehistory.ca/wp-json/oembed/1.0/embed?url=http%3A%2F%2Factivehistory.ca%2Fpapers%2Fhistory-papers-11%2F" />
+<link rel="alternate" type="text/xml+oembed" href="http://activehistory.ca/wp-json/oembed/1.0/embed?url=http%3A%2F%2Factivehistory.ca%2Fpapers%2Fhistory-papers-11%2F&#038;format=xml" />
+<script type="text/javascript"><!--
+function powerpress_pinw(pinw_url){window.open(pinw_url, 'PowerPressPlayer','toolbar=0,status=0,resizable=1,width=460,height=320');	return false;}
+//-->
+</script>
+
+<link rel='dns-prefetch' href='//jetpack.wordpress.com'/>
+<link rel='dns-prefetch' href='//s0.wp.com'/>
+<link rel='dns-prefetch' href='//s1.wp.com'/>
+<link rel='dns-prefetch' href='//s2.wp.com'/>
+<link rel='dns-prefetch' href='//public-api.wordpress.com'/>
+<link rel='dns-prefetch' href='//0.gravatar.com'/>
+<link rel='dns-prefetch' href='//1.gravatar.com'/>
+<link rel='dns-prefetch' href='//2.gravatar.com'/>
+<link rel='dns-prefetch' href='//widgets.wp.com'/>
+<link rel='dns-prefetch' href='//v0.wordpress.com'/>
+	<style type='text/css'>
+		a {color: #0f7b3f;}
+	a:hover {color: #0f7b3f;}
+	.social-icon-wrapper a:hover {color: #0f7b3f;}
+	.prefix-widget-title {color: #0f7b3f;}
+	.term-icon {color: #0f7b3f;}
+	.sub-title a:hover {color:#0f7b3f;}
+	.entry-content a:visited,.comment-content a:visited {color:#0f7b3f;}
+	input[type="submit"] {background-color:#0f7b3f !important;}
+	input[type="reset"] {background-color:#0f7b3f !important;}
+	.bypostauthor cite span {background-color:#0f7b3f;}
+	.wrapper-cabecera {background-color:#0f7b3f;}
+	.wrapper-search-top-bar {background-color:#0f7b3f;}
+	.main-navigation {background-color:#0f7b3f;}
+	.entry-header .entry-title a:hover {color:#0f7b3f ;}
+	.archive-header {border-left-color:#0f7b3f;}
+	.main-navigation a:hover,
+	.main-navigation a:focus {
+		color: #0f7b3f;
+	}
+	.widget-area .widget a:hover {
+		color: #0f7b3f !important;
+	}
+	footer[role="contentinfo"] a:hover {
+		color: #0f7b3f;
+	}
+	.entry-meta a:hover {
+	color: #0f7b3f;
+	}
+	.format-status .entry-header header a:hover {
+		color: #0f7b3f;
+	}
+	.comments-area article header a:hover {
+		color: #0f7b3f;
+	}
+	a.comment-reply-link:hover,
+	a.comment-edit-link:hover {
+		color: #0f7b3f;
+	}
+	.template-front-page .widget-area .widget li a:hover {
+		color: #0f7b3f;
+	}
+	
+	.currenttext, .paginacion a:hover {background-color:#0f7b3f;}
+	.aside{border-left-color:#0f7b3f !important;}
+	blockquote{border-left-color:#0f7b3f;}
+	ul.tabs li.t-activa a {border-top-color: #0f7b3f;} 
+	.slider-current-btn a {background-color:#0f7b3f !important;}
+	h2.comments-title {border-left-color:#0f7b3f;}
+	
+		
+		
+			.titulo-descripcion {
+	 		text-transform:none;
+		}
+		
+		
+		
+			.wrapper-cabecera {height:70px; height:5rem;}
+		
+		
+			.header-logo {background-color:transparent;}
+		
+		
+		
+			
+		body.custom-font-enabled {font-family: "Noto Sans", Arial, Verdana;}
+	
+			@media screen and (min-width: 600px) {
+			#primary {float:left;}
+			#secondary {float:right;}
+			.site-content {
+				border-left: none;
+				padding-left:0;
+				padding-right: 24px;
+				padding-right:1.714285714285714rem;
+			}
+		}
+		
+		
+	@media screen and (max-width: 599px) {
+		.menu-toggle, .menu-toggle:hover {
+			background:#0f7b3f !important;
+			color:#ffffff !important;
+			width:100%;
+		}
+	}
+	
+	/* bbPress */
+		</style>
+	
+	<!-- Google Analytics -->
+    
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-8653817-1', 'auto');
+  ga('send', 'pageview');
+
+</script>
+    <!-- Google Analytics -->
+    <style type="text/css" id="custom-background-css">
+body.custom-background { background-color: #f4f4f4; }
+</style>
+	
+<!-- Jetpack Open Graph Tags -->
+<meta property="og:type" content="article" />
+<meta property="og:title" content="The History of Education As “Active History”: A Cautionary Tale?" />
+<meta property="og:url" content="http://activehistory.ca/papers/history-papers-11/" />
+<meta property="og:description" content="By Jason Ellis, Contemporary Studies/Children&#8217;s Education and Development Option, Wilfrid Laurier University (Brantford); Department of History, Trent University (Oshawa); Faculty of Educatio…" />
+<meta property="article:published_time" content="2012-09-24T10:00:33+00:00" />
+<meta property="article:modified_time" content="2012-09-24T17:35:11+00:00" />
+<meta property="og:site_name" content="Active History" />
+<meta property="og:image" content="http://activehistory.ca/wp-content/uploads/2019/02/cropped-ActiveHist2019_icon_whiteBCKG-6.jpg" />
+<meta property="og:image:width" content="512" />
+<meta property="og:image:height" content="512" />
+<meta name="twitter:site" content="@ActiveHist" />
+<meta name="twitter:text:title" content="The History of Education As “Active History”: A Cautionary Tale?" />
+<meta name="twitter:image" content="http://activehistory.ca/wp-content/uploads/2019/02/cropped-ActiveHist2019_icon_whiteBCKG-6-270x270.jpg" />
+<meta name="twitter:card" content="summary" />
+
+<!-- End Jetpack Open Graph Tags -->
+<link rel="icon" href="http://activehistory.ca/wp-content/uploads/2019/02/cropped-ActiveHist2019_icon_whiteBCKG-6-32x32.jpg" sizes="32x32" />
+<link rel="icon" href="http://activehistory.ca/wp-content/uploads/2019/02/cropped-ActiveHist2019_icon_whiteBCKG-6-192x192.jpg" sizes="192x192" />
+<link rel="apple-touch-icon" href="http://activehistory.ca/wp-content/uploads/2019/02/cropped-ActiveHist2019_icon_whiteBCKG-6-180x180.jpg" />
+<meta name="msapplication-TileImage" content="http://activehistory.ca/wp-content/uploads/2019/02/cropped-ActiveHist2019_icon_whiteBCKG-6-270x270.jpg" />
+</head>
+
+<body class="page-template-default page page-id-9227 page-child parent-pageid-23 custom-background custom-font-enabled">
+	
+		
+	<header id="masthead" class="site-header" role="banner">
+	<div class="wrapper-cabecera">
+	
+		<div class="blogname-y-menu">
+			<div class="boton-menu-movil"><i class="fa fa-align-justify fa-2x"></i></div>
+			
+							<div class="header-logo">
+					<a href="http://activehistory.ca/"><img src="http://activehistory.ca/wp-content/uploads/2019/04/cropped-ActiveHist2019_icon_whiteBCKG-1.jpg" class="header-image" width="400" height="400" alt="Active History" /></a>
+				</div>
+						
+						<div class="titulo-descripcion">
+			
+									<p class="site-title"><a href="http://activehistory.ca/" title="Active History" rel="home">Active History</a></p>
+								
+				<p class="site-description">History Matters</p>
+				
+			</div>
+						
+			<div class="toggle-search"><i class="fa fa-search"></i></div>
+			
+			<div class="wrapper-site-navigation">
+				<nav id="site-navigation" class="main-navigation" role="navigation">
+					
+					<div class="menu-the-main-container"><ul id="menu-the-main" class="nav-menu"><li id="menu-item-7899" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-home menu-item-7899"><a href="http://activehistory.ca/">Home</a></li>
+<li id="menu-item-7902" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-7902"><a href="http://activehistory.ca/about/">About</a></li>
+<li id="menu-item-7900" class="menu-item menu-item-type-post_type menu-item-object-page current-page-ancestor menu-item-7900"><a href="http://activehistory.ca/papers/">Features</a></li>
+<li id="menu-item-25840" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-25840"><a href="http://activehistory.ca/publications/">Publications</a></li>
+<li id="menu-item-7915" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-7915"><a href="http://activehistory.ca/podcasts/">Podcasts</a></li>
+<li id="menu-item-20816" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-20816"><a href="http://activehistory.ca/donate/">Support Us</a></li>
+</ul></div>				</nav><!-- #site-navigation -->
+                
+				<div class="wrapper-search-top-bar">
+                	<div class="search-top-bar">
+							<div>
+		<form method="get" id="searchform-toggle" action="http://activehistory.ca/">
+			<label for="s" class="assistive-text">Search</label>
+			<input type="search" class="txt-search" placeholder="Search..." name="s" id="s" />
+			<input type="submit" name="submit" id="btn-search" value="Search" />
+		</form>
+    </div>                    </div>
+                </div>
+                
+			</div><!-- .wrapper-site-navigation -->
+			
+		</div><!-- .blogname-y-menu -->
+        
+	<div style="position:relative; clear:both;">
+		
+<div id="menu-movil">
+	<div class="search-form-movil">
+		<form method="get" id="searchform-movil" action="http://activehistory.ca/">
+			<label for="s" class="assistive-text">Search</label>
+			<input type="search" class="txt-search-movil" placeholder="Search..." name="s" id="s" />
+			<input type="submit" name="submit" id="btn-search-movil" value="Search" />
+		</form>
+    </div><!-- search-form-movil -->
+	<div class="menu-movil-enlaces">
+		<div class="menu-the-main-container"><ul id="menu-the-main-1" class="nav-menu"><li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-home menu-item-7899"><a href="http://activehistory.ca/">Home</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-7902"><a href="http://activehistory.ca/about/">About</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page current-page-ancestor menu-item-7900"><a href="http://activehistory.ca/papers/">Features</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-25840"><a href="http://activehistory.ca/publications/">Publications</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-7915"><a href="http://activehistory.ca/podcasts/">Podcasts</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-20816"><a href="http://activehistory.ca/donate/">Support Us</a></li>
+</ul></div>	</div>
+	
+	<div class="social-icon-wrapper-movil">
+							<a href="https://twitter.com/activehist" title="Twitter" target="_blank"><i class="fa fa-twitter"></i></a> 
+						
+							<a href="https://www.facebook.com/ActiveHist/" title="Facebook" target="_blank"><i class="fa fa-facebook"></i></a>
+						
+						
+						
+					 		<a href="https://www.youtube.com/user/activehistoryca" title="YouTube" target="_blank"><i class="fa fa-youtube"></i></a>
+						
+						
+						
+							<a class="rss" href="http://feeds.feedburner.com/activehistoryca" title="RSS" target="_blank"><i class="fa fa-rss"></i></a>			
+					</div><!-- .social-icon-wrapper -->	
+</div><!-- #menu-movil -->    </div>
+    
+	</div><!-- wrapper-cabecera -->
+	
+	<div class="wrapper-area-widget-superior area-widget-padding-top">
+		</div>
+	
+	</header><!-- #masthead -->
+	
+<div id="page" class="hfeed site">
+	
+	<div id="main" class="wrapper">
+	<div id="primary" class="site-content">
+		<div id="content" role="main">
+
+							
+	<article id="post-9227" class="post-9227 page type-page status-publish hentry">
+
+		<header class="entry-header">
+													<h1 class="entry-title">The History of Education As “Active History”: A Cautionary Tale?</h1>
+					</header>
+
+		<div class="entry-content">
+			<p>By Jason Ellis, Contemporary Studies/Children&#8217;s Education and Development Option, Wilfrid Laurier University (Brantford); Department of History, Trent University (Oshawa); Faculty of Education, Western University</p>
+<p><em><strong><a href="#1">Abstract</a></strong></em><br />
+<em><strong> <a href="#2">Keywords</a></strong></em><br />
+<em><strong> <a href="#3">Introduction</a></strong></em><br />
+<em><strong> <a href="#4">The active history of education and teacher training</a></strong></em><br />
+<em><strong> <a href="#5">The revisionists revising</a></strong></em><br />
+<em><strong> <a href="#6">The revisionists reformed</a></strong></em><br />
+<em><strong> <a href="#7">Educational history: lessons learned</a></strong></em><br />
+<em><strong> <a href="#8">Conclusion</a></strong></em><br />
+<em><strong> <a href="#44">Notes</a></strong></em></p>
+<p><strong><a name="1"></a>Abstract</strong></p>
+<p>The paper looks at the long tradition of “active history” within the history of education field. It traces the active history of education’s influence on teacher preparation programs, on educational policymaking and reform, and on activism in education, from approximately 1890 to the present. The paper also examines some of the consequences of the active history of education. In the history of education field, right wing school reformers in the 1980s and 1990s used active histories written by New Left historians in the 1960s and 1970s to draw up and justify blueprints for market-based school reform and privatization. In 2012, some people see these reforms as imperilling the continued existence of the American public school system. Is the “active history” of education therefore a cautionary tale? What happens when active histories are used to further political goals that the authors of those histories may not have foreseen or intended?<span id="more-9227"></span></p>
+<p><strong><a name="2"></a>Keywords</strong></p>
+<p>History in practice<br />
+education<br />
+school reform<br />
+politics</p>
+<p><strong><a name="3"></a>Introduction</strong></p>
+<p>“Active history,” is defined “variously as history that listens and is responsive; history that will make a tangible difference in people’s lives; history that makes an intervention and is transformative to both practitioners and communities.”<a>[1]</a> For quite some time it has been one of the conventions of the history of education field to produce scholarship meeting this description, history that openly informs educational practice, educational policy, and at times educational activism as well. This paper looks at the tradition of what we might call “active history” within the history of education field, from approximately the 1890s to the present. Using a combination of Canadian and American examples, from Toronto and different American cities mainly, I trace some of the impact of the active history of education on the preparation of teachers, on educational policymaking and reform, and on activism. I also examine the consequences—sometimes unintended—of this history. In the history of education field, scholarship produced by New Left historians in the 1960s and 1970s was used by right wing school reformers in the 1980s and 1990s to draw up and justify blueprints for market-based school reform and privatization. Today, these reforms are steadily undermining the American public school system. Should the active history of education, therefore, be read as a cautionary tale by active historians working in other subfields of history, in Canada and the United States? This paper presents the evidence and calls on active historians to decide for themselves.</p>
+<p><strong><a name="4"></a>The active history of education and teacher training</strong></p>
+<p>In the late nineteenth century, the history of education began to form part of the academic program in teacher training institutes and on examinations for teacher certification in Canada and the United States.<a href="#10">[2]</a> The basic active history goal of the history of education then was twofold. Scholarship in the field served as the source of a Whiggish and apologist account of the historical development of the public school systems that most teachers in training would graduate into. The grandest historical narrative presented in this style, <em>The History of Education: Educational Practice and Progress Considered as a Phase of the Development and Spread of Western Civilization</em> (1920), by the American education professor and school reformer Elwood Patterson Cubberley, told the story of the “evolution of modern state school systems and the world-wide spread of Western civilization.” Professor Cubberley offered both evolutions as interconnected and “inevitable” chapters in a story of “human progress” shaped by “great historic forces.”<a href="#11">[3]</a> The other (and related) active history goal of Cubberley’s book, and others like it, was to swell teachers with professional pride in their noble vocation, in an era where teachers were struggling to professionalize and improve their working conditions.<a href="#12">[4]</a></p>
+<p>Narratives similar to Cubberley’s remained a staple of the history of education portion of teacher training for some time. A textbook that candidates enrolled in Ontario teacher training and certification programs used in the 1970s is a worthy example of the Cubberley school. <em>The Professional Teacher in Ontario: The Heritage, Responsibilities, and Practices</em> (3<sup>rd</sup> edition, 1970) includes the following passage:</p>
+<p>Education in the province has been, is, and will be in a state of continual development. This educational evolution has been gradual, often painful, but inexorable. From humble beginnings it has become one of the primary concerns of society and government today.<a href="#13">[5]</a></p>
+<p>Yet, by the time this textbook’s third edition was published in 1970, not everyone in the field was convinced that the history of education should be told as an inevitable social and cultural evolution towards progress and enlightenment.</p>
+<p><strong><a name="5"></a>The revisionists revising</strong></p>
+<p>In the late 1960s and early 1970s, schooling was one of the many public institutions to come under fire from the New Left. Books such as Jonathan Kozol’s <em>Death at an Early Age </em>(1967), Ivan Illich’s <em>DeSchooling Society</em> (1971), and in Canada, the serial <em>This Magazine is About Schools</em>, heavily criticized public schools as stuffy, hierarchical and painfully bureaucratic, class-biased and racist—generally unfit for children. The critique of schools in trouble came in the midst of a period of intense urban crisis in American cities in the late 1960s, in which racial and class tensions reached the boiling point. In the United States, and Canada as well, New Left criticism of public schooling as an institution spilled over into faculties of education and into the academic study of educational history. Educational history in the United States and Canada would henceforth pursue a new form of active history: history that called the present-day school system to account for what a group of primarily New Left critics and historians (and they were sometimes one in the same) perceived as the public schools’ many shortcomings historically and in the present.</p>
+<p>In the late 1960s and early 1970s, one group of historians in particular, who became known as “radical revisionists” and whose members included (amongst others) Michael B. Katz, Paul Violas, and Joel Spring, pursued several different lines of historical scholarship that were critical of American public schooling.<a href="#14">[6]</a> Katz also came north to Canada and settled for a time in Toronto after being hired at the newly-formed Ontario Institute for Studies in Education (OISE) in the late 1960s. At OISE Katz supervised graduate students who went on to produce revisionist accounts of Canadian educational history, including Alison Prentice who re-examined the motivations of Ontario’s nineteenth-century “school promoters.”<a href="#15">[7]</a> Katz’s own, very important book, <em>The Irony of Early School Reform </em>(1968), concentrated on an 1860 vote to abolish the public high school of Beverly, Massachusetts, in which the town’s least well-off residents cast most of their votes against the high school. Katz’s groundbreaking analysis revised the liberal argument on which the history of education field was founded. The liberal interpretation of educational history held that the public education system was won in the nineteenth century <em>by</em> enlightened, liberal reformers, <em>from</em> a grudging class of aristocrats and plutocrats, <em>for</em> a grateful working-class. Katz asserted that, to the contrary, educational reform was imposed on the working class—who resisted it—by self-interested, and rather self-satisfied, middle-class, liberal reformers. Katz questioned two other key claims of liberal scholars as well. He argued that public schooling had most certainly not promoted social mobility, as liberal defenders of public schools believed, and that it had not equalized opportunity for working-class pupils either.</p>
+<p>Bureaucracy was another theme taken up by Katz, and a number of other revisionist scholars (not all of them radical), most notably David B. Tyack. Katz and Tyack argued, in separate and now classic works, that urban educational systems became bureaucracies between approximately the 1850s and the 1940s.<a href="#16">[8]</a> With Katz and Tyack’s analyses, bureaucracy became the lynchpin in the revisionist critique of educational history. As school systems bureaucratized, Katz and Tyack contend, they also fell increasingly under elite control, became much less responsive to the needs of local communities, and increasingly reproduced social, economic, and racial inequality instead of attacking it. In his book, <em>Class, Bureaucracy and Schools</em>,<em> </em>Katz wrote that little had changed in the “basic structure of American education” since about 1880. “Certain characteristics of American education today were also characteristic a century ago: it is, and was, universal, tax-supported, free, compulsory, bureaucratic, racist, and class-biased.”<a href="#17">[9]</a> Tyack’s <em>The One Best System</em> was the more restrained, or moderately revisionist, of these two major critiques of bureaucracy. Tyack argued that bureaucratically organized public schools were persistently unresponsive to local communities and wrote that “despite frequent good intentions and abundant rhetoric about ‘equal educational opportunity,’ schools have rarely taught the children of the poor effectively—and this failure has been systematic, not idiosyncratic.”<a href="#18">[10]</a> Like Katz, Tyack also stressed the present-day implications of his arguments. Tyack wrote <em>The One Best System </em>for experts and laypersons alike who were “curious and concerned about how we arrived at the present crisis in urban education.” Tyack added: “We stand at a point in time when we need to examine those educational institutions and values we have taken for granted. … The way we understand the past profoundly shapes how we make choices today.”<a href="#19">[11]</a></p>
+<p>It is difficult to measure the extent—or the precision—of revisionist educational history’s actual impact on the activism that responded to different educational crises in Canada and the United States in the late 1960s and early 1970s. But historians clearly had some influence. In Canada, the book <em>The Failure of Educational Reform in Canada</em> (1973), edited by OISE’s Douglas Myers, compiled articles on school reform that had been published in the progressive periodical <em>The Canadian Forum</em> throughout 1972. Michael Katz, who was then still teaching at OISE, contributed the first essay in <em>The Failure of Educational Reform in Canada</em>. Katz’s essay mainly reproduced material that appeared in <em>Class, Bureaucracy and Schools</em>, on the longevity of American educational bureaucracy and its undesirable effects on a century’s worth of public school students. Yet Katz also stated that he was convinced that “the interrelationships among bureaucracy, class and education are no less prominent, entrenched, or harmful in Ontario than in Massachusetts.”<a href="#20">[12]</a></p>
+<p>Contributors to <em>The</em> <em>Failure of Educational Reform</em> came from across Canada.<em> </em>Amidst essays critical of many different aspects of schooling, several authors also wrote, like Katz, in negative tones about bureaucracy. One of the book’s features was Douglas Myers’s transcribed interview with Bob Davis, George Martell, and Satu Repo, all at one time editors of <em>This Magazine is About Schools</em>. The colourful Davis, a former teacher in the Ontario public system, quit his job to form a “free school” in the 1960s called Everdale Place.<a href="#21">[13]</a> Free schools—which are independent, usually highly decentralized, parent-directed, child-centred, and communitarian in outlook—were one of the answers radicals across North America pursued in the late 1960s as a way of breaking the power of bureaucratically organized public schools. Another, more moderate, contributor to <em>The Failure of Educational Reform</em> was Fiona Nelson, a Toronto school trustee who was like Davis a former teacher. Nelson’s essay describes various new and innovative alternative “community schools” that the Toronto Board of Education had begun to operate, fund, and staff—from within the public system—in the late 1960s and early 1970s. Nelson presented these schools, including two that still exist today—SEED (Shared Experience Exploration Discovery) and ALPHA (A Lot of People Hoping for An Alternative)—as more responsive and in-touch alternatives to “the deadhand bureaucracy much of schooling had become.”<a href="#22">[14]</a></p>
+<p>In another forum, different Toronto activists supported more provocative and cutting edge reforms that they envisioned would help them to wrestle power from educational bureaucrats. Frances Glover contributed a favourable piece on school vouchers to the magazine “Community Schools,” the mouthpiece of the non-profit and progressive group “Community School Workshop of Toronto.” (Vouchers allow parents to take their child’s monetary share of the public school pot to any school they wish—public, free, or private.) “An immediate advantage” of vouchers, Glover wrote, “is that schools become competitive, and upgrade their education to serve all kinds of children, rich, poor, black, white … and so on.” Yet vouchers would encounter resistance, Glover wrote, for two reasons. Public educators had a “vested interest” in preserving the schools as they were. And the public would never accept vouchers either, because vouchers seemed to represent “rampant socialism.”<a href="#23">[15]</a></p>
+<p><strong><a name="6"></a>The revisionists reformed</strong></p>
+<p>Vouchers, independent schools, and other forms of decentralized school administration gained a second—and strange—life in the 1980s and 1990s. In the 1960s and 1970s, school board decentralization, free schools, and even school vouchers, were mainly New Left and progressive causes. In the 1980s and 1990s—especially in the United States—progressive decentralization plans resurfaced.<a href="#24">[16]</a> This time these plans were part of a series of mostly right-wing, market-based reforms in public education advanced in a new and politically different climate of severe criticism of public school bureaucracy.</p>
+<p>American advocates of instruments such as charter schools, school vouchers, and tax credits for private schools, and other proposals designed to facilitate school choice and bring to an end what some people think of as the state’s monopoly on schooling, latched on to the revisionist historians’ critique of bureaucracy tenaciously in the 1990s. (At times these reforms were still supported by progressives, concerned about what they saw as the utter educational bankruptcy of urban schooling, especially inner-city schools and school systems with large African-American and other minority populations.<a href="#25">[17]</a>) Most Canadians are less familiar with charter schools, vouchers, and tax credits, so I will describe each of these reforms briefly here. Charter schools are funded through public school taxes and operate within the public school system. But these schools have quite a bit of independence by virtue of the fact that they are operated under the authority of boards of directors made up of parents or citizens who make decisions about curriculum, admissions, and staffing. Most of the time charters are non-profit organizations, but in some places for-profit companies have been allowed to manage charter schools as well. Alberta is the only province in Canada that allows charter schools. A small number of charters have operated there since 1994. School vouchers are different than charters. In a voucher program, the state gives parents a voucher for their child’s share of the public school fund. Parents spend that voucher, which they may also top up with as much of their own money as they like, at the independent, religious, or private school of their choice. Normally parents whose children attend private schools also pay public school taxes, so a voucher reduces the burden or responsibility placed on these parents to pay twice for education. Tax credits are like vouchers, except that parents who choose private schools for their children have some of the tuition they pay returned to them in the form of a tax credit. All of these proposals are called market-based reforms because they are based on the principle that if families can choose their schools in a free market and the public school system has to compete for students (instead of holding a monopoly on pupils) against charter, religious, independent, and private schools, the public system will evolve through this competition to become more responsive to student needs, more dynamic, and better capable of achieving higher academic outcomes.</p>
+<p>The most influential pro-market based reform book of the past 25 years is arguably <em>Politics, Markets and America’s Schools</em>, by John Chubb and Terry Moe. The Brookings Institution, a top American and politically centrist think tank, released the book in 1990. Historians Diane Ravitch and Harvey Kantor and Harry Lowe argue that by repositioning school choice as a politically neutral, yet potent means for school reform, Chubb and Moe were the first choice advocates to successfully uncouple the choice idea from its earlier association with “massive resistance” campaigns against desegregation in the American south in the 1950s and 1960s. As Ravitch notes, aspects of school choice were often sullied by their original use by segregationists in the wake of the famous <em>Brown v. Board of Education </em>(1954) school desegregation case. After <em>Brown</em>, the state of Virginia defied the federal desegregation order by handing out state tuition grants (vouchers) to pupils who attended private schools, which were still segregated. The original architects of the voucher idea—including none other than the Chicago school economist Milton Friedman, who tinkered with the idea in a 1955 essay “The Role of Government in Education”—had found it difficult to successfully distance school choice from the taint of white Southern racism, although Friedman personally supported desegregation.<a href="#26">[18]</a></p>
+<p>Chubb and Moe refurbished the school choice argument for the 1990s. Significantly, they used active history to do that. <em>Politics, Markets and America’s Schools</em> purposefully invokes David Tyack’s description of the “One Best System,” quoting and employing Tyack’s argument about the history of bureaucratization directly.<a href="#27">[19]</a> In the book’s introduction, under the heading “The One Best System,” Chubb and Moe describe a golden age before bureaucratization. Before 1900, schooling was simpler, there was much more school choice, and real democratic decision-making ruled. “This was not to last,” Chubb and Moe write. After 1900, schools became bureaucracies. Chubb and Moe argue that bureaucracy undermined democracy; it bulldozed choice; and it introduced labyrinthine administrative complexity into the schools.<a href="#28">[20]</a></p>
+<p>Actually Chubb and Moe were just a little fuzzy on Tyack’s argument about bureaucracy.<a href="#29">[21]</a> They wrote that Tyack’s <em>The One Best System</em> is “rosy account” of bureaucratization.<a href="#30">[22]</a> It was not, as we have seen. Yet, I would not interpret the right-wing reformers’ use of the critique of bureaucracy as a distortion, a hijacking, or a co-optation of another political group’s argument. Chubb and Moe, and other right wing reformers in the 1980s and 1990s, applied the anti-bureaucracy argument to different ends, but perfectly legitimately. In fact, progressives and radicals had kept up their same argument against bureaucracy—that it was unresponsive and anti-democratic—throughout the 1980s, leaving it behind in many cases not until about the time Chubb and Moe’s book appeared (and sometimes never).<a href="#31">[23]</a> Writing in 1982, the progressive educational sociologist Michael Apple said that vouchers and tax credits “do signify a partial breaking in the power of the state … and hence can be used for progressive ends.”<a href="#32">[24]</a> (Yet Apple was also apprehensive about the motivations behind voucher and tax credit plans to create school choice.) Similar to Apple, Michael Katz wrote in 1987, “to have schools funded by taxes but owned by boards of parents would not destroy public education.”<a href="#33">[25]</a> Familiar public and progressive faces in U.S. public education supported school choice as well. In 1988, Albert Shanker, the highly publicly visible union president of the American Federation of Teachers, came out in favour of teacher-operated charter schools.<a href="#34">[26]</a></p>
+<p>Nevertheless, especially since the 1990s, the political right has capitalized on the intellectual heritage of the active history critique of bureaucracy more than the left has. Harvey Kantor wrote, in a 2001 review marking approximately the twenty-fifth anniversary of Tyack’s <em>The One Best System</em>, that in recent years “conservatives interested in eliminating public education altogether” have been more likely to invoke the one best system than have the left wing voices who originally attacked school bureaucracy in the 1960s and 1970s. Meanwhile many on the left by the 2000s had changed course completely, and now defended the same public school system they once criticized.<a href="#35">[27]</a></p>
+<p>Since the publication of <em>Politics, Markets and America’s Schools</em>, choice and market-based school reform have expanded so vastly in the United States that the public system is today pushed to the brink and risks collapse altogether in some places. In the choice movement, business interests quickly caught up to parent interests. Milwaukee was the first public school system to experiment with vouchers, beginning in 1990. The state of Minnesota authorised charter schools a year later. The school door was now open to companies managing public schools and providing instruction. By 1992, Baltimore had turned over management and instruction in nine of its public schools to a private, <em>for-profit</em>, firm called Educational Alternatives Inc. (EAI).<a href="#36">[28]</a> In a five-year project, the company received the per pupil grant for each of the nine schools. It was then up to EAI to improve the schools, which they promised to do with their “Tesseract” instructional model, and to turn a profit, which was the company’s to keep. The practically unprecedented experiment showed mostly discouraging results. Test scores went down, costs went up, and EAI terminated the agreement in just under four years time when Baltimore asked for better contract terms.<a href="#37">[29]</a></p>
+<p>Since these early experiments in the 1990s, other cities and states have placed for-profits and non-profits in charge of delivering public education, mainly through the charter model. By 2009, 1.6 million American boys and girls were enrolled in 4,600 charter schools in 40 out of 50 states and the District of Columbia.<a href="#38">[30]</a> Charters and other competitors with traditional public schools have spread so vastly that the School District of Philadelphia, the city’s public school authority that has been under the emergency control of the state of Pennsylvania’s “School Reform Commission” since 2001, unveiled a plan in April 2012 that could lead to the closure of the last of the city’s publicly run schools. Public schools could be closed or turned over to charter groups or for-profit education companies, effectively finishing off public schooling in Philadelphia for good.<a href="#39">[31]</a> To say it again seems important: Philadelphia may abolish its <em>entire</em> public school system within the next several years. In July 2012, two months after the school commission authorized full steam ahead on turning over yet more big chunks of the system to the charter school office, the U.S. Attorney charged a former Philadelphia school administrator who now runs three charters of defrauding those schools of $6.5 million public dollars.<a href="#40">[32]</a></p>
+<p><strong><a name="7"></a>Educational history: lessons learned</strong></p>
+<p>In the United States (and to a lesser extent in Canada), lack of political will, lack of school funding, gross inequalities within the public school system—especially in urban schooling where there is also considerable boldfaced racism—negative media attention, and (yes) even asphyxiating bureaucracy: these are the main factors that have led to the deterioration of public school systems. It is the deterioration of American public education that has in turn emboldened those who would accelerate the demise of public schooling altogether. It is not useful or fair—nor was it my purpose in this paper—to outline the political uses of active histories of education as way of hanging blame for the assault on public schooling today around the necks of the historians who wrote critical accounts of public schooling in the 1960s and 1970s. That would be bad history. Historians should not judge—with our benefit of hindsight—past actors, even if these past actors happen also to be historians. Intention counts too. David Tyack had good reason to condemn many aspects of educational bureaucracy in <em>The One Best System</em>. But he never wanted to privatize public schooling, even if other people who used his argument about bureaucracy—such as Chubb and Moe in <em>Politics, Markets, and America’s Schools</em>—have contributed momentum to privatization.<a href="#41">[33]</a> Moreover, historians should be given the opportunity to change their minds when the facts change, and to evolve their positions. Diane Ravitch, the liberal educational historian who slammed radical revisionists in the 1970s, served as an Assistant Secretary of Education in the George Bush Sr. administration, and became a supporter of choice and testing in 1990s, has recently done just that. In recent years, Ravitch has become a leading opponent of charter schools and of the federal high stakes testing policy, No Child Left Behind.<a href="#42">[34]</a> Lastly, but not least importantly, it is hard to judge the revisionists on bureaucracy because they were—and still are—correct: bureaucratically run public schools have not been as responsive to student and community needs as an institution such as the public school system should be. Bureaucracies often have perpetuated social inequalities.<a href="#43">[35]</a></p>
+<p><strong><a name="8"></a>Conclusion</strong></p>
+<p>Creators of active histories cannot always control who uses their histories, nor can they control the political direction of those uses. The first active histories of education, the overly congratulatory accounts written by educators for teachers in training, became the foil for the emerging revisionist histories of the 1960s and 1970s. The revisionists, especially the radicals, were themselves active historians, who leant their ideas to various educational and social causes. They helped to develop crucial questions about educational and social inequality and the contribution of bureaucratized school systems to both. In the 1980s and 1990s a new set of critics set upon and employed the active history of education. They adopted the historical critique of bureaucracy and turned it back at the public schools, helping to usher in a period of market-based school reforms that, today, appear to threaten public schooling itself.<strong></strong></p>
+<p>Should the active history of education be read as a cautionary tale? I leave that to active historians to judge for themselves. One the one hand, given the political bent of most (but not all) active historians today, I can imagine that it would be heartrending for them to see their histories put to the sorts of uses that the proponents of market-based school reform have put the history of education. On the other hand, if the purpose of active history is to activate history politically, to bring it into the public discussions about politics and policy at the grassroots level, then the history of education has been a very successful active history indeed.</p>
+<div>
+<p>&nbsp;</p>
+<p><strong><a name="44"></a>Notes</strong></p>
+<hr align="left" size="1" width="33%" />
+<div>
+<p><a name="9"></a>[1]“About.” <a href="http://activehistory.ca/about/">http://activehistory.ca/about/</a> (Accessed 27 August 2012.)</p>
+</div>
+<div>
+<p><a name="10"></a>[2] See C.E. Phillips, <em>The Development of Education </em>(Toronto: Gage, 1957), 586 and Lawrence Cremin, <em>The Wonderful World of Ellwood Patterson Cubberley</em> (New York: Teachers College-Columbia, 1965).<strong></strong></p>
+</div>
+<div>
+<p><a name="11"></a>[3] Elwood Patterson Cubberley, <em>The History of Education: Educational Practice and Progress Considered as a Phase of the Development and Spread of Western Civilization</em> (Boston: Houghton-Mifflin, 1920), viii.</p>
+</div>
+<div>
+<p><a name="12"></a>[4] David B. Tyack, <em>The One Best System: A History of Urban Education</em> (Cambridge, MA: Harvard University Press, 1974), 9.</p>
+</div>
+<div>
+<p><a name="13"></a>[5] W.T. Newnham and A.S. Nease, <em>The Professional Teacher in Ontario:</em> <em>The Heritage, Responsibilities, and Practices</em>, 3<sup>rd</sup> ed. (Toronto: Ryerson Press, 1970).</p>
+</div>
+<div>
+<p><a name="14"></a>[6] For a good overview of the field at that important time, see Marvin Lazerson, “Revisionism and American Educational History,” <em>Harvard Educational Review</em> 43, no. 2 (1973): 269-283.</p>
+</div>
+<div>
+<p><a name="15"></a>[7] Alison Prentice, <em>The School Promoters</em> (Toronto: McClelland and Stewart, 1977). See also, Michael B. Katz and Paul H. Mattingly eds., <em>Education and Social Change: Themes from Ontario’s Past</em> (New York: New York University Press, 1975).</p>
+</div>
+<div>
+<p><a name="16"></a>[8] See Tyack,<em> The One Best System </em>and Michael B. Katz, <em>Class, Bureaucracy and Schools: The Illusion of Educational Change in America</em>, expanded ed. (New York: Praeger, 1975).</p>
+</div>
+<div>
+<p><a name="17"></a>[9] Katz, <em>Class, Bureaucracy and Schools</em>, xviii.</p>
+</div>
+<div>
+<p><a name="18"></a>[10] Tyack, <em>The One Best System</em>, 11.</p>
+</div>
+<div>
+<p><a name="19"></a>[11] Tyack, <em>The One Best System</em>, 4.</p>
+</div>
+<div>
+<p><a name="20"></a>[12] Michael B. Katz, “Class, Bureaucracy and Schools,” in <em>The Failure of Educational Reform in Canada</em>, Douglas Myers ed. (Toronto: McClelland and Stewart, 1973),<em> </em>25.</p>
+</div>
+<div>
+<p><a name="21"></a>[13] Douglas Myers ed., “Where Have All the Free Schools Gone?,” in <em>The Failure of Educational Reform in Canada</em>, Douglas Myers ed. (Toronto: McClelland and Stewart, 1973), 75-94.</p>
+</div>
+<div>
+<p><a name="22"></a>[14] Fiona Nelson, “Community Schools in Toronto: A Sign of Hope,” in <em>The Failure of Educational Reform in Canada</em>, Douglas Myers ed. (Toronto: McClelland and Stewart, 1973), 119.</p>
+</div>
+<div>
+<p><a name="23"></a>[15] Frances Glover, “The Voucher System: Changing the Schools,” <em>Community Schools</em> (1971): 4. Toronto District School Board Archives. Vertical Files. T.B.E.-School-Elem. Park.</p>
+</div>
+<div>
+<p><a name="24"></a>[16] Harvey Kantor and Robert Lowe, “Bureaucracy Left and Right: Thinking About the One Best System,” in Larry Cuban and Dorothy Shipps eds., <em>Reconstructing the Common Good in Education: Coping with Intractable American Dilemmas</em> (Stanford, CA: Stanford University Press, 2000), 130.</p>
+</div>
+<div>
+<p><a name="25"></a>[17] Kantor and Lowe, “Bureaucracy Left and Right,” 144-145.</p>
+</div>
+<div>
+<p><a name="26"></a>[18] Diane Ravitch, <em>The Death and Life of the Great American School System: How Testing and Choice Are Undermining Education</em>, revised and expanded ed. (New York: Basic Books, 2010), 113-122; Kantor and Lowe, “Bureaucracy Left and Right,” 142-144.</p>
+</div>
+<div>
+<p><a name="27"></a>[19] Kantor and Lowe, “Bureaucracy Left and Right,” 131.</p>
+</div>
+<div>
+<p><a name="28"></a>[20] John E. Chubb and Terry M. Moe, <em>Politics, Markets, and America’s Schools</em> (Washington: The Brookings Institution, 1990), 3-4. At least one Canadian pro-market based reform piece, Andrew Nikiforuk’s at times derivative book, <em>School’s Out</em>, also implicates bureaucracy in the problems faced by Canadian schools in the 1980s and 1990s. Andrew Nikiforuk, <em>School’s Out: The Catastrophe in Public Education and What We Can Do About It</em> (Toronto: McFarlane, Walter and Ross, 1993), 56-57.</p>
+</div>
+<div>
+<p><a name="29"></a>[21] I agree with Kantor and Lowe on this matter. See their “Bureaucracy Left and Right,” 130-131.</p>
+</div>
+<div>
+<p><a name="30"></a>[22] Chubb and Moe, <em>Politics, Markets, and America’s Schools</em>, 4.</p>
+</div>
+<div>
+<p><a name="31"></a>[23] Kantor and Lowe, “Bureaucracy Left and Right,” 138-145.</p>
+</div>
+<div>
+<p><a name="32"></a>[24] Michael Apple, <em>Education and Power</em> (Boston: Routledge, 1982), 127.</p>
+</div>
+<div>
+<p><a name="33"></a>[25] Michael B. Katz, <em>Reconstructing American Education </em>(Cambridge, MA: Harvard University Press, 1987), 133.</p>
+</div>
+<div>
+<p><a name="34"></a>[26] Ravitch, <em>The Death and Life of the Great American School System</em>, 123.</p>
+</div>
+<div>
+<p><a name="35"></a>[27] Harvey Kantor, “In Retrospect: David Tyack’s ‘The One Best System,’” <em>Reviews in American History</em> 29, no. 2 (June 2001): 324.</p>
+</div>
+<div>
+<p><a name="36"></a>[28] Ravitch, <em>The Death and Life of the Great American School System</em>, 122-124.</p>
+</div>
+<div>
+<p><a name="37"></a>[29] Lois C. Williams and Lawrence E. Leak, “School privatization’s first big test: EAI in Baltimore,” <em>Educational Leadership</em> 54, no. 2 (October 1996): 56-60.</p>
+</div>
+<div>
+<p><a name="38"></a>[30] Ravitch, <em>The Death and Life of the Great American School System</em>, 125.</p>
+</div>
+<div>
+<p><a name="39"></a>[31] Diane Ravitch, “Privatizing Public Education in Philadelphia,” <em>Education Week</em> (15 May 2012). <a href="http://blogs.edweek.org/edweek/Bridging-Differences/2012/05/privatizing_public_education_i.html?qs=philadelphia">http://blogs.edweek.org/edweek/Bridging-Differences/2012/05/privatizing_public_education_i.html?qs=philadelphia</a> and Daniel Denvir, “Who’s Killing Philly Public Schools?,” <em>Philadelphia City Paper</em> (3 May 2012). <a href="http://www.citypaper.net/news/2012-05-03-whos-killing-philly-public-schools.html?viewAll=y">http://www.citypaper.net/news/2012-05-03-whos-killing-philly-public-schools.html?viewAll=y</a> (Accessed 27 July 2012.)</p>
+</div>
+<div>
+<p><a name="40"></a>[32] Dale Mezzacappa, “Charter Founder June Brown Charged with Fraud,” <em>The Notebook</em> (23 July 2012). <a href="http://thenotebook.org/blog/125026/charter-founder-june-brown-charged-fraud">http://thenotebook.org/blog/125026/charter-founder-june-brown-charged-fraud</a> (Accessed 27 August 2012.); Martha Woodall, “Feds charge Philly Charter School Mogul in Massive Fraud,” <em>The Philadelphia Inquirer</em> (25 July 2012). <a href="http://articles.philly.com/2012-07-25/news/32828937_1_charter-school-planet-abacus-ad-prima">http://articles.philly.com/2012-07-25/news/32828937_1_charter-school-planet-abacus-ad-prima</a> (Accessed 18 September 2012).</p>
+</div>
+<div>
+<p><a name="41"></a>[33] Kantor, “In Retrospect: David Tyack’s ‘The One Best System,’” 325.</p>
+</div>
+<div>
+<p><a name="42"></a>[34] Ravitch, <em>The Death and Life of the Great American School System</em>.</p>
+</div>
+<div>
+<p><a name="43"></a>[35] See Kantor and Lowe, “Bureaucracy Left and Right,” for this argument.</p>
+</div>
+</div>
+<div class="sharedaddy sd-sharing-enabled"><div class="robots-nocontent sd-block sd-social sd-social-official sd-sharing"><div class="sd-content"><ul><li class="share-facebook"><div class="fb-share-button" data-href="http://activehistory.ca/papers/history-papers-11/" data-layout="button_count"></div></li><li class="share-twitter"><a href="https://twitter.com/share" class="twitter-share-button" data-url="http://activehistory.ca/papers/history-papers-11/" data-text="The History of Education As “Active History”: A Cautionary Tale?" data-via="ActiveHist" >Tweet</a></li><li class="share-email"><a rel="nofollow noopener noreferrer" data-shared="" class="share-email sd-button" href="http://activehistory.ca/papers/history-papers-11/?share=email" target="_blank" title="Click to email this to a friend"><span>Email</span></a></li><li class="share-end"></li></ul></div></div></div>					</div><!-- .entry-content -->
+
+		<footer class="entry-meta">
+					</footer><!-- .entry-meta -->
+
+	</article><!-- #post -->				
+<div id="comments" class="comments-area">
+
+				<div class="zg-wrapper-widget-area">
+			<div id="text-445942440" class="widget widget_text">			<div class="textwidget"><p><a href="http://creativecommons.org/licenses/by-nd/4.0/" rel="license"><img style="border-width: 0;" src="https://i.creativecommons.org/l/by-nd/4.0/80x15.png" alt="Creative Commons Licence" /></a><br />
+This work is licensed under a <a href="http://creativecommons.org/licenses/by-nd/4.0/" rel="license">Creative Commons Attribution-NoDerivatives 4.0 International License</a>. Blog posts published before October  28, 2018 are licensed with a Creative Commons Attribution-NonCommercial-ShareAlike 2.5 Canada License.</p>
+</div>
+		</div>		</div>
+    	
+			<h2 class="comments-title">
+			3 thoughts on &ldquo;<span>The History of Education As “Active History”: A Cautionary Tale?</span>&rdquo;		</h2>
+
+		<ol class="commentlist">
+				<li class="pingback even thread-even depth-1" id="comment-34427">
+		<p>Pingback: <a href='http://activehistory.ca/2012/09/new-paper-jason-ellis-the-history-of-education-as-active-history-a-cautionary-tale/' rel='external nofollow ugc' class='url'>New Paper: Jason Ellis: The History of Education As “Active History”: A Cautionary Tale?</a> </p>
+	</li><!-- #comment-## -->
+	<li class="pingback odd alt thread-odd thread-alt depth-1" id="comment-79113">
+		<p>Pingback: <a href='http://www.educationshistories.org/narrower-than-necessary-focus/' rel='external nofollow ugc' class='url'>&quot;A Narrower than Necessary Focus&quot;: Jason Ellis and Benjamin Kearl on Special Education History: A Multilogue Response to Benjamin Kelsey Kearl and Jason Ellis | | Education&#039;s Histories |Education&#039;s Histories</a> </p>
+	</li><!-- #comment-## -->
+	<li class="pingback even thread-even depth-1" id="comment-79537">
+		<p>Pingback: <a href='http://www.educationshistories.org/the-theory-of-special-education-and-the-necessity-of-historicizing-a-multilogue-response-to-benjamin-kelsey-kearl-and-donald-warren/' rel='external nofollow ugc' class='url'>The Theory of Special Education and the Necessity of Historicizing |Education&#039;s Histories</a> </p>
+	</li><!-- #comment-## -->
+		</ol><!-- .commentlist -->
+
+		
+		
+		
+		
+	<div class="wrapper-form-comments">
+	
+		<div id="respond" class="comment-respond">
+							<h3 id="reply-title" class="comment-reply-title">Please note: ActiveHistory.ca encourages comment and constructive discussion of our articles. We reserve the right to delete comments submitted under aliases, or that contain spam, harassment, or attacks on an individual.					<small><a rel="nofollow" id="cancel-comment-reply-link" href="/papers/history-papers-11/?shared=email&amp;msg=fail#respond" style="display:none;">Cancel reply</a></small>
+				</h3>
+						<form id="commentform" class="comment-form">
+				<iframe title="Comment Form" src="https://jetpack.wordpress.com/jetpack-comment/?blogid=42146343&#038;postid=9227&#038;comment_registration=0&#038;require_name_email=1&#038;stc_enabled=1&#038;stb_enabled=1&#038;show_avatars=1&#038;avatar_default=mystery&#038;greeting=Please+note%3A+ActiveHistory.ca+encourages+comment+and+constructive+discussion+of+our+articles.+We+reserve+the+right+to+delete+comments+submitted+under+aliases%2C+or+that+contain+spam%2C+harassment%2C+or+attacks+on+an+individual.&#038;greeting_reply=Leave+a+Reply+to+%25s&#038;color_scheme=light&#038;lang=en_CA&#038;jetpack_version=8.6.1&#038;show_cookie_consent=10&#038;has_cookie_consent=0&#038;token_key=%3Bnormal%3B&#038;sig=e95d5b22292ff72360f3f5f4af119b69240da81f#parent=http%3A%2F%2Factivehistory.ca%2Fpapers%2Fhistory-papers-11%2F%3Fshared%3Demail%26msg%3Dfail" style="width:100%; height: 430px; border:0;" name="jetpack_remote_comment" class="jetpack_remote_comment" id="jetpack_remote_comment" sandbox="allow-same-origin allow-top-navigation allow-scripts allow-forms allow-popups"></iframe>
+									<!--[if !IE]><!-->
+					<script>
+						document.addEventListener('DOMContentLoaded', function () {
+							var commentForms = document.getElementsByClassName('jetpack_remote_comment');
+							for (var i = 0; i < commentForms.length; i++) {
+								commentForms[i].allowTransparency = false;
+								commentForms[i].scrolling = 'no';
+							}
+						});
+					</script>
+					<!--<![endif]-->
+							</form>
+		</div>
+
+		
+		<input type="hidden" name="comment_parent" id="comment_parent" value="" />
+
+			</div>
+
+</div><!-- #comments .comments-area -->			
+		</div><!-- #content -->
+	</div><!-- #primary -->
+
+
+			<div id="secondary" class="widget-area" role="complementary">
+			<aside id="search-2" class="widget widget_search">	<div class="wrapper-search-form">
+		<form method="get" id="searchform" action="http://activehistory.ca/">
+			<label for="s" class="assistive-text">Search</label>
+			<input type="search" class="txt-search" placeholder="Search..." name="s" id="s" />
+			<input type="submit" name="submit" id="btn-search-n" value="Search" />
+		</form>
+    </div></aside><aside id="text-445942422" class="widget widget_text"><h3 class="widget-title"><span class="prefix-widget-title"><i class="fa fa-th-large"></i></span> What is Active History?</h3>			<div class="textwidget"><p>ActiveHistory.ca is a website that connects the work of historians with the wider public and the importance of the past to current events.</p>
+<p>Please direct queries to Daniel Ross, Public Outreach Coordinator, via <a href="info@activehistory.ca">info@activehistory.ca</a>.</p>
+<p>For author guidelines, <a href="https://wp.me/P2QQbJ-32">click here</a>.</p>
+<p>Visitez notre partenaire francophone, <a href="http://histoireengagee.ca/"> HistoireEngagée.ca</a></p>
+</div>
+		</aside><aside id="text-445942433" class="widget widget_text"><h3 class="widget-title"><span class="prefix-widget-title"><i class="fa fa-th-large"></i></span> Ongoing Projects</h3>			<div class="textwidget"><ul>
+<li><b><a href="http://activehistory.ca/papers/beyond-the-lecture-series-list/">Beyond the Lecture</a></b></li>
+<li><b><a href="http://activehistory.ca/papers/canadas-first-world-war-a-centennial-series-on-activehistory-ca/">Canada's First World War</a></b></li>
+<li><b><a href="http://activehistory.ca/papers/from-juno-to-victory/">From Juno to Victory</a></b></li>
+<li><b><a href="http://activehistory.ca/podcasts/">History Slam Podcast</a></b></li>
+<li><b><a href="http://activehistory.ca/publications/">Open-Access Ebooks</a></b></li>
+<li><b><a href="http://activehistory.ca/remember-i-resist-i-redraw/">Remember/Resist/Redraw</a></b></li>
+</ul>
+
+</div>
+		</aside><aside id="twitter_timeline-3" class="widget widget_twitter_timeline"><h3 class="widget-title"><span class="prefix-widget-title"><i class="fa fa-th-large"></i></span> Twitter</h3><a class="twitter-timeline" data-theme="light" data-border-color="#e8e8e8" data-tweet-limit="3" data-lang="EN" data-partner="jetpack" data-chrome="noheader" href="https://twitter.com/ActiveHist" href="https://twitter.com/ActiveHist">My Tweets</a></aside><aside id="blog_subscription-3" class="widget widget_blog_subscription jetpack_subscription_widget"><h3 class="widget-title"><span class="prefix-widget-title"><i class="fa fa-th-large"></i></span> Subscribe via email</h3>
+            <form action="#" method="post" accept-charset="utf-8" id="subscribe-blog-blog_subscription-3">
+				                    <p id="subscribe-email">
+                        <label id="jetpack-subscribe-label"
+                               class="screen-reader-text"
+                               for="subscribe-field-blog_subscription-3">
+							Email Address                        </label>
+                        <input type="email" name="email" required="required"
+                        			                                                value=""
+                            id="subscribe-field-blog_subscription-3"
+                            placeholder="Email Address"
+                        />
+                    </p>
+
+                    <p id="subscribe-submit">
+                        <input type="hidden" name="action" value="subscribe"/>
+                        <input type="hidden" name="source" value="http://activehistory.ca/papers/history-papers-11/?shared=email&#038;msg=fail"/>
+                        <input type="hidden" name="sub-type" value="widget"/>
+                        <input type="hidden" name="redirect_fragment" value="blog_subscription-3"/>
+						                        <button type="submit"
+	                        		                    	                        name="jetpack_subscriptions_widget"
+	                    >
+	                        Subscribe                        </button>
+                    </p>
+				            </form>
+		
+</aside>		</div><!-- #secondary -->
+		</div><!-- #main .wrapper -->
+	</div><!-- #page -->
+		<footer>
+	<div style="background-color:#444444;">
+		<div class="wrapper-widget-area-footer">
+			<div class="widget-area-footer">
+				<div id="text-445942435" class="widget widget_text">			<div class="textwidget">ActiveHistory.ca is supported financially and administratively by the <a href="http://artsandscience.usask.ca/history/">History Department at the University of Saskatchewan</a> and <a href="http://www.huronuc.on.ca/Home">Huron University College</a>. <a href="https://calicologic.com/">Calico Logic</a> provides technical support.</div>
+		</div>			</div>
+			
+			<div class="widget-area-footer">
+				<div id="text-445942437" class="widget widget_text">			<div class="textwidget"><img src="http://activehistory.ca/wp-content/uploads/2017/02/usask_ArtsScience_History_black_reverse.png"/></div>
+		</div>			</div>
+			
+			<div class="widget-area-footer">
+				<div id="text-445942439" class="widget widget_text">			<div class="textwidget"><img src="http://activehistory.ca/wp-content/uploads/2017/02/huronuc_horiz_rgb_black_reverse_720.png"/></div>
+		</div>			</div>
+		</div>
+	</div>
+	</footer>
+		<hr class="hr-oscura" />
+	<footer id="colophon" role="contentinfo">
+	<div class="social-icon-wrapper">
+							<a href="https://twitter.com/activehist" title="Twitter" target="_blank"><i class="fa fa-twitter"></i></a> 
+						
+							<a href="https://www.facebook.com/ActiveHist/" title="Facebook" target="_blank"><i class="fa fa-facebook"></i></a>
+						
+						
+						
+					 		<a href="https://www.youtube.com/user/activehistoryca" title="YouTube" target="_blank"><i class="fa fa-youtube"></i></a>
+						
+						
+						
+							<a class="rss" href="http://feeds.feedburner.com/activehistoryca" title="Feed RSS" target="_blank"><i class="fa fa-rss"></i></a>			
+					</div><!-- .social-icon-wrapper -->
+		<hr class="hr-oscura" />
+		<div class="site-info">
+			<div class="credits-left"></div>
+			<div class="credits-center"><a rel="license" href="http://creativecommons.org/licenses/by-nd/4.0/"><img alt="Creative Commons Licence" style="border-width:0" src="https://i.creativecommons.org/l/by-nd/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nd/4.0/">Creative Commons Attribution-NoDerivatives 4.0 International License</a>.
+Blog posts published before October 28, 2018 are licensed with a Creative Commons Attribution-NonCommercial-ShareAlike 2.5 Canada License.</div>
+			<div class="credits-right"></div>
+		</div><!-- .site-info -->
+		
+			</footer><!-- #colophon -->
+
+			<div class="ir-arriba"><i class="fa fa-chevron-up"></i></div>
+	<script>
+    jQuery(document).ready(function () {
+		jQuery.post('http://activehistory.ca?ga_action=googleanalytics_get_script', {action: 'googleanalytics_get_script'}, function(response) {
+			var s = document.createElement("script");
+			s.type = "text/javascript";
+			s.innerHTML = response;
+			jQuery("head").append(s);
+		});
+    });
+</script><div id="fb-root"></div>
+			<script>(function(d, s, id) { var js, fjs = d.getElementsByTagName(s)[0]; if (d.getElementById(id)) return; js = d.createElement(s); js.id = id; js.src = 'https://connect.facebook.net/en_CA/sdk.js#xfbml=1&appId=249643311490&version=v2.3'; fjs.parentNode.insertBefore(js, fjs); }(document, 'script', 'facebook-jssdk'));</script>
+			<script>
+			jQuery( document.body ).on( 'post-load', function() {
+				if ( 'undefined' !== typeof FB ) {
+					FB.XFBML.parse();
+				}
+			} );
+			</script>
+						<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+'://platform.twitter.com/widgets.js';fjs.parentNode.insertBefore(js,fjs);}}(document, 'script', 'twitter-wjs');</script>
+				<div id="sharing_email" style="display: none;">
+		<form action="/papers/history-papers-11/?shared=email&#038;msg=fail" method="post">
+			<label for="target_email">Send to Email Address</label>
+			<input type="email" name="target_email" id="target_email" value="" />
+
+			
+				<label for="source_name">Your Name</label>
+				<input type="text" name="source_name" id="source_name" value="" />
+
+				<label for="source_email">Your Email Address</label>
+				<input type="email" name="source_email" id="source_email" value="" />
+
+						<input type="text" id="jetpack-source_f_name" name="source_f_name" class="input" value="" size="25" autocomplete="off" title="This field is for validation and should not be changed" />
+			
+			<img style="float: right; display: none" class="loading" src="http://activehistory.ca/wp-content/plugins/jetpack/modules/sharedaddy/images/loading.gif" alt="loading" width="16" height="16" />
+			<input type="submit" value="Send Email" class="sharing_send" />
+			<a rel="nofollow" href="#cancel" class="sharing_cancel" role="button">Cancel</a>
+
+			<div class="errors errors-1" style="display: none;">
+				Post was not sent - check your email addresses!			</div>
+
+			<div class="errors errors-2" style="display: none;">
+				Email check failed, please try again			</div>
+
+			<div class="errors errors-3" style="display: none;">
+				Sorry, your blog cannot share posts by email.			</div>
+		</form>
+	</div>
+<script type='text/javascript' src='http://activehistory.ca/wp-content/themes/rubbersoul-pro/js/navigation.js?ver=20140711'></script>
+<script type='text/javascript' src='http://activehistory.ca/wp-content/themes/rubbersoul-pro/js/slider-recent-posts-fp.js?ver=2.6.4'></script>
+<script type='text/javascript' src='http://activehistory.ca/wp-content/themes/rubbersoul-pro/js/rsoul-pro-toggle-search.js?ver=2.6.4'></script>
+<script type='text/javascript' src='http://activehistory.ca/wp-content/plugins/jetpack/_inc/build/twitter-timeline.min.js?ver=4.0.0'></script>
+<script type='text/javascript' src='http://activehistory.ca/wp-includes/js/wp-embed.min.js?ver=5.4.2'></script>
+<script async="async" type='text/javascript' src='http://activehistory.ca/wp-content/plugins/akismet/_inc/form.js?ver=4.1.6'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var sharing_js_options = {"lang":"en","counts":"1","is_stats_active":"1"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://activehistory.ca/wp-content/plugins/jetpack/_inc/build/sharedaddy/sharing.min.js?ver=8.6.1'></script>
+<script type='text/javascript'>
+var windowOpen;
+			jQuery( document.body ).on( 'click', 'a.share-facebook', function() {
+				// If there's another sharing window open, close it.
+				if ( 'undefined' !== typeof windowOpen ) {
+					windowOpen.close();
+				}
+				windowOpen = window.open( jQuery( this ).attr( 'href' ), 'wpcomfacebook', 'menubar=1,resizable=1,width=600,height=400' );
+				return false;
+			});
+</script>
+
+		<!--[if IE]>
+		<script type="text/javascript">
+			if ( 0 === window.location.hash.indexOf( '#comment-' ) ) {
+				// window.location.reload() doesn't respect the Hash in IE
+				window.location.hash = window.location.hash;
+			}
+		</script>
+		<![endif]-->
+		<script type="text/javascript">
+			(function () {
+				var comm_par_el = document.getElementById( 'comment_parent' ),
+					comm_par = ( comm_par_el && comm_par_el.value ) ? comm_par_el.value : '',
+					frame = document.getElementById( 'jetpack_remote_comment' ),
+					tellFrameNewParent;
+
+				tellFrameNewParent = function () {
+					if ( comm_par ) {
+						frame.src = "https://jetpack.wordpress.com/jetpack-comment/?blogid=42146343&postid=9227&comment_registration=0&require_name_email=1&stc_enabled=1&stb_enabled=1&show_avatars=1&avatar_default=mystery&greeting=Please+note%3A+ActiveHistory.ca+encourages+comment+and+constructive+discussion+of+our+articles.+We+reserve+the+right+to+delete+comments+submitted+under+aliases%2C+or+that+contain+spam%2C+harassment%2C+or+attacks+on+an+individual.&greeting_reply=Leave+a+Reply+to+%25s&color_scheme=light&lang=en_CA&jetpack_version=8.6.1&show_cookie_consent=10&has_cookie_consent=0&token_key=%3Bnormal%3B&sig=e95d5b22292ff72360f3f5f4af119b69240da81f#parent=http%3A%2F%2Factivehistory.ca%2Fpapers%2Fhistory-papers-11%2F%3Fshared%3Demail%26msg%3Dfail" + '&replytocom=' + parseInt( comm_par, 10 ).toString();
+					} else {
+						frame.src = "https://jetpack.wordpress.com/jetpack-comment/?blogid=42146343&postid=9227&comment_registration=0&require_name_email=1&stc_enabled=1&stb_enabled=1&show_avatars=1&avatar_default=mystery&greeting=Please+note%3A+ActiveHistory.ca+encourages+comment+and+constructive+discussion+of+our+articles.+We+reserve+the+right+to+delete+comments+submitted+under+aliases%2C+or+that+contain+spam%2C+harassment%2C+or+attacks+on+an+individual.&greeting_reply=Leave+a+Reply+to+%25s&color_scheme=light&lang=en_CA&jetpack_version=8.6.1&show_cookie_consent=10&has_cookie_consent=0&token_key=%3Bnormal%3B&sig=e95d5b22292ff72360f3f5f4af119b69240da81f#parent=http%3A%2F%2Factivehistory.ca%2Fpapers%2Fhistory-papers-11%2F%3Fshared%3Demail%26msg%3Dfail";
+					}
+				};
+
+				
+				// Do the post message bit after the dom has loaded.
+				document.addEventListener( 'DOMContentLoaded', function () {
+					var iframe_url = "https:\/\/jetpack.wordpress.com";
+					if ( window.postMessage ) {
+						if ( document.addEventListener ) {
+							window.addEventListener( 'message', function ( event ) {
+								var origin = event.origin.replace( /^http:\/\//i, 'https://' );
+								if ( iframe_url.replace( /^http:\/\//i, 'https://' ) !== origin ) {
+									return;
+								}
+								jQuery( frame ).height( event.data );
+							});
+						} else if ( document.attachEvent ) {
+							window.attachEvent( 'message', function ( event ) {
+								var origin = event.origin.replace( /^http:\/\//i, 'https://' );
+								if ( iframe_url.replace( /^http:\/\//i, 'https://' ) !== origin ) {
+									return;
+								}
+								jQuery( frame ).height( event.data );
+							});
+						}
+					}
+				})
+
+			})();
+		</script>
+
+		<script type='text/javascript' src='https://stats.wp.com/e-202025.js' async='async' defer='defer'></script>
+<script type='text/javascript'>
+	_stq = window._stq || [];
+	_stq.push([ 'view', {v:'ext',j:'1:8.6.1',blog:'42146343',post:'9227',tz:'-4',srv:'activehistory.ca'} ]);
+	_stq.push([ 'clickTrackerInit', '42146343', '9227' ]);
+</script>
+			
+</body>
+</html>

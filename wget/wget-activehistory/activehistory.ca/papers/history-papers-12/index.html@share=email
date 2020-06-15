@@ -1,0 +1,809 @@
+<!DOCTYPE html>
+<!--[if IE 7]>
+<html class="ie ie7" lang="en-CA">
+<![endif]-->
+<!--[if IE 8]>
+<html class="ie ie8" lang="en-CA">
+<![endif]-->
+<!--[if !(IE 7) & !(IE 8)]><!-->
+<html lang="en-CA">
+<!--<![endif]-->
+<head>
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width" />
+<link rel="profile" href="http://gmpg.org/xfn/11" />
+<link rel="pingback" href="http://activehistory.ca/xmlrpc.php" />
+<!--[if lt IE 9]>
+<script src="http://activehistory.ca/wp-content/themes/rubbersoul-pro/js/html5.js" type="text/javascript"></script>
+<![endif]-->
+<title>The re-writing of history:  The misuse of the draft “dodger” myth against  Iraq war resisters in Canada  &#8211; Active History</title>
+<link rel='dns-prefetch' href='//secure.gravatar.com' />
+<link rel='dns-prefetch' href='//platform-api.sharethis.com' />
+<link rel='dns-prefetch' href='//fonts.googleapis.com' />
+<link rel='dns-prefetch' href='//s.w.org' />
+		<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/12.0.0-1\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/12.0.0-1\/svg\/","svgExt":".svg","source":{"concatemoji":"http:\/\/activehistory.ca\/wp-includes\/js\/wp-emoji-release.min.js?ver=5.4.2"}};
+			/*! This file is auto-generated */
+			!function(e,a,t){var r,n,o,i,p=a.createElement("canvas"),s=p.getContext&&p.getContext("2d");function c(e,t){var a=String.fromCharCode;s.clearRect(0,0,p.width,p.height),s.fillText(a.apply(this,e),0,0);var r=p.toDataURL();return s.clearRect(0,0,p.width,p.height),s.fillText(a.apply(this,t),0,0),r===p.toDataURL()}function l(e){if(!s||!s.fillText)return!1;switch(s.textBaseline="top",s.font="600 32px Arial",e){case"flag":return!c([127987,65039,8205,9895,65039],[127987,65039,8203,9895,65039])&&(!c([55356,56826,55356,56819],[55356,56826,8203,55356,56819])&&!c([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]));case"emoji":return!c([55357,56424,55356,57342,8205,55358,56605,8205,55357,56424,55356,57340],[55357,56424,55356,57342,8203,55358,56605,8203,55357,56424,55356,57340])}return!1}function d(e){var t=a.createElement("script");t.src=e,t.defer=t.type="text/javascript",a.getElementsByTagName("head")[0].appendChild(t)}for(i=Array("flag","emoji"),t.supports={everything:!0,everythingExceptFlag:!0},o=0;o<i.length;o++)t.supports[i[o]]=l(i[o]),t.supports.everything=t.supports.everything&&t.supports[i[o]],"flag"!==i[o]&&(t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&t.supports[i[o]]);t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&!t.supports.flag,t.DOMReady=!1,t.readyCallback=function(){t.DOMReady=!0},t.supports.everything||(n=function(){t.readyCallback()},a.addEventListener?(a.addEventListener("DOMContentLoaded",n,!1),e.addEventListener("load",n,!1)):(e.attachEvent("onload",n),a.attachEvent("onreadystatechange",function(){"complete"===a.readyState&&t.readyCallback()})),(r=t.source||{}).concatemoji?d(r.concatemoji):r.wpemoji&&r.twemoji&&(d(r.twemoji),d(r.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+		<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+	<link rel='stylesheet' id='wp-block-library-css'  href='http://activehistory.ca/wp-includes/css/dist/block-library/style.min.css?ver=5.4.2' type='text/css' media='all' />
+<style id='wp-block-library-inline-css' type='text/css'>
+.has-text-align-justify{text-align:justify;}
+</style>
+<link rel='stylesheet' id='dashicons-css'  href='http://activehistory.ca/wp-includes/css/dashicons.min.css?ver=5.4.2' type='text/css' media='all' />
+<link rel='stylesheet' id='rubbersoul-pro-fonts-css'  href='https://fonts.googleapis.com/css?family=Noto+Sans:400italic,700italic,400,700&#038;subset=latin,latin-ext' type='text/css' media='all' />
+<link rel='stylesheet' id='rubbersoul-pro-style-css'  href='http://activehistory.ca/wp-content/themes/rubbersoul-pro/style.css?ver=2.6.4' type='text/css' media='all' />
+<link rel='stylesheet' id='custom-style-css'  href='http://activehistory.ca/wp-content/themes/rubbersoul-pro/custom-style.css?ver=5.4.2' type='text/css' media='all' />
+<link rel='stylesheet' id='rsoul-pro-widgets-style-css'  href='http://activehistory.ca/wp-content/themes/rubbersoul-pro/css/rsoul-widgets-style.css?ver=2.6.4' type='text/css' media='all' />
+<link rel='stylesheet' id='font-awesome-css'  href='http://activehistory.ca/wp-content/themes/rubbersoul-pro/css/font-awesome-4.7.0/css/font-awesome.min.css?ver=5.4.2' type='text/css' media='all' />
+<link rel='stylesheet' id='rsoul-pro-slider-recent-posts-style-css'  href='http://activehistory.ca/wp-content/themes/rubbersoul-pro/css/slider-recent-posts-fp.css?ver=2.6.4' type='text/css' media='all' />
+<!--[if lt IE 9]>
+<link rel='stylesheet' id='rubbersoul-pro-ie-css'  href='http://activehistory.ca/wp-content/themes/rubbersoul-pro/css/ie.css?ver=20121010' type='text/css' media='all' />
+<![endif]-->
+<link rel='stylesheet' id='social-logos-css'  href='http://activehistory.ca/wp-content/plugins/jetpack/_inc/social-logos/social-logos.min.css?ver=8.6.1' type='text/css' media='all' />
+<link rel='stylesheet' id='jetpack_css-css'  href='http://activehistory.ca/wp-content/plugins/jetpack/css/jetpack.css?ver=8.6.1' type='text/css' media='all' />
+<script type='text/javascript' src='http://activehistory.ca/wp-includes/js/jquery/jquery.js?ver=1.12.4-wp'></script>
+<script type='text/javascript' src='http://activehistory.ca/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.4.1'></script>
+<script type='text/javascript' src='//platform-api.sharethis.com/js/sharethis.js#product=ga'></script>
+<link rel='https://api.w.org/' href='http://activehistory.ca/wp-json/' />
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://activehistory.ca/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://activehistory.ca/wp-includes/wlwmanifest.xml" /> 
+<meta name="generator" content="WordPress 5.4.2" />
+<link rel="canonical" href="http://activehistory.ca/papers/history-papers-12/" />
+<link rel='shortlink' href='https://wp.me/P2QQbJ-2sy' />
+<link rel="alternate" type="application/json+oembed" href="http://activehistory.ca/wp-json/oembed/1.0/embed?url=http%3A%2F%2Factivehistory.ca%2Fpapers%2Fhistory-papers-12%2F" />
+<link rel="alternate" type="text/xml+oembed" href="http://activehistory.ca/wp-json/oembed/1.0/embed?url=http%3A%2F%2Factivehistory.ca%2Fpapers%2Fhistory-papers-12%2F&#038;format=xml" />
+<script type="text/javascript"><!--
+function powerpress_pinw(pinw_url){window.open(pinw_url, 'PowerPressPlayer','toolbar=0,status=0,resizable=1,width=460,height=320');	return false;}
+//-->
+</script>
+
+<link rel='dns-prefetch' href='//jetpack.wordpress.com'/>
+<link rel='dns-prefetch' href='//s0.wp.com'/>
+<link rel='dns-prefetch' href='//s1.wp.com'/>
+<link rel='dns-prefetch' href='//s2.wp.com'/>
+<link rel='dns-prefetch' href='//public-api.wordpress.com'/>
+<link rel='dns-prefetch' href='//0.gravatar.com'/>
+<link rel='dns-prefetch' href='//1.gravatar.com'/>
+<link rel='dns-prefetch' href='//2.gravatar.com'/>
+<link rel='dns-prefetch' href='//widgets.wp.com'/>
+<link rel='dns-prefetch' href='//v0.wordpress.com'/>
+	<style type='text/css'>
+		a {color: #0f7b3f;}
+	a:hover {color: #0f7b3f;}
+	.social-icon-wrapper a:hover {color: #0f7b3f;}
+	.prefix-widget-title {color: #0f7b3f;}
+	.term-icon {color: #0f7b3f;}
+	.sub-title a:hover {color:#0f7b3f;}
+	.entry-content a:visited,.comment-content a:visited {color:#0f7b3f;}
+	input[type="submit"] {background-color:#0f7b3f !important;}
+	input[type="reset"] {background-color:#0f7b3f !important;}
+	.bypostauthor cite span {background-color:#0f7b3f;}
+	.wrapper-cabecera {background-color:#0f7b3f;}
+	.wrapper-search-top-bar {background-color:#0f7b3f;}
+	.main-navigation {background-color:#0f7b3f;}
+	.entry-header .entry-title a:hover {color:#0f7b3f ;}
+	.archive-header {border-left-color:#0f7b3f;}
+	.main-navigation a:hover,
+	.main-navigation a:focus {
+		color: #0f7b3f;
+	}
+	.widget-area .widget a:hover {
+		color: #0f7b3f !important;
+	}
+	footer[role="contentinfo"] a:hover {
+		color: #0f7b3f;
+	}
+	.entry-meta a:hover {
+	color: #0f7b3f;
+	}
+	.format-status .entry-header header a:hover {
+		color: #0f7b3f;
+	}
+	.comments-area article header a:hover {
+		color: #0f7b3f;
+	}
+	a.comment-reply-link:hover,
+	a.comment-edit-link:hover {
+		color: #0f7b3f;
+	}
+	.template-front-page .widget-area .widget li a:hover {
+		color: #0f7b3f;
+	}
+	
+	.currenttext, .paginacion a:hover {background-color:#0f7b3f;}
+	.aside{border-left-color:#0f7b3f !important;}
+	blockquote{border-left-color:#0f7b3f;}
+	ul.tabs li.t-activa a {border-top-color: #0f7b3f;} 
+	.slider-current-btn a {background-color:#0f7b3f !important;}
+	h2.comments-title {border-left-color:#0f7b3f;}
+	
+		
+		
+			.titulo-descripcion {
+	 		text-transform:none;
+		}
+		
+		
+		
+			.wrapper-cabecera {height:70px; height:5rem;}
+		
+		
+			.header-logo {background-color:transparent;}
+		
+		
+		
+			
+		body.custom-font-enabled {font-family: "Noto Sans", Arial, Verdana;}
+	
+			@media screen and (min-width: 600px) {
+			#primary {float:left;}
+			#secondary {float:right;}
+			.site-content {
+				border-left: none;
+				padding-left:0;
+				padding-right: 24px;
+				padding-right:1.714285714285714rem;
+			}
+		}
+		
+		
+	@media screen and (max-width: 599px) {
+		.menu-toggle, .menu-toggle:hover {
+			background:#0f7b3f !important;
+			color:#ffffff !important;
+			width:100%;
+		}
+	}
+	
+	/* bbPress */
+		</style>
+	
+	<!-- Google Analytics -->
+    
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-8653817-1', 'auto');
+  ga('send', 'pageview');
+
+</script>
+    <!-- Google Analytics -->
+    <style type="text/css" id="custom-background-css">
+body.custom-background { background-color: #f4f4f4; }
+</style>
+	
+<!-- Jetpack Open Graph Tags -->
+<meta property="og:type" content="article" />
+<meta property="og:title" content="The re-writing of history:  The misuse of the draft “dodger” myth against  Iraq war resisters in Canada" />
+<meta property="og:url" content="http://activehistory.ca/papers/history-papers-12/" />
+<meta property="og:description" content="By Luke Stewart, PhD Candidate, University of Waterloo Introduction Draft Dodgers v. Military Deserters The New Conscientious Objectors: Objecting to Particular Wars Conclusion Notes Introduction […" />
+<meta property="article:published_time" content="2012-10-22T10:00:39+00:00" />
+<meta property="article:modified_time" content="2013-04-25T13:49:29+00:00" />
+<meta property="og:site_name" content="Active History" />
+<meta property="og:image" content="http://activehistory.ca/wp-content/uploads/2019/02/cropped-ActiveHist2019_icon_whiteBCKG-6.jpg" />
+<meta property="og:image:width" content="512" />
+<meta property="og:image:height" content="512" />
+<meta name="twitter:site" content="@ActiveHist" />
+<meta name="twitter:text:title" content="The re-writing of history:  The misuse of the draft “dodger” myth against  Iraq war resisters in Canada" />
+<meta name="twitter:image" content="http://activehistory.ca/wp-content/uploads/2019/02/cropped-ActiveHist2019_icon_whiteBCKG-6-270x270.jpg" />
+<meta name="twitter:card" content="summary" />
+
+<!-- End Jetpack Open Graph Tags -->
+<link rel="icon" href="http://activehistory.ca/wp-content/uploads/2019/02/cropped-ActiveHist2019_icon_whiteBCKG-6-32x32.jpg" sizes="32x32" />
+<link rel="icon" href="http://activehistory.ca/wp-content/uploads/2019/02/cropped-ActiveHist2019_icon_whiteBCKG-6-192x192.jpg" sizes="192x192" />
+<link rel="apple-touch-icon" href="http://activehistory.ca/wp-content/uploads/2019/02/cropped-ActiveHist2019_icon_whiteBCKG-6-180x180.jpg" />
+<meta name="msapplication-TileImage" content="http://activehistory.ca/wp-content/uploads/2019/02/cropped-ActiveHist2019_icon_whiteBCKG-6-270x270.jpg" />
+</head>
+
+<body class="page-template-default page page-id-9458 page-child parent-pageid-23 custom-background custom-font-enabled">
+	
+		
+	<header id="masthead" class="site-header" role="banner">
+	<div class="wrapper-cabecera">
+	
+		<div class="blogname-y-menu">
+			<div class="boton-menu-movil"><i class="fa fa-align-justify fa-2x"></i></div>
+			
+							<div class="header-logo">
+					<a href="http://activehistory.ca/"><img src="http://activehistory.ca/wp-content/uploads/2019/04/cropped-ActiveHist2019_icon_whiteBCKG-1.jpg" class="header-image" width="400" height="400" alt="Active History" /></a>
+				</div>
+						
+						<div class="titulo-descripcion">
+			
+									<p class="site-title"><a href="http://activehistory.ca/" title="Active History" rel="home">Active History</a></p>
+								
+				<p class="site-description">History Matters</p>
+				
+			</div>
+						
+			<div class="toggle-search"><i class="fa fa-search"></i></div>
+			
+			<div class="wrapper-site-navigation">
+				<nav id="site-navigation" class="main-navigation" role="navigation">
+					
+					<div class="menu-the-main-container"><ul id="menu-the-main" class="nav-menu"><li id="menu-item-7899" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-home menu-item-7899"><a href="http://activehistory.ca/">Home</a></li>
+<li id="menu-item-7902" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-7902"><a href="http://activehistory.ca/about/">About</a></li>
+<li id="menu-item-7900" class="menu-item menu-item-type-post_type menu-item-object-page current-page-ancestor menu-item-7900"><a href="http://activehistory.ca/papers/">Features</a></li>
+<li id="menu-item-25840" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-25840"><a href="http://activehistory.ca/publications/">Publications</a></li>
+<li id="menu-item-7915" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-7915"><a href="http://activehistory.ca/podcasts/">Podcasts</a></li>
+<li id="menu-item-20816" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-20816"><a href="http://activehistory.ca/donate/">Support Us</a></li>
+</ul></div>				</nav><!-- #site-navigation -->
+                
+				<div class="wrapper-search-top-bar">
+                	<div class="search-top-bar">
+							<div>
+		<form method="get" id="searchform-toggle" action="http://activehistory.ca/">
+			<label for="s" class="assistive-text">Search</label>
+			<input type="search" class="txt-search" placeholder="Search..." name="s" id="s" />
+			<input type="submit" name="submit" id="btn-search" value="Search" />
+		</form>
+    </div>                    </div>
+                </div>
+                
+			</div><!-- .wrapper-site-navigation -->
+			
+		</div><!-- .blogname-y-menu -->
+        
+	<div style="position:relative; clear:both;">
+		
+<div id="menu-movil">
+	<div class="search-form-movil">
+		<form method="get" id="searchform-movil" action="http://activehistory.ca/">
+			<label for="s" class="assistive-text">Search</label>
+			<input type="search" class="txt-search-movil" placeholder="Search..." name="s" id="s" />
+			<input type="submit" name="submit" id="btn-search-movil" value="Search" />
+		</form>
+    </div><!-- search-form-movil -->
+	<div class="menu-movil-enlaces">
+		<div class="menu-the-main-container"><ul id="menu-the-main-1" class="nav-menu"><li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-home menu-item-7899"><a href="http://activehistory.ca/">Home</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-7902"><a href="http://activehistory.ca/about/">About</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page current-page-ancestor menu-item-7900"><a href="http://activehistory.ca/papers/">Features</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-25840"><a href="http://activehistory.ca/publications/">Publications</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-7915"><a href="http://activehistory.ca/podcasts/">Podcasts</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-20816"><a href="http://activehistory.ca/donate/">Support Us</a></li>
+</ul></div>	</div>
+	
+	<div class="social-icon-wrapper-movil">
+							<a href="https://twitter.com/activehist" title="Twitter" target="_blank"><i class="fa fa-twitter"></i></a> 
+						
+							<a href="https://www.facebook.com/ActiveHist/" title="Facebook" target="_blank"><i class="fa fa-facebook"></i></a>
+						
+						
+						
+					 		<a href="https://www.youtube.com/user/activehistoryca" title="YouTube" target="_blank"><i class="fa fa-youtube"></i></a>
+						
+						
+						
+							<a class="rss" href="http://feeds.feedburner.com/activehistoryca" title="RSS" target="_blank"><i class="fa fa-rss"></i></a>			
+					</div><!-- .social-icon-wrapper -->	
+</div><!-- #menu-movil -->    </div>
+    
+	</div><!-- wrapper-cabecera -->
+	
+	<div class="wrapper-area-widget-superior area-widget-padding-top">
+		</div>
+	
+	</header><!-- #masthead -->
+	
+<div id="page" class="hfeed site">
+	
+	<div id="main" class="wrapper">
+	<div id="primary" class="site-content">
+		<div id="content" role="main">
+
+							
+	<article id="post-9458" class="post-9458 page type-page status-publish hentry">
+
+		<header class="entry-header">
+													<h1 class="entry-title">The re-writing of history:  The misuse of the draft “dodger” myth against  Iraq war resisters in Canada</h1>
+					</header>
+
+		<div class="entry-content">
+			<p><em>By Luke Stewart, PhD Candidate, University of Waterloo</em></p>
+<p><strong><a href="#1">Introduction</a></strong><br />
+<strong><a href="#2">Draft Dodgers v. Military Deserters</a></strong><br />
+<strong><a href="#3">The New Conscientious Objectors: Objecting to Particular Wars</a></strong><br />
+<strong><a href="#26">Conclusion</a></strong><br />
+<strong><a href="#4">Notes</a></strong></p>
+<p><strong><a name="1"></a>Introduction</strong></p>
+<p><a title="#1" href="1_edn1">[i]</a><br />
+History is re-written by those powerful enough to do so. The attempt to re-write the history of the tens of thousands of draft dodgers and military deserters who fled to Canada during the Vietnam War is an ongoing project by the Stephen Harper regime in Canada and fits into a particular political agenda that will see to it all remaining Iraq war resisters seeking sanctuary are removed from this country. Paradoxically, the misuse of the history of the war resistance during the Vietnam War has justified the removal notices and deportations of Iraq war resisters by both Liberal and Conservative governments starting in 2004.<a href="#5">[1]</a> This misuse of history was ramped up like never before during the three-week struggle to keep Kim Rivera in the country after she received a negative decision on her Pre-Removal Risk Assessment (PRRA) and removal notice on August 30, 2012.</p>
+<div id="attachment_9459" style="width: 234px" class="wp-caption alignleft"><a href="http://activehistory.ca/wp-content/uploads/2012/10/Rivera-Picture.jpg"><img aria-describedby="caption-attachment-9459" data-attachment-id="9459" data-permalink="http://activehistory.ca/papers/history-papers-12/rivera-picture/" data-orig-file="http://activehistory.ca/wp-content/uploads/2012/10/Rivera-Picture.jpg" data-orig-size="224,127" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;}" data-image-title="Rivera Picture" data-image-description="" data-medium-file="http://activehistory.ca/wp-content/uploads/2012/10/Rivera-Picture.jpg" data-large-file="http://activehistory.ca/wp-content/uploads/2012/10/Rivera-Picture.jpg" class="size-full wp-image-9459 " style="border: 2px solid black; margin: 5px;" title="Rivera Picture" src="http://activehistory.ca/wp-content/uploads/2012/10/Rivera-Picture.jpg" alt="" width="224" height="127" /></a><p id="caption-attachment-9459" class="wp-caption-text">Kim Rivera marching with supporters after the Emergency Meeting in the Parkdale Neighbourhood of Toronto’s west side. September 5, 2012. Photo: Alex Lisman</p></div>
+<p>On Thursday September 20, 2012, U.S. Iraq war resister Kimberly Rivera voluntarily returned to the United States in compliance with her removal notice from the Canadian Border Services Agency (CBSA). Upon turning herself in, Kim was arrested and detained at the border. Four days earlier, Rivera’s lawyer was in Federal court seeking a stay of removal. At the hearing, the Government’s lawyer argued it was “speculative” that Rivera would be detained and arrested at the border. The judge hearing the appeal concurred and repeated in his decision that it was “speculative” that Rivera would be detained and arrested and denied the stay of removal.  At the time of this writing, Kim is at Fort Carson, Colorado awaiting a decision from the Army on whether she will be court-martialed for desertion.</p>
+<p>We historians with the privilege to know the history of Vietnam War resistance in Canada remained silent when we could have used our expertise to counter the misinformation that the Government of Canada and its supporters were peddling to justify the removal of this soldier of conscience from Canada. As intellectuals and academics we failed Kim Rivera by remaining silent. As historians it is not enough to simply study the past if we see the same historical processes playing themselves out in the present with real life consequences for people in the here and now. In the words of the late radical historian Howard Zinn, “We publish while others perish.”</p>
+<p>While these words may seem exaggerated, if Kim is court-martialed for desertion she will spend up to five years in military prison, receive a dishonorable discharge and a felony conviction which will severely limit her political and civil rights in the United States, including the right to vote, receive federal housing grants and federal student loans. Moreover, since July 2010 and the implementation of <a href="http://www.cic.gc.ca/english/resources/manuals/bulletins/2010/ob202.asp">Operational Bulletin 202</a> ,the Harper Regime will see to it that soldiers of conscience from the United States will not be able to seek sanctuary in Canada now and into the future as they have been labeled “criminally inadmissible”. Moreover, the removal of American conscientious objectors from Canada represents a tacit approval of the war on Iraq which has seen hundreds of thousands, and perhaps a million, people killed since the war began in March 2003 and a humanitarian crisis stemming from the destruction of civilian infrastructure such as electrical facilities and water treatment plants and the use of weapons such as depleted uranium and white phosphorous. <a href="#6">[2]</a></p>
+<p>This re-writing is perhaps best exemplified by Jason Kenney’s Department of Citizenship and Immigration removing the document “Forging Our Legacy” from its website in February 2009. The document contained a section on “Draft-Age Americans in Canada” and was published in 2000 to commemorate the fiftieth anniversary of the Canadian Citizenship Act of 1947. The War Resisters Support Campaign was quick to jump on the controversy by releasing a press release <a href="#7">[3]</a> quoting Dick Cotterill, a former U.S. Marine who deserted after three years of service from the Vietnam War by coming to Canada :</p>
+<blockquote><p>I am evidence that it [the war resistance] did indeed happen. I enlisted voluntarily and served three years before I came to the moral decision that the Vietnam War was unjust and I could no longer participate. Many of the Iraq War resisters enlisted in good faith, have served in combat, and have chosen to oppose this war by coming to Canada. They, too, should be allowed to stay. <a href="#8">[4]</a></p></blockquote>
+<p>While the document was later restored to the Citizenship and Immigration Canada’s website, the Conservative Government is clearly trying to omit Canada’s sordid immigration history from its official narrative as it moves forward with draconian refugee policies including, but certainly not limited to, the removal of all Iraq war resisters seeking sanctuary in Canada. <a href="#9">[5]</a></p>
+<p>This paper will examine the attempt to re-write the history of the Vietnam era war resistance through the removal of Iraq war resisters during the twenty-first century. I will look at the two main arguments against war resisters receiving permanent residency in Canada under humanitarian and compassionate grounds by shining a light on the reasons why war resisters should be allowed to stay. Unfortunately, not one of the between thirty and fifty war resisters who have applied for refugee status has received permanent residency in Canada. Kim Rivera was the latest to have returned to the United States under her own volition after receiving her removal notice for September 20th.</p>
+<p><strong><a name="2"></a>Draft Dodgers v. Military Deserters</strong></p>
+<p>The first argument against current day war resisters is that they are unlike resisters from the Vietnam era. For instance, before the negative decision was handed down by the Immigration and Refugee Board on the refugee application of Jeremy Hinzman, the first war resister to come to Canada in January 2004, the <em>Globe and Mail</em> editorialized that:</p>
+<blockquote><p>Canada opened its border to tens of thousands of draft dodgers <em>and more than a few deserters</em> during the Vietnam War in the late 1960s and early 70s. The difference is that the U.S. draft still existed then, making military service compulsory and an assignment in the war zone a distinct possibility. The draft dodgers also were not true refugees, but there were good humanitarian reasons behind the political decision to allow them to remain in Canada.</p>
+<p>By contrast, Mr. Hinzman volunteered for military duty, to cover the costs of a university education. He did not appear to harbour any pacifist tendencies at the time of his enlistment. Otherwise, why would he have volunteered to train as a paratrooper? … <a href="#27">[6]</a></p></blockquote>
+<p>These sentiments were expressed again by a <em>Globe and Mail</em> editorial after Jeremy Hinzman was denied refugee status on 24 March 2004 when it declared that Hinzman’s “testimony showed that his opinions and actions over the past several years have been confused at best.” Why, you might ask? “Unlike the roughly 50,000 Vietnam-era draft dodgers who fled to Canada in the 1960s and 70s, Mr. Hinzman was a volunteer.” <a href="#28">[7]</a></p>
+<p>This argument has not only been utilized by the “liberal” <em>Globe and Mail</em>, but by personalities such as the founding editor of the <em>Toronto Sun</em> Peter Worthington, the Liberal Paul Martin Government at the time, and, most recently, Minister of Citizenship and Immigration Jason Kenney. This is perhaps the most insidious of all arguments against letting war resisters stay in Canada: invoking the resistance during the Vietnam War to justify the deportation of Iraq war resisters because they were volunteers and not draft dodgers as during the war in Vietnam.</p>
+<p>Were all Vietnam-era war resisters “draft dodgers”? And can they be compared to today’s Iraq war resisters?  In many respects, this seemed to echo the situation that had emerged during the Vietnam War. The term “draft dodger” is synonymous with the tens of thousands of Americans who came to Canada during the Vietnam War. However, the term is very misleading and today is utilized as a catch-all term that incorporates within it both the draft resisters and what appears to some as “more than a few deserters”.</p>
+<p>To refer to all resisters from the Vietnam-era as “draft dodgers” is inadequate at best and purposefully misleading at worst. For instance, Jason Kenney, the newly appointed Minister of Citizenship and Immigration, argued in January 2009 when Kim Rivera first faced imminent deportation that, “We&#8217;re not talking about draft dodgers, we&#8217;re not talking about resisters … We&#8217;re talking about people who volunteer to serve in the armed forces of a democratic country and simply change their mind to desert. And that&#8217;s fine, that&#8217;s the decision they have made, but they are not refugees.” <a href="#10">[8]</a> After statements such as this, there is a simple question: Is this not what Vietnam military deserters did? Did Canada not accept military deserters from the Vietnam War?</p>
+<p>For the term “draft dodger” to have any legitimacy to defend the negative refugee claims of Iraq war resisters and the deportation of others, we would expect that the deserter population in Canada was a tiny fraction of the overall resister population during the Vietnam War and that these deserters were too resisting the draft. On both counts, I find the opposite to be true and this can go a long way to help us understand the treatment of current day resisters.</p>
+<p>During the Vietnam War an estimated 20,000 to 26,000 draft dodgers and 10,000 to 30,000 military deserters came to Canada between 1965 and 1975. <a href="#11">[9]</a> The possible 10,000 to 30,000 military deserters represent more than just “a few deserters” during the Vietnam War and in fact rivals the numbers of draft resisters to a large extent. The scale is enormous and should help us do away with the narrowly defined “draft dodger” as a means of explaining the totality of the resistance during the Vietnam War. Instead, I believe that we should be precise when speaking about this resistance and that “draft dodgers” as a way of explaining the resistance should be followed by a reference to the military deserters. Otherwise, we are painting a very distorted and misleading portrait of the Vietnam-era resistance in Canada and one that does no service to the current day Iraq war resisters seeking sanctuary in Canada.</p>
+<p>In reality, Canadian officials – including the governments of Lester Pearson and Pierre Trudeau <a href="#12">[10] </a> – made a distinction between draft dodgers and military deserters. Categorizing draft dodgers separately from military deserters in their assessments, with deserters being viewed as a political liability and unwanted in Canada, civil servants and the various ministers in the department of Manpower and Immigration tried to discriminate against deserters by denying them access into the country. Between 14 January 1966 and 22 May 1969, the covert ministerial directive Operational Memorandum 117 – similar to the current Operational Bulletin 202 – was issued by Tom Kent, Deputy Minister of Immigration, to all Canadian border guards stating:</p>
+<blockquote><p>Officers will not refuse an immigrant solely on the grounds that he is known to be, or suspected of being, a draft evader. Nonetheless, they will take this factor into consideration in determining whether he is a bona fide immigrant and in assessing the likelihood of his successful permanent establishment … [However, a military resister] will not be issued a visa or granted admission until he has submitted proof of his discharge. <a href="#13">[11]</a></p></blockquote>
+<p>It was only after a successful campaign by Canadian draft and military resister aid groups in early-1969 – that included lobbying Parliament to find sympathetic Liberal and NDP MPs, a media campaign that saw critical editorials in the <em>Globe and Mail</em> and <em>Toronto Daily Star</em>, as well as television and radio interviews, public speaking at churches and community centres, and a strong commitment by the United Church of Canada – that forced the Government of Canada to reverse its covert policy of discrimination at the border.<a href="#14">[12]</a> The Government of Canada was also weary of military deserters participating in the Vietnam Veterans Against the War (VVAW) Winter Soldier Investigation between 31 January and 2 February 1971 that investigated war crimes and crimes against humanity in Vietnam. Part of the planned war crimes commission was to have military deserters and a delegation of South Vietnamese testify from Windsor, Ontario, via closed circuit television into the Detroit hearings. <a href="#15">[13]</a></p>
+<p>The most insidious aspect of comparing the resisters from Iraq and Vietnam as a way of justifying their removal and denial of refugee status is that during the Vietnam War those who resisted were drafted.  Two seminal studies have corroborated that military deserters during the Vietnam War were mostly <em>enlistees</em>. In other words, the majority of deserters during the war were those who volunteered instead of being drafted. For instance, Renée Kasinsky demonstrates in the classic study <em>Refugees from Militarism: Draft-Age Americans in Canada</em> that the majority of deserters who came to Canada were enlistees. This is a crucial point and one that needs to be emphasized over and over until it is part of our shared history.</p>
+<p>Of the deserters interviewed by Kasinsky, three quarters of them enlisted for service in the military. Of all those she interviewed, three quarters served in the Army. Another popular misconception, according to Kasinsky, was that these deserters could not handle the military and fled during basic training. According to Kasinsky’s research, it was actually those who were drafted into the military that tended to flee during basic training. Of those who enlisted, twenty percent fled during basic training, forty percent fled after four to eleven months, and the other forty percent served one to three years in the military. Of all those she interviewed, nine percent were Vietnam veterans. Therefore, according to Kasinsky, “This meant that the largest number of deserters left the military with advanced trades and military skills. Most of them cited both the Vietnam War and their military treatment among the major reasons for their desertion.” <a href="&quot;#16">[14]</a></p>
+<p>Kasinsky’s research was also corroborated in the seminal text on the G.I. movement during the Vietnam War. David Cortright’s research in <em>Soldiers in Revolt: the American Military Today</em> demonstrates, utilizing government sources, that the majority of deserters were enlistees and argued that enlistees were more likely to desert or go AWOL than draftees. “In most cases,” Cortright explained, “deserters and AWOLs are lower-class people who have joined the military believing the job-benefit claims of recruiters, only to discover through rude experience the far different realities of military life and imperial war.” <a href="#17">[15]</a> The same could be said of current day resisters. Moreover, Cortright contends, as if addressing the contemporary concerns of Peter Worthington, the <em>Globe and Mail</em>, and the Government of Canada, that deserters are often described as “malingers” or “criminals,” however, they have done exactly the same thing as draft resisters “except that they have had to learn the truth more slowly, through actual experience, and have expressed their opposition through more drastic, less articulate methods.”<a href="#18">[16]</a></p>
+<p>Therefore, the conscientious objection of a draftee as opposed to an enlistee is not as different or “confused” as the editorial board of the <em>Globe and Mail</em>, Peter Worthington, and the Liberal and Conservative governments would have us believe. Indeed, the only difference is that the enlistee had to make their decision through actual experience in the military or through combat. Both Cortright and Kasinsky’s studies are integral to help deconstruct the myths about draft dodgers and military deserters during the Vietnam-era that have been perpetuated in the twenty-first century to justify the deportation and criminalization of American military deserters from the Iraq War who fled to Canada.</p>
+<p>Iraq war deserters, just like more than half of the Vietnam military deserters, were enlistees who refused to participate any longer in wars they considered to be immoral, unjust, and illegal because they had experienced it firsthand. This is a crucial distinction that has not been borne out by critics or supporters of war resisters and one that can go a long way in helping current day resisters seek sanctuary in Canada.</p>
+<p>In other words, we can draw a straight line from Vietnam to Iraq and show that military deserters have been largely misunderstood and to a large extent have been treated similarly by government officials. It is inadequate to compare Vietnam “draft dodgers” to current day Iraq war deserters when it is more accurate to compare them to Vietnam military deserters.</p>
+<p><strong><a name="3"></a>The New Conscientious Objectors: Objecting to Particular Wars</strong></p>
+<p>Perhaps the main argument against current day war resisters seeking refuge in Canada has been laid out by Peter Worthington, founding editor of the <em>Toronto Sun</em>, when he writes, “In any army, ‘desertion’ is an offence. If these Americans now seeking permanent residence in Canada truly oppose the idea of being in the army, why did they enlist in the first place?” Worthington went on to say that “[s]ome justify their actions by calling it an illegal war, and they don’t want to kill innocent civilians,” a claim he calls “[p]retty weak.” Finally, he concludes, “Those who join the army and change their mind should have the courage to endure the consequences. It is not bravery to run away and oblige a neighbour to give asylum, against the wishes of a democratic ally.”<a href="#19">[17]</a> Such criticisms negate the fact the war in Iraq has been condemned by the international community as well as the commitment soldiers must make to the <a href="http://www.icrc.org/ihl.nsf/full/390">fourth Nuremberg Principle</a> that “[t]he fact that a person acted pursuant to order of his Government or of a superior does not relieve him from responsibility under international law, provided a moral choice was in fact possible to him.”</p>
+<p>As Joshua Key argued in <em>A Deserter’s Tale: The Story of an Ordinary Soldier Who Walked Away from the War in Iraq</em>:</p>
+<blockquote><p>I had heard of the Vietnam War but didn’t know when or why Americans had fought in it. But I can guarantee you this: if any man had told me he had deserted our army in wartime, I would have called him a coward right to his face. There were just some things you didn’t do. By the time I was in high school I felt that it would be an honor to serve my country at war, and even to die for it. I couldn’t imagine any circumstances in which an American soldier would walk away from his own armed forces and so betray his country. <a href="#20">[18]</a></p></blockquote>
+<p>However, through Key’s experience in combat in Iraq he went on to conclude: “Ever so slowly, as the jets raced and the illumination rounds burned and the houses fell during the long Iraqi nights, my conscience returned. It could no longer be Army first, God second, and family third. It had to be the tiny voice inside me that would not sleep any longer. <em>I am not this man</em>, I told myself. <em>I cannot do these things any longer</em>.” <a href="#21">[19]</a> Key would come to Canada with his family in March 2005.</p>
+<p>Since the Vietnam War a radical idea has emerged: Volunteer soldiers have been endowed with the responsibility – both moral and legal – to refuse orders during a particular war even if they are not opposed “to participation in war in any form” if those orders do not comport to international law or their individual conscience. This idea has been called “selective” conscientious objection and was condemned during the Vietnam War. For instance, Capt. Howard Levy, Capt. Dale Noyd, and the Fort Hood Three as well as draft resister David Mitchell all argued that they were not pacifists, that in all likelihood they would have fought in World War II, however the war in Vietnam was of such a scale and the means with which it was fought did not comport to their understanding of international law and in good conscience they could no longer serve. They would all spend time in jail after failing to convince the court-martial of their positions. <a href="#22">[20]</a> The international community, however, has now caught up with this idea.</p>
+<p>On September 14, 2004, eighteen months after the United States’ invasion and subsequent occupation of Iraq, U.N. Secretary General Kofi Annan told the BBC World Service that the war on Iraq “was not in conformity with the U.N. Charter. From our point of view and from the charter point of view it was illegal.” <a href="#23">[21]</a> Michael Mandel, international law professor at Osgoode Law School, has forcefully argued in <em>How America gets away with Murder: Illegal Wars, Collateral Damage and Crimes Against Humanity</em> that the war on Iraq was a war of “‘aggression’ – the legal word for a war that does not fall within the narrow confines of the right of self-defense and has not been authorized by the Security Council as absolutely necessary in the collective interest of international peace and security.” Mandel went on to explain that, “If we judge it [the war in Iraq] by the standards laid down by the Nuremberg Tribunal that judged the Nazis after World War II, it is the supreme international crime,” quoting from the judgment of the Nuremberg Tribunal:</p>
+<blockquote><p>War is essentially an evil thing. Its consequences are not confined to the belligerent states alone, but affect the whole world. To initiate a war of aggression, therefore, is not only an international crime; it is the supreme international crime differing only from other war crimes in that it contains within itself the accumulated evil of the whole. <a href="#24">[22]</a></p></blockquote>
+<p>A war of aggression is the “supreme international crime” and all other crimes against humanity and war crimes committed during the course of the war – on both sides of the conflict – are a derivative of the much greater crime of waging the war in the first place, that is without U.N. Security Council authorization or in self defense of an imminent armed attack. Therefore, under the most rudimentary rules of international armed conflict, soldiers such as Kim Rivera, Jeremy Hinzman, and Joshua Key are well within their rights to refuse orders because the whole war was illegal. It should not have taken place in the first instance under the provisions of the U.N. Charter, which is essentially a document that limits the use of armed force.</p>
+<p>The issue, of course, is not the lack of international treaties or conventions that have outlawed or limited the waging of war and the means by which wars are fought – the issue is the lack of enforcement of these international treaties and conventions. So the question remains, who will hold the United States accountable for its war on Iraq? A war that has been so clearly documented as falling outside of the agreed international standards of waging war?</p>
+<p>It is the soldiers such as Kim Rivera who have the moral and legal responsibility to refuse illegal orders. Whether she volunteered for service is irrelevant to whether she should obey unlawful orders. It was unacceptable during the International War Crimes Tribunal at Nuremberg for the Germans to use the defense they were just following orders. In fact, Justice Robert Jackson, Chief Prosecutor at Nuremberg for the United States, argued very clearly:</p>
+<blockquote><p>If certain acts and violations of treaties are crimes, they are crimes whether the United States does them or whether Germany does them. We are not prepared to lay down a rule of criminal conduct against others which we would not be willing to have invoked against us. <a href="#30">[23]</a></p></blockquote>
+<p>Ms. Rivera and the other war resisters are therefore, in my opinion, the new conscientious objectors of the twenty-first century. They are not traditional conscientious objectors who have, under the provisions of the <a href="http://www.fas.org/irp/doddir/dod/i1300_06.pdf">Department of Defense</a>:</p>
+<blockquote><p>A firm, fixed, and sincere objection to participation in war in any form or the bearing of arms, by reason of religious training and/or belief. Unless otherwise specified, the term &#8220;Conscientious Objector&#8221; includes both Class 1-O and Class 1-A-O Conscientious Objectors.</p>
+<p>Class 1-O Conscientious Objector. A member who, by reason of conscientious objection, sincerely objects to participation in military service of any kind in war in any form.</p>
+<p>Class 1-A-O Conscientious Objector. A member who, by reason of conscientious objection, sincerely objects to participation as a combatant in war in any form, but whose convictions are such as to permit military service in a non-combatant status.</p></blockquote>
+<p>In contrast to traditional conscientious objectors, Kim Rivera volunteered for military service, served her country at a forward operating base in Baghdad, and it was on her two week R&amp;R (so-called rest and relaxation) that she decided, with her family, to come to Canada instead of re-deploying to Iraq for twelve months. She did not desert in the heat of battle. She served her country bravely in perhaps one of the most violent and dangerous cities of the whole war. In Kim’s own <a title="Rivera" href="http://www.change.org/en-CA/petitions/minister-kenney-stop-the-deportation-of-iraq-war-resister-kimberly-rivera" target="_blank">words</a>:</p>
+<blockquote><p>Once I was stationed in Iraq, I realized I had been lied to. I saw the true face of war: countless civilian casualties, and Iraqi children left devastated by loss and filled with fear. We were not bringing freedom to Iraq; we were bringing needless pain and suffering and death. How could I look my children in the eye and tell them to be good people, when I was contributing to causing harm and death to innocent people on the other side of the world? As this became clear to me, my conscience would no longer let me participate in the war in Iraq.</p></blockquote>
+<p>The international community has caught up to this notion that volunteer soldiers, just as draftees, can develop a conscientious objection to war. In the campaign to let Kim and the other war resisters stay in Canada, Amnesty International <a title="Amnesty International" href="http://resisters.ca/wp-content/uploads/2012/09/AI-Rivera-statment.pdf" target="_blank">wrote</a> on August 31, 2012, the day after Kim Rivera received her removal notice from Canada that they believe Kim to be a conscientious objector and a “prisoner of conscience” if she was to be “detained”. <a href="#25">[24]</a></p>
+<p>Amnesty International is in good company as the United Nations Commission on Human Rights <a href="http://www.unhcr.org/refworld/topic,4565c22523,4565c25f2c9,3b00f0d220,0,,RESOLUTION,.html">Resolution 1995/83, 8 March 1995</a> stated “that persons performing military service may develop conscientious objections.” In 1998, the United Nations Commission on Human Rights <a href="http://www.unhcr.org/refworld/topic,4565c22517,4565c25f227,3b00f0be10,0,UNCHR,,.html">Resolution 1998/77, 22 April 1998</a> argues in paragraph 7 that it:</p>
+<blockquote><p>Encourages States, subject to the circumstances of the individual case meeting the other requirements of the refugee definition as set out in the 1951 Convention relating to the Status of Refugees, to consider granting asylum to those conscientious objectors compelled to leave their country of origin because they fear persecution owing to their refusal to perform military service when there is no provision, or no adequate provision, for conscientious objection to military service.</p></blockquote>
+<p>There is more than enough evidence to suggest that if Kim Rivera were to have applied for conscientious objector status as currently conceived by the Defense Department that her application would have been denied. The Department of Defense and the military has not added provisions under the regulations of conscientious objection to incorporate those soldiers who develop conscientious objection to particular wars during their service.</p>
+<p>Moreover, war resisters who came to Canada and were either deported or voluntarily returned because they received removal notices were harshly punished. For instance, Robin Long who was arrested by Canadian authorities in July 2008 and deported received fifteen months in military prison for desertion. Part of the evidence submitted in his court-martial were statements made in Canada against the war on Iraq. Cliff Cornell, who also came to Canada and voluntarily returned to the U.S. after his legal avenues ran out received twelve months in military prison. Most recently of all, Patrick Hart, who voluntarily returned to the U.S., received twenty-five months in prison in April 2011. These three cases demonstrate that deserters who take a public stand against the war are singled out and more severely punished than deserters who keep their mouths shut.</p>
+<p>It is under these circumstances that Iraq war resisters in Canada are applying for refugee status. The Office of the United Nations High Commissioner for Refugees (UNHCR), <a href="http://www1.umn.edu/humanrts/instree/refugeehandbook.pdf">Handbook on Procedures and Criteria for Determining Refugee Status Under the 1951 Convention and the 1967 Protocol Relating to the Status of Refugees, January 1992, Section B, Article 171</a> reads:</p>
+<blockquote><p>Not every conviction, genuine though it may be, will constitute a sufficient reason for claiming refugee status after desertion or draft-evasion. It is not enough for a person to be in disagreement with his government regarding the political justification for a particular military action. <em>Where, however, the type of military action, with which an individual does not wish to be associated, is condemned by the international community as contrary to basic rules of human conduct, punishment for desertion or draft-evasion could, in the light of all other requirements of the definition, in itself be regarded as persecution</em> (Emphasis added).</p></blockquote>
+<p><strong><a name="26"></a>Conclusion</strong></p>
+<p>On September 20, 2012, Kimberly Rivera was detained upon entering the United States as was expected by her lawyer and the War Resisters Support Campaign. By Amnesty International’s definition, she is a “prisoner of conscience.”</p>
+<p>We failed Kimberly Rivera because we left the arguments against letting war resisters stay in Canada unchallenged as the Government of Canada and their supporters’ misused history to persecute soldiers of conscience. Is it not part of our profession to seek out the truth and disseminate it? It is an abdication of responsibility to do nothing when we can make a difference. When the history books are written on this sad chapter in Canadian history, one of the main questions that should be asked: where were the intellectuals whose responsibility it was to clarify positions in important public debates?</p>
+<p>Kimberly Rivera and the other war resisters should be counted among the millions of other casualties during the global war on terror. By removing Kimberly Rivera from this country for refusing to re-deploy to a war that was illegal under international law is a tacit approval of that war and its horrific outcomes. It has consequences not just for the Iraqi people, but for the whole world. We cannot in good conscience remain silent as the neo-Conservative government of Stephen Harper now plans to pick off the remaining resisters in Canada and send them off to military prison. We must speak up and speak out against these injustices or else we can count ourselves as just another generation of scholars who publish while others perish.</p>
+<p><strong><a name="4"></a>Notes</strong></p>
+<p><a name="5"></a>[1] For instance, a 11 July 2005 memorandum to Minister of Immigration, Joe Volpe, after a War Resister Support Campaign press conference, argued that, “A number of American soldiers have come to Canada in flight of their required service in the Iraq war (estimated at under 50, this group is but a small fraction of the number of Vietnam-era resisters). Some of these persons have made refugee protection claims in Canada, citing conscientious objection to the ‘illegal’ war and the risk of being imprisoned in the US for their desertion. This is in contrast to the ‘draft-dodgers’ of 1965-1973, who faced compulsory military service.” Deputy Minister (Janice Charette) to Minister (Joe Volpe), 11 July 2005. Release under the Access to Information Act to the author, the memorandum went on to say that Citizenship and Immigration Canada were waiting for Jeremy Hinzman’s appeal to Federal Court before they moved any further on the war resister file. Moreover, the memorandum pointed out that the United States government had not yet contacted the department with regard to the Iraq war resisters.</p>
+<p><a name="6"></a>[2] After carefully studying various civilian casualty reports, John Tirman, Director of International Studies at the Massachusetts Institute for Technology, writes that an article published in <em>The Lancet</em>, a well-respected British medical journal, in October 2004 “estimat[ed] that 98,000 Iraqis (not just civilians) had died in the first eighteen months of the war.” Moreover, Tirman concludes after reviewing two separate household surveys conducted in Iraq that “[t]he number of deaths attributable to the war by mid-2006 stood between 400,000 and 650,000”and that a third of these were “attributed to U.S. firepower.” See John Tirman, The Deaths of Others: The Fate of Civilians in America’s Wars (Oxford: Oxford University Press, 2011), 240, 10.</p>
+<p>The humanitarian crises and ecological devastation has been analyzed in many reports. For a sampling of these, see: M. Al-Sabbak, S. Sadik Ali, O. Savabi, G. Savabi and S. Dastgiri, et al., “<a href="http://www.springerlink.com/content/u35001451t13g645/">Metal Contamination and the Epidemic of Congenital Birth Defects in Iraqi Cities</a>,” <em>Bulletin of Environmental Contamination and Toxicology</em>, 2012, Volume 89, Number 5, pp. 937-944; Patrick Cockburn, “Toxic legacy of US assault on Fallujah ‘worse than Hiroshima,’” <em>The Independent</em>, 24 July 2010, <a href="http://www.independent.co.uk/news/world/middle-east/toxic-legacy-of-us-assault-on-fallujah-worse-than-hiroshima-2034065.html">http://www.independent.co.uk/news/world/middle-east/toxic-legacy-of-us-assault-on-fallujah-worse-than-hiroshima-2034065.html</a>. The report referred to, see: Chris Busby, Malak Hamdan, and Entesar Ariabi, “<a href="http://www.mdpi.com/1660-4601/7/7/2828">Cancer, Infant Mortality and Birth Sex-Ratio in Fallujah, Iraq 2005-2009</a>,” <em>International Journal of Environmental Research and Public Health</em>, 7, 2010, pp. 2828-2837. Finally, for a good overview of the costs of the war on Iraq for both the Iraqi population and the United States, see: “The Costs of War Since 2001: Iraq, Afghanistan, and Pakistan &#8211; Executive Summary,” <em>Watson Institute for International Studies</em>, June 2011. See the interactive website replete with graphs and other multimedia at <a href="http://www.costsofwar.org">www.costsofwar.org</a>.</p>
+<p><a name="7"></a>[3] Quoted in War Resisters Support Campaign media release, available online: <a href="http://www.wmtc.ca/2009/02/is-harper-government-erasing-canadian.html">http://www.wmtc.ca/2009/02/is-harper-government-erasing-canadian.html</a>. The controversy is documented here: <a href="http://www.wmtc.ca/2009/07/harper-government-tries-to-rewrite.html">http://www.wmtc.ca/2009/07/harper-government-tries-to-rewrite.html</a></p>
+<p><a name="8"></a>[4] Quoted from War Resister Support Campaign media release, 2 February 2009, <a href="http://www.wmtc.ca/2009/02/is-harper-government-erasing-canadian.html">http://www.wmtc.ca/2009/02/is-harper-government-erasing-canadian.html</a></p>
+<p><a name="9"></a>[5] See the “War Resistance and Canadian Immigration and Refugee Policy” panel discussion at the “Looking Back, Moving Forward” conference in September 2011 featuring  Alyssa Manning, war resister lawyer from Parkdale Community Legal Services; Gloria Nafzinger, refugee coordinator with Amnesty International – Canada; and S.K. Hussan from No One Is Illegal – Toronto, <a href="http://activehistory.ca/2012/01/war-resisters-conference-report-back-looking-back-moving-forward-war-resisters-in-north-america/">http://activehistory.ca/2012/01/war-resisters-conference-report-back-looking-back-moving-forward-war-resisters-in-north-america/</a>.</p>
+<p><a name="27"></a>[6] “A deserter, not a refugee,” Globe and Mail, 9 December 2004, A24. Emphasis added.</p>
+<p><a name="28"></a>[7] “The ruling against Jeremy Hinzman,” <em>Globe and Mail</em>, 25 March 2005, A14.</p>
+<p><a name="10"></a>[8] Quoted in “Kenney&#8217;s comments prejudice hearings for war resisters, critics say,” CBC News,9 January 2009, <a href="http://www.cbc.ca/news/canada/story/2009/01/09/refugee-war.html">www.cbc.ca/news/canada/story/2009/01/09/refugee-war.html</a></p>
+<p><a name="11"></a>[9] There are multiple sources with data on the numbers of draft dodgers and military deserters. For instance, Renée Kasinsky estimated in <em>Refugees from Militarism</em> that there were 20,000 to 26,000 draft dodgers and 10,000 to 14,000 military deserters. Lawrence M. Baskir and William A. Strauss estimated in <em>Chance and Circumstance</em> that there were 12,482 to 23,556 draft dodgers and 10,000 to 30,000 military deserters. John Hagan estimated in <em>Northern Passage</em> that 25,865 men and 26, 804 women migrated to Canada during the Vietnam era (making no distinction between military and draft resisters). The data is carefully analyzed by Joseph Jones in “Contending Statistics: The Numbers for U.S. Vietnam War Resisters in Canada,” and he concludes, after including statistics for women, family members, and men beyond the ages 19-25, “estimates for the Vietnam-era influx of Americans to Canada credibly extend to 100,000 and beyond” (p.34).</p>
+<p><a name="12"></a>[10] On Trudeau’s first visit to Washington, D.C., in March 1969 to meet with President Richard Nixon, Trudeau clarified the government’s position on deserters at the National Press Club on 25 March 1969: “Our policy as to deserters is not as clear as that regarding draft evaders. In general we do have statistics on this and in general Canadian policy has been, shall we say, a little less free towards … deserters than to draft evaders on the basis that Immigration does consider whether a perspective immigrant has any moral or legal commitments in their country of origin …”CBC Digital Archives, <a href="http://www.cbc.ca/archives/categories/war-conflict/vietnam-war/seeking-sanctuary-draft-dodgers/trudeau-opens-the-door-to-draft-dodgers.html">http://www.cbc.ca/archives/categories/war-conflict/vietnam-war/seeking-sanctuary-draft-dodgers/trudeau-opens-the-door-to-draft-dodgers.html</a>. Other than this public statement, there are very few statements from the new Prime Minister about how to deal with the military deserter issue. In a memo from Minister MacEachen to the Deputy Immigration Minister on 20 February 1969, he wrote of Trudeau that “[h]e made reference to the contractual business and stated as follows: ‘surely a person who deserts from the armed forces of the U.S. is guilty of a criminal offense and accordingly would be inadmissible to Canada on that ground alone.” Quoted in John Hagan, <em>Northern Passage: American Vietnam War Resisters in Canada</em> (Cambridge: Harvard University Press, 2001), 53-54.</p>
+<p><a name="13"></a>[11] Quoted in Hagan, 38. The Government’s position was re-iterated on 9 January 1967 when J.C. Morrison, Director of Immigration, issued a letter to the regional director of immigration, quoting OM 117 that “permanent admission to Canada is not to be granted to military deserters” and that “[t]he Department’s view is, as firmly as ever, that we do not want deserters as immigrants. But a recent review has revealed that we may have no legal basis on which to order the deportation of an applicant in Canada for the sole reason that he is a deserter” and that “there is real reason to doubt that the present Act contains the authority necessary to exclude military deserters by regulation.” Regardless of the immigration law and Canada’s extradition treaty with the United States, “[t]here has been no change of attitude as far as the Department is concerned.”</p>
+<p>After the blitz of public pressure on the military deserter issue that brought it to a “major crisis”, on 12 March 1969, Allan MacEachen, the Minister of Immigration, wrote a confidential memorandum to Cabinet entitled “Admission to Canada of Draft Dodgers and Military Resisters”. MacEachen wrote: “There is a need for re-affirmation of Canada’s policy of disregarding draft status in determining a person’s admissibility to Canada, and for the passage of a regulation to exclude military deserters.” Specifically on the deserter issue, MacEachen wrote: &#8220;To grant asylum to deserters as refugees would constitute a blanket condemnation of the United States and its political and judicial system … Many critics of the present policy are less interested in the welfare of the deserters than in using them as a focal point for a continuing campaign against the United States.&#8221;  Quoted in Hagan, 53.</p>
+<p><a name="14"></a>[12] See Renée Kasinsky, <em>Refugees from Militarism</em>,111-127; John Hagan, 45-65; Jim Wilcox, “…they are up against the Canadian border,” in Frank H. Epp, ed., <em>I would like to dodge the draft-dodgers but…</em> (Waterloo: Conrad Press, 1970), 49-59. Wilcox wrote in 1970, despite the new “points system” enacted in October 1967, deserters were “in event worse shape [than draft dodgers] vis à vis the immigration officials in 1967, 1968, and the early months of 1969” (51).</p>
+<p><a name="15"></a>[13] For continued R.C.M.P. harassment and the F.B.I.’s interest in military deserters beyond the 22 May 1969 decision on deserters, see: Charles Campbell, “R.C.M.P. Harassment of U.S. Deserters: A Three-Year History,” <em>Amex-Canada</em>, Vol. 2, No. 6, pp. 18-19. The Montreal based American Deserters Committee Federal Bureau of Investigation (F.B.I.) file can be accessed on archive.org, <a href="http://web.archive.org/web/20040626064814/http://foia.fbi.gov/adc.htm">http://web.archive.org/web/20040626064814/http://foia.fbi.gov/adc.htm</a>. See also: Hagan, 41, 141, 144 and Kasinsky, 214-17. For an interesting account of a draft resister in Montreal during the October Crisis, download Bruce Beyer’s account of his experience at the “Looking Back, Moving Forward: War Resisters in North America” conference in Toronto. Beyer’s spoke on the first panel on 23 September 2011, <a href="http://activehistory.ca/2012/01/war-resisters-conference-report-back-looking-back-moving-forward-war-resisters-in-north-america">http://activehistory.ca/2012/01/war-resisters-conference-report-back-looking-back-moving-forward-war-resisters-in-north-america</a>. Moreover, during the planning and lead-up to the Vietnam Veterans Against the War (VVAW) Winter Soldier Investigation, there was cross-border communications between the F.B.I. and the R.C.M.P. about the Canadian contribution to the Vietnam veteran organized war crimes investigation. While the Winter Soldier Investigation was to take place in Detroit, Michigan, five South Vietnamese were to testify via closed-circuit televisions from the Cleary Auditorium in Windsor, Ontario. Otto Lang, the Minister of Manpower and Immigration (now Citizenship and Immigration Canada) denied the visas for the five South Vietnamese and they were unable to testify. In the internal documents at Library and Archives Canada, it is clear the government was worried about participation of military deserters in the war crimes investigation as reference was continually made about their participation. See: Record Group (RG) 76, Winter Soldier Investigation and RG 76, Vol. 955, National Commission for Citizen Commission.</p>
+<p><a name="16"></a>[14] Kasinsky, 37-42.</p>
+<p><a name="17"></a>[15] David Cortright, <em>Soldiers in Revolt: G.I. Resistance during the Vietnam War</em> (Chicago: Haymarket Books, 2005), 14. Cortright’s book was originally published in 1975 and was re-printed by Haymarket Books with a new chapter on the GI movement from Vietnam to Iraq as well as a forward by Howard Zinn.</p>
+<p><a name="18"></a>[16] Cortright, 15.</p>
+<p><a name="19"></a>[17] Peter Worthington, “U.S. war deserters insult our troops,” <em>Toronto Sun</em>, 30 September 2010.</p>
+<p><a name="20"></a>[18] Joshua Key and Lawrence Hill, <em>A Deserter’s Tale: The Story of an Ordinary Soldier Who Walked Away from the War in Iraq</em> (Toronto: Anansi, 2007), 2-3.</p>
+<p><a name="21"></a>[19] Key and Hill, 8-9.</p>
+<p>&lt;<a name="22"></a>[20] See, for instance, Staughton Lynd, “Someday They’ll Have a War and Nobody Will Come,” in Andrej Grubacic, ed. , <em>From Here to There: The Staughton Lynd Reader</em> (Oakland: PM Press, 2010), pp. 265-278. See also John F. Bannan and Rosemary S. Bannan, <em>Law, Morality and Vietnam: The Peace Militants and the Courts</em> (Bloomington: Indiana University Press, 1974). For David Mitchell,pp. 23-39 and the Fort Hood Three, pp. 63-86. For an in-depth account of the trial of Captain Howard Levy, see Robert N. Strassfeld, “The Vietnam War on Trial: The Court-Martial of Dr. Howard B. Levy,” <em>Wisconsin Law Review</em> (1994): 829-963. For other instances, including Capt. Dale Noyd, see Alice Lynd, ed., <em>We Won’t Go: Personal Accounts of War Objectors</em> (Boston: Beacon Press, 1968).</p>
+<p><a name="23"></a>[21] See: Ewen MacAskill and Julian Borger, “Iraq war was illegal and breached UN Charter, says Annan,” <em>The Guardian</em>, 16 September 2004.</p>
+<p><a name="24"></a>[22] Michael Mandel, <em>How America Gets Away with Murder: Illegal Wars, Collateral Damage and Crimes Against Humanity</em> (London: Pluto Press, 2004), 5-6. In Mandel’s first chapter, &#8220;Iraq 2003&#8221;, he methodically refutes the claims by the George W. Bush administration in 2002 and 2003 about Iraq and demonstrates that Security Council Resolutions (678, 687, and 1441) did not authorize unilateral American intervention in Iraq in March 2003.</p>
+<p><a name="30"></a>[23] Quoted in Staughton Lynd, “Someday They’ll Have a War and Nobody Will Come,” in Andrej Grubacic, ed. , <em>From Here to There: The Staughton Lynd Reader </em>(Oakland: PM Press, 2010), p. 272.</p>
+<p><a name="25"></a>[24] Read statement online: <a href="http://resisters.ca/wp-content/uploads/2012/09/AI-Rivera-statment.pdf">http://resisters.ca/wp-content/uploads/2012/09/AI-Rivera-statment.pdf</a>. Amnesty International defines a conscientious objector:  “to be any person who, for reasons of conscience or profound conviction, refuses either to perform any form of service in the armed forces or applies for non-combatant status. This can include refusal to participate in a war because one disagrees with its aims or the manner in which it was being waged, even if one does not oppose taking part in all wars.”</p>
+<p><em>Luke Stewart is a Ph.D. Candidate in History at the University of Waterloo. He is a member of the steering committee of Historians Against the War and an active supporter and organizer with the War Resisters Support Campaign in Toronto. He is currently working on an edited collection of statements and testimonials of Iraq war resisters who fled to Canada during the “war on terror” that will hopefully be release in 2013. He was the main organizer of the conference “Looking Back, Moving Forward: War Resisters in North America” in Toronto in September 2011. The report can be read at activehistory.ca here: <a href="http://activehistory.ca/2012/01/war-resisters-conference-report-back-looking-back-moving-forward-war-resisters-in-north-america/">http://activehistory.ca/2012/01/war-resisters-conference-report-back-looking-back-moving-forward-war-resisters-in-north-america/</a></em></p>
+<p><a title="#1" href="#1_edn1">[i]</a> “North Mercy Flight Enters 2<sup>nd</sup> Phase,” <i>Edmonton Bulletin</i>, 17 Mar 1949, p.13.</p>
+<div class="sharedaddy sd-sharing-enabled"><div class="robots-nocontent sd-block sd-social sd-social-official sd-sharing"><div class="sd-content"><ul><li class="share-facebook"><div class="fb-share-button" data-href="http://activehistory.ca/papers/history-papers-12/" data-layout="button_count"></div></li><li class="share-twitter"><a href="https://twitter.com/share" class="twitter-share-button" data-url="http://activehistory.ca/papers/history-papers-12/" data-text="The re-writing of history:  The misuse of the draft “dodger” myth against  Iraq war resisters in Canada " data-via="ActiveHist" >Tweet</a></li><li class="share-email"><a rel="nofollow noopener noreferrer" data-shared="" class="share-email sd-button" href="http://activehistory.ca/papers/history-papers-12/?share=email" target="_blank" title="Click to email this to a friend"><span>Email</span></a></li><li class="share-end"></li></ul></div></div></div>					</div><!-- .entry-content -->
+
+		<footer class="entry-meta">
+					</footer><!-- .entry-meta -->
+
+	</article><!-- #post -->				
+<div id="comments" class="comments-area">
+
+				<div class="zg-wrapper-widget-area">
+			<div id="text-445942440" class="widget widget_text">			<div class="textwidget"><p><a href="http://creativecommons.org/licenses/by-nd/4.0/" rel="license"><img style="border-width: 0;" src="https://i.creativecommons.org/l/by-nd/4.0/80x15.png" alt="Creative Commons Licence" /></a><br />
+This work is licensed under a <a href="http://creativecommons.org/licenses/by-nd/4.0/" rel="license">Creative Commons Attribution-NoDerivatives 4.0 International License</a>. Blog posts published before October  28, 2018 are licensed with a Creative Commons Attribution-NonCommercial-ShareAlike 2.5 Canada License.</p>
+</div>
+		</div>		</div>
+    	
+			<h2 class="comments-title">
+			7 thoughts on &ldquo;<span>The re-writing of history:  The misuse of the draft “dodger” myth against  Iraq war resisters in Canada</span>&rdquo;		</h2>
+
+		<ol class="commentlist">
+				<li class="pingback even thread-even depth-1" id="comment-36233">
+		<p>Pingback: <a href='http://activehistory.ca/2012/10/new-paper-the-re-writing-of-history-the-misuse-of-the-draft-dodger/' rel='external nofollow ugc' class='url'>The re-writing of history: The misuse of the draft “dodger” myth against Iraq war resisters in Canada</a> </p>
+	</li><!-- #comment-## -->
+	<li class="comment odd alt thread-odd thread-alt depth-1" id="li-comment-43966">
+		<article id="comment-43966" class="comment">
+			<header class="comment-meta comment-author vcard">
+				<img alt='' src='http://0.gravatar.com/avatar/ca2988285fbd691b83780f79bafd3924?s=44&#038;d=mm&#038;r=g' srcset='http://0.gravatar.com/avatar/ca2988285fbd691b83780f79bafd3924?s=88&#038;d=mm&#038;r=g 2x' class='avatar avatar-44 photo' height='44' width='44' /><cite><b class="fn"><a href='http://warwalksforhealth.wordpress.com' rel='external nofollow ugc' class='url'>warbirdie</a></b> </cite><a href="http://activehistory.ca/papers/history-papers-12/#comment-43966"><time datetime="2013-04-01T05:04:42-04:00">April 1, 2013 at 5:04 am</time></a>			</header><!-- .comment-meta -->
+
+			
+			<section class="comment-content comment">
+				<p>I am sorry, but your argument that she is some sort of victim is completely without merit. She DID volunteer&#8230; and she DID take the money and then she just didn&#8217;t like the job, so instead of being an adult and sticking it out, she made a run for the border. Not only should she have been deported, she should have been horsewhipped out of the country. </p>
+<p>I don&#8217;t have much respect for draft dodgers, but I do respect that they didn&#8217;t have a choice about going to war. For them, there wasn&#8217;t an option of doing some form of civil service instead. You cannot equate a military deserter with a draftee.</p>
+<p>Mrs. Rivera HAD a choice. She joined the army for financial reasons. I will fully admit that the US military functions in some ways as a second welfare system, but that doesn&#8217;t change the simple fact that she made the choice to join up. You can call it buyers remorse, but it doesn&#8217;T make her  a victim. </p>
+<p>Had Mrs. Rivera been a responsible  adult, she would have served out her contract and left the military. I know plenty of former US soldiers who did just that- many of whom didn&#8217;t support the war. Why is she special? Why does she deserve special treatment? Desertion is against american law. You don&#8217;t have agree with it, but it isn&#8217;t as if Mrs. Rivera had no idea that if she deserted and was caught there would be consequences. She DESERVES a dishonourable discharge. </p>
+<p>Why do you believe she shouldn&#8217;t be held accountable for her actions? Because it was war? One cannot even use the argument here that she joined before there was a war, and then a war she didn&#8217;t agree with started and so she left. When she joined, the war had been going on for five years.</p>
+<p>If you don&#8217;t want to be a soldier, don&#8217;t put on the uniform. If you take the &#8216;King&#8217;s Shilling&#8217; then suck it up.</p>
+<p>To be perfectly honest, I think that calling her a conscientious objector insults every person who suffered under that label in history.</p>
+							</section><!-- .comment-content -->
+
+			<div class="reply">
+							</div><!-- .reply -->
+		</article><!-- #comment-## -->
+	</li><!-- #comment-## -->
+	<li class="comment even thread-even depth-1" id="li-comment-44043">
+		<article id="comment-44043" class="comment">
+			<header class="comment-meta comment-author vcard">
+				<img alt='' src='http://1.gravatar.com/avatar/4faae231f06b4fb0c7173a1daaddbfe7?s=44&#038;d=mm&#038;r=g' srcset='http://1.gravatar.com/avatar/4faae231f06b4fb0c7173a1daaddbfe7?s=88&#038;d=mm&#038;r=g 2x' class='avatar avatar-44 photo' height='44' width='44' /><cite><b class="fn">David Fox</b> </cite><a href="http://activehistory.ca/papers/history-papers-12/#comment-44043"><time datetime="2013-04-29T17:52:55-04:00">April 29, 2013 at 5:52 pm</time></a>			</header><!-- .comment-meta -->
+
+			
+			<section class="comment-content comment">
+				<p>Hey warbirdie, your argument is wrong and it is pathetic.</p>
+<p>You never faced her choices, and you never served in Iraq like her.</p>
+<p>You should read some international law as well. Iraq War is and was illegal. Get a clue.</p>
+<p>&#8211; David</p>
+							</section><!-- .comment-content -->
+
+			<div class="reply">
+							</div><!-- .reply -->
+		</article><!-- #comment-## -->
+	</li><!-- #comment-## -->
+	<li class="comment odd alt thread-odd thread-alt depth-1" id="li-comment-44176">
+		<article id="comment-44176" class="comment">
+			<header class="comment-meta comment-author vcard">
+				<img alt='' src='http://0.gravatar.com/avatar/f4009a745b0e9ad0770b9bc6c9741005?s=44&#038;d=mm&#038;r=g' srcset='http://0.gravatar.com/avatar/f4009a745b0e9ad0770b9bc6c9741005?s=88&#038;d=mm&#038;r=g 2x' class='avatar avatar-44 photo' height='44' width='44' /><cite><b class="fn">Name Here</b> </cite><a href="http://activehistory.ca/papers/history-papers-12/#comment-44176"><time datetime="2013-05-25T03:45:35-04:00">May 25, 2013 at 3:45 am</time></a>			</header><!-- .comment-meta -->
+
+			
+			<section class="comment-content comment">
+				<p>I suppose Iraqi civilians should also &#8220;suck it up&#8221;, after all there is a &#8220;job&#8221; to do.  Without those standing up for personal convictions, this world stands to repeat past mistakes in the following of a naturally fallibly human chain of command.  To argue that one has made a legal commitment (or worse a financial commitment by taking the &#8220;king&#8217;s shilling&#8221;) to a government which outweighs all conceivable scenarios, attempts to simplify the problem by separating humanity from the equation.  A great many progressions in the human race have been in the attempt to keep a complex problem &#8220;simple&#8221; with constructs later determined to be incomplete.</p>
+<p>Regardless of the apparent obligation, do you really want soldiers who aren&#8217;t fully committed to their task for one reason or another?  Whether this thinking comes before, or during an enlistment, the risks are the same in a combat role.  Let us at least ensure soldiers are fully committed and willing.</p>
+<p>Anyway, the whole argument from warbirdie again overlooks (simplifies) the (obvious) point, that there is apparently an effort to shift the outward facing values of the country, arguably without the support of the majority of people in the country itself.  But I suppose with a shut up and don&#8217;t ask questions mentality that might be ok, for some.</p>
+<p>This article deserves more comments.</p>
+							</section><!-- .comment-content -->
+
+			<div class="reply">
+							</div><!-- .reply -->
+		</article><!-- #comment-## -->
+	</li><!-- #comment-## -->
+	<li class="pingback even thread-even depth-1" id="comment-52520">
+		<p>Pingback: <a href='http://pamelamariestewart.com/2014/11/26/dear-enemies-happy-thanksgiving/' rel='external nofollow ugc' class='url'>Dear Enemies: Happy Thanksgiving! | Pamela Stewart &#8211; Freelance Writer</a> </p>
+	</li><!-- #comment-## -->
+	<li class="comment odd alt thread-odd thread-alt depth-1" id="li-comment-56573">
+		<article id="comment-56573" class="comment">
+			<header class="comment-meta comment-author vcard">
+				<img alt='' src='http://1.gravatar.com/avatar/a2435eeb914a3f1fef365ec2cc9d6bbf?s=44&#038;d=mm&#038;r=g' srcset='http://1.gravatar.com/avatar/a2435eeb914a3f1fef365ec2cc9d6bbf?s=88&#038;d=mm&#038;r=g 2x' class='avatar avatar-44 photo' height='44' width='44' /><cite><b class="fn">W.A. Cook</b> </cite><a href="http://activehistory.ca/papers/history-papers-12/#comment-56573"><time datetime="2015-01-11T11:29:43-05:00">January 11, 2015 at 11:29 am</time></a>			</header><!-- .comment-meta -->
+
+			
+			<section class="comment-content comment">
+				<p>Washington State U.S.A.<br />
+August 9, 2010</p>
+<p>The Right Honorable Stephen Harper,<br />
+Prime Minister of Canada<br />
+24 Sussex Drive at Rideau Gate<br />
+Ottawa, Ontario K1A 0A3<br />
+Canada </p>
+<p>Subject: Recognition of American Vietnam War era draftees</p>
+<p>Prime Minister Harper:</p>
+<p>As Prime Minster, you must understand the inherent obligations citizens have to their country. During the United States involvement in the Vietnam War, Canada offered  sanctuary to nearly 50,000 United States men, of military draft age, who refused to honor their moral and legal obligation to their country. Our President, Jimmy Carter, pardoned those men on January 21, 1977 for “…violations of the Military Selective Service Act…” if their actions did not “… involve force or violence”. Many returned to their former country after the pardon.  </p>
+<p>In my opinion, the American men who fled to your country, to avoid the Vietnam War era draft, should have applied for conscientious objector status.  However I suspect that few would have qualified. We draftees did what our country expected and needed during a time of war but we have not received any recognition for that service to America. However draft dodgers continue to make the news: It was reported that Castlegar, B.C, in July of 2006, hosted a “Vietnam War Draft-Dodgers Reunion”.  Also at least one United States veteran’s group view Vietnam War draft dodgers as anti-war heroes so draftees have been forgotten. </p>
+<p>Vietnam War draftees, which include men who filled draft dodgers slots, had the moral courage, not shown by the draft dodgers, to serve their country. So I ask you to help in getting some type of formal recognition for the American men who did no need to be pardoned nor did they expect Canada to protect them from their government. </p>
+<p>Your laws made it possible for young American men to avoid their moral and legal obligations to their country.  So it is seems reasonable to ask you for help in honoring the American men who did not use the Canadian government as an aide. My recommendation for an American Conscription Ribbon is enclosed.  </p>
+<p>Sincerely,</p>
+<p>William Anthony Cook, American Vietnam War Draftee 1965 – Vietnam 1966/67</p>
+							</section><!-- .comment-content -->
+
+			<div class="reply">
+							</div><!-- .reply -->
+		</article><!-- #comment-## -->
+	</li><!-- #comment-## -->
+	<li class="pingback even thread-even depth-1" id="comment-82530">
+		<p>Pingback: <a href='https://prisonwarresisters.wordpress.com/2018/05/10/iraq-afghanistan-future-wars-a-selected-bibliography/' rel='external nofollow ugc' class='url'>Iraq, Afghanistan &amp; Future Wars: A selected bibliography. | prisonwarresisters</a> </p>
+	</li><!-- #comment-## -->
+		</ol><!-- .commentlist -->
+
+		
+		
+		
+		
+	<div class="wrapper-form-comments">
+	
+		<div id="respond" class="comment-respond">
+							<h3 id="reply-title" class="comment-reply-title">Please note: ActiveHistory.ca encourages comment and constructive discussion of our articles. We reserve the right to delete comments submitted under aliases, or that contain spam, harassment, or attacks on an individual.					<small><a rel="nofollow" id="cancel-comment-reply-link" href="/papers/history-papers-12/?shared=email&amp;msg=fail#respond" style="display:none;">Cancel reply</a></small>
+				</h3>
+						<form id="commentform" class="comment-form">
+				<iframe title="Comment Form" src="https://jetpack.wordpress.com/jetpack-comment/?blogid=42146343&#038;postid=9458&#038;comment_registration=0&#038;require_name_email=1&#038;stc_enabled=1&#038;stb_enabled=1&#038;show_avatars=1&#038;avatar_default=mystery&#038;greeting=Please+note%3A+ActiveHistory.ca+encourages+comment+and+constructive+discussion+of+our+articles.+We+reserve+the+right+to+delete+comments+submitted+under+aliases%2C+or+that+contain+spam%2C+harassment%2C+or+attacks+on+an+individual.&#038;greeting_reply=Leave+a+Reply+to+%25s&#038;color_scheme=light&#038;lang=en_CA&#038;jetpack_version=8.6.1&#038;show_cookie_consent=10&#038;has_cookie_consent=0&#038;token_key=%3Bnormal%3B&#038;sig=ed4f34f22b3a69d2bcb4c4f5d2e6a7aa8e587774#parent=http%3A%2F%2Factivehistory.ca%2Fpapers%2Fhistory-papers-12%2F%3Fshared%3Demail%26msg%3Dfail" style="width:100%; height: 430px; border:0;" name="jetpack_remote_comment" class="jetpack_remote_comment" id="jetpack_remote_comment" sandbox="allow-same-origin allow-top-navigation allow-scripts allow-forms allow-popups"></iframe>
+									<!--[if !IE]><!-->
+					<script>
+						document.addEventListener('DOMContentLoaded', function () {
+							var commentForms = document.getElementsByClassName('jetpack_remote_comment');
+							for (var i = 0; i < commentForms.length; i++) {
+								commentForms[i].allowTransparency = false;
+								commentForms[i].scrolling = 'no';
+							}
+						});
+					</script>
+					<!--<![endif]-->
+							</form>
+		</div>
+
+		
+		<input type="hidden" name="comment_parent" id="comment_parent" value="" />
+
+			</div>
+
+</div><!-- #comments .comments-area -->			
+		</div><!-- #content -->
+	</div><!-- #primary -->
+
+
+			<div id="secondary" class="widget-area" role="complementary">
+			<aside id="search-2" class="widget widget_search">	<div class="wrapper-search-form">
+		<form method="get" id="searchform" action="http://activehistory.ca/">
+			<label for="s" class="assistive-text">Search</label>
+			<input type="search" class="txt-search" placeholder="Search..." name="s" id="s" />
+			<input type="submit" name="submit" id="btn-search-n" value="Search" />
+		</form>
+    </div></aside><aside id="text-445942422" class="widget widget_text"><h3 class="widget-title"><span class="prefix-widget-title"><i class="fa fa-th-large"></i></span> What is Active History?</h3>			<div class="textwidget"><p>ActiveHistory.ca is a website that connects the work of historians with the wider public and the importance of the past to current events.</p>
+<p>Please direct queries to Daniel Ross, Public Outreach Coordinator, via <a href="info@activehistory.ca">info@activehistory.ca</a>.</p>
+<p>For author guidelines, <a href="https://wp.me/P2QQbJ-32">click here</a>.</p>
+<p>Visitez notre partenaire francophone, <a href="http://histoireengagee.ca/"> HistoireEngagée.ca</a></p>
+</div>
+		</aside><aside id="text-445942433" class="widget widget_text"><h3 class="widget-title"><span class="prefix-widget-title"><i class="fa fa-th-large"></i></span> Ongoing Projects</h3>			<div class="textwidget"><ul>
+<li><b><a href="http://activehistory.ca/papers/beyond-the-lecture-series-list/">Beyond the Lecture</a></b></li>
+<li><b><a href="http://activehistory.ca/papers/canadas-first-world-war-a-centennial-series-on-activehistory-ca/">Canada's First World War</a></b></li>
+<li><b><a href="http://activehistory.ca/papers/from-juno-to-victory/">From Juno to Victory</a></b></li>
+<li><b><a href="http://activehistory.ca/podcasts/">History Slam Podcast</a></b></li>
+<li><b><a href="http://activehistory.ca/publications/">Open-Access Ebooks</a></b></li>
+<li><b><a href="http://activehistory.ca/remember-i-resist-i-redraw/">Remember/Resist/Redraw</a></b></li>
+</ul>
+
+</div>
+		</aside><aside id="twitter_timeline-3" class="widget widget_twitter_timeline"><h3 class="widget-title"><span class="prefix-widget-title"><i class="fa fa-th-large"></i></span> Twitter</h3><a class="twitter-timeline" data-theme="light" data-border-color="#e8e8e8" data-tweet-limit="3" data-lang="EN" data-partner="jetpack" data-chrome="noheader" href="https://twitter.com/ActiveHist" href="https://twitter.com/ActiveHist">My Tweets</a></aside><aside id="blog_subscription-3" class="widget widget_blog_subscription jetpack_subscription_widget"><h3 class="widget-title"><span class="prefix-widget-title"><i class="fa fa-th-large"></i></span> Subscribe via email</h3>
+            <form action="#" method="post" accept-charset="utf-8" id="subscribe-blog-blog_subscription-3">
+				                    <p id="subscribe-email">
+                        <label id="jetpack-subscribe-label"
+                               class="screen-reader-text"
+                               for="subscribe-field-blog_subscription-3">
+							Email Address                        </label>
+                        <input type="email" name="email" required="required"
+                        			                                                value=""
+                            id="subscribe-field-blog_subscription-3"
+                            placeholder="Email Address"
+                        />
+                    </p>
+
+                    <p id="subscribe-submit">
+                        <input type="hidden" name="action" value="subscribe"/>
+                        <input type="hidden" name="source" value="http://activehistory.ca/papers/history-papers-12/?shared=email&#038;msg=fail"/>
+                        <input type="hidden" name="sub-type" value="widget"/>
+                        <input type="hidden" name="redirect_fragment" value="blog_subscription-3"/>
+						                        <button type="submit"
+	                        		                    	                        name="jetpack_subscriptions_widget"
+	                    >
+	                        Subscribe                        </button>
+                    </p>
+				            </form>
+		
+</aside>		</div><!-- #secondary -->
+		</div><!-- #main .wrapper -->
+	</div><!-- #page -->
+		<footer>
+	<div style="background-color:#444444;">
+		<div class="wrapper-widget-area-footer">
+			<div class="widget-area-footer">
+				<div id="text-445942435" class="widget widget_text">			<div class="textwidget">ActiveHistory.ca is supported financially and administratively by the <a href="http://artsandscience.usask.ca/history/">History Department at the University of Saskatchewan</a> and <a href="http://www.huronuc.on.ca/Home">Huron University College</a>. <a href="https://calicologic.com/">Calico Logic</a> provides technical support.</div>
+		</div>			</div>
+			
+			<div class="widget-area-footer">
+				<div id="text-445942437" class="widget widget_text">			<div class="textwidget"><img src="http://activehistory.ca/wp-content/uploads/2017/02/usask_ArtsScience_History_black_reverse.png"/></div>
+		</div>			</div>
+			
+			<div class="widget-area-footer">
+				<div id="text-445942439" class="widget widget_text">			<div class="textwidget"><img src="http://activehistory.ca/wp-content/uploads/2017/02/huronuc_horiz_rgb_black_reverse_720.png"/></div>
+		</div>			</div>
+		</div>
+	</div>
+	</footer>
+		<hr class="hr-oscura" />
+	<footer id="colophon" role="contentinfo">
+	<div class="social-icon-wrapper">
+							<a href="https://twitter.com/activehist" title="Twitter" target="_blank"><i class="fa fa-twitter"></i></a> 
+						
+							<a href="https://www.facebook.com/ActiveHist/" title="Facebook" target="_blank"><i class="fa fa-facebook"></i></a>
+						
+						
+						
+					 		<a href="https://www.youtube.com/user/activehistoryca" title="YouTube" target="_blank"><i class="fa fa-youtube"></i></a>
+						
+						
+						
+							<a class="rss" href="http://feeds.feedburner.com/activehistoryca" title="Feed RSS" target="_blank"><i class="fa fa-rss"></i></a>			
+					</div><!-- .social-icon-wrapper -->
+		<hr class="hr-oscura" />
+		<div class="site-info">
+			<div class="credits-left"></div>
+			<div class="credits-center"><a rel="license" href="http://creativecommons.org/licenses/by-nd/4.0/"><img alt="Creative Commons Licence" style="border-width:0" src="https://i.creativecommons.org/l/by-nd/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nd/4.0/">Creative Commons Attribution-NoDerivatives 4.0 International License</a>.
+Blog posts published before October 28, 2018 are licensed with a Creative Commons Attribution-NonCommercial-ShareAlike 2.5 Canada License.</div>
+			<div class="credits-right"></div>
+		</div><!-- .site-info -->
+		
+			</footer><!-- #colophon -->
+
+			<div class="ir-arriba"><i class="fa fa-chevron-up"></i></div>
+		<div style="display:none">
+	<div class="grofile-hash-map-ca2988285fbd691b83780f79bafd3924">
+	</div>
+	<div class="grofile-hash-map-4faae231f06b4fb0c7173a1daaddbfe7">
+	</div>
+	<div class="grofile-hash-map-f4009a745b0e9ad0770b9bc6c9741005">
+	</div>
+	<div class="grofile-hash-map-a2435eeb914a3f1fef365ec2cc9d6bbf">
+	</div>
+	</div>
+<script>
+    jQuery(document).ready(function () {
+		jQuery.post('http://activehistory.ca?ga_action=googleanalytics_get_script', {action: 'googleanalytics_get_script'}, function(response) {
+			var s = document.createElement("script");
+			s.type = "text/javascript";
+			s.innerHTML = response;
+			jQuery("head").append(s);
+		});
+    });
+</script><div id="fb-root"></div>
+			<script>(function(d, s, id) { var js, fjs = d.getElementsByTagName(s)[0]; if (d.getElementById(id)) return; js = d.createElement(s); js.id = id; js.src = 'https://connect.facebook.net/en_CA/sdk.js#xfbml=1&appId=249643311490&version=v2.3'; fjs.parentNode.insertBefore(js, fjs); }(document, 'script', 'facebook-jssdk'));</script>
+			<script>
+			jQuery( document.body ).on( 'post-load', function() {
+				if ( 'undefined' !== typeof FB ) {
+					FB.XFBML.parse();
+				}
+			} );
+			</script>
+						<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+'://platform.twitter.com/widgets.js';fjs.parentNode.insertBefore(js,fjs);}}(document, 'script', 'twitter-wjs');</script>
+				<div id="sharing_email" style="display: none;">
+		<form action="/papers/history-papers-12/?shared=email&#038;msg=fail" method="post">
+			<label for="target_email">Send to Email Address</label>
+			<input type="email" name="target_email" id="target_email" value="" />
+
+			
+				<label for="source_name">Your Name</label>
+				<input type="text" name="source_name" id="source_name" value="" />
+
+				<label for="source_email">Your Email Address</label>
+				<input type="email" name="source_email" id="source_email" value="" />
+
+						<input type="text" id="jetpack-source_f_name" name="source_f_name" class="input" value="" size="25" autocomplete="off" title="This field is for validation and should not be changed" />
+			
+			<img style="float: right; display: none" class="loading" src="http://activehistory.ca/wp-content/plugins/jetpack/modules/sharedaddy/images/loading.gif" alt="loading" width="16" height="16" />
+			<input type="submit" value="Send Email" class="sharing_send" />
+			<a rel="nofollow" href="#cancel" class="sharing_cancel" role="button">Cancel</a>
+
+			<div class="errors errors-1" style="display: none;">
+				Post was not sent - check your email addresses!			</div>
+
+			<div class="errors errors-2" style="display: none;">
+				Email check failed, please try again			</div>
+
+			<div class="errors errors-3" style="display: none;">
+				Sorry, your blog cannot share posts by email.			</div>
+		</form>
+	</div>
+<script type='text/javascript' src='https://secure.gravatar.com/js/gprofiles.js?ver=202025'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var WPGroHo = {"my_hash":""};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://activehistory.ca/wp-content/plugins/jetpack/modules/wpgroho.js?ver=5.4.2'></script>
+<script type='text/javascript' src='http://activehistory.ca/wp-content/themes/rubbersoul-pro/js/navigation.js?ver=20140711'></script>
+<script type='text/javascript' src='http://activehistory.ca/wp-content/themes/rubbersoul-pro/js/slider-recent-posts-fp.js?ver=2.6.4'></script>
+<script type='text/javascript' src='http://activehistory.ca/wp-content/themes/rubbersoul-pro/js/rsoul-pro-toggle-search.js?ver=2.6.4'></script>
+<script type='text/javascript' src='http://activehistory.ca/wp-content/plugins/jetpack/_inc/build/twitter-timeline.min.js?ver=4.0.0'></script>
+<script type='text/javascript' src='http://activehistory.ca/wp-includes/js/wp-embed.min.js?ver=5.4.2'></script>
+<script type='text/javascript' src='http://activehistory.ca/wp-content/plugins/jetpack/_inc/build/spin.min.js?ver=1.3'></script>
+<script type='text/javascript' src='http://activehistory.ca/wp-content/plugins/jetpack/_inc/build/jquery.spin.min.js?ver=1.3'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var jetpackCarouselStrings = {"widths":[370,700,1000,1200,1400,2000],"is_logged_in":"","lang":"en","ajaxurl":"http:\/\/activehistory.ca\/wp-admin\/admin-ajax.php","nonce":"5e88d0d860","display_exif":"1","display_comments":"1","display_geo":"1","single_image_gallery":"1","single_image_gallery_media_file":"","background_color":"black","comment":"Comment","post_comment":"Post Comment","write_comment":"Write a Comment...","loading_comments":"Loading Comments...","download_original":"View full size <span class=\"photo-size\">{0}<span class=\"photo-size-times\">\u00d7<\/span>{1}<\/span>","no_comment_text":"Please be sure to submit some text with your comment.","no_comment_email":"Please provide an email address to comment.","no_comment_author":"Please provide your name to comment.","comment_post_error":"Sorry, but there was an error posting your comment. Please try again later.","comment_approved":"Your comment was approved.","comment_unapproved":"Your comment is in moderation.","camera":"Camera","aperture":"Aperture","shutter_speed":"Shutter Speed","focal_length":"Focal Length","copyright":"Copyright","comment_registration":"0","require_name_email":"1","login_url":"http:\/\/activehistory.ca\/wp-login.php?redirect_to=http%3A%2F%2Factivehistory.ca%2Fpapers%2Fhistory-papers-12%2F","blog_id":"1","meta_data":["camera","aperture","shutter_speed","focal_length","copyright"],"local_comments_commenting_as":"<fieldset><label for=\"email\">Email (Required)<\/label> <input type=\"text\" name=\"email\" class=\"jp-carousel-comment-form-field jp-carousel-comment-form-text-field\" id=\"jp-carousel-comment-form-email-field\" \/><\/fieldset><fieldset><label for=\"author\">Name (Required)<\/label> <input type=\"text\" name=\"author\" class=\"jp-carousel-comment-form-field jp-carousel-comment-form-text-field\" id=\"jp-carousel-comment-form-author-field\" \/><\/fieldset><fieldset><label for=\"url\">Website<\/label> <input type=\"text\" name=\"url\" class=\"jp-carousel-comment-form-field jp-carousel-comment-form-text-field\" id=\"jp-carousel-comment-form-url-field\" \/><\/fieldset>"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://activehistory.ca/wp-content/plugins/jetpack/_inc/build/carousel/jetpack-carousel.min.js?ver=20190102'></script>
+<script async="async" type='text/javascript' src='http://activehistory.ca/wp-content/plugins/akismet/_inc/form.js?ver=4.1.6'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var sharing_js_options = {"lang":"en","counts":"1","is_stats_active":"1"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://activehistory.ca/wp-content/plugins/jetpack/_inc/build/sharedaddy/sharing.min.js?ver=8.6.1'></script>
+<script type='text/javascript'>
+var windowOpen;
+			jQuery( document.body ).on( 'click', 'a.share-facebook', function() {
+				// If there's another sharing window open, close it.
+				if ( 'undefined' !== typeof windowOpen ) {
+					windowOpen.close();
+				}
+				windowOpen = window.open( jQuery( this ).attr( 'href' ), 'wpcomfacebook', 'menubar=1,resizable=1,width=600,height=400' );
+				return false;
+			});
+</script>
+
+		<!--[if IE]>
+		<script type="text/javascript">
+			if ( 0 === window.location.hash.indexOf( '#comment-' ) ) {
+				// window.location.reload() doesn't respect the Hash in IE
+				window.location.hash = window.location.hash;
+			}
+		</script>
+		<![endif]-->
+		<script type="text/javascript">
+			(function () {
+				var comm_par_el = document.getElementById( 'comment_parent' ),
+					comm_par = ( comm_par_el && comm_par_el.value ) ? comm_par_el.value : '',
+					frame = document.getElementById( 'jetpack_remote_comment' ),
+					tellFrameNewParent;
+
+				tellFrameNewParent = function () {
+					if ( comm_par ) {
+						frame.src = "https://jetpack.wordpress.com/jetpack-comment/?blogid=42146343&postid=9458&comment_registration=0&require_name_email=1&stc_enabled=1&stb_enabled=1&show_avatars=1&avatar_default=mystery&greeting=Please+note%3A+ActiveHistory.ca+encourages+comment+and+constructive+discussion+of+our+articles.+We+reserve+the+right+to+delete+comments+submitted+under+aliases%2C+or+that+contain+spam%2C+harassment%2C+or+attacks+on+an+individual.&greeting_reply=Leave+a+Reply+to+%25s&color_scheme=light&lang=en_CA&jetpack_version=8.6.1&show_cookie_consent=10&has_cookie_consent=0&token_key=%3Bnormal%3B&sig=ed4f34f22b3a69d2bcb4c4f5d2e6a7aa8e587774#parent=http%3A%2F%2Factivehistory.ca%2Fpapers%2Fhistory-papers-12%2F%3Fshared%3Demail%26msg%3Dfail" + '&replytocom=' + parseInt( comm_par, 10 ).toString();
+					} else {
+						frame.src = "https://jetpack.wordpress.com/jetpack-comment/?blogid=42146343&postid=9458&comment_registration=0&require_name_email=1&stc_enabled=1&stb_enabled=1&show_avatars=1&avatar_default=mystery&greeting=Please+note%3A+ActiveHistory.ca+encourages+comment+and+constructive+discussion+of+our+articles.+We+reserve+the+right+to+delete+comments+submitted+under+aliases%2C+or+that+contain+spam%2C+harassment%2C+or+attacks+on+an+individual.&greeting_reply=Leave+a+Reply+to+%25s&color_scheme=light&lang=en_CA&jetpack_version=8.6.1&show_cookie_consent=10&has_cookie_consent=0&token_key=%3Bnormal%3B&sig=ed4f34f22b3a69d2bcb4c4f5d2e6a7aa8e587774#parent=http%3A%2F%2Factivehistory.ca%2Fpapers%2Fhistory-papers-12%2F%3Fshared%3Demail%26msg%3Dfail";
+					}
+				};
+
+				
+				// Do the post message bit after the dom has loaded.
+				document.addEventListener( 'DOMContentLoaded', function () {
+					var iframe_url = "https:\/\/jetpack.wordpress.com";
+					if ( window.postMessage ) {
+						if ( document.addEventListener ) {
+							window.addEventListener( 'message', function ( event ) {
+								var origin = event.origin.replace( /^http:\/\//i, 'https://' );
+								if ( iframe_url.replace( /^http:\/\//i, 'https://' ) !== origin ) {
+									return;
+								}
+								jQuery( frame ).height( event.data );
+							});
+						} else if ( document.attachEvent ) {
+							window.attachEvent( 'message', function ( event ) {
+								var origin = event.origin.replace( /^http:\/\//i, 'https://' );
+								if ( iframe_url.replace( /^http:\/\//i, 'https://' ) !== origin ) {
+									return;
+								}
+								jQuery( frame ).height( event.data );
+							});
+						}
+					}
+				})
+
+			})();
+		</script>
+
+		<script type='text/javascript' src='https://stats.wp.com/e-202025.js' async='async' defer='defer'></script>
+<script type='text/javascript'>
+	_stq = window._stq || [];
+	_stq.push([ 'view', {v:'ext',j:'1:8.6.1',blog:'42146343',post:'9458',tz:'-4',srv:'activehistory.ca'} ]);
+	_stq.push([ 'clickTrackerInit', '42146343', '9458' ]);
+</script>
+			
+</body>
+</html>
