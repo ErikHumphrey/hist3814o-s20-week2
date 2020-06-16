@@ -104,7 +104,6 @@ the script it seems there was already that new line at the end of the file that 
 ![Guya.moe's Cubari text search](https://i.imgur.com/HGgryUy.jpg "Guya.moe's Cubari text search")  
 *Guya.moe's Cubari text search*
 
-
 ## Bonus
 
 * I use `youtube-dl` all the time. Haven't used Google Cloud Platform much.
