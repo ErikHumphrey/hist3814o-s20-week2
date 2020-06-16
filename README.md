@@ -15,7 +15,7 @@ Each week of the course has its own repository dedicated to it, though they all 
 
 * [Week 1](https://github.com/ErikHumphrey/hist3814o-s20-week1)
 
-#### Future weeks
+### Future weeks
 
 * [Week 3](https://github.com/ErikHumphrey/hist3814o-s20-week3)
 * [Week 4](https://github.com/ErikHumphrey/hist3814o-s20-week4)
