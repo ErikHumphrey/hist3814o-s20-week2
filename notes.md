@@ -98,4 +98,17 @@ the script it seems there was already that new line at the end of the file that 
 
 ### Handwriting
 
-* I don't know what OCR library ShareX uses, but it indeed tends to have trouble with English and Japanese handwriting. Good but possibly expensive idea to use Microsoft Azure technologies to do it. I believe an application of this was in the Cubari manga reader created by the creators of "Guya.moe", a fan site for a romantic comedy manga series.
+* I don't know what OCR library ShareX uses, but it indeed tends to have trouble with English and Japanese handwriting. Good but possibly expensive idea to use Microsoft Azure technologies to do it. I believe an application of this was in the Cubari manga reader created by the creators of "Guya.moe", a fan site for a romantic comedy manga series. They regularly use Microsoft Azure's Computer Vision technology to OCR both scanned and digital pages of the English-translated manga so that the entire text of the manga, which spans over a dozen volumes, is indexed and searchable. It even picks up more handwritten-looking fonts and text that's not in the speech bubbles. It makes it quite easy to find callbacks and foreshadowing, which there are a lot of in the series.
+  * A screenshot of a search for "love" in the tool is shown below. You can try it out yourself by going [here](https://guya.moe/read/manga/Kaguya-Wants-To-Be-Confessed-To/122/1/) and clicking the search icon (magnifying glass) then clicking "Text search", but beware of spoilers!
+
+![](https://i.imgur.com/HGgryUy.jpg)
+
+## Bonus
+
+* I use `youtube-dl` all the time. Haven't used Google Cloud Platform much.
+* Luckily, I already had `ffmpeg` installed, so that saved some time. I might have installed for use with ShareX or `youtube-dl`.
+* This is a unique use for `ffmpeg` and `youtube-dl` I've never used before, but it seems really useful. I'm definitely going to save these instructions.
+* I had to create a "parts" directory for the commands to work.
+* I deleted the first three parts since they didn't have intelligible speech.
+* I had to enable the Cloud Speech-to-Text API for the final command to work.
+* It worked!

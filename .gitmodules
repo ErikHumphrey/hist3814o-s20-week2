@@ -1,0 +1,3 @@
+[submodule "speech-to-text"]
+	path = speech-to-text
+	url = https://github.com/akras14/speech-to-text.git
