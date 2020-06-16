@@ -112,3 +112,7 @@ the script it seems there was already that new line at the end of the file that 
 * I deleted the first three parts since they didn't have intelligible speech.
 * I had to enable the Cloud Speech-to-Text API for the final command to work.
 * It worked!
+
+***** 
+
+*(Note: Normally, I would use [Git Large File Storage](https://git-lfs.github.com/) to store mlk.wav in the Git repository, since it exceeds GitHub's file size limit of 100.00 MB. Though it's pretty fast to do this, in the interest of expediency, I didn't. Instead, the full mlk.wav was removed from the repository.)*
