@@ -1,7 +1,5 @@
 # Journal — Week 2
 
-This week, I'm going to answer the
-
 > Who pays for work to end up online? Who does the work?
 
 I think dedicated historians and governments pay for work to end up online. Hopefully, programmers and computers in "the Cloud" do most of the work!
